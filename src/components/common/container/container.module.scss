@@ -1,0 +1,13 @@
+@use "../../../sass/mixins" as *;
+
+.container {
+  margin: 0 auto;
+  max-width: rem-convert(1200px);
+  padding: 0 rem-convert(24px);
+  position: relative;
+  width: 100%;
+
+  @include breakpoint("desktop") {
+    padding: 0 rem-convert(32px);
+  }
+}

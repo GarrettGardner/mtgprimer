@@ -1,0 +1,68 @@
+@use "../../../sass/mixins" as *;
+
+.guideGroup {
+  h3 {
+    align-items: center;
+    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center center;
+    display: flex;
+    font-family: var(--font-header);
+    font-size: rem-convert(20px);
+    font-weight: 700;
+    margin: 0;
+    padding: rem-convert(8px) rem-convert(16px) rem-convert(8px) 0;
+    //position: sticky;
+    //top: 240px;
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(28px);
+      padding: rem-convert(16px) rem-convert(24px) rem-convert(16px) 0;
+    }
+
+    > div {
+      flex: 0 0 auto;
+    }
+
+    :global(.icon) {
+      display: block;
+      font-size: rem-convert(24px);
+      text-align: center;
+      width: rem-convert(24px);
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(36px);
+        width: rem-convert(80px);
+      }
+    }
+
+    :global(.text) {
+      display: block;
+      padding-left: rem-convert(12px);
+
+      @include breakpoint("desktop") {
+        padding-left: rem-convert(16px);
+      }
+
+      :global(.name) {
+        display: block;
+        font-family: var(--font-header);
+        font-size: rem-convert(20px);
+        font-weight: 700;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(28px);
+        }
+      }
+
+      :global(.description) {
+        display: block;
+        font-family: var(--font-body);
+        font-size: rem-convert(14px);
+        font-weight: 300;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(16px);
+        }
+      }
+    }
+  }
+}
