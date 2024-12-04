@@ -1,0 +1,190 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Absorb": {
+      "categories": ["counterspell"]
+    },
+    "Angel of Grace": {
+      "categories": ["board"]
+    },
+    "Applied Biomancy": {
+      "categories": ["board"]
+    },
+    "Arrester's Admonition": {
+      "categories": ["board"]
+    },
+    "Arrester's Zeal": {
+      "categories": ["board"]
+    },
+    "Bedazzle": {
+      "categories": ["other"]
+    },
+    "Bedeck": {
+      "categories": ["board"]
+    },
+    "Bedevil": {
+      "categories": ["board"]
+    },
+    "Bladebrand": {
+      "categories": ["board"]
+    },
+    "Burn Bright": {
+      "categories": ["board"]
+    },
+    "Carnival": {
+      "categories": ["board"]
+    },
+    "Clear the Stage": {
+      "categories": ["board"]
+    },
+    "Code of Constraint": {
+      "categories": ["board"]
+    },
+    "Collision": {
+      "categories": ["board"]
+    },
+    "Colossus": {
+      "categories": ["board"]
+    },
+    "Consecrate": {
+      "categories": ["other"]
+    },
+    "Deploy": {
+      "categories": ["board"]
+    },
+    "Depose": {
+      "categories": ["board"]
+    },
+    "Electrodominance": {
+      "categories": ["board"]
+    },
+    "Emergency Powers": {
+      "categories": ["other"]
+    },
+    "Essence Capture": {
+      "categories": ["board", "counterspell"]
+    },
+    "Expose to Daylight": {
+      "categories": ["board"]
+    },
+    "Faerie Duelist": {
+      "categories": ["board"]
+    },
+    "Final Payment": {
+      "categories": ["board"]
+    },
+    "Flames of the Raze-Boar": {
+      "categories": ["board"]
+    },
+    "Frilled Mystic": {
+      "categories": ["board", "counterspell"]
+    },
+    "Get the Point": {
+      "categories": ["board"]
+    },
+    "Gift of Strength": {
+      "categories": ["board"]
+    },
+    "Grotesque Demise": {
+      "categories": ["board"]
+    },
+    "Growth Spiral": {
+      "categories": ["other"]
+    },
+    "Incongruity": {
+      "categories": ["board"]
+    },
+    "Justiciar's Portal": {
+      "categories": ["board"]
+    },
+    "Lawmage's Binding": {
+      "categories": ["board"]
+    },
+    "Macabre Mockery": {
+      "categories": ["board"]
+    },
+    "Mortify": {
+      "categories": ["board"]
+    },
+    "Precognitive Perception": {
+      "categories": ["other"]
+    },
+    "Prying Eyes": {
+      "categories": ["other"]
+    },
+    "Quench": {
+      "categories": ["counterspell"]
+    },
+    "Rally to Battle": {
+      "categories": ["board"]
+    },
+    "Rampage of the Clans": {
+      "categories": ["board"]
+    },
+    "Regenesis": {
+      "categories": ["other"]
+    },
+    "Repudiate": {
+      "categories": ["counterspell"]
+    },
+    "Root Snare": {
+      "categories": ["other"]
+    },
+    "Sagittars' Volley": {
+      "categories": ["board"]
+    },
+    "Scorchmark": {
+      "categories": ["board"]
+    },
+    "Sentinel's Mark": {
+      "categories": ["board"]
+    },
+    "Slimebind": {
+      "categories": ["board"]
+    },
+    "Sphinx's Insight": {
+      "categories": ["other"]
+    },
+    "Spire Mangler": {
+      "categories": ["board"]
+    },
+    "Stony Strength": {
+      "categories": ["board"]
+    },
+    "Storm Strike": {
+      "categories": ["board"]
+    },
+    "Summary Judgment": {
+      "categories": ["board"]
+    },
+    "Thought Collapse": {
+      "categories": ["counterspell"]
+    },
+    "Thrash": {
+      "categories": ["board"]
+    },
+    "Titanic Brawl": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Tower Defense": {
+      "categories": ["board"]
+    },
+    "Unbreakable Formation": {
+      "categories": ["board"]
+    },
+    "Undercity's Embrace": {
+      "categories": ["board"]
+    },
+    "Warrant (Warrant // Warden)": {
+      "categories": ["board"]
+    }
+  }
+}

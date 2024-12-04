@@ -1,0 +1,78 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Balduvian Rage": {
+      "categories": ["board"]
+    },
+    "Chill to the Bone": {
+      "categories": ["board"]
+    },
+    "Commandeer": {
+      "categories": ["board"]
+    },
+    "Controvert": {
+      "categories": ["board"]
+    },
+    "Flashfreeze": {
+      "categories": ["board"]
+    },
+    "Grim Harvest": {
+      "categories": ["board"]
+    },
+    "Kjeldoran War Cry": {
+      "categories": ["board"]
+    },
+    "Krovikan Rot": {
+      "categories": ["board"]
+    },
+    "Lightning Storm": {
+      "categories": ["board"]
+    },
+    "Luminesce": {
+      "categories": ["board"]
+    },
+    "Mystic Melting": {
+      "categories": ["board"]
+    },
+    "Perilous Research": {
+      "categories": ["board"]
+    },
+    "Resize": {
+      "categories": ["board"]
+    },
+    "Rune Snag": {
+      "categories": ["board"]
+    },
+    "Skred": {
+      "categories": ["board"]
+    },
+    "Soul Spike": {
+      "categories": ["board"]
+    },
+    "Sun's Bounty": {
+      "categories": ["board"]
+    },
+    "Surging Aether": {
+      "categories": ["board"]
+    },
+    "Surging Flame": {
+      "categories": ["board"]
+    },
+    "Swift Maneuver": {
+      "categories": ["board"]
+    },
+    "Thermal Flux": {
+      "categories": ["board"]
+    },
+    "Vanish into Memory": {
+      "categories": ["board"]
+    }
+  }
+}

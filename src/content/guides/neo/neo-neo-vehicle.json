@@ -1,0 +1,70 @@
+{
+  "name": "Theme: Vehicles",
+  "icon": "fas fa-car",
+  "categories": {
+    "vehicle": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Anchor to Reality": {
+      "categories": ["payoff"]
+    },
+    "Born to Drive": {
+      "categories": ["payoff"]
+    },
+    "Brute Suit": {
+      "categories": ["vehicle"]
+    },
+    "Dragonfly Suit": {
+      "categories": ["vehicle"]
+    },
+    "Futurist Sentinel": {
+      "categories": ["vehicle"]
+    },
+    "Greasefang, Okiba Boss": {
+      "categories": ["payoff"]
+    },
+    "High-Speed Hoverbike": {
+      "categories": ["vehicle"]
+    },
+    "Hotshot Mechanic": {
+      "categories": ["payoff"]
+    },
+    "Imperial Recovery Unit": {
+      "categories": ["vehicle"]
+    },
+    "Kitsune Ace": {
+      "categories": ["payoff"]
+    },
+    "Mech Hangar": {
+      "categories": ["payoff"]
+    },
+    "Mechtitan Core": {
+      "categories": ["vehicle"]
+    },
+    "Mindlink Mech": {
+      "categories": ["vehicle"]
+    },
+    "Mobilizer Mech": {
+      "categories": ["vehicle", "payoff"]
+    },
+    "Mukotai Soulripper": {
+      "categories": ["vehicle"]
+    },
+    "Okiba Reckoner Raid // Nezumi Road Captain": {
+      "categories": ["payoff"]
+    },
+    "Prodigy's Prototype": {
+      "categories": ["vehicle", "payoff"]
+    },
+    "Reckoner Bankbuster": {
+      "categories": ["vehicle", "payoff"]
+    },
+    "Surgehacker Mech": {
+      "categories": ["vehicle", "payoff"]
+    },
+    "Thundersteel Colossus": {
+      "categories": ["vehicle"]
+    }
+  }
+}

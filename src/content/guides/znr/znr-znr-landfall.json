@@ -1,0 +1,103 @@
+{
+  "name": "Mechanic: Landfall",
+  "icon": "fas fa-globe-americas",
+  "categories": {
+    "enablers": "Landfall Enablers",
+    "triggers": "Landfall Triggers"
+  },
+  "cards": {
+    "Akoum Hellhound": {
+      "categories": ["triggers"]
+    },
+    "Ancient Greenwarden": {
+      "categories": ["enablers"]
+    },
+    "Brushfire Elemental": {
+      "categories": ["triggers"]
+    },
+    "Canyon Jerboa": {
+      "categories": ["triggers"]
+    },
+    "Cleansing Wildfire": {
+      "categories": ["enablers"]
+    },
+    "Dreadwurm": {
+      "categories": ["triggers"]
+    },
+    "Fearless Fledgling": {
+      "categories": ["triggers"]
+    },
+    "Felidar Retreat": {
+      "categories": ["triggers"]
+    },
+    "Kazandu Mammoth // Kazandu Valley": {
+      "categories": ["triggers"]
+    },
+    "Kazandu Nectarpot": {
+      "categories": ["triggers"]
+    },
+    "Lotus Cobra": {
+      "categories": ["triggers"]
+    },
+    "Makindi Ox": {
+      "categories": ["triggers"]
+    },
+    "Moraug, Fury of Akoum": {
+      "categories": ["triggers"]
+    },
+    "Murasa Rootgrazer": {
+      "categories": ["enablers"]
+    },
+    "Nahiri's Lithoforming": {
+      "categories": ["enablers"]
+    },
+    "Nissa of Shadowed Boughs": {
+      "categories": ["triggers"]
+    },
+    "Omnath, Locus of Creation": {
+      "categories": ["triggers"]
+    },
+    "Phylath, World Sculptor": {
+      "categories": ["triggers"]
+    },
+    "Prowling Felidar": {
+      "categories": ["triggers"]
+    },
+    "Roiling Regrowth": {
+      "categories": ["enablers"]
+    },
+    "Ruin Crab": {
+      "categories": ["triggers"]
+    },
+    "Scale the Heights": {
+      "categories": ["enablers"]
+    },
+    "Scute Swarm": {
+      "categories": ["triggers"]
+    },
+    "Skyclave Geopede": {
+      "categories": ["triggers"]
+    },
+    "Skyclave Pick-Axe": {
+      "categories": ["triggers"]
+    },
+    "Skyclave Shade": {
+      "categories": ["triggers"]
+    },
+    "Skyclave Squid": {
+      "categories": ["triggers"]
+    },
+    "Spitfire Lagac": {
+      "categories": ["triggers"]
+    },
+    "Territorial Scythecat": {
+      "categories": ["triggers"]
+    },
+    "Valakut Exploration": {
+      "categories": ["triggers"]
+    },
+    "Vastwood Surge": {
+      "categories": ["enablers"]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aerial Formation": {
+      "categories": ["board"]
+    },
+    "Ajani's Presence": {
+      "categories": ["board"]
+    },
+    "Cloaked Siren": {
+      "categories": ["board"]
+    },
+    "Colossal Heroics": {
+      "categories": ["board"]
+    },
+    "Consign to Dust": {
+      "categories": ["board"]
+    },
+    "Countermand": {
+      "categories": ["board"]
+    },
+    "Cruel Feeding": {
+      "categories": ["board"]
+    },
+    "Deicide": {
+      "categories": ["board"]
+    },
+    "Dictate of Erebos": {
+      "categories": ["board"]
+    },
+    "Dictate of Heliod": {
+      "categories": ["board"]
+    },
+    "Dictate of Karametra": {
+      "categories": ["board"]
+    },
+    "Dictate of Kruphix": {
+      "categories": ["board"]
+    },
+    "Dictate of the Twin Gods": {
+      "categories": ["board"]
+    },
+    "Feast of Dreams": {
+      "categories": ["board"]
+    },
+    "Fleetfeather Cockatrice": {
+      "categories": ["board"]
+    },
+    "Hour of Need": {
+      "categories": ["board"]
+    },
+    "Hubris": {
+      "categories": ["board"]
+    },
+    "Kiora's Dismissal": {
+      "categories": ["board"]
+    },
+    "Magma Spray": {
+      "categories": ["board"]
+    },
+    "Nature's Panoply": {
+      "categories": ["board"]
+    },
+    "Nightmarish End": {
+      "categories": ["board"]
+    },
+    "Phalanx Formation": {
+      "categories": ["board"]
+    },
+    "Polymorphous Rush": {
+      "categories": ["board"]
+    },
+    "Reprisal": {
+      "categories": ["board"]
+    },
+    "Riddle of Lightning": {
+      "categories": ["board"]
+    },
+    "Ritual of the Returned": {
+      "categories": ["board"]
+    },
+    "Rouse the Mob": {
+      "categories": ["board"]
+    },
+    "Setessan Tactics": {
+      "categories": ["board"]
+    },
+    "Silence the Believers": {
+      "categories": ["board"]
+    },
+    "Solidarity of Heroes": {
+      "categories": ["board"]
+    },
+    "Starfall": {
+      "categories": ["board"]
+    }
+  }
+}

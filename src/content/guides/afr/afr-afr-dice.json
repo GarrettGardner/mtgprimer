@@ -1,0 +1,91 @@
+{
+  "name": "Mechanic: d20 Dice",
+  "icon": "fas fa-dice-d20",
+  "categories": {
+    "dice": "Dice Rolls",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Aberrant Mind Sorcerer": {
+      "categories": ["dice"]
+    },
+    "Arcane Investigator": {
+      "categories": ["dice"]
+    },
+    "Barbarian Class": {
+      "categories": ["payoff"]
+    },
+    "Brazen Dwarf": {
+      "categories": ["payoff"]
+    },
+    "Chaos Channeler": {
+      "categories": ["dice"]
+    },
+    "Contact Other Plane": {
+      "categories": ["dice"]
+    },
+    "Critical Hit": {
+      "categories": ["payoff"]
+    },
+    "Delina, Wild Mage": {
+      "categories": ["dice"]
+    },
+    "Djinni Windseer": {
+      "categories": ["dice"]
+    },
+    "Earth-Cult Elemental": {
+      "categories": ["dice"]
+    },
+    "Farideh's Fireball": {
+      "categories": ["dice"]
+    },
+    "Farideh, Devil's Chosen": {
+      "categories": ["payoff"]
+    },
+    "Feywild Trickster": {
+      "categories": ["payoff"]
+    },
+    "Goblin Morningstar": {
+      "categories": ["dice"]
+    },
+    "Herald of Hadar": {
+      "categories": ["dice"]
+    },
+    "Hoarding Ogre": {
+      "categories": ["dice"]
+    },
+    "Lightfoot Rogue": {
+      "categories": ["dice"]
+    },
+    "Loathsome Troll": {
+      "categories": ["dice"]
+    },
+    "Pixie Guide": {
+      "categories": ["payoff"]
+    },
+    "Power of Persuasion": {
+      "categories": ["dice"]
+    },
+    "Scion of Stygia": {
+      "categories": ["dice"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["dice"]
+    },
+    "Swarming Goblins": {
+      "categories": ["dice"]
+    },
+    "Sylvan Shepherd": {
+      "categories": ["dice"]
+    },
+    "The Deck of Many Things": {
+      "categories": ["dice"]
+    },
+    "Treasure Chest": {
+      "categories": ["dice"]
+    },
+    "Wizard's Spellbook": {
+      "categories": ["dice"]
+    }
+  }
+}

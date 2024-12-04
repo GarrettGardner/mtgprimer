@@ -1,0 +1,52 @@
+{
+  "name": "Mechanic: Reconfigure",
+  "icon": "fas fa-robot",
+  "categories": {
+    "reconfigure": "",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Acquisition Octopus": {
+      "categories": ["reconfigure"]
+    },
+    "Armguard Familiar": {
+      "categories": ["reconfigure"]
+    },
+    "Blade of the Oni": {
+      "categories": ["reconfigure"]
+    },
+    "Bronzeplate Boar": {
+      "categories": ["reconfigure"]
+    },
+    "Chainflail Centipede": {
+      "categories": ["reconfigure"]
+    },
+    "Cloudsteel Kirin": {
+      "categories": ["reconfigure"]
+    },
+    "Leech Gauntlet": {
+      "categories": ["reconfigure"]
+    },
+    "Lion Sash": {
+      "categories": ["reconfigure"]
+    },
+    "Lizard Blades": {
+      "categories": ["reconfigure"]
+    },
+    "Ogre-Head Helm": {
+      "categories": ["reconfigure"]
+    },
+    "Rabbit Battery": {
+      "categories": ["reconfigure"]
+    },
+    "Simian Sling": {
+      "categories": ["reconfigure"]
+    },
+    "The Reality Chip": {
+      "categories": ["reconfigure"]
+    },
+    "Webspinner Cuff": {
+      "categories": ["reconfigure"]
+    }
+  }
+}

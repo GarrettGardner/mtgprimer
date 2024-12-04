@@ -1,0 +1,114 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blue Sun's Zenith": {
+      "categories": ["other"]
+    },
+    "Brainstorm": {
+      "categories": ["other"]
+    },
+    "Chaos Warp": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Dark Ritual": {
+      "categories": ["other"]
+    },
+    "Defiant Strike": {
+      "categories": ["board"]
+    },
+    "Despark": {
+      "categories": ["board"]
+    },
+    "Doom Blade": {
+      "categories": ["board"]
+    },
+    "Electrolyze": {
+      "categories": ["board"]
+    },
+    "Eliminate": {
+      "categories": ["board"]
+    },
+    "Ephemerate": {
+      "categories": ["board"]
+    },
+    "Gods Willing": {
+      "categories": ["board"]
+    },
+    "Growth Spiral": {
+      "categories": ["other"]
+    },
+    "Increasing Vengeance": {
+      "categories": ["other"]
+    },
+    "Infuriate": {
+      "categories": ["board"]
+    },
+    "Krosan Grip": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Lightning Helix": {
+      "categories": ["board"]
+    },
+    "Mana Tithe": {
+      "categories": ["counterspell"]
+    },
+    "Memory Lapse": {
+      "categories": ["counterspell"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Opt": {
+      "categories": ["other"]
+    },
+    "Putrefy": {
+      "categories": ["board"]
+    },
+    "Revitalize": {
+      "categories": ["other"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Snakeskin Veil": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["board"]
+    },
+    "Tainted Pact": {
+      "categories": ["other"]
+    },
+    "Teferi's Protection": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "Urza's Rage": {
+      "categories": ["board"]
+    },
+    "Village Rites": {
+      "categories": ["other"]
+    },
+    "Weather the Storm": {
+      "categories": ["other"]
+    },
+    "Whirlwind Denial": {
+      "categories": ["counterspell"]
+    }
+  }
+}

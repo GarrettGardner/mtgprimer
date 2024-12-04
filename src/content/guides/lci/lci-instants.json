@@ -1,0 +1,123 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Acrobatic Leap": {
+      "categories": ["board"]
+    },
+    "Ancestors' Aid": {
+      "categories": ["board"]
+    },
+    "Another Chance": {
+      "categories": ["other"]
+    },
+    "Bitter Triumph": {
+      "categories": ["board"]
+    },
+    "Brackish Blunder": {
+      "categories": ["board"]
+    },
+    "Cogwork Wrestler": {
+      "categories": ["board"]
+    },
+    "Confounding Riddle": {
+      "categories": ["counterspell", "other"]
+    },
+    "Cosmium Blast": {
+      "categories": ["board"]
+    },
+    "Disturbed Slumber": {
+      "categories": ["board"]
+    },
+    "Dreadmaw's Ire": {
+      "categories": ["board"]
+    },
+    "Eaten by Piranhas": {
+      "categories": ["board"]
+    },
+    "Family Reunion": {
+      "categories": ["board"]
+    },
+    "Fanatical Offering": {
+      "categories": ["other"]
+    },
+    "Fungal Fortitude": {
+      "categories": ["board"]
+    },
+    "Get Lost": {
+      "categories": ["board"]
+    },
+    "Huatli's Final Strike": {
+      "categories": ["board"]
+    },
+    "Hurl into History": {
+      "categories": ["board", "counterspell"]
+    },
+    "Idol of the Deep King // Sovereign's Macuahuitl (Idol of the Deep King)": {
+      "categories": ["board"]
+    },
+    "In the Presence of Ages": {
+      "categories": ["other"]
+    },
+    "Join the Dead": {
+      "categories": ["board"]
+    },
+    "Kutzil's Flanker": {
+      "categories": ["board"]
+    },
+    "Lodestone Needle // Guidestone Compass (Lodestone Needle)": {
+      "categories": ["board"]
+    },
+    "Malamet Scythe": {
+      "categories": ["board"]
+    },
+    "Malcolm, Alluring Scoundrel": {
+      "categories": ["board"]
+    },
+    "Mischievous Pup": {
+      "categories": ["board"]
+    },
+    "Out of Air": {
+      "categories": ["board", "counterspell"],
+      "cost": ["u", "u"]
+    },
+    "Quicksand Whirlpool": {
+      "categories": ["board"],
+      "cost": ["2", "w"]
+    },
+    "Relic's Roar": {
+      "categories": ["board"]
+    },
+    "Runaway Boulder": {
+      "categories": ["board"]
+    },
+    "Spring-Loaded Sawblades // Bladewheel Chariot (Spring-Loaded Sawblades)": {
+      "categories": ["board"]
+    },
+    "Staggering Size": {
+      "categories": ["board"]
+    },
+    "Tishana's Tidebinder": {
+      "categories": ["board", "counterspell"]
+    },
+    "Trumpeting Carnosaur": {
+      "categories": ["board"],
+      "cost": ["2", "r"]
+    },
+    "Unlucky Drop": {
+      "categories": ["board"]
+    },
+    "Zoyowa's Justice": {
+      "categories": ["board"]
+    }
+  }
+}

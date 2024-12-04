@@ -1,0 +1,28 @@
+{
+  "name": "Mechanic: Double Faced Cards",
+  "icon": "fas fa-history",
+  "cards": {
+    "Alluring Suitor // Deadly Dancer": {},
+    "Biolume Egg // Biolume Serpent": {},
+    "Bloodsworn Squire // Bloodsworn Knight": {},
+    "Catapult Fodder // Catapult Captain": {},
+    "Concealing Curtains // Revealing Eye": {},
+    "Desperate Farmer // Depraved Harvester": {},
+    "Dormant Grove // Gnarled Grovestrider": {},
+    "Edgar, Charmed Groom // Edgar Markov's Coffin": {},
+    "Foreboding Statue // Forsaken Thresher": {},
+    "Henrika Domnathi // Henrika, Infernal Seer": {},
+    "Innocent Traveler // Malicious Invader": {},
+    "Jacob Hauken, Inspector // Hauken's Insight": {},
+    "Panicked Bystander // Cackling Culprit": {},
+    "Radiant Grace // Radiant Restraints": {},
+    "Ragged Recluse // Odious Witch": {},
+    "Restless Bloodseeker // Bloodsoaked Reveler": {},
+    "Runo Stromkirk // Krothuss, Lord of the Deep": {},
+    "Soulcipher Board // Cipherbound Spirit": {},
+    "Ulvenwald Oddity // Ulvenwald Behemoth": {},
+    "Voldaren Bloodcaster // Bloodbat Summoner": {},
+    "Voltaic Visionary // Volt-Charged Berserker": {},
+    "Wedding Announcement // Wedding Festivity": {}
+  }
+}

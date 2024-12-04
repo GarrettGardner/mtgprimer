@@ -1,0 +1,182 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Academic Dispute": {
+      "categories": ["board"]
+    },
+    "Arcane Subtraction": {
+      "categories": ["board"]
+    },
+    "Baleful Mastery": {
+      "categories": ["board"],
+      "cost": ["1", "b"]
+    },
+    "Beaming Defiance": {
+      "categories": ["board"]
+    },
+    "Big Play": {
+      "categories": ["board"]
+    },
+    "Burrog Befuddler": {
+      "categories": ["board"]
+    },
+    "Bury in Books": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "Charge Through": {
+      "categories": ["board"]
+    },
+    "Closing Statement": {
+      "categories": ["board"],
+      "cost": ["1", "w", "b"]
+    },
+    "Creative Outburst": {
+      "categories": ["board"]
+    },
+    "Crushing Disappointment": {
+      "categories": ["other"]
+    },
+    "Curate": {
+      "categories": ["board"]
+    },
+    "Decisive Denial": {
+      "categories": ["board", "counterspell"]
+    },
+    "Defend the Campus": {
+      "categories": ["board"]
+    },
+    "Divide by Zero": {
+      "categories": ["board", "counterspell"]
+    },
+    "Double Major": {
+      "categories": ["board"]
+    },
+    "Elemental Masterpiece": {
+      "categories": ["other"],
+      "cost": ["ur", "ur"]
+    },
+    "Enthusiastic Study": {
+      "categories": ["board"]
+    },
+    "Eureka Moment": {
+      "categories": ["other"]
+    },
+    "Expel": {
+      "categories": ["board"]
+    },
+    "Explosive Welcome": {
+      "categories": ["board"]
+    },
+    "First Day of Class": {
+      "categories": ["board"]
+    },
+    "Flunk": {
+      "categories": ["board"]
+    },
+    "Fortifying Draught": {
+      "categories": ["board"]
+    },
+    "Fracture": {
+      "categories": ["board"]
+    },
+    "Harness Infinity": {
+      "categories": ["other"]
+    },
+    "Heated Debate": {
+      "categories": ["board"]
+    },
+    "Infuse with Vitality": {
+      "categories": ["board"]
+    },
+    "Lash of Malice": {
+      "categories": ["board"]
+    },
+    "Lorehold Command": {
+      "categories": ["board"]
+    },
+    "Magma Opus": {
+      "categories": ["board"]
+    },
+    "Make Your Mark": {
+      "categories": ["board"]
+    },
+    "Mortality Spear": {
+      "categories": ["board"],
+      "cost": ["b", "g"]
+    },
+    "Plumb the Forbidden": {
+      "categories": ["other"]
+    },
+    "Pop Quiz": {
+      "categories": ["other"]
+    },
+    "Practical Research": {
+      "categories": ["other"]
+    },
+    "Prismari Command": {
+      "categories": ["board"]
+    },
+    "Professor's Warning": {
+      "categories": ["board"]
+    },
+    "Quandrix Command": {
+      "categories": ["board", "counterspell"]
+    },
+    "Reject": {
+      "categories": ["counterspell"]
+    },
+    "Resculpt": {
+      "categories": ["board"]
+    },
+    "Revel in Silence (Flamescroll Celebrant // Revel in Silence)": {
+      "categories": ["board"]
+    },
+    "Rushed Rebirth": {
+      "categories": ["board"]
+    },
+    "Semester's End": {
+      "categories": ["board"]
+    },
+    "Show of Confidence": {
+      "categories": ["board"]
+    },
+    "Snow Day": {
+      "categories": ["board"]
+    },
+    "Square Up": {
+      "categories": ["board"]
+    },
+    "Study Break": {
+      "categories": ["board"]
+    },
+    "Sudden Breakthrough": {
+      "categories": ["board"]
+    },
+    "Tangletrap": {
+      "categories": ["board"]
+    },
+    "Teach by Example": {
+      "categories": ["other"]
+    },
+    "Tend the Pests": {
+      "categories": ["board"]
+    },
+    "Test of Talents": {
+      "categories": ["counterspell"]
+    },
+    "Umbral Juke": {
+      "categories": ["board"]
+    },
+    "Vanishing Verse": {
+      "categories": ["board"]
+    }
+  }
+}

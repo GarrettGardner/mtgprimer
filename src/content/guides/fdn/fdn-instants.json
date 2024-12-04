@@ -1,0 +1,156 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Aetherize": {
+      "categories": ["board"]
+    },
+    "Ambush Wolf": {
+      "categories": ["board"]
+    },
+    "An Offer You Can't Refuse": {
+      "categories": ["counterspell"]
+    },
+    "Arcane Epiphany": {
+      "categories": ["other"],
+      "cost": ["2", "u", "u"]
+    },
+    "Bake into a Pie": {
+      "categories": ["board"]
+    },
+    "Bite Down": {
+      "categories": ["board"]
+    },
+    "Brineborn Cutthroat": {
+      "categories": ["board"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Bulk Up": {
+      "categories": ["board"]
+    },
+    "Burst Lightning": {
+      "categories": ["board"]
+    },
+    "Cathar Commando": {
+      "categories": ["board"]
+    },
+    "Celestial Armor": {
+      "categories": ["board"]
+    },
+    "Claws Out": {
+      "categories": ["board"],
+      "cost": ["w", "w"]
+    },
+    "Divine Resilience": {
+      "categories": ["board"]
+    },
+    "Elementalist Adept": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Faebloom Trick": {
+      "categories": ["board"]
+    },
+    "Fake Your Own Death": {
+      "categories": ["board"]
+    },
+    "Fiery Annihilation": {
+      "categories": ["board"]
+    },
+    "Fleeting Distraction": {
+      "categories": ["board"]
+    },
+    "Fleeting Flight": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Goblin Surprise": {
+      "categories": ["board"]
+    },
+    "Herald of Eternal Dawn": {
+      "categories": ["board"]
+    },
+    "Hero's Downfall": {
+      "categories": ["board"]
+    },
+    "Hidetsugu's Second Rite": {
+      "categories": ["board"]
+    },
+    "High Fae Trickster": {
+      "categories": ["board"]
+    },
+    "Inspiring Call": {
+      "categories": ["board"]
+    },
+    "Joust Through": {
+      "categories": ["board"]
+    },
+    "Luminous Rebuke": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Make Your Move": {
+      "categories": ["board"]
+    },
+    "Mischievous Pup": {
+      "categories": ["board"]
+    },
+    "Refute": {
+      "categories": ["counterspell"]
+    },
+    "Resolute Reinforcements": {
+      "categories": ["board"]
+    },
+    "Run Away Together": {
+      "categories": ["board"]
+    },
+    "Snakeskin Veil": {
+      "categories": ["board"]
+    },
+    "Spectral Sailor": {
+      "categories": ["board"]
+    },
+    "Sphinx of Forgotten Lore": {
+      "categories": ["board"]
+    },
+    "Stab": {
+      "categories": ["board"]
+    },
+    "Stroke of Midnight": {
+      "categories": ["board"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Think Twice": {
+      "categories": ["other"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "Time Stop": {
+      "categories": ["board", "counterspell"]
+    },
+    "Twinblade Blessing": {
+      "categories": ["board"]
+    },
+    "Uncharted Voyage": {
+      "categories": ["board"]
+    }
+  }
+}

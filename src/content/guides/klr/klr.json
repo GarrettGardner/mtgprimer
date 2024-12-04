@@ -1,0 +1,1730 @@
+{
+  "code": "klr",
+  "formatName": "Kaladesh Remastered",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Aerial Responder": {
+      "number": "1",
+      "cost": ["1", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aeronaut Admiral": {
+      "number": "2",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aether Inspector": {
+      "number": "3",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aetherstorm Roc": {
+      "number": "4",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Airdrop Aeronauts": {
+      "number": "5",
+      "cost": ["3", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Alley Evasion": {
+      "number": "6",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Angel of Invention": {
+      "number": "7",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Audacious Infiltrator": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Authority of the Consuls": {
+      "number": "9",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aviary Mechanic": {
+      "number": "10",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Built to Last": {
+      "number": "11",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cataclysmic Gearhulk": {
+      "number": "12",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Conviction": {
+      "number": "13",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Countless Gears Renegade": {
+      "number": "14",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dawnfeather Eagle": {
+      "number": "15",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Eddytrail Hawk": {
+      "number": "16",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fairgrounds Warden": {
+      "number": "17",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fragmentize": {
+      "number": "18",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fumigate": {
+      "number": "19",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Gearshift Ace": {
+      "number": "20",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Glint-Sleeve Artisan": {
+      "number": "21",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Herald of the Fair": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Impeccable Timing": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Inspired Charge": {
+      "number": "24",
+      "cost": ["2", "w", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Master Trinketeer": {
+      "number": "25",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Propeller Pioneer": {
+      "number": "26",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Refurbish": {
+      "number": "27",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Restoration Specialist": {
+      "number": "28",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Revoke Privileges": {
+      "number": "29",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Servo Exhibition": {
+      "number": "30",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Skywhaler's Shot": {
+      "number": "31",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sram, Senior Edificer": {
+      "number": "32",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sram's Expertise": {
+      "number": "33",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thopter Arrest": {
+      "number": "34",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Toolcraft Exemplar": {
+      "number": "35",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Visionary Augmenter": {
+      "number": "36",
+      "cost": ["2", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Wispweaver Angel": {
+      "number": "37",
+      "cost": ["4", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aether Meltdown": {
+      "number": "38",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Aether Swooper": {
+      "number": "39",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aether Theorist": {
+      "number": "40",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aether Tradewinds": {
+      "number": "41",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Baral, Chief of Compliance": {
+      "number": "42",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Baral's Expertise": {
+      "number": "43",
+      "cost": ["3", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ceremonious Rejection": {
+      "number": "44",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Confiscation Coup": {
+      "number": "45",
+      "cost": ["3", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Disallow": {
+      "number": "46",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Era of Innovation": {
+      "number": "47",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gearseeker Serpent": {
+      "number": "48",
+      "cost": ["5", "u", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Glimmer of Genius": {
+      "number": "49",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Glint-Nest Crane": {
+      "number": "50",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hinterland Drake": {
+      "number": "51",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ice Over": {
+      "number": "52",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Illusionist's Stratagem": {
+      "number": "53",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Leave in the Dust": {
+      "number": "54",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Malfunction": {
+      "number": "55",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Metallic Rebuke": {
+      "number": "56",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Metallurgic Summonings": {
+      "number": "57",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Minister of Inquiries": {
+      "number": "58",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nimble Innovator": {
+      "number": "59",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Padeem, Consul of Innovation": {
+      "number": "60",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Paradoxical Outcome": {
+      "number": "61",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Revolutionary Rebuff": {
+      "number": "62",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Select for Inspection": {
+      "number": "63",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shielded Aether Thief": {
+      "number": "64",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Shipwreck Moray": {
+      "number": "65",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shrewd Negotiation": {
+      "number": "66",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Skyship Plunderer": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tezzeret's Ambition": {
+      "number": "68",
+      "cost": ["3", "u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thriving Turtle": {
+      "number": "69",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Torrential Gearhulk": {
+      "number": "70",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Trophy Mage": {
+      "number": "71",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Weldfast Wingsmith": {
+      "number": "72",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Whir of Invention": {
+      "number": "73",
+      "cost": ["x", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Wind-Kin Raiders": {
+      "number": "74",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aether Poisoner": {
+      "number": "75",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aetherborn Marauder": {
+      "number": "76",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Alley Strangler": {
+      "number": "77",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Daring Demolition": {
+      "number": "78",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Defiant Salvager": {
+      "number": "79",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Demon of Dark Schemes": {
+      "number": "80",
+      "cost": ["3", "b", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Die Young": {
+      "number": "81",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Embraal Bruiser": {
+      "number": "82",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Essence Extraction": {
+      "number": "83",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fatal Push": {
+      "number": "84",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fen Hauler": {
+      "number": "85",
+      "cost": ["6", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fortuitous Find": {
+      "number": "86",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Foundry Hornet": {
+      "number": "87",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Foundry Screecher": {
+      "number": "88",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fourth Bridge Prowler": {
+      "number": "89",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fretwork Colony": {
+      "number": "90",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gifted Aetherborn": {
+      "number": "91",
+      "cost": ["b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Glint-Sleeve Siphoner": {
+      "number": "92",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gonti, Lord of Luxury": {
+      "number": "93",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Herald of Anguish": {
+      "number": "94",
+      "cost": ["5", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Live Fast": {
+      "number": "95",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lost Legacy": {
+      "number": "96",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Make Obsolete": {
+      "number": "97",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Marionette Master": {
+      "number": "98",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Maulfist Squad": {
+      "number": "99",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Midnight Oil": {
+      "number": "100",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mind Rot": {
+      "number": "101",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Night Market Aeronaut": {
+      "number": "102",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Night Market Lookout": {
+      "number": "103",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Noxious Gearhulk": {
+      "number": "104",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rush of Vitality": {
+      "number": "105",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sly Requisitioner": {
+      "number": "106",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Subtle Strike": {
+      "number": "107",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Underhanded Designs": {
+      "number": "108",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vengeful Rebel": {
+      "number": "109",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Weaponcraft Enthusiast": {
+      "number": "110",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Yahenni, Undying Partisan": {
+      "number": "111",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Yahenni's Expertise": {
+      "number": "112",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aether Chaser": {
+      "number": "113",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aethertorch Renegade": {
+      "number": "114",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Built to Smash": {
+      "number": "115",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cathartic Reunion": {
+      "number": "116",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chandra, Torch of Defiance": {
+      "number": "117",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Chandra's Pyrohelix": {
+      "number": "118",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chandra's Revolution": {
+      "number": "119",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Combustible Gearhulk": {
+      "number": "120",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Destructive Tampering": {
+      "number": "121",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Enraged Giant": {
+      "number": "122",
+      "cost": ["5", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fateful Showdown": {
+      "number": "123",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Freejam Regent": {
+      "number": "124",
+      "cost": ["4", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Frontline Rebel": {
+      "number": "125",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Furious Reprisal": {
+      "number": "126",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Harnessed Lightning": {
+      "number": "127",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hijack": {
+      "number": "128",
+      "cost": ["1", "r", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hungry Flames": {
+      "number": "129",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Indomitable Creativity": {
+      "number": "130",
+      "cost": ["x", "r", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Inventor's Apprentice": {
+      "number": "131",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Invigorated Rampage": {
+      "number": "132",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kari Zev, Skyship Raider": {
+      "number": "133",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kari Zev's Expertise": {
+      "number": "134",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Lathnu Sailback": {
+      "number": "135",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pia Nalaar": {
+      "number": "136",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Precise Strike": {
+      "number": "137",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quicksmith Genius": {
+      "number": "138",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Quicksmith Rebel": {
+      "number": "139",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ravenous Intruder": {
+      "number": "140",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reckless Fireweaver": {
+      "number": "141",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ruinous Gremlin": {
+      "number": "142",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Salivating Gremlins": {
+      "number": "143",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Scrapper Champion": {
+      "number": "144",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Siege Modification": {
+      "number": "145",
+      "cost": ["1", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Skyship Stalker": {
+      "number": "146",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Speedway Fanatic": {
+      "number": "147",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spireside Infiltrator": {
+      "number": "148",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sweatworks Brawler": {
+      "number": "149",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Welding Sparks": {
+      "number": "150",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Appetite for the Unnatural": {
+      "number": "151",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Arborback Stomper": {
+      "number": "152",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Armorcraft Judge": {
+      "number": "153",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Attune with Aether": {
+      "number": "154",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Blossoming Defense": {
+      "number": "155",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bristling Hydra": {
+      "number": "156",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Commencement of Festivities": {
+      "number": "157",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Creeping Mold": {
+      "number": "158",
+      "cost": ["2", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Druid of the Cowl": {
+      "number": "159",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Greenbelt Rampager": {
+      "number": "160",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Heroic Intervention": {
+      "number": "161",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Highspire Artisan": {
+      "number": "162",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Highspire Infusion": {
+      "number": "163",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hunt the Weak": {
+      "number": "164",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kujar Seedsculptor": {
+      "number": "165",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lifecraft Cavalry": {
+      "number": "166",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Longtusk Cub": {
+      "number": "167",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Maulfist Revolutionary": {
+      "number": "168",
+      "cost": ["1", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Monstrous Onslaught": {
+      "number": "169",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Narnam Renegade": {
+      "number": "170",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nature's Way": {
+      "number": "171",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Nissa, Vital Force": {
+      "number": "172",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ornamental Courage": {
+      "number": "173",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Oviya Pashiri, Sage Lifecrafter": {
+      "number": "174",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Peema Aether-Seer": {
+      "number": "175",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Peema Outrider": {
+      "number": "176",
+      "cost": ["2", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ridgescale Tusker": {
+      "number": "177",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Riparian Tiger": {
+      "number": "178",
+      "cost": ["3", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rishkar, Peema Renegade": {
+      "number": "179",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rishkar's Expertise": {
+      "number": "180",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sage of Shaila's Claim": {
+      "number": "181",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Servant of the Conduit": {
+      "number": "182",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Thriving Rhino": {
+      "number": "183",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Unbridled Growth": {
+      "number": "184",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Verdurous Gearhulk": {
+      "number": "185",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Wild Wanderer": {
+      "number": "186",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wildest Dreams": {
+      "number": "187",
+      "cost": ["x", "x", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ajani Unyielding": {
+      "number": "188",
+      "cost": ["4", "g", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Cloudblazer": {
+      "number": "189",
+      "cost": ["3", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Contraband Kingpin": {
+      "number": "190",
+      "cost": ["u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dark Intimations": {
+      "number": "191",
+      "cost": ["2", "u", "b", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Depala, Pilot Exemplar": {
+      "number": "192",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dovin Baan": {
+      "number": "193",
+      "cost": ["2", "w", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Empyreal Voyager": {
+      "number": "194",
+      "cost": ["1", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Engineered Might": {
+      "number": "195",
+      "cost": ["3", "g", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hazardous Conditions": {
+      "number": "196",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hidden Stockpile": {
+      "number": "197",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kambal, Consul of Allocation": {
+      "number": "198",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Maverick Thopterist": {
+      "number": "199",
+      "cost": ["3", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Oath of Ajani": {
+      "number": "200",
+      "cost": ["g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Outland Boar": {
+      "number": "201",
+      "cost": ["2", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rashmi, Eternities Crafter": {
+      "number": "202",
+      "cost": ["2", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Renegade Rallier": {
+      "number": "203",
+      "cost": ["1", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Renegade Wheelsmith": {
+      "number": "204",
+      "cost": ["1", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Restoration Gearsmith": {
+      "number": "205",
+      "cost": ["2", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rogue Refiner": {
+      "number": "206",
+      "cost": ["1", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Saheeli Rai": {
+      "number": "207",
+      "cost": ["1", "u", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Spire Patrol": {
+      "number": "208",
+      "cost": ["2", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tezzeret the Schemer": {
+      "number": "209",
+      "cost": ["2", "u", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tezzeret's Touch": {
+      "number": "210",
+      "cost": ["1", "u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Unlicensed Disintegration": {
+      "number": "211",
+      "cost": ["1", "b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Veteran Motorist": {
+      "number": "212",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Voltaic Brawler": {
+      "number": "213",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Weldfast Engineer": {
+      "number": "214",
+      "cost": ["1", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Whirler Virtuoso": {
+      "number": "215",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Winding Constrictor": {
+      "number": "216",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aetherflux Reservoir": {
+      "number": "217",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aethersphere Harvester": {
+      "number": "218",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aetherworks Marvel": {
+      "number": "219",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Animation Module": {
+      "number": "220",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ballista Charger": {
+      "number": "221",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Barricade Breaker": {
+      "number": "222",
+      "cost": ["7"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bastion Mastodon": {
+      "number": "223",
+      "cost": ["5"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bomat Bazaar Barge": {
+      "number": "224",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bomat Courier": {
+      "number": "225",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Chief of the Foundry": {
+      "number": "226",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cogworker's Puzzleknot": {
+      "number": "227",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Consulate Skygate": {
+      "number": "228",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Consulate Turret": {
+      "number": "229",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cultivator's Caravan": {
+      "number": "230",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Daredevil Dragster": {
+      "number": "231",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Decoction Module": {
+      "number": "232",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Demolition Stomper": {
+      "number": "233",
+      "cost": ["6"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dukhara Peafowl": {
+      "number": "234",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dynavolt Tower": {
+      "number": "235",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Eager Construct": {
+      "number": "236",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Electrostatic Pummeler": {
+      "number": "237",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Fabrication Module": {
+      "number": "238",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Filigree Familiar": {
+      "number": "239",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fireforger's Puzzleknot": {
+      "number": "240",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Foundry Inspector": {
+      "number": "241",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Heart of Kiran": {
+      "number": "242",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Hope of Ghirapur": {
+      "number": "243",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Implement of Examination": {
+      "number": "244",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Implement of Malice": {
+      "number": "245",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Inventor's Goggles": {
+      "number": "246",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Irontread Crusher": {
+      "number": "247",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Key to the City": {
+      "number": "248",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Lifecrafter's Bestiary": {
+      "number": "249",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Merchant's Dockhand": {
+      "number": "250",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Metallic Mimic": {
+      "number": "251",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Metalwork Colossus": {
+      "number": "252",
+      "cost": ["11"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mobile Garrison": {
+      "number": "253",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Narnam Cobra": {
+      "number": "254",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ornithopter": {
+      "number": "255",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ovalchase Dragster": {
+      "number": "256",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Pacification Array": {
+      "number": "257",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Panharmonicon": {
+      "number": "258",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Paradox Engine": {
+      "number": "259",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Peacewalker Colossus": {
+      "number": "260",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pendulum of Patterns": {
+      "number": "261",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Planar Bridge": {
+      "number": "262",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Prakhata Pillar-Bug": {
+      "number": "263",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Prophetic Prism": {
+      "number": "264",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Renegade Map": {
+      "number": "265",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Reservoir Walker": {
+      "number": "266",
+      "cost": ["5"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Scrap Trawler": {
+      "number": "267",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Scrapheap Scrounger": {
+      "number": "268",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Self-Assembler": {
+      "number": "269",
+      "cost": ["5"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Servo Schematic": {
+      "number": "270",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sky Skiff": {
+      "number": "271",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Skysovereign, Consul Flagship": {
+      "number": "272",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Universal Solvent": {
+      "number": "273",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Untethered Express": {
+      "number": "274",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Weldfast Monitor": {
+      "number": "275",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Whirlermaker": {
+      "number": "276",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Woodweaver's Puzzleknot": {
+      "number": "277",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Workshop Assistant": {
+      "number": "278",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aether Hub": {
+      "number": "279",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Blooming Marsh": {
+      "number": "280",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Botanical Sanctum": {
+      "number": "281",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Concealed Courtyard": {
+      "number": "282",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Inspiring Vantage": {
+      "number": "283",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Inventors' Fair": {
+      "number": "284",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Spire of Industry": {
+      "number": "285",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Spirebluff Canal": {
+      "number": "286",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

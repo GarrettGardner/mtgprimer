@@ -1,0 +1,15 @@
+{
+  "cards": {
+    "Coral Colony": {},
+    "Eerie Soultender": {
+      "categories": ["self"]
+    },
+    "Founding the Third Path": {},
+    "Monstrous War-Leech": {
+      "categories": ["self"]
+    },
+    "Urborg Lhurgoyf": {
+      "categories": ["self"]
+    }
+  }
+}

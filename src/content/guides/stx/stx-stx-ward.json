@@ -1,0 +1,10 @@
+{
+  "name": "Mechanic: Ward",
+  "icon": "fas fa-shield-alt",
+  "cards": {
+    "Owlin Shieldmage": {},
+    "Sedgemoor Witch": {},
+    "Torrent Sculptor (Torrent Sculptor // Flamethrower Sonata)": {},
+    "Waterfall Aerialist": {}
+  }
+}

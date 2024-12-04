@@ -1,0 +1,70 @@
+{
+  "name": "Theme: Equipment",
+  "icon": "fas fa-shield-alt",
+  "categories": {
+    "payoffs": "Equipment Payoffs",
+    "all": "All Equipment"
+  },
+  "cards": {
+    "Axgard Armory": {
+      "categories": ["payoffs"]
+    },
+    "Draugr's Helm": {
+      "categories": ["all"]
+    },
+    "Dwarven Hammer": {
+      "categories": ["all"]
+    },
+    "Elven Bow": {
+      "categories": ["all"]
+    },
+    "Forging the Tyrite Sword": {
+      "categories": ["payoffs"]
+    },
+    "Giant's Amulet": {
+      "categories": ["all"]
+    },
+    "Goldvein Pick": {
+      "categories": ["all"]
+    },
+    "Halvar, God of Battle // Sword of the Realms": {
+      "categories": ["payoffs", "all"]
+    },
+    "Raven Wings": {
+      "categories": ["all"]
+    },
+    "Reckless Crew": {
+      "categories": ["payoffs"]
+    },
+    "Rune of Flight": {
+      "categories": ["payoffs"]
+    },
+    "Rune of Might": {
+      "categories": ["payoffs"]
+    },
+    "Rune of Mortality": {
+      "categories": ["payoffs"]
+    },
+    "Rune of Speed": {
+      "categories": ["payoffs"]
+    },
+    "Rune of Sustenance": {
+      "categories": ["payoffs"]
+    },
+    "Runed Crown": {
+      "categories": ["payoffs", "all"]
+    },
+    "Spectral Steel": {
+      "categories": ["payoffs"]
+    },
+    "Toralf, God of Fury // Toralf's Hammer": {
+      "categories": ["payoffs", "all"]
+    },
+    "Tormentor's Helm": {
+      "categories": ["all"]
+    },
+    "Valkyrie's Sword": {
+      "categories": ["all"]
+    }
+  }
+}

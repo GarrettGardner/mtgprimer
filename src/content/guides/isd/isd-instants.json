@@ -1,0 +1,159 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Altar's Reap": {
+      "categories": ["board"]
+    },
+    "Ambush Viper": {
+      "categories": ["board"]
+    },
+    "Ancient Grudge": {
+      "categories": ["board"]
+    },
+    "Army of the Damned": {
+      "categories": ["board"]
+    },
+    "Brimstone Volley": {
+      "categories": ["board"]
+    },
+    "Bump in the Night": {
+      "categories": ["board"]
+    },
+    "Cackling Counterpart": {
+      "categories": ["board"]
+    },
+    "Corpse Lunge": {
+      "categories": ["board"]
+    },
+    "Creeping Renaissance": {
+      "categories": ["board"]
+    },
+    "Desperate Ravings": {
+      "categories": ["board"]
+    },
+    "Dissipate": {
+      "categories": ["board"]
+    },
+    "Divine Reckoning": {
+      "categories": ["board"]
+    },
+    "Dream Twist": {
+      "categories": ["board"]
+    },
+    "Feeling of Dread": {
+      "categories": ["board"]
+    },
+    "Forbidden Alchemy": {
+      "categories": ["board"]
+    },
+    "Frightful Delusion": {
+      "categories": ["board"]
+    },
+    "Geistflame": {
+      "categories": ["board"]
+    },
+    "Gnaw to the Bone": {
+      "categories": ["board"]
+    },
+    "Grasp of Phantoms": {
+      "categories": ["board"]
+    },
+    "Harvest Pyre": {
+      "categories": ["board"]
+    },
+    "Hysterical Blindness": {
+      "categories": ["board"]
+    },
+    "Lost in the Mist": {
+      "categories": ["board"]
+    },
+    "Memory's Journey": {
+      "categories": ["board"]
+    },
+    "Midnight Haunting": {
+      "categories": ["board"]
+    },
+    "Moan of the Unhallowed": {
+      "categories": ["board"]
+    },
+    "Moment of Heroism": {
+      "categories": ["board"]
+    },
+    "Moonmist": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Nightbird's Clutches": {
+      "categories": ["board"]
+    },
+    "Past in Flames": {
+      "categories": ["board"]
+    },
+    "Purify the Grave": {
+      "categories": ["board"]
+    },
+    "Rally the Peasants": {
+      "categories": ["board"]
+    },
+    "Ranger's Guile": {
+      "categories": ["board"]
+    },
+    "Rebuke": {
+      "categories": ["board"]
+    },
+    "Rolling Temblor": {
+      "categories": ["board"]
+    },
+    "Runic Repetition": {
+      "categories": ["board"]
+    },
+    "Sever the Bloodline": {
+      "categories": ["board"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["board"]
+    },
+    "Snapcaster Mage": {
+      "categories": ["board"]
+    },
+    "Spare from Evil": {
+      "categories": ["board"]
+    },
+    "Spidery Grasp": {
+      "categories": ["board"]
+    },
+    "Think Twice": {
+      "categories": ["board"]
+    },
+    "Travel Preparations": {
+      "categories": ["board"]
+    },
+    "Tribute to Hunger": {
+      "categories": ["board"]
+    },
+    "Unburial Rites": {
+      "categories": ["board"]
+    },
+    "Urgent Exorcism": {
+      "categories": ["board"]
+    },
+    "Vampiric Fury": {
+      "categories": ["board"]
+    },
+    "Victim of Night": {
+      "categories": ["board"]
+    },
+    "Village Bell-Ringer": {
+      "categories": ["board"]
+    }
+  }
+}

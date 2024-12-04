@@ -1,0 +1,55 @@
+{
+  "name": "Ninjutsu Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "cards": {
+    "Biting-Palm Ninja": {
+      "cost": ["2", "b"]
+    },
+    "Blade-Blizzard Kitsune": {
+      "cost": ["3", "w"]
+    },
+    "Coiling Stalker": {
+      "cost": ["1", "g"]
+    },
+    "Covert Technician": {
+      "cost": ["1", "u"]
+    },
+    "Dokuchi Shadow-Walker": {
+      "cost": ["3", "b"]
+    },
+    "Dokuchi Silencer": {
+      "cost": ["1", "b"]
+    },
+    "Kappa Tech-Wrecker": {
+      "cost": ["1", "g"]
+    },
+    "Moon-Circuit Hacker": {
+      "cost": ["u"]
+    },
+    "Moonsnare Specialist": {
+      "cost": ["2", "u"]
+    },
+    "Mukotai Ambusher": {
+      "cost": ["1", "b"]
+    },
+    "Nashi, Moon Sage's Scion": {
+      "cost": ["3", "b"]
+    },
+    "Nezumi Prowler": {
+      "cost": ["1", "g"]
+    },
+    "Prosperous Thief": {
+      "cost": ["1", "u"]
+    },
+    "Silver-Fur Master": {
+      "cost": ["u", "b"]
+    },
+    "Spring-Leaf Avenger": {
+      "cost": ["3", "g"]
+    },
+    "Thousand-Faced Shadow": {
+      "cost": ["2", "u", "u"]
+    }
+  }
+}

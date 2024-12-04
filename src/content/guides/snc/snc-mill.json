@@ -1,0 +1,28 @@
+{
+  "cards": {
+    "Angel of Suffering": {
+      "categories": ["self"]
+    },
+    "Aven Heartstabber": {
+      "categories": ["self"]
+    },
+    "Cut Your Losses": {
+      "categories": ["mill"]
+    },
+    "Deal Gone Bad": {
+      "categories": ["mill"]
+    },
+    "Dig Up the Body": {
+      "categories": ["self"]
+    },
+    "Lord Xander, the Collector": {
+      "categories": ["mill"]
+    },
+    "Snooping Newsie": {
+      "categories": ["self"]
+    },
+    "Vivien on the Hunt": {
+      "categories": ["self"]
+    }
+  }
+}

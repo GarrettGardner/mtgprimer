@@ -1,0 +1,22 @@
+{
+  "name": "Mechanic: Modal Double-Faced Cards",
+  "icon": "fas fa-check-double",
+  "cards": {
+    "Augmenter Pugilist (Augmenter Pugilist // Echoing Equation)": {},
+    "Blex, Vexing Pest (Blex, Vexing Pest // Search for Blex)": {},
+    "Extus, Oriq Overlord (Extus, Oriq Overlord // Awaken the Blood Avatar)": {},
+    "Flamescroll Celebrant (Flamescroll Celebrant // Revel in Silence)": {},
+    "Jadzi, Oracle of Arcavios (Jadzi, Oracle of Arcavios // Journey to the Oracle)": {},
+    "Kianne, Dean of Substance (Kianne, Dean of Substance // Imbraham, Dean of Theory)": {},
+    "Mila, Crafty Companion (Mila, Crafty Companion // Lukka, Wayward Bonder)": {},
+    "Pestilent Cauldron (Pestilent Cauldron // Restorative Burst)": {},
+    "Plargg, Dean of Chaos (Plargg, Dean of Chaos // Augusta, Dean of Order)": {},
+    "Rowan, Scholar of Sparks (Rowan, Scholar of Sparks // Will, Scholar of Frost)": {},
+    "Selfless Glyphweaver (Selfless Glyphweaver // Deadly Vanity)": {},
+    "Shaile, Dean of Radiance (Shaile, Dean of Radiance // Embrose, Dean of Shadow)": {},
+    "Torrent Sculptor (Torrent Sculptor // Flamethrower Sonata)": {},
+    "Uvilda, Dean of Perfection (Uvilda, Dean of Perfection // Nassari, Dean of Expression)": {},
+    "Valentin, Dean of the Vein (Valentin, Dean of the Vein // Lisette, Dean of the Root)": {},
+    "Wandering Archaic (Wandering Archaic // Explore the Vastlands)": {}
+  }
+}

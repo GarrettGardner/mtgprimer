@@ -1,0 +1,112 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Affa Guard Hound": {
+      "categories": ["board"]
+    },
+    "Aura Finesse": {
+      "categories": ["board"]
+    },
+    "Consume the Meek": {
+      "categories": ["board"]
+    },
+    "Demystify": {
+      "categories": ["other"]
+    },
+    "Deprive": {
+      "categories": ["counterspell"]
+    },
+    "Eel Umbra": {
+      "categories": ["board"]
+    },
+    "Emerge Unscathed": {
+      "categories": ["board"]
+    },
+    "Fleeting Distraction": {
+      "categories": ["board"]
+    },
+    "Harmless Assault": {
+      "categories": ["board"]
+    },
+    "Haze Frog": {
+      "categories": ["board"]
+    },
+    "Heat Ray": {
+      "categories": ["board"]
+    },
+    "Induce Despair": {
+      "categories": ["board"]
+    },
+    "Last Kiss": {
+      "categories": ["board"]
+    },
+    "Lay Bare": {
+      "categories": ["counterspell"]
+    },
+    "Leaf Arrow": {
+      "categories": ["board"]
+    },
+    "Living Destiny": {
+      "categories": ["other"]
+    },
+    "Might of the Masses": {
+      "categories": ["board"]
+    },
+    "Momentous Fall": {
+      "categories": ["other"]
+    },
+    "Naturalize": {
+      "categories": ["other"]
+    },
+    "Not of This World": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Prey's Vengeance": {
+      "categories": ["board"]
+    },
+    "Puncturing Light": {
+      "categories": ["board"]
+    },
+    "Reality Spasm": {
+      "categories": ["board"]
+    },
+    "Realms Uncharted": {
+      "categories": ["other"]
+    },
+    "Regress": {
+      "categories": ["board"]
+    },
+    "Repel the Darkness": {
+      "categories": ["board"]
+    },
+    "Smite": {
+      "categories": ["board"]
+    },
+    "Spawning Breath": {
+      "categories": ["board"]
+    },
+    "Staggershock": {
+      "categories": ["board"]
+    },
+    "Suffer the Past": {
+      "categories": ["other"]
+    },
+    "Unified Will": {
+      "categories": ["counterspell"]
+    },
+    "Vendetta": {
+      "categories": ["board"]
+    },
+    "Virulent Swipe": {
+      "categories": ["board"]
+    }
+  }
+}

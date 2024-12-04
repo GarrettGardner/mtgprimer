@@ -1,0 +1,59 @@
+{
+  "name": "Theme: Vampires",
+  "icon": "fas fa-wine-bottle",
+  "categories": {
+    "vampire": "All Vampires",
+    "vampire-payoff": "Vampire Payoffs",
+    "damage": "Damage Payoff"
+  },
+  "cards": {
+    "Arrogant Outlaw": {
+      "categories": ["vampire", "damage"]
+    },
+    "Bat Whisperer": {
+      "categories": ["vampire", "damage"]
+    },
+    "Bloodthirsty Adversary": {
+      "categories": ["vampire"]
+    },
+    "Bloodtithe Collector": {
+      "categories": ["vampire", "damage"]
+    },
+    "Falkenrath Perforator": {
+      "categories": ["vampire"]
+    },
+    "Falkenrath Pit Fighter": {
+      "categories": ["vampire", "vampire-payoff", "damage"]
+    },
+    "Famished Foragers": {
+      "categories": ["vampire", "damage"]
+    },
+    "Florian, Voldaren Scion": {
+      "categories": ["vampire"]
+    },
+    "Mounted Dreadknight": {
+      "categories": ["vampire", "damage"]
+    },
+    "Neonate's Rush": {
+      "categories": ["vampire-payoff"]
+    },
+    "Slaughter Specialist": {
+      "categories": ["vampire"]
+    },
+    "Stromkirk Bloodthief": {
+      "categories": ["vampire", "vampire-payoff", "damage"]
+    },
+    "Vampire Interloper": {
+      "categories": ["vampire"]
+    },
+    "Vampire Socialite": {
+      "categories": ["vampire", "vampire-payoff", "damage"]
+    },
+    "Voldaren Ambusher": {
+      "categories": ["vampire", "vampire-payoff"]
+    },
+    "Voldaren Stinger": {
+      "categories": ["vampire"]
+    }
+  }
+}

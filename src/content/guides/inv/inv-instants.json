@@ -1,0 +1,195 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Absorb": {
+      "categories": ["board"]
+    },
+    "Aggressive Urge": {
+      "categories": ["board"]
+    },
+    "Agonizing Demise": {
+      "categories": ["board"]
+    },
+    "Annihilate": {
+      "categories": ["board"]
+    },
+    "Artifact Mutation": {
+      "categories": ["board"]
+    },
+    "Aura Mutation": {
+      "categories": ["board"]
+    },
+    "Backlash": {
+      "categories": ["board"]
+    },
+    "Barrin's Unmaking": {
+      "categories": ["board"]
+    },
+    "Bind": {
+      "categories": ["board"]
+    },
+    "Breaking Wave": {
+      "categories": ["board"]
+    },
+    "Cauldron Dance": {
+      "categories": ["board"]
+    },
+    "Chaotic Strike": {
+      "categories": ["board"]
+    },
+    "Cremate": {
+      "categories": ["board"]
+    },
+    "Crystal Spray": {
+      "categories": ["board"]
+    },
+    "Defiling Tears": {
+      "categories": ["board"]
+    },
+    "Dismantling Blow": {
+      "categories": ["board"]
+    },
+    "Disrupt": {
+      "categories": ["board"]
+    },
+    "Dredge": {
+      "categories": ["board"]
+    },
+    "Exclude": {
+      "categories": ["board"]
+    },
+    "Explosive Growth": {
+      "categories": ["board"]
+    },
+    "Fact or Fiction": {
+      "categories": ["board"]
+    },
+    "Ghitu Fire": {
+      "categories": ["board"]
+    },
+    "Harrow": {
+      "categories": ["board"]
+    },
+    "Heroes' Reunion": {
+      "categories": ["board"]
+    },
+    "Holy Day": {
+      "categories": ["board"]
+    },
+    "Liberate": {
+      "categories": ["board"]
+    },
+    "Lightning Dart": {
+      "categories": ["board"]
+    },
+    "Mages' Contest": {
+      "categories": ["board"]
+    },
+    "Opt": {
+      "categories": ["board"]
+    },
+    "Orim's Touch": {
+      "categories": ["board"]
+    },
+    "Overload": {
+      "categories": ["board"]
+    },
+    "Prohibit": {
+      "categories": ["board"]
+    },
+    "Raging Kavu": {
+      "categories": ["board"]
+    },
+    "Reckless Spite": {
+      "categories": ["board"]
+    },
+    "Recoil": {
+      "categories": ["board"]
+    },
+    "Repulse": {
+      "categories": ["board"]
+    },
+    "Restrain": {
+      "categories": ["board"]
+    },
+    "Reviving Dose": {
+      "categories": ["board"]
+    },
+    "Reviving Vapors": {
+      "categories": ["board"]
+    },
+    "Rout": {
+      "categories": ["board"]
+    },
+    "Samite Ministration": {
+      "categories": ["board"]
+    },
+    "Saproling Symbiosis": {
+      "categories": ["board"]
+    },
+    "Scorching Lava": {
+      "categories": ["board"]
+    },
+    "Simoon": {
+      "categories": ["board"]
+    },
+    "Spinal Embrace": {
+      "categories": ["board"]
+    },
+    "Spite // Malice": {
+      "categories": ["board"]
+    },
+    "Stand // Deliver": {
+      "categories": ["board"]
+    },
+    "Stun": {
+      "categories": ["board"]
+    },
+    "Sway of Illusion": {
+      "categories": ["board"]
+    },
+    "Tangle": {
+      "categories": ["board"]
+    },
+    "Teferi's Response": {
+      "categories": ["board"]
+    },
+    "Tsabo's Decree": {
+      "categories": ["board"]
+    },
+    "Turf Wound": {
+      "categories": ["board"]
+    },
+    "Twilight's Call": {
+      "categories": ["board"]
+    },
+    "Undermine": {
+      "categories": ["board"]
+    },
+    "Urza's Rage": {
+      "categories": ["board"]
+    },
+    "Vigorous Charge": {
+      "categories": ["board"]
+    },
+    "Wax // Wane": {
+      "categories": ["board"]
+    },
+    "Winnow": {
+      "categories": ["board"]
+    },
+    "Worldly Counsel": {
+      "categories": ["board"]
+    },
+    "Zap": {
+      "categories": ["board"]
+    }
+  }
+}

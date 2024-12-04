@@ -1,0 +1,73 @@
+{
+  "name": "Theme: +1/+1 Counters",
+  "icon": "fas fa-dumbbell",
+  "categories": {
+    "payoffs": "+1/+1 Counter Payoffs",
+    "enablers": "+1/+1 Counter Enablers"
+  },
+  "cards": {
+    "Basri Ket": {
+      "categories": ["enablers"]
+    },
+    "Basri's Acolyte": {
+      "categories": ["enablers"]
+    },
+    "Basri's Lieutenant": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Basri's Solidarity": {
+      "categories": ["enablers"]
+    },
+    "Conclave Mentor": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Drowsing Tyrannodon": {
+      "categories": ["payoffs"]
+    },
+    "Feat of Resistance": {
+      "categories": ["enablers"]
+    },
+    "Hobblefiend": {
+      "categories": ["payoffs"]
+    },
+    "Hunter's Edge": {
+      "categories": ["enablers"]
+    },
+    "Invigorating Surge": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Light of Promise": {
+      "categories": ["payoffs"]
+    },
+    "Lorescale Coatl": {
+      "categories": ["enablers"]
+    },
+    "Makeshift Battalion": {
+      "categories": ["enablers"]
+    },
+    "Pridemalkin": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Quirion Dryad": {
+      "categories": ["enablers"]
+    },
+    "Sabertooth Mauler": {
+      "categories": ["enablers"]
+    },
+    "Scavenging Ooze": {
+      "categories": ["enablers"]
+    },
+    "Spellgorger Weird": {
+      "categories": ["payoffs"]
+    },
+    "Tempered Veteran": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Trufflesnout": {
+      "categories": ["enablers"]
+    },
+    "Wildwood Scourge": {
+      "categories": ["enablers", "payoffs"]
+    }
+  }
+}

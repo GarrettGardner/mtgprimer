@@ -1,0 +1,34 @@
+{
+  "name": "Theme: Toughness",
+  "icon": "fas fa-tree",
+  "categories": {
+    "toughness": "High Toughness Cards",
+    "payoff": "Toughness Payoffs"
+  },
+  "cards": {
+    "Ancient Lumberknot": {
+      "categories": ["payoff"]
+    },
+    "Apprentice Sharpshooter": {
+      "categories": ["toughness"]
+    },
+    "Catapult Fodder // Catapult Captain": {
+      "categories": ["payoff"]
+    },
+    "Dormant Grove // Gnarled Grovestrider": {
+      "categories": ["payoff"]
+    },
+    "Flourishing Hunter": {
+      "categories": ["payoff"]
+    },
+    "Gluttonous Guest": {
+      "categories": ["toughness"]
+    },
+    "Sheltering Boughs": {
+      "categories": ["toughness"]
+    },
+    "Unhallowed Phalanx": {
+      "categories": ["toughness"]
+    }
+  }
+}

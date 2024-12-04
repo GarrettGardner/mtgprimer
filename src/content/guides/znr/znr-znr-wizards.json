@@ -1,0 +1,88 @@
+{
+  "name": "Theme: Wizards",
+  "icon": "fas fa-hat-wizard",
+  "categories": {
+    "payoffs": "Wizard Payoffs",
+    "all": "All Wizards"
+  },
+  "cards": {
+    "Ardent Electromancer": {
+      "categories": ["all"]
+    },
+    "Cascade Seer": {
+      "categories": ["all"]
+    },
+    "Chilling Trap": {
+      "categories": ["payoffs"]
+    },
+    "Coralhelm Chronicler": {
+      "categories": ["all"]
+    },
+    "Cunning Geysermage": {
+      "categories": ["all"]
+    },
+    "Expedition Diviner": {
+      "categories": ["payoffs", "all"]
+    },
+    "Farsight Adept": {
+      "categories": ["all"]
+    },
+    "Fissure Wizard": {
+      "categories": ["all"]
+    },
+    "Joraga Visionary": {
+      "categories": ["all"]
+    },
+    "Kaza, Roil Chaser": {
+      "categories": ["all"]
+    },
+    "Linvala, Shield of Sea Gate": {
+      "categories": ["all"]
+    },
+    "Magmatic Channeler": {
+      "categories": ["all"]
+    },
+    "Master of Winds": {
+      "categories": ["all"]
+    },
+    "Merfolk Falconer": {
+      "categories": ["all"]
+    },
+    "Relic Amulet": {
+      "categories": ["payoffs"]
+    },
+    "Rockslide Sorcerer": {
+      "categories": ["payoffs", "all"]
+    },
+    "Sea Gate Stormcaller": {
+      "categories": ["all"]
+    },
+    "Stonework Packbeast": {
+      "categories": ["all"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["all"]
+    },
+    "Taunting Arbormage": {
+      "categories": ["all"]
+    },
+    "Tazeem Roilmage": {
+      "categories": ["all"]
+    },
+    "Thundering Sparkmage": {
+      "categories": ["all"]
+    },
+    "Umara Mystic": {
+      "categories": ["payoffs", "all"]
+    },
+    "Umara Wizard // Umara Skyfalls": {
+      "categories": ["all"]
+    },
+    "Veteran Adventurer": {
+      "categories": ["all"]
+    },
+    "Windrider Wizard": {
+      "categories": ["payoffs", "all"]
+    }
+  }
+}

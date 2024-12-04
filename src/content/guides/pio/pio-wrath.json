@@ -1,0 +1,30 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Chandra, Flamecaller": {
+      "categories": ["conditional"]
+    },
+    "Elspeth, Sun's Champion": {
+      "categories": ["conditional"]
+    },
+    "Gates Ablaze": {
+      "categories": ["conditional"]
+    },
+    "Kozilek's Return": {
+      "categories": ["conditional"]
+    },
+    "Mizzium Mortars": {
+      "categories": ["conditional"]
+    },
+    "Radiant Flames": {
+      "categories": ["conditional"]
+    },
+    "Skyreaping": {
+      "categories": ["conditional"]
+    }
+  }
+}

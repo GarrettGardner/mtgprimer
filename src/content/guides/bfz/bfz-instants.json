@@ -1,0 +1,111 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Adverse Conditions": {
+      "categories": ["board"]
+    },
+    "Altar's Reap": {
+      "categories": ["other"]
+    },
+    "Anticipate": {
+      "categories": ["other"]
+    },
+    "Brutal Expulsion": {
+      "categories": ["board", "counterspell"]
+    },
+    "Complete Disregard": {
+      "categories": ["board"]
+    },
+    "Dispel": {
+      "categories": ["counterspell"]
+    },
+    "Encircling Fissure": {
+      "categories": ["board"]
+    },
+    "Gideon's Reproach": {
+      "categories": ["board"]
+    },
+    "Grave Birthing": {
+      "categories": ["board"]
+    },
+    "Grip of Desolation": {
+      "categories": ["board"]
+    },
+    "Horribly Awry": {
+      "categories": ["counterspell"]
+    },
+    "Infuse with the Elements": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Lithomancer's Focus": {
+      "categories": ["board"]
+    },
+    "Natural Connection": {
+      "categories": ["other"]
+    },
+    "Outnumber": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Roil's Retribution": {
+      "categories": ["board"]
+    },
+    "Roilmage's Trick": {
+      "categories": ["board"]
+    },
+    "Scatter to the Winds": {
+      "categories": ["counterspell"]
+    },
+    "Scour from Existence": {
+      "categories": ["board"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["board"]
+    },
+    "Spell Shrivel": {
+      "categories": ["counterspell"]
+    },
+    "Stasis Snare": {
+      "categories": ["board"]
+    },
+    "Stonefury": {
+      "categories": ["board"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Swell of Growth": {
+      "categories": ["board"]
+    },
+    "Tandem Tactics": {
+      "categories": ["board"]
+    },
+    "Titan's Presence": {
+      "categories": ["board"]
+    },
+    "Turn Against": {
+      "categories": ["board"]
+    },
+    "Ulamog's Nullifier": {
+      "categories": ["board", "counterspell"]
+    },
+    "Unnatural Aggression": {
+      "categories": ["board"]
+    },
+    "Volcanic Upheaval": {
+      "categories": ["board"]
+    }
+  }
+}

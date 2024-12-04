@@ -1,0 +1,9 @@
+TODO List (Future)
+- ESLint & Prettier Git Hooks
+- Button to minimize filter bar
+- Different layouts especially for split cards
+- Search bar on directory page
+- Card cost override indicator
+- Add scroll up button
+- Loading states
+ 

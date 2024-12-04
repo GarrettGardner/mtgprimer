@@ -1,0 +1,944 @@
+{
+  "code": "csp",
+  "formatName": "Coldsnap",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Adarkar Valkyrie": {
+      "number": "1",
+      "cost": ["4", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Boreal Griffin": {
+      "number": "2",
+      "cost": ["3", "w", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cover of Winter": {
+      "number": "3",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Darien, King of Kjeldor": {
+      "number": "4",
+      "cost": ["4", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Field Marshal": {
+      "number": "5",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gelid Shackles": {
+      "number": "6",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Glacial Plating": {
+      "number": "7",
+      "cost": ["2", "w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Jötun Grunt": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jötun Owl Keeper": {
+      "number": "9",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kjeldoran Gargoyle": {
+      "number": "10",
+      "cost": ["5", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kjeldoran Javelineer": {
+      "number": "11",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kjeldoran Outrider": {
+      "number": "12",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kjeldoran War Cry": {
+      "number": "13",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Luminesce": {
+      "number": "14",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Martyr of Sands": {
+      "number": "15",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ronom Unicorn": {
+      "number": "16",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Squall Drifter": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sun's Bounty": {
+      "number": "18",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sunscour": {
+      "number": "19",
+      "cost": ["5", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Surging Sentinels": {
+      "number": "20",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Swift Maneuver": {
+      "number": "21",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ursine Fylgja": {
+      "number": "22",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Wall of Shards": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "White Shield Crusader": {
+      "number": "24",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Woolly Razorback": {
+      "number": "25",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Adarkar Windform": {
+      "number": "26",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Arcum Dagsson": {
+      "number": "27",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Balduvian Frostwaker": {
+      "number": "28",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Commandeer": {
+      "number": "29",
+      "cost": ["5", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Controvert": {
+      "number": "30",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Counterbalance": {
+      "number": "31",
+      "cost": ["u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Drelnoch": {
+      "number": "32",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Flashfreeze": {
+      "number": "33",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Frost Raptor": {
+      "number": "34",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Frozen Solid": {
+      "number": "35",
+      "cost": ["1", "u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Heidar, Rimewind Master": {
+      "number": "36",
+      "cost": ["4", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Jokulmorder": {
+      "number": "37",
+      "cost": ["4", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Krovikan Mist": {
+      "number": "38",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Krovikan Whispers": {
+      "number": "39",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Martyr of Frost": {
+      "number": "40",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Perilous Research": {
+      "number": "41",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rimefeather Owl": {
+      "number": "42",
+      "cost": ["5", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rimewind Cryomancer": {
+      "number": "43",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rimewind Taskmage": {
+      "number": "44",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ronom Serpent": {
+      "number": "45",
+      "cost": ["5", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rune Snag": {
+      "number": "46",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Surging Aether": {
+      "number": "47",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Survivor of the Unseen": {
+      "number": "48",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Thermal Flux": {
+      "number": "49",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Vexing Sphinx": {
+      "number": "50",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Balduvian Fallen": {
+      "number": "51",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Chill to the Bone": {
+      "number": "52",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chilling Shade": {
+      "number": "53",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Deathmark": {
+      "number": "54",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Disciple of Tevesh Szat": {
+      "number": "55",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Feast of Flesh": {
+      "number": "56",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Garza's Assassin": {
+      "number": "57",
+      "cost": ["b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Grim Harvest": {
+      "number": "58",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gristle Grinner": {
+      "number": "59",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gutless Ghoul": {
+      "number": "60",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Haakon, Stromgald Scourge": {
+      "number": "61",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Herald of Leshrac": {
+      "number": "62",
+      "cost": ["6", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Krovikan Rot": {
+      "number": "63",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Krovikan Scoundrel": {
+      "number": "64",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Martyr of Bones": {
+      "number": "65",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Phobian Phantasm": {
+      "number": "66",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Phyrexian Etchings": {
+      "number": "67",
+      "cost": ["b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rime Transfusion": {
+      "number": "68",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rimebound Dead": {
+      "number": "69",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Soul Spike": {
+      "number": "70",
+      "cost": ["5", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Stromgald Crusader": {
+      "number": "71",
+      "cost": ["b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Surging Dementia": {
+      "number": "72",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tresserhorn Skyknight": {
+      "number": "73",
+      "cost": ["5", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Void Maw": {
+      "number": "74",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Zombie Musher": {
+      "number": "75",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Balduvian Rage": {
+      "number": "76",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Balduvian Warlord": {
+      "number": "77",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Braid of Fire": {
+      "number": "78",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cryoclasm": {
+      "number": "79",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Earthen Goo": {
+      "number": "80",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fury of the Horde": {
+      "number": "81",
+      "cost": ["5", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Goblin Furrier": {
+      "number": "82",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Goblin Rimerunner": {
+      "number": "83",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Greater Stone Spirit": {
+      "number": "84",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Icefall": {
+      "number": "85",
+      "cost": ["2", "r", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Karplusan Minotaur": {
+      "number": "86",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Karplusan Wolverine": {
+      "number": "87",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lightning Serpent": {
+      "number": "88",
+      "cost": ["x", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lightning Storm": {
+      "number": "89",
+      "cost": ["1", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lovisa Coldeyes": {
+      "number": "90",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Magmatic Core": {
+      "number": "91",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Martyr of Ashes": {
+      "number": "92",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ohran Yeti": {
+      "number": "93",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Orcish Bloodpainter": {
+      "number": "94",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rimescale Dragon": {
+      "number": "95",
+      "cost": ["5", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rite of Flame": {
+      "number": "96",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Skred": {
+      "number": "97",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Stalking Yeti": {
+      "number": "98",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Surging Flame": {
+      "number": "99",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thermopod": {
+      "number": "100",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Allosaurus Rider": {
+      "number": "101",
+      "cost": ["5", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Arctic Nishoba": {
+      "number": "102",
+      "cost": ["5", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aurochs Herd": {
+      "number": "103",
+      "cost": ["5", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Boreal Centaur": {
+      "number": "104",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Boreal Druid": {
+      "number": "105",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Brooding Saurian": {
+      "number": "106",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bull Aurochs": {
+      "number": "107",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Freyalise's Radiance": {
+      "number": "108",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Frostweb Spider": {
+      "number": "109",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hibernation's End": {
+      "number": "110",
+      "cost": ["4", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Into the North": {
+      "number": "111",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Karplusan Strider": {
+      "number": "112",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Martyr of Spores": {
+      "number": "113",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mystic Melting": {
+      "number": "114",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ohran Viper": {
+      "number": "115",
+      "cost": ["1", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Panglacial Wurm": {
+      "number": "116",
+      "cost": ["5", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Resize": {
+      "number": "117",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rimehorn Aurochs": {
+      "number": "118",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ronom Hulk": {
+      "number": "119",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shape of the Wiitigo": {
+      "number": "120",
+      "cost": ["3", "g", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sheltering Ancient": {
+      "number": "121",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Simian Brawler": {
+      "number": "122",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sound the Call": {
+      "number": "123",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Steam Spitter": {
+      "number": "124",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Surging Might": {
+      "number": "125",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Blizzard Specter": {
+      "number": "126",
+      "cost": ["2", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deepfire Elemental": {
+      "number": "127",
+      "cost": ["4", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Diamond Faerie": {
+      "number": "128",
+      "cost": ["2", "g", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Garza Zol, Plague Queen": {
+      "number": "129",
+      "cost": ["4", "u", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Juniper Order Ranger": {
+      "number": "130",
+      "cost": ["3", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sek'Kuar, Deathkeeper": {
+      "number": "131",
+      "cost": ["2", "b", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tamanoa": {
+      "number": "132",
+      "cost": ["r", "g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Vanish into Memory": {
+      "number": "133",
+      "cost": ["2", "w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wilderness Elemental": {
+      "number": "134",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Zur the Enchanter": {
+      "number": "135",
+      "cost": ["1", "w", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Coldsteel Heart": {
+      "number": "136",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Jester's Scepter": {
+      "number": "137",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mishra's Bauble": {
+      "number": "138",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Phyrexian Ironfoot": {
+      "number": "139",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Phyrexian Snowcrusher": {
+      "number": "140",
+      "cost": ["6"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Phyrexian Soulgorger": {
+      "number": "141",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thrumming Stone": {
+      "number": "142",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Arctic Flats": {
+      "number": "143",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Boreal Shelf": {
+      "number": "144",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Dark Depths": {
+      "number": "145",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Frost Marsh": {
+      "number": "146",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Highland Weald": {
+      "number": "147",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Mouth of Ronom": {
+      "number": "148",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Scrying Sheets": {
+      "number": "149",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Tresserhorn Sinks": {
+      "number": "150",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Snow-Covered Plains": {
+      "number": "151",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Snow-Covered Island": {
+      "number": "152",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Snow-Covered Swamp": {
+      "number": "153",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Snow-Covered Mountain": {
+      "number": "154",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Snow-Covered Forest": {
+      "number": "155",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    }
+  }
+}

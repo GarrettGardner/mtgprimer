@@ -1,0 +1,93 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Act of Aggression": {
+      "categories": ["board"]
+    },
+    "Apostle's Blessing": {
+      "categories": ["board"]
+    },
+    "Argent Mutation": {
+      "categories": ["board"]
+    },
+    "Artillerize": {
+      "categories": ["board"]
+    },
+    "Beast Within": {
+      "categories": ["board"]
+    },
+    "Corrupted Resolve": {
+      "categories": ["board"]
+    },
+    "Deceiver Exarch": {
+      "categories": ["board"]
+    },
+    "Dismember": {
+      "categories": ["board"]
+    },
+    "Dispatch": {
+      "categories": ["board"]
+    },
+    "Due Respect": {
+      "categories": ["board"]
+    },
+    "Fresh Meat": {
+      "categories": ["board"]
+    },
+    "Geth's Verdict": {
+      "categories": ["board"]
+    },
+    "Glissa's Scorn": {
+      "categories": ["board"]
+    },
+    "Grim Affliction": {
+      "categories": ["board"]
+    },
+    "Gut Shot": {
+      "categories": ["board"]
+    },
+    "Jin-Gitaxias, Core Augur": {
+      "categories": ["board"]
+    },
+    "Leeching Bite": {
+      "categories": ["board"]
+    },
+    "Marrow Shards": {
+      "categories": ["board"]
+    },
+    "Mental Misstep": {
+      "categories": ["board"]
+    },
+    "Mutagenic Growth": {
+      "categories": ["board"]
+    },
+    "Noxious Revival": {
+      "categories": ["board"]
+    },
+    "Psychic Barrier": {
+      "categories": ["board"]
+    },
+    "Spire Monitor": {
+      "categories": ["board"]
+    },
+    "Surgical Extraction": {
+      "categories": ["board"]
+    },
+    "Vapor Snag": {
+      "categories": ["board"]
+    },
+    "Volt Charge": {
+      "categories": ["board"]
+    },
+    "War Report": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blades of Velis Vel": {
+      "categories": ["board"]
+    },
+    "Briarhorn": {
+      "categories": ["board"]
+    },
+    "Broken Ambitions": {
+      "categories": ["board"]
+    },
+    "Cloudthresher": {
+      "categories": ["board"]
+    },
+    "Crib Swap": {
+      "categories": ["board"]
+    },
+    "Crush Underfoot": {
+      "categories": ["board"]
+    },
+    "Cryptic Command": {
+      "categories": ["board"]
+    },
+    "Dawnfluke": {
+      "categories": ["board"]
+    },
+    "Ego Erasure": {
+      "categories": ["board"]
+    },
+    "Epic Proportions": {
+      "categories": ["board"]
+    },
+    "Eyeblight's Ending": {
+      "categories": ["board"]
+    },
+    "Faerie Harbinger": {
+      "categories": ["board"]
+    },
+    "Faerie Trickery": {
+      "categories": ["board"]
+    },
+    "Familiar's Ruse": {
+      "categories": ["board"]
+    },
+    "Fistful of Force": {
+      "categories": ["board"]
+    },
+    "Footbottom Feast": {
+      "categories": ["board"]
+    },
+    "Gilt-Leaf Ambush": {
+      "categories": ["board"]
+    },
+    "Heal the Scars": {
+      "categories": ["board"]
+    },
+    "Lace with Moonglove": {
+      "categories": ["board"]
+    },
+    "Lammastide Weave": {
+      "categories": ["board"]
+    },
+    "Lash Out": {
+      "categories": ["board"]
+    },
+    "Makeshift Mannequin": {
+      "categories": ["board"]
+    },
+    "Mistbind Clique": {
+      "categories": ["board"]
+    },
+    "Nameless Inversion": {
+      "categories": ["board"]
+    },
+    "Neck Snap": {
+      "categories": ["board"]
+    },
+    "Needle Drop": {
+      "categories": ["board"]
+    },
+    "Peppersmoke": {
+      "categories": ["board"]
+    },
+    "Pestermite": {
+      "categories": ["board"]
+    },
+    "Pollen Lullaby": {
+      "categories": ["board"]
+    },
+    "Rootgrapple": {
+      "categories": ["board"]
+    },
+    "Scattering Stroke": {
+      "categories": ["board"]
+    },
+    "Scion of Oona": {
+      "categories": ["board"]
+    },
+    "Sentinels of Glen Elendra": {
+      "categories": ["board"]
+    },
+    "Shields of Velis Vel": {
+      "categories": ["board"]
+    },
+    "Spellstutter Sprite": {
+      "categories": ["board"]
+    },
+    "Spring Cleaning": {
+      "categories": ["board"]
+    },
+    "Surge of Thoughtweft": {
+      "categories": ["board"]
+    },
+    "Tarfire": {
+      "categories": ["board"]
+    },
+    "Triclopean Sight": {
+      "categories": ["board"]
+    },
+    "Whirlpool Whelm": {
+      "categories": ["board"]
+    },
+    "Wild Ricochet": {
+      "categories": ["board"]
+    },
+    "Wings of Velis Vel": {
+      "categories": ["board"]
+    },
+    "Wydwen, the Biting Gale": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.icon {
+  &:global(.ss-u) {
+    color: rgb(var(--color-mtg-uncommon));
+  }
+
+  &:global(.ss-r) {
+    color: rgb(var(--color-mtg-rare));
+  }
+
+  &:global(.ss-m) {
+    color: rgb(var(--color-mtg-mythic));
+  }
+}

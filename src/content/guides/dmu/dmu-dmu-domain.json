@@ -1,0 +1,28 @@
+{
+  "name": "Mechanic: Domain",
+  "icon": "fas fa-map",
+  "cards": {
+    "Artillery Blast": {},
+    "Bortuk Bonerattle": {},
+    "Drag to the Bottom": {},
+    "Gaea's Might": {},
+    "Herd Migration": {},
+    "Jodah's Codex": {},
+    "Leyline Binding": {},
+    "Llanowar Greenwidow": {},
+    "Meria's Outrider": {},
+    "Nael, Avizoa Aeronaut": {},
+    "Nishoba Brawler": {},
+    "Radha's Firebrand": {},
+    "Radha, Coalition Warlord": {},
+    "Shadow Prophecy": {},
+    "Slimefoot's Survey": {},
+    "Sphinx of Clear Skies": {},
+    "Sunbathing Rootwalla": {},
+    "Territorial Maro": {},
+    "The Weatherseed Treaty": {},
+    "Voda Sea Scavenger": {},
+    "Yavimaya Sojourner": {},
+    "Zar Ojanen, Scion of Efrava": {}
+  }
+}

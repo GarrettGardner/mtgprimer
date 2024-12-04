@@ -1,0 +1,34 @@
+{
+  "cards": {
+    "Crawling Infestation": {
+      "categories": ["self"]
+    },
+    "Fear of Death": {
+      "categories": ["self"]
+    },
+    "Grolnok, the Omnivore": {
+      "categories": ["self"]
+    },
+    "Moldgraf Millipede": {
+      "categories": ["self"]
+    },
+    "Mulch": {
+      "categories": ["self"]
+    },
+    "Old Rutstein": {
+      "categories": ["self"]
+    },
+    "Scattered Thoughts": {
+      "categories": ["self"]
+    },
+    "Screaming Swarm": {
+      "categories": ["both"]
+    },
+    "Undead Butler": {
+      "categories": ["self"]
+    },
+    "Vilespawn Spider": {
+      "categories": ["self"]
+    }
+  }
+}

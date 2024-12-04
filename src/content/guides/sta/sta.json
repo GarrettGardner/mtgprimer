@@ -1,0 +1,392 @@
+{
+  "code": "sta",
+  "formatName": "Strixhaven Mystical Archive",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Approach of the Second Sun": {
+      "number": "1",
+      "cost": ["6", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Day of Judgment": {
+      "number": "2",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Defiant Strike": {
+      "number": "3",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Divine Gambit": {
+      "number": "4",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ephemerate": {
+      "number": "5",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Gift of Estates": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Gods Willing": {
+      "number": "7",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mana Tithe": {
+      "number": "8",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Revitalize": {
+      "number": "9",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Swords to Plowshares": {
+      "number": "10",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Teferi's Protection": {
+      "number": "11",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Blue Sun's Zenith": {
+      "number": "12",
+      "cost": ["x", "u", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Brainstorm": {
+      "number": "13",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Compulsive Research": {
+      "number": "14",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Counterspell": {
+      "number": "15",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Memory Lapse": {
+      "number": "16",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mind's Desire": {
+      "number": "17",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Negate": {
+      "number": "18",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Opt": {
+      "number": "19",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Strategic Planning": {
+      "number": "20",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tezzeret's Gambit": {
+      "number": "21",
+      "cost": ["3", "up"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Time Warp": {
+      "number": "22",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Whirlwind Denial": {
+      "number": "23",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Agonizing Remorse": {
+      "number": "24",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crux of Fate": {
+      "number": "25",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dark Ritual": {
+      "number": "26",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Demonic Tutor": {
+      "number": "27",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Doom Blade": {
+      "number": "28",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Duress": {
+      "number": "29",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Eliminate": {
+      "number": "30",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Inquisition of Kozilek": {
+      "number": "31",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sign in Blood": {
+      "number": "32",
+      "cost": ["b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tainted Pact": {
+      "number": "33",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tendrils of Agony": {
+      "number": "34",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Village Rites": {
+      "number": "35",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Chaos Warp": {
+      "number": "36",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Claim the Firstborn": {
+      "number": "37",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Faithless Looting": {
+      "number": "38",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Grapeshot": {
+      "number": "39",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Increasing Vengeance": {
+      "number": "40",
+      "cost": ["r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Infuriate": {
+      "number": "41",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lightning Bolt": {
+      "number": "42",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mizzix's Mastery": {
+      "number": "43",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shock": {
+      "number": "44",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stone Rain": {
+      "number": "45",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thrill of Possibility": {
+      "number": "46",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Urza's Rage": {
+      "number": "47",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Abundant Harvest": {
+      "number": "48",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Adventurous Impulse": {
+      "number": "49",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Channel": {
+      "number": "50",
+      "cost": ["g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Cultivate": {
+      "number": "51",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Harmonize": {
+      "number": "52",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Krosan Grip": {
+      "number": "53",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Natural Order": {
+      "number": "54",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Primal Command": {
+      "number": "55",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Regrowth": {
+      "number": "56",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Snakeskin Veil": {
+      "number": "57",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Weather the Storm": {
+      "number": "58",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Despark": {
+      "number": "59",
+      "cost": ["w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Electrolyze": {
+      "number": "60",
+      "cost": ["1", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Growth Spiral": {
+      "number": "61",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Lightning Helix": {
+      "number": "62",
+      "cost": ["r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Putrefy": {
+      "number": "63",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Bake into a Pie": {
+      "categories": ["board"]
+    },
+    "Barge In": {
+      "categories": ["board"]
+    },
+    "Blacklance Paragon": {
+      "categories": ["board"]
+    },
+    "Boulder Rush": {
+      "categories": ["board"]
+    },
+    "Chop Down": {
+      "categories": ["board"]
+    },
+    "Didn't Say Please": {
+      "categories": ["counterspell"]
+    },
+    "Dizzying Swoop": {
+      "categories": ["board"]
+    },
+    "Drown in the Loch": {
+      "categories": ["board", "counterspell"]
+    },
+    "Embercleave": {
+      "categories": ["board"]
+    },
+    "Faerie Vandal": {
+      "categories": ["board"]
+    },
+    "Fell the Pheasant": {
+      "categories": ["board"]
+    },
+    "Festive Funeral": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Haggle": {
+      "categories": ["other"]
+    },
+    "Insatiable Appetite": {
+      "categories": ["board"]
+    },
+    "Into the Story": {
+      "categories": ["other"],
+      "cost": ["2", "u", "u"]
+    },
+    "Lash of Thorns": {
+      "categories": ["board"]
+    },
+    "Lochmere Serpent": {
+      "categories": ["board"]
+    },
+    "Mesmeric Glare": {
+      "categories": ["counterspell"]
+    },
+    "Mystical Dispute": {
+      "categories": ["counterspell"],
+      "cost": ["u"]
+    },
+    "On Alert": {
+      "categories": ["board"]
+    },
+    "Once Upon a Time": {
+      "categories": ["other"]
+    },
+    "Once and Future": {
+      "categories": ["other"]
+    },
+    "Opt": {
+      "categories": ["other"]
+    },
+    "Outflank": {
+      "categories": ["board"]
+    },
+    "Petty Theft": {
+      "categories": ["board"]
+    },
+    "Profane Insight": {
+      "categories": ["other"]
+    },
+    "Rally for the Throne": {
+      "categories": ["board"]
+    },
+    "Redcap Melee": {
+      "categories": ["board"]
+    },
+    "Return of the Wildspeaker": {
+      "categories": ["board"]
+    },
+    "Return to Nature": {
+      "categories": ["board"]
+    },
+    "Righteousness": {
+      "categories": ["board"]
+    },
+    "Run Away Together": {
+      "categories": ["board"]
+    },
+    "Scorching Dragonfire": {
+      "categories": ["board"]
+    },
+    "Searing Barrage": {
+      "categories": ["board"]
+    },
+    "Shield's Might": {
+      "categories": ["board"]
+    },
+    "Shining Armor": {
+      "categories": ["board"]
+    },
+    "Slaying Fire": {
+      "categories": ["board"]
+    },
+    "So Tiny": {
+      "categories": ["board"]
+    },
+    "Stomp": {
+      "categories": ["board"]
+    },
+    "Swift End": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "True Love's Kiss": {
+      "categories": ["board"]
+    },
+    "Turn into a Pumpkin": {
+      "categories": ["board"]
+    },
+    "Usher to Safety": {
+      "categories": ["board"]
+    },
+    "Wildborn Preserver": {
+      "categories": ["board"]
+    }
+  }
+}

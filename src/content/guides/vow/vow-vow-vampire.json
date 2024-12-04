@@ -1,0 +1,122 @@
+{
+  "name": "Theme: Vampire Tribal",
+  "icon": "fas fa-wine-bottle",
+  "categories": {
+    "vampire": "All Vampires",
+    "payoff": "Vampire Payoffs",
+    "hate": "Vampire Hate Cards"
+  },
+  "cards": {
+    "Alluring Suitor // Deadly Dancer": {
+      "categories": ["vampire"]
+    },
+    "Anje, Maid of Dishonor": {
+      "categories": ["vampire", "payoff"]
+    },
+    "Belligerent Guest": {
+      "categories": ["vampire"]
+    },
+    "Blood Hypnotist": {
+      "categories": ["vampire"]
+    },
+    "Blood Petal Celebrant": {
+      "categories": ["vampire"]
+    },
+    "Bloodcrazed Socialite": {
+      "categories": ["vampire"]
+    },
+    "Bloodsworn Squire // Bloodsworn Knight": {
+      "categories": ["vampire"]
+    },
+    "Bloodtithe Harvester": {
+      "categories": ["vampire"]
+    },
+    "Bloodvial Purveyor": {
+      "categories": ["vampire"]
+    },
+    "Cemetery Gatekeeper": {
+      "categories": ["vampire"]
+    },
+    "Circle of Confinement": {
+      "categories": ["hate"]
+    },
+    "Dominating Vampire": {
+      "categories": ["vampire", "payoff"]
+    },
+    "Edgar, Charmed Groom // Edgar Markov's Coffin": {
+      "categories": ["vampire", "payoff"]
+    },
+    "Falkenrath Celebrants": {
+      "categories": ["vampire"]
+    },
+    "Falkenrath Forebear": {
+      "categories": ["vampire"]
+    },
+    "Gift of Fangs": {
+      "categories": ["payoff"]
+    },
+    "Gluttonous Guest": {
+      "categories": ["vampire"]
+    },
+    "Henrika Domnathi // Henrika, Infernal Seer": {
+      "categories": ["vampire"]
+    },
+    "Innocent Traveler // Malicious Invader": {
+      "categories": ["vampire"]
+    },
+    "Katilda, Dawnhart Martyr // Katilda's Rising Dawn": {
+      "categories": ["hate"]
+    },
+    "Markov Purifier": {
+      "categories": ["vampire"]
+    },
+    "Markov Retribution": {
+      "categories": ["payoff"]
+    },
+    "Markov Waltzer": {
+      "categories": ["vampire"]
+    },
+    "Odric, Blood-Cursed": {
+      "categories": ["vampire"]
+    },
+    "Olivia's Attendants": {
+      "categories": ["vampire"]
+    },
+    "Olivia, Crimson Bride": {
+      "categories": ["vampire"]
+    },
+    "Restless Bloodseeker // Bloodsoaked Reveler": {
+      "categories": ["vampire"]
+    },
+    "Runo Stromkirk // Krothuss, Lord of the Deep": {
+      "categories": ["vampire"]
+    },
+    "Sanguine Statuette": {
+      "categories": ["vampire"]
+    },
+    "Sorin the Mirthless": {
+      "categories": ["vampire"]
+    },
+    "Unholy Officiant": {
+      "categories": ["vampire"]
+    },
+    "Vampire Slayer": {
+      "categories": ["hate"]
+    },
+    "Vampires' Vengeance": {
+      "categories": ["payoff"]
+    },
+    "Voldaren Epicure": {
+      "categories": ["vampire"]
+    },
+    "Voldaren Estate": {
+      "categories": ["payoff"]
+    },
+    "Wedding Invitation": {
+      "categories": ["payoff"]
+    },
+    "Welcoming Vampire": {
+      "categories": ["vampire"]
+    }
+  }
+}

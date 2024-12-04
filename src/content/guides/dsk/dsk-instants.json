@@ -1,0 +1,117 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Appendage Amalgam": {
+      "categories": ["board"]
+    },
+    "Bear Trap": {
+      "categories": ["board"]
+    },
+    "Betrayer's Bargain": {
+      "categories": ["board"]
+    },
+    "Break Down the Door": {
+      "categories": ["board"]
+    },
+    "Don't Make a Sound": {
+      "categories": ["counterspell"]
+    },
+    "Drag to the Roots": {
+      "categories": ["board"],
+      "cost": ["b", "g"]
+    },
+    "Enduring Curiosity": {
+      "categories": ["board"]
+    },
+    "Entity Tracker": {
+      "categories": ["board"]
+    },
+    "Fear of Impostors": {
+      "categories": ["board", "counterspell"]
+    },
+    "Floodpits Drowner": {
+      "categories": ["board"]
+    },
+    "Frantic Strength": {
+      "categories": ["board"]
+    },
+    "Get Out": {
+      "categories": ["board", "counterspell"]
+    },
+    "Give In to Violence": {
+      "categories": ["board"]
+    },
+    "Glimmerburst": {
+      "categories": ["board"]
+    },
+    "Growing Dread": {
+      "categories": ["board"]
+    },
+    "Horrid Vigor": {
+      "categories": ["board"]
+    },
+    "Impossible Inferno": {
+      "categories": ["board"]
+    },
+    "Jump Scare": {
+      "categories": ["board"]
+    },
+    "Live or Die": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Nowhere to Run": {
+      "categories": ["board"]
+    },
+    "Peer Past the Veil": {
+      "categories": ["other"]
+    },
+    "Scorching Dragonfire": {
+      "categories": ["board"]
+    },
+    "Seized from Slumber": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Shardmage's Rescue": {
+      "categories": ["board"]
+    },
+    "The Wandering Rescuer": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Turn Inside Out": {
+      "categories": ["board"]
+    },
+    "Twist Reality": {
+      "categories": ["board", "counterspell"]
+    },
+    "Untimely Malfunction": {
+      "categories": ["board", "counterspell"]
+    },
+    "Unwanted Remake": {
+      "categories": ["board"]
+    },
+    "Vanish from Sight": {
+      "categories": ["board"]
+    },
+    "Violent Urge": {
+      "categories": ["board"]
+    },
+    "Winter's Intervention": {
+      "categories": ["board"]
+    },
+    "Withering Torment": {
+      "categories": ["board"]
+    }
+  }
+}

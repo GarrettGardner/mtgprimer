@@ -1,0 +1,11 @@
+{
+  "name": "Mechanic: Hideaway",
+  "icon": "fas fa-eye-slash",
+  "cards": {
+    "Cemetery Tampering": {},
+    "Fight Rigging": {},
+    "Rabble Rousing": {},
+    "Widespread Thieving": {},
+    "Wiretapping": {}
+  }
+}

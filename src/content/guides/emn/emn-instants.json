@@ -1,0 +1,126 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abandoned Reason": {
+      "categories": ["board"]
+    },
+    "Blessed Alliance": {
+      "categories": ["board"]
+    },
+    "Borrowed Grace": {
+      "categories": ["board"]
+    },
+    "Borrowed Hostility": {
+      "categories": ["board"]
+    },
+    "Borrowed Malevolence": {
+      "categories": ["board"]
+    },
+    "Chilling Grasp": {
+      "categories": ["board"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Convolute": {
+      "categories": ["counterspell"]
+    },
+    "Displace": {
+      "categories": ["board"]
+    },
+    "Drogskol Shieldmate": {
+      "categories": ["board"]
+    },
+    "Drownyard Behemoth": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Elder Deep-Fiend": {
+      "categories": ["board"],
+      "cost": ["u", "u"]
+    },
+    "Fortune's Favor": {
+      "categories": ["other"]
+    },
+    "Galvanic Bombardment": {
+      "categories": ["board"]
+    },
+    "Give No Ground": {
+      "categories": ["board"]
+    },
+    "Grapple with the Past": {
+      "categories": ["other"]
+    },
+    "Heron's Grace Champion": {
+      "categories": ["board"]
+    },
+    "Long Road Home": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Nebelgast Herald": {
+      "categories": ["board"]
+    },
+    "Otherworldly Outburst": {
+      "categories": ["board"]
+    },
+    "Repel the Abominable": {
+      "categories": ["board"]
+    },
+    "Ride Down": {
+      "categories": ["board"]
+    },
+    "Savage Alliance": {
+      "categories": ["board"]
+    },
+    "Scour the Laboratory": {
+      "categories": ["other"],
+      "cost": ["2", "u", "u"]
+    },
+    "Spell Queller": {
+      "categories": ["board", "counterspell"]
+    },
+    "Spirit of the Hunt": {
+      "categories": ["board"]
+    },
+    "Spontaneous Mutation": {
+      "categories": ["board"]
+    },
+    "Spreading Flames": {
+      "categories": ["board"]
+    },
+    "Springsage Ritual": {
+      "categories": ["other"]
+    },
+    "Succumb to Temptation": {
+      "categories": ["other"]
+    },
+    "Summary Dismissal": {
+      "categories": ["counterspell"]
+    },
+    "Swift Spinner": {
+      "categories": ["board"]
+    },
+    "Turn Aside": {
+      "categories": ["counterspell"]
+    },
+    "Unsubstantiate": {
+      "categories": ["board", "counterspell"]
+    },
+    "Waxing Moon": {
+      "categories": ["board"]
+    },
+    "Woodcutter's Grit": {
+      "categories": ["board"]
+    }
+  }
+}

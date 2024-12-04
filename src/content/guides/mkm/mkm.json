@@ -1,0 +1,1688 @@
+{
+  "code": "mkm",
+  "formatName": "Murders at Karlov Manor",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Case of the Shattered Pact": {
+      "number": "1",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Absolving Lammasu": {
+      "number": "2",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Assemble the Players": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aurelia's Vindicator": {
+      "number": "4",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Auspicious Arrival": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Call a Surprise Witness": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case File Auditor": {
+      "number": "7",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Case of the Gateway Express": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Pilfered Proof": {
+      "number": "9",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Uneaten Feast": {
+      "number": "10",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Defenestrated Phantom": {
+      "number": "11",
+      "cost": ["4", "w", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Delney, Streetwise Lookout": {
+      "number": "12",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Doorkeeper Thrull": {
+      "number": "13",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Due Diligence": {
+      "number": "14",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Essence of Antiquity": {
+      "number": "15",
+      "cost": ["3", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Forum Familiar": {
+      "number": "16",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Griffnaut Tracker": {
+      "number": "17",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Haazda Vigilante": {
+      "number": "18",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Inside Source": {
+      "number": "19",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Karlov Watchdog": {
+      "number": "20",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Krovod Haunch": {
+      "number": "21",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Make Your Move": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Makeshift Binding": {
+      "number": "23",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Marketwatch Phantom": {
+      "number": "24",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Museum Nightwatch": {
+      "number": "25",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Neighborhood Guardian": {
+      "number": "26",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "No Witnesses": {
+      "number": "27",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Not on My Watch": {
+      "number": "28",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Novice Inspector": {
+      "number": "29",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "On the Job": {
+      "number": "30",
+      "cost": ["2", "w", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Perimeter Enforcer": {
+      "number": "31",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sanctuary Wall": {
+      "number": "32",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Seasoned Consultant": {
+      "number": "33",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tenth District Hero": {
+      "number": "34",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Unyielding Gatekeeper": {
+      "number": "35",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Wojek Investigator": {
+      "number": "36",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Wrench": {
+      "number": "37",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Agency Outfitter": {
+      "number": "38",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Behind the Mask": {
+      "number": "39",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Benthic Criminologists": {
+      "number": "40",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bubble Smuggler": {
+      "number": "41",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Burden of Proof": {
+      "number": "42",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Candlestick": {
+      "number": "43",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Filched Falcon": {
+      "number": "44",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Ransacked Lab": {
+      "number": "45",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cold Case Cracker": {
+      "number": "46",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Conspiracy Unraveler": {
+      "number": "47",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Coveted Falcon": {
+      "number": "48",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Crimestopper Sprite": {
+      "number": "49",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cryptic Coat": {
+      "number": "50",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Curious Inquiry": {
+      "number": "51",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Deduce": {
+      "number": "52",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dramatic Accusation": {
+      "number": "53",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Eliminate the Impossible": {
+      "number": "54",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Exit Specialist": {
+      "number": "55",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fae Flight": {
+      "number": "56",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Forensic Gadgeteer": {
+      "number": "57",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Forensic Researcher": {
+      "number": "58",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Furtive Courier": {
+      "number": "59",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hotshot Investigators": {
+      "number": "60",
+      "cost": ["5", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Intrude on the Mind": {
+      "number": "61",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Jaded Analyst": {
+      "number": "62",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Living Conundrum": {
+      "number": "63",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lost in the Maze": {
+      "number": "64",
+      "cost": ["x", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mistway Spy": {
+      "number": "65",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Out Cold": {
+      "number": "66",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Proft's Eidetic Memory": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Projektor Inspector": {
+      "number": "68",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Reasonable Doubt": {
+      "number": "69",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Reenact the Crime": {
+      "number": "70",
+      "cost": ["1", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Steamcore Scholar": {
+      "number": "71",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sudden Setback": {
+      "number": "72",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Surveillance Monitor": {
+      "number": "73",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Unauthorized Exit": {
+      "number": "74",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Agency Coroner": {
+      "number": "75",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Alley Assailant": {
+      "number": "76",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Barbed Servitor": {
+      "number": "77",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Basilica Stalker": {
+      "number": "78",
+      "cost": ["5", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Case of the Gorgon's Kiss": {
+      "number": "79",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Stashed Skeleton": {
+      "number": "80",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cerebral Confiscation": {
+      "number": "81",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Clandestine Meddler": {
+      "number": "82",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deadly Cover-Up": {
+      "number": "83",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Extract a Confession": {
+      "number": "84",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Festerleech": {
+      "number": "85",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Homicide Investigator": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hunted Bonebrute": {
+      "number": "87",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Illicit Masquerade": {
+      "number": "88",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "It Doesn't Add Up": {
+      "number": "89",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lead Pipe": {
+      "number": "90",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Leering Onlooker": {
+      "number": "91",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Long Goodbye": {
+      "number": "92",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Macabre Reconstruction": {
+      "number": "93",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Massacre Girl, Known Killer": {
+      "number": "94",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Murder": {
+      "number": "95",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Nightdrinker Moroii": {
+      "number": "96",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Outrageous Robbery": {
+      "number": "97",
+      "cost": ["x", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Persuasive Interrogators": {
+      "number": "98",
+      "cost": ["4", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Polygraph Orb": {
+      "number": "99",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Presumed Dead": {
+      "number": "100",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Repeat Offender": {
+      "number": "101",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rot Farm Mortipede": {
+      "number": "102",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Slice from the Shadows": {
+      "number": "103",
+      "cost": ["x", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Slimy Dualleech": {
+      "number": "104",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Snarling Gorehound": {
+      "number": "105",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Soul Enervation": {
+      "number": "106",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Toxin Analysis": {
+      "number": "107",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Undercity Eliminator": {
+      "number": "108",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Unscrupulous Agent": {
+      "number": "109",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vein Ripper": {
+      "number": "110",
+      "cost": ["3", "b", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Anzrag's Rampage": {
+      "number": "111",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bolrac-Clan Basher": {
+      "number": "112",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Case of the Burning Masks": {
+      "number": "113",
+      "cost": ["1", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Case of the Crimson Pulse": {
+      "number": "114",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Caught Red-Handed": {
+      "number": "115",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Chase Is On": {
+      "number": "116",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Concealed Weapon": {
+      "number": "117",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Connecting the Dots": {
+      "number": "118",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Convenient Target": {
+      "number": "119",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cornered Crook": {
+      "number": "120",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Crime Novelist": {
+      "number": "121",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Demand Answers": {
+      "number": "122",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Expedited Inheritance": {
+      "number": "123",
+      "cost": ["r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Expose the Culprit": {
+      "number": "124",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Felonious Rage": {
+      "number": "125",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Frantic Scapegoat": {
+      "number": "126",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fugitive Codebreaker": {
+      "number": "127",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Galvanize": {
+      "number": "128",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gearbane Orangutan": {
+      "number": "129",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Goblin Maskmaker": {
+      "number": "130",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Harried Dronesmith": {
+      "number": "131",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Incinerator of the Guilty": {
+      "number": "132",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Innocent Bystander": {
+      "number": "133",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Knife": {
+      "number": "134",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Krenko, Baron of Tin Street": {
+      "number": "135",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Krenko's Buzzcrusher": {
+      "number": "136",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lamplight Phoenix": {
+      "number": "137",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Offender at Large": {
+      "number": "138",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Person of Interest": {
+      "number": "139",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pyrotechnic Performer": {
+      "number": "140",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Reckless Detective": {
+      "number": "141",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Red Herring": {
+      "number": "142",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rubblebelt Braggart": {
+      "number": "143",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shock": {
+      "number": "144",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Suspicious Detonation": {
+      "number": "145",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Torch the Witness": {
+      "number": "146",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vengeful Tracker": {
+      "number": "147",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aftermath Analyst": {
+      "number": "148",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Airtight Alibi": {
+      "number": "149",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Analyze the Pollen": {
+      "number": "150",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Archdruid's Charm": {
+      "number": "151",
+      "cost": ["g", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Audience with Trostani": {
+      "number": "152",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Axebane Ferox": {
+      "number": "153",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bite Down on Crime": {
+      "number": "154",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Case of the Locked Hothouse": {
+      "number": "155",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Case of the Trampled Garden": {
+      "number": "156",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Chalk Outline": {
+      "number": "157",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Culvert Ambusher": {
+      "number": "158",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fanatical Strength": {
+      "number": "159",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Flourishing Bloom-Kin": {
+      "number": "160",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Get a Leg Up": {
+      "number": "161",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Glint Weaver": {
+      "number": "162",
+      "cost": ["5", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Greenbelt Radical": {
+      "number": "163",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hard-Hitting Question": {
+      "number": "164",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hedge Whisperer": {
+      "number": "165",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hide in Plain Sight": {
+      "number": "166",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "A Killer Among Us": {
+      "number": "167",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Loxodon Eavesdropper": {
+      "number": "168",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Nervous Gardener": {
+      "number": "169",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pick Your Poison": {
+      "number": "170",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Pompous Gadabout": {
+      "number": "171",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Pride of Hull Clade": {
+      "number": "172",
+      "cost": ["10", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rope": {
+      "number": "173",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rubblebelt Maverick": {
+      "number": "174",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sample Collector": {
+      "number": "175",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sharp-Eyed Rookie": {
+      "number": "176",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Slime Against Humanity": {
+      "number": "177",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "They Went This Way": {
+      "number": "178",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Topiary Panther": {
+      "number": "179",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tunnel Tipster": {
+      "number": "180",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Undergrowth Recon": {
+      "number": "181",
+      "cost": ["1", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Vengeful Creeper": {
+      "number": "182",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vitu-Ghazi Inspector": {
+      "number": "183",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Agrus Kos, Spirit of Justice": {
+      "number": "184",
+      "cost": ["2", "r", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Alquist Proft, Master Sleuth": {
+      "number": "185",
+      "cost": ["1", "w", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Anzrag, the Quake-Mole": {
+      "number": "186",
+      "cost": ["2", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Assassin's Trophy": {
+      "number": "187",
+      "cost": ["b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aurelia, the Law Above": {
+      "number": "188",
+      "cost": ["3", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Blood Spatter Analysis": {
+      "number": "189",
+      "cost": ["b", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Break Out": {
+      "number": "190",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Buried in the Garden": {
+      "number": "191",
+      "cost": ["2", "g", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Coerced to Kill": {
+      "number": "192",
+      "cost": ["3", "u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crowd-Control Warden": {
+      "number": "193",
+      "cost": ["3", "g", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Curious Cadaver": {
+      "number": "194",
+      "cost": ["2", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deadly Complication": {
+      "number": "195",
+      "cost": ["1", "b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Detective's Satchel": {
+      "number": "196",
+      "cost": ["2", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dog Walker": {
+      "number": "197",
+      "cost": ["r", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Doppelgang": {
+      "number": "198",
+      "cost": ["x", "x", "x", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Drag the Canal": {
+      "number": "199",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Etrata, Deadly Fugitive": {
+      "number": "200",
+      "cost": ["1", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Evidence Examiner": {
+      "number": "201",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ezrim, Agency Chief": {
+      "number": "202",
+      "cost": ["1", "w", "w", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Faerie Snoop": {
+      "number": "203",
+      "cost": ["1", "u", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gadget Technician": {
+      "number": "204",
+      "cost": ["2", "u", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gleaming Geardrake": {
+      "number": "205",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Granite Witness": {
+      "number": "206",
+      "cost": ["2", "w", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ill-Timed Explosion": {
+      "number": "207",
+      "cost": ["2", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Insidious Roots": {
+      "number": "208",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Izoni, Center of the Web": {
+      "number": "209",
+      "cost": ["4", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Judith, Carnage Connoisseur": {
+      "number": "210",
+      "cost": ["3", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kaya, Spirits' Justice": {
+      "number": "211",
+      "cost": ["2", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Kellan, Inquisitive Prodigy (Kellan, Inquisitive Prodigy // Tail the Suspect)": {
+      "number": "212",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Tail the Suspect (Kellan, Inquisitive Prodigy // Tail the Suspect)": {
+      "number": "212",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Kraul Whipcracker": {
+      "number": "213",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kylox, Visionary Inventor": {
+      "number": "214",
+      "cost": ["5", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kylox's Voltstrider": {
+      "number": "215",
+      "cost": ["1", "u", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Lazav, Wearer of Faces": {
+      "number": "216",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Leyline of the Guildpact": {
+      "number": "217",
+      "cost": ["gw", "gu", "bg", "rg"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Lightning Helix": {
+      "number": "218",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Meddling Youths": {
+      "number": "219",
+      "cost": ["3", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Niv-Mizzet, Guildpact": {
+      "number": "220",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "No More Lies": {
+      "number": "221",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Officious Interrogation": {
+      "number": "222",
+      "cost": ["w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Private Eye": {
+      "number": "223",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rakdos, Patron of Chaos": {
+      "number": "224",
+      "cost": ["4", "b", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rakish Scoundrel": {
+      "number": "225",
+      "cost": ["2", "b", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Relive the Past": {
+      "number": "226",
+      "cost": ["5", "g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Repulsive Mutation": {
+      "number": "227",
+      "cost": ["x", "g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Riftburst Hellion": {
+      "number": "228",
+      "cost": ["5", "r", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rune-Brand Juggler": {
+      "number": "229",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sanguine Savior": {
+      "number": "230",
+      "cost": ["1", "w", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shady Informant": {
+      "number": "231",
+      "cost": ["3", "b", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Soul Search": {
+      "number": "232",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sumala Sentry": {
+      "number": "233",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Teysa, Opulent Oligarch": {
+      "number": "234",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tin Street Gossip": {
+      "number": "235",
+      "cost": ["2", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tolsimir, Midnight's Light": {
+      "number": "236",
+      "cost": ["2", "g", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Treacherous Greed": {
+      "number": "237",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Trostani, Three Whispers": {
+      "number": "238",
+      "cost": ["g", "gw", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Undercover Crocodelf": {
+      "number": "239",
+      "cost": ["4", "g", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Urgent Necropsy": {
+      "number": "240",
+      "cost": ["2", "b", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Vannifar, Evolved Enigma": {
+      "number": "241",
+      "cost": ["2", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Warleader's Call": {
+      "number": "242",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Wispdrinker Vampire": {
+      "number": "243",
+      "cost": ["2", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Worldsoul's Rage": {
+      "number": "244",
+      "cost": ["x", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Yarus, Roar of the Old Gods": {
+      "number": "245",
+      "cost": ["2", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cease (Cease // Desist)": {
+      "number": "246",
+      "cost": ["1", "bg"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Desist (Cease // Desist)": {
+      "number": "246",
+      "cost": ["4", "gw", "gw"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Flotsam (Flotsam // Jetsam)": {
+      "number": "247",
+      "cost": ["1", "gu"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Jetsam (Flotsam // Jetsam)": {
+      "number": "247",
+      "cost": ["4", "ub", "ub"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Fuss (Fuss // Bother)": {
+      "number": "248",
+      "cost": ["2", "rw"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Bother (Fuss // Bother)": {
+      "number": "248",
+      "cost": ["4", "wu", "wu"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Hustle (Hustle // Bustle)": {
+      "number": "249",
+      "cost": ["ur"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Bustle (Hustle // Bustle)": {
+      "number": "249",
+      "cost": ["4", "rg", "rg"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Push (Push // Pull)": {
+      "number": "250",
+      "cost": ["1", "wb"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Pull (Push // Pull)": {
+      "number": "250",
+      "cost": ["4", "br", "br"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Cryptex": {
+      "number": "251",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Gravestone Strider": {
+      "number": "252",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lumbering Laundry": {
+      "number": "253",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Magnetic Snuffler": {
+      "number": "254",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Magnifying Glass": {
+      "number": "255",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sanitation Automaton": {
+      "number": "256",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Thinking Cap": {
+      "number": "257",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Branch of Vitu-Ghazi": {
+      "number": "258",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Commercial District": {
+      "number": "259",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Elegant Parlor": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Escape Tunnel": {
+      "number": "261",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Hedge Maze": {
+      "number": "262",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Lush Portico": {
+      "number": "263",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Meticulous Archive": {
+      "number": "264",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Public Thoroughfare": {
+      "number": "265",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Raucous Theater": {
+      "number": "266",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Scene of the Crime": {
+      "number": "267",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Shadowy Backstreet": {
+      "number": "268",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Thundering Falls": {
+      "number": "269",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Undercity Sewers": {
+      "number": "270",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Underground Mortuary": {
+      "number": "271",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

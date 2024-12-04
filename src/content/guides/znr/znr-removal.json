@@ -1,0 +1,150 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Bloodchief's Thirst": {
+      "categories": ["removal"]
+    },
+    "Broken Wings": {
+      "categories": ["removal"]
+    },
+    "Bubble Snare": {
+      "categories": ["removal"]
+    },
+    "Cinderclasm": {
+      "categories": ["wrath"]
+    },
+    "Cleansing Wildfire": {
+      "categories": ["other"]
+    },
+    "Cunning Geysermage": {
+      "categories": ["bounce"]
+    },
+    "Deadly Alliance": {
+      "categories": ["removal"]
+    },
+    "Demon's Disciple": {
+      "categories": ["removal"]
+    },
+    "Disenchant": {
+      "categories": ["other"]
+    },
+    "Drana's Silencer": {
+      "categories": ["removal"]
+    },
+    "Feed the Swarm": {
+      "categories": ["removal"]
+    },
+    "Glacial Grasp": {
+      "categories": ["temporary"]
+    },
+    "Hagra Mauling // Hagra Broodpit": {
+      "categories": ["removal"]
+    },
+    "Inscription of Abundance": {
+      "categories": ["removal"]
+    },
+    "Inscription of Insight": {
+      "categories": ["bounce"]
+    },
+    "Inscription of Ruin": {
+      "categories": ["removal"]
+    },
+    "Into the Roil": {
+      "categories": ["bounce"]
+    },
+    "Journey to Oblivion": {
+      "categories": ["removal"],
+      "cost": ["w"]
+    },
+    "Kabira Takedown // Kabira Plateau": {
+      "categories": ["removal"]
+    },
+    "Kazuul's Fury // Kazuul's Cliffs": {
+      "categories": ["removal"]
+    },
+    "Khalni Ambush // Khalni Territory": {
+      "categories": ["removal"]
+    },
+    "Lullmage's Domination": {
+      "categories": ["removal"]
+    },
+    "Molten Blast": {
+      "categories": ["removal"]
+    },
+    "Nahiri's Binding": {
+      "categories": ["removal"]
+    },
+    "Nahiri, Heir of the Ancients": {
+      "categories": ["removal"]
+    },
+    "Ondu Inversion // Ondu Skyruins": {
+      "categories": ["wrath"]
+    },
+    "Practiced Tactics": {
+      "categories": ["removal"]
+    },
+    "Pressure Point": {
+      "categories": ["temporary"]
+    },
+    "Rabid Bite": {
+      "categories": ["removal"]
+    },
+    "Relic Amulet": {
+      "categories": ["removal"]
+    },
+    "Rockslide Sorcerer": {
+      "categories": ["removal"]
+    },
+    "Roil Eruption": {
+      "categories": ["removal"]
+    },
+    "Shadows' Verdict": {
+      "categories": ["wrath"]
+    },
+    "Shatterskull Smashing // Shatterskull, the Hammer Pass": {
+      "categories": ["removal"]
+    },
+    "Sizzling Barrage": {
+      "categories": ["removal"]
+    },
+    "Skyclave Apparition": {
+      "categories": ["removal"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["removal"]
+    },
+    "Soul Shatter": {
+      "categories": ["removal"]
+    },
+    "Spikefield Hazard // Spikefield Cave": {
+      "categories": ["removal"]
+    },
+    "Subtle Strike": {
+      "categories": ["removal"]
+    },
+    "Synchronized Spellcraft": {
+      "categories": ["removal"]
+    },
+    "Thieving Skydiver": {
+      "categories": ["other"]
+    },
+    "Thundering Rebuke": {
+      "categories": ["removal"]
+    },
+    "Thundering Sparkmage": {
+      "categories": ["removal"]
+    },
+    "Vanquish the Weak": {
+      "categories": ["removal"]
+    }
+  }
+}

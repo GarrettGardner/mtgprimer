@@ -1,0 +1,96 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Accelerate": {
+      "categories": ["board"]
+    },
+    "Acorn Harvest": {
+      "categories": ["board"]
+    },
+    "Alter Reality": {
+      "categories": ["board"]
+    },
+    "Cabal Ritual": {
+      "categories": ["board"]
+    },
+    "Circular Logic": {
+      "categories": ["board"]
+    },
+    "Crippling Fatigue": {
+      "categories": ["board"]
+    },
+    "Deep Analysis": {
+      "categories": ["board"]
+    },
+    "Equal Treatment": {
+      "categories": ["board"]
+    },
+    "False Memories": {
+      "categories": ["board"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"]
+    },
+    "Flaming Gambit": {
+      "categories": ["board"]
+    },
+    "Flash of Defiance": {
+      "categories": ["board"]
+    },
+    "Frantic Purification": {
+      "categories": ["board"]
+    },
+    "Insidious Dreams": {
+      "categories": ["board"]
+    },
+    "Liquify": {
+      "categories": ["board"]
+    },
+    "Obsessive Search": {
+      "categories": ["board"]
+    },
+    "Parallel Evolution": {
+      "categories": ["board"]
+    },
+    "Pay No Heed": {
+      "categories": ["board"]
+    },
+    "Plagiarize": {
+      "categories": ["board"]
+    },
+    "Psychotic Haze": {
+      "categories": ["board"]
+    },
+    "Radiate": {
+      "categories": ["board"]
+    },
+    "Sonic Seizure": {
+      "categories": ["board"]
+    },
+    "Spirit Flare": {
+      "categories": ["board"]
+    },
+    "Temporary Insanity": {
+      "categories": ["board"]
+    },
+    "Teroh's Vanguard": {
+      "categories": ["board"]
+    },
+    "Vengeful Dreams": {
+      "categories": ["board"]
+    },
+    "Violent Eruption": {
+      "categories": ["board"]
+    },
+    "Waste Away": {
+      "categories": ["board"]
+    }
+  }
+}

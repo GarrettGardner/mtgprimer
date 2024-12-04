@@ -1,0 +1,73 @@
+{
+  "name": "Theme: Equipment",
+  "icon": "fas fa-mitten",
+  "categories": {
+    "equipment": "Equipment",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "+2 Mace": {
+      "categories": ["equipment"]
+    },
+    "Armory Veteran": {
+      "categories": ["payoff"]
+    },
+    "Boots of Speed": {
+      "categories": ["equipment"]
+    },
+    "Bruenor Battlehammer": {
+      "categories": ["payoff"]
+    },
+    "Dancing Sword": {
+      "categories": ["equipment"]
+    },
+    "Delver's Torch": {
+      "categories": ["equipment"]
+    },
+    "Dueling Rapier": {
+      "categories": ["equipment"]
+    },
+    "Dwarfhold Champion": {
+      "categories": ["payoff"]
+    },
+    "Fighter Class": {
+      "categories": ["payoff"]
+    },
+    "Goblin Morningstar": {
+      "categories": ["equipment"]
+    },
+    "Greataxe": {
+      "categories": ["equipment"]
+    },
+    "Hand of Vecna": {
+      "categories": ["equipment"]
+    },
+    "Leather Armor": {
+      "categories": ["equipment"]
+    },
+    "Paladin's Shield": {
+      "categories": ["equipment"]
+    },
+    "Plate Armor": {
+      "categories": ["equipment", "payoff"]
+    },
+    "Ranger's Longbow": {
+      "categories": ["equipment"]
+    },
+    "Reaper's Talisman": {
+      "categories": ["equipment"]
+    },
+    "Spare Dagger": {
+      "categories": ["equipment"]
+    },
+    "Thieves' Tools": {
+      "categories": ["equipment"]
+    },
+    "Trickster's Talisman": {
+      "categories": ["equipment"]
+    },
+    "Vorpal Sword": {
+      "categories": ["equipment"]
+    }
+  }
+}

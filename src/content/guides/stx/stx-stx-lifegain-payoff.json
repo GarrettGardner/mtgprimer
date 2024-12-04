@@ -1,0 +1,13 @@
+{
+  "name": "Theme: Lifegain Payoffs",
+  "icon": "fas fa-heartbeat",
+  "cards": {
+    "Accomplished Alchemist": {},
+    "Blood Researcher": {},
+    "Brackish Trudge": {},
+    "Dina, Soul Steeper": {},
+    "Fortifying Draught": {},
+    "Honor Troll": {},
+    "Mortality Spear": {}
+  }
+}

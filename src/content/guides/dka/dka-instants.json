@@ -1,0 +1,129 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Altar of the Lost": {
+      "categories": ["board"]
+    },
+    "Artful Dodge": {
+      "categories": ["board"]
+    },
+    "Bar the Door": {
+      "categories": ["board"]
+    },
+    "Bone to Ash": {
+      "categories": ["board"]
+    },
+    "Break of Day": {
+      "categories": ["board"]
+    },
+    "Briarpack Alpha": {
+      "categories": ["board"]
+    },
+    "Burning Oil": {
+      "categories": ["board"]
+    },
+    "Chill of Foreboding": {
+      "categories": ["board"]
+    },
+    "Clinging Mists": {
+      "categories": ["board"]
+    },
+    "Counterlash": {
+      "categories": ["board"]
+    },
+    "Crushing Vines": {
+      "categories": ["board"]
+    },
+    "Deadly Allure": {
+      "categories": ["board"]
+    },
+    "Faith's Shield": {
+      "categories": ["board"]
+    },
+    "Faithless Looting": {
+      "categories": ["board"]
+    },
+    "Fires of Undeath": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Gravepurge": {
+      "categories": ["board"]
+    },
+    "Griptide": {
+      "categories": ["board"]
+    },
+    "Hollowhenge Spirit": {
+      "categories": ["board"]
+    },
+    "Hunger of the Howlpack": {
+      "categories": ["board"]
+    },
+    "Increasing Ambition": {
+      "categories": ["board"]
+    },
+    "Increasing Confusion": {
+      "categories": ["board"]
+    },
+    "Increasing Devotion": {
+      "categories": ["board"]
+    },
+    "Increasing Savagery": {
+      "categories": ["board"]
+    },
+    "Increasing Vengeance": {
+      "categories": ["board"]
+    },
+    "Lingering Souls": {
+      "categories": ["board"]
+    },
+    "Mystic Retrieval": {
+      "categories": ["board"]
+    },
+    "Nephalia Seakite": {
+      "categories": ["board"]
+    },
+    "Ray of Revelation": {
+      "categories": ["board"]
+    },
+    "Reap the Seagraf": {
+      "categories": ["board"]
+    },
+    "Saving Grasp": {
+      "categories": ["board"]
+    },
+    "Shattered Perception": {
+      "categories": ["board"]
+    },
+    "Skillful Lunge": {
+      "categories": ["board"]
+    },
+    "Talons of Falkenrath": {
+      "categories": ["board"]
+    },
+    "Thought Scour": {
+      "categories": ["board"]
+    },
+    "Tracker's Instincts": {
+      "categories": ["board"]
+    },
+    "Tragic Slip": {
+      "categories": ["board"]
+    },
+    "Undying Evil": {
+      "categories": ["board"]
+    },
+    "Wild Hunger": {
+      "categories": ["board"]
+    }
+  }
+}

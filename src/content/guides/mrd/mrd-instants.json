@@ -1,0 +1,132 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Altar's Light": {
+      "categories": ["board"]
+    },
+    "Annul": {
+      "categories": ["counterspell"]
+    },
+    "Assert Authority": {
+      "categories": ["counterspell"],
+      "cost": ["u", "u"]
+    },
+    "Awe Strike": {
+      "categories": ["board"]
+    },
+    "Battlegrowth": {
+      "categories": ["board"]
+    },
+    "Betrayal of Flesh": {
+      "categories": ["board"]
+    },
+    "Blinding Beam": {
+      "categories": ["board"]
+    },
+    "Bloodscent": {
+      "categories": ["board"]
+    },
+    "Disarm": {
+      "categories": ["board"]
+    },
+    "Dream's Grip": {
+      "categories": ["board"]
+    },
+    "Electrostatic Bolt": {
+      "categories": ["board"]
+    },
+    "Fists of the Anvil": {
+      "categories": ["board"]
+    },
+    "Forge Armor": {
+      "categories": ["board"]
+    },
+    "Galvanic Key": {
+      "categories": ["board"]
+    },
+    "Grab the Reins": {
+      "categories": ["board"]
+    },
+    "Grim Reminder": {
+      "categories": ["other"]
+    },
+    "Incite War": {
+      "categories": ["board"]
+    },
+    "Irradiate": {
+      "categories": ["board"]
+    },
+    "Leonin Bladetrap": {
+      "categories": ["board"]
+    },
+    "Needlebug": {
+      "categories": ["board"]
+    },
+    "Override": {
+      "categories": ["counterspell"]
+    },
+    "Predator's Strike": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Razor Barrier": {
+      "categories": ["board"]
+    },
+    "Regress": {
+      "categories": ["board"]
+    },
+    "Roar of the Kha": {
+      "categories": ["board"]
+    },
+    "Scale of Chiss-Goria": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Second Sunrise": {
+      "categories": ["board"]
+    },
+    "Seething Song": {
+      "categories": ["other"]
+    },
+    "Shatter": {
+      "categories": ["board"]
+    },
+    "Shrapnel Blast": {
+      "categories": ["board"]
+    },
+    "Soul Nova": {
+      "categories": ["board"]
+    },
+    "Spoils of the Vault": {
+      "categories": ["other"]
+    },
+    "Tempest of Light": {
+      "categories": ["other"]
+    },
+    "Terror": {
+      "categories": ["board"]
+    },
+    "Thirst for Knowledge": {
+      "categories": ["other"]
+    },
+    "Tooth of Chiss-Goria": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Turn to Dust": {
+      "categories": ["board"]
+    },
+    "Wail of the Nim": {
+      "categories": ["board"]
+    }
+  }
+}

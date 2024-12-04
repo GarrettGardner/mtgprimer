@@ -1,0 +1,170 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aven Mindcensor": {
+      "categories": ["board"]
+    },
+    "Brute Strength": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Cast Out": {
+      "categories": ["board"]
+    },
+    "Censor": {
+      "categories": ["counterspell"]
+    },
+    "Commit (Commit / Memory)": {
+      "categories": ["board", "counterspell"]
+    },
+    "Decision Paralysis": {
+      "categories": ["board"]
+    },
+    "Deem Worthy": {
+      "categories": ["board"],
+      "cost": ["3", "r"]
+    },
+    "Destined (Destined / Lead)": {
+      "categories": ["board"]
+    },
+    "Dissenter's Deliverance": {
+      "categories": ["board"]
+    },
+    "Djeru's Resolve": {
+      "categories": ["board"]
+    },
+    "Electrify": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Failure (Failure / Comply)": {
+      "categories": ["counterspell"]
+    },
+    "Final Reward": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Forsake the Worldly": {
+      "categories": ["board"]
+    },
+    "Galestrike": {
+      "categories": ["board"]
+    },
+    "Glorious End": {
+      "categories": ["board", "counterspell"]
+    },
+    "Hapatra's Mark": {
+      "categories": ["board"]
+    },
+    "Haze of Pollen": {
+      "categories": ["board"]
+    },
+    "Heaven (Heaven / Earth)": {
+      "categories": ["board"]
+    },
+    "Hieroglyphic Illumination": {
+      "categories": ["other"]
+    },
+    "Impeccable Timing": {
+      "categories": ["board"]
+    },
+    "In Oketra's Name": {
+      "categories": ["board"]
+    },
+    "Magma Spray": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Mind (Spring / Mind)": {
+      "categories": ["other"]
+    },
+    "Onward (Onward / Victory)": {
+      "categories": ["board"]
+    },
+    "Pouncing Cheetah": {
+      "categories": ["board"]
+    },
+    "Prepare (Prepare / Fight)": {
+      "categories": ["board"]
+    },
+    "Pull from Tomorrow": {
+      "categories": ["other"]
+    },
+    "Pursue Glory": {
+      "categories": ["board"]
+    },
+    "Reduce (Reduce / Rubble)": {
+      "categories": ["counterspell"]
+    },
+    "Renewed Faith": {
+      "categories": ["other"],
+      "cost": ["1", "w"]
+    },
+    "Samut, Voice of Dissent": {
+      "categories": ["board"]
+    },
+    "Scarab Feast": {
+      "categories": ["other"]
+    },
+    "Shadow of the Grave": {
+      "categories": ["other"]
+    },
+    "Shed Weakness": {
+      "categories": ["board"]
+    },
+    "Shefet Monitor": {
+      "categories": ["other"],
+      "cost": ["3", "g"]
+    },
+    "Spidery Grasp": {
+      "categories": ["board"]
+    },
+    "Splendid Agony": {
+      "categories": ["board"]
+    },
+    "Start (Start / Finish)": {
+      "categories": ["board"]
+    },
+    "Stinging Shot": {
+      "categories": ["board"]
+    },
+    "Stir the Sands": {
+      "categories": ["board"],
+      "cost": ["3", "b"]
+    },
+    "Supernatural Stamina": {
+      "categories": ["board"]
+    },
+    "Synchronized Strike": {
+      "categories": ["board"]
+    },
+    "Time to Reflect": {
+      "categories": ["board"]
+    },
+    "Vizier of Deferment": {
+      "categories": ["board"]
+    },
+    "Vizier of Tumbling Sands": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Winds of Rebuke": {
+      "categories": ["board"]
+    }
+  }
+}

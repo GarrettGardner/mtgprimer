@@ -1,0 +1,92 @@
+@use "../../../sass/mixins" as *;
+
+.button {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: rem-convert(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: inline-flex;
+  font-size: rem-convert(13px);
+  font-weight: 300;
+  letter-spacing: rem-convert(0.25px);
+  line-height: 1.25;
+  margin: 0 rem-convert(4px) rem-convert(4px) 0;
+  padding: rem-convert(5px) rem-convert(8px) rem-convert(4px);
+  transition:
+    background 0.35s ease,
+    color 0.35s ease;
+  white-space: nowrap;
+
+  @include breakpoint("desktop") {
+    border-radius: rem-convert(16px);
+    font-size: rem-convert(16px);
+    margin: 0 rem-convert(6px) rem-convert(6px) 0;
+    padding: rem-convert(7px) rem-convert(14px) rem-convert(6px);
+  }
+
+  &:hover,
+  &:focus {
+    background: var(--color-highlight);
+  }
+
+  :global(.icon) {
+    margin-bottom: rem-convert(1px);
+    margin-right: rem-convert(6px);
+    font-size: rem-convert(12px);
+    line-height: 1;
+
+    @include breakpoint("desktop") {
+      margin-right: rem-convert(8px);
+      font-size: rem-convert(14px);
+    }
+  }
+
+  :global(.text) {
+    margin: 0;
+  }
+
+  &:global(.size-md) {
+    border-radius: rem-convert(16px);
+    font-size: rem-convert(15px);
+    padding: rem-convert(6px) rem-convert(12px);
+
+    @include breakpoint("desktop") {
+      border-radius: rem-convert(24px);
+      font-size: rem-convert(20px);
+      padding: rem-convert(10px) rem-convert(16px);
+    }
+
+    :global(.icon) {
+      margin-bottom: rem-convert(1px);
+      margin-right: rem-convert(8px);
+      font-size: rem-convert(14px);
+
+      @include breakpoint("desktop") {
+        margin-right: rem-convert(10px);
+        font-size: rem-convert(18px);
+      }
+    }
+  }
+
+  &:global(.size-lg) {
+    border-radius: rem-convert(20px);
+    font-size: rem-convert(20px);
+    padding: rem-convert(16px) rem-convert(32px);
+
+    @include breakpoint("desktop") {
+      border-radius: rem-convert(40px);
+      font-size: rem-convert(26px);
+      padding: rem-convert(18px) rem-convert(32px);
+    }
+
+    :global(.icon) {
+      margin-right: rem-convert(12px);
+      font-size: rem-convert(18px);
+
+      @include breakpoint("desktop") {
+        margin-right: rem-convert(16px);
+        font-size: rem-convert(28px);
+      }
+    }
+  }
+}

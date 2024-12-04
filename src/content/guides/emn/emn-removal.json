@@ -1,0 +1,122 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Alchemist's Greeting": {
+      "categories": ["removal"]
+    },
+    "Blessed Alliance": {
+      "categories": ["removal"]
+    },
+    "Bloodhall Priest": {
+      "categories": ["removal"]
+    },
+    "Boon of Emrakul": {
+      "categories": ["removal"]
+    },
+    "Borrowed Malevolence": {
+      "categories": ["removal"]
+    },
+    "Certain Death": {
+      "categories": ["removal"]
+    },
+    "Choking Restraints": {
+      "categories": ["removal"]
+    },
+    "Clear Shot": {
+      "categories": ["removal"]
+    },
+    "Collective Brutality": {
+      "categories": ["removal"]
+    },
+    "Collective Defiance": {
+      "categories": ["removal"]
+    },
+    "Collective Effort": {
+      "categories": ["removal"]
+    },
+    "Dark Salvation": {
+      "categories": ["removal"]
+    },
+    "Drag Under": {
+      "categories": ["bounce"]
+    },
+    "Faith Unbroken": {
+      "categories": ["removal"]
+    },
+    "Galvanic Bombardment": {
+      "categories": ["removal"]
+    },
+    "Imprisoned in the Moon": {
+      "categories": ["removal"]
+    },
+    "Incendiary Flow": {
+      "categories": ["removal"]
+    },
+    "Ironwright's Cleansing": {
+      "categories": ["other"]
+    },
+    "Lashweed Lurker": {
+      "categories": ["bounce"]
+    },
+    "Liliana, the Last Hope": {
+      "categories": ["removal"]
+    },
+    "Make Mischief": {
+      "categories": ["removal"]
+    },
+    "Mockery of Nature": {
+      "categories": ["other"]
+    },
+    "Murder": {
+      "categories": ["removal"]
+    },
+    "Nahiri's Wrath": {
+      "categories": ["removal"]
+    },
+    "Oath of Liliana": {
+      "categories": ["removal"]
+    },
+    "Prey Upon": {
+      "categories": ["removal"]
+    },
+    "Ride Down": {
+      "categories": ["removal"]
+    },
+    "Ruthless Disposal": {
+      "categories": ["removal"]
+    },
+    "Savage Alliance": {
+      "categories": ["removal"]
+    },
+    "Smoldering Werewolf": {
+      "categories": ["removal"]
+    },
+    "Somberwald Stag": {
+      "categories": ["removal"]
+    },
+    "Spreading Flames": {
+      "categories": ["removal"]
+    },
+    "Springsage Ritual": {
+      "categories": ["other"]
+    },
+    "Ulrich of the Krallenhorde": {
+      "categories": ["removal"]
+    },
+    "Unsubstantiate": {
+      "categories": ["bounce"]
+    },
+    "Voldaren Pariah": {
+      "categories": ["removal"]
+    }
+  }
+}

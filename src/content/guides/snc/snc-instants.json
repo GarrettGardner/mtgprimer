@@ -1,0 +1,186 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "A Little Chat": {
+      "categories": ["other"]
+    },
+    "An Offer You Can't Refuse": {
+      "categories": ["counterspell"]
+    },
+    "Antagonize": {
+      "categories": ["board"]
+    },
+    "Big Score": {
+      "categories": ["other"]
+    },
+    "Boon of Safety": {
+      "categories": ["board"]
+    },
+    "Bouncer's Beatdown": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Brokers Charm": {
+      "categories": ["board"]
+    },
+    "Cabaretti Charm": {
+      "categories": ["board"]
+    },
+    "Call In a Professional": {
+      "categories": ["board"]
+    },
+    "Case the Joint": {
+      "categories": ["other"]
+    },
+    "Daring Escape": {
+      "categories": ["board"]
+    },
+    "Deal Gone Bad": {
+      "categories": ["board"]
+    },
+    "Demon's Due": {
+      "categories": ["other"]
+    },
+    "Dig Up the Body": {
+      "categories": ["other"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Endless Detour": {
+      "categories": ["board"]
+    },
+    "Errant, Street Artist": {
+      "categories": ["board"]
+    },
+    "Evelyn, the Covetous": {
+      "categories": ["board"]
+    },
+    "Even the Score": {
+      "categories": ["other"],
+      "cost": ["x"]
+    },
+    "Exotic Pets": {
+      "categories": ["board"]
+    },
+    "Faerie Vandal": {
+      "categories": ["board"]
+    },
+    "Fake Your Own Death": {
+      "categories": ["board"]
+    },
+    "For the Family": {
+      "categories": ["board"]
+    },
+    "Glamorous Outlaw": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Graveyard Shift": {
+      "categories": ["board"]
+    },
+    "Kill Shot": {
+      "categories": ["board"]
+    },
+    "Knockout Blow": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Luxurious Libation": {
+      "categories": ["board"]
+    },
+    "Maestros Charm": {
+      "categories": ["board"]
+    },
+    "Majestic Metamorphosis": {
+      "categories": ["board"]
+    },
+    "Make Disappear": {
+      "categories": ["counterspell"]
+    },
+    "Masked Bandits": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Most Wanted": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Obscura Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Obscura Interceptor": {
+      "categories": ["board"]
+    },
+    "Out of the Way": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Prizefight": {
+      "categories": ["board"]
+    },
+    "Psionic Snoop": {
+      "categories": ["board"]
+    },
+    "Quick-Draw Dagger": {
+      "categories": ["board"]
+    },
+    "Rakish Revelers": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Refuse to Yield": {
+      "categories": ["board"]
+    },
+    "Revelation of Power": {
+      "categories": ["board"]
+    },
+    "Riveteers Charm": {
+      "categories": ["board"]
+    },
+    "Run Out of Town": {
+      "categories": ["board"]
+    },
+    "Shattered Seraph": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Slip Out the Back": {
+      "categories": ["board"]
+    },
+    "Spara's Adjudicators": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Swooping Protector": {
+      "categories": ["board"]
+    },
+    "Tainted Indulgence": {
+      "categories": ["other"]
+    },
+    "Torch Breath": {
+      "categories": ["board"]
+    },
+    "Unleash the Inferno": {
+      "categories": ["board"]
+    },
+    "Void Rend": {
+      "categories": ["board"]
+    },
+    "Warm Welcome": {
+      "categories": ["other"]
+    }
+  }
+}

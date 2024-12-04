@@ -1,0 +1,132 @@
+@use "../../../sass/mixins" as *;
+
+.home {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+  padding: rem-convert(80px) rem-convert(16px);
+  margin: 0 auto;
+  max-width: rem-convert(1920px);
+
+  @include breakpoint("tablet") {
+    padding: rem-convert(80px) rem-convert(32px);
+  }
+
+  @include breakpoint("desktop") {
+    padding: rem-convert(80px) rem-convert(48px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(80px) rem-convert(64px);
+  }
+
+  :global(.logo) {
+    margin: 0 auto rem-convert(12px);
+    max-width: rem-convert(400px);
+
+    @include breakpoint("desktop") {
+      margin-bottom: rem-convert(24px);
+      max-width: rem-convert(720px);
+    }
+  }
+
+  p {
+    font-size: rem-convert(32px);
+    font-weight: 300;
+    line-height: 1.25;
+    margin-bottom: rem-convert(32px);
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(48px);
+      margin-bottom: rem-convert(64px);
+    }
+  }
+
+  ul {
+    margin: 0 auto rem-convert(48px);
+    max-width: rem-convert(280px);
+    padding: 0;
+
+    @include breakpoint("tablet") {
+      display: flex;
+      margin-bottom: rem-convert(128px);
+      max-width: none;
+    }
+
+    > li {
+      list-style: none;
+      margin-bottom: rem-convert(32px);
+
+      @include breakpoint("tablet") {
+        margin-bottom: 0;
+        padding: 0 rem-convert(24px);
+        width: 33.3333%;
+      }
+
+      @include breakpoint("desktop") {
+        padding: 0 rem-convert(32px);
+      }
+
+      @include breakpoint("wide") {
+        padding: 0 rem-convert(48px);
+      }
+    }
+  }
+
+  :global(.row) {
+    display: block;
+    margin-bottom: rem-convert(32px);
+
+    @include breakpoint("desktop") {
+      display: flex;
+      margin-bottom: rem-convert(64px);
+    }
+
+    :global(.icon) {
+      display: none;
+
+      @include breakpoint("desktop") {
+        align-items: center;
+        display: flex;
+        font-size: rem-convert(180px);
+        padding-right: rem-convert(64px);
+        justify-content: center;
+        width: 30%;
+      }
+    }
+
+    :global(.text) {
+      width: 100%;
+
+      @include breakpoint("desktop") {
+        width: 70%;
+      }
+
+      p {
+        font-size: rem-convert(16px);
+        font-weight: 300;
+        line-height: 1.8;
+        margin-bottom: rem-convert(16px);
+        text-align: left;
+
+        @include breakpoint("tablet") {
+          font-size: rem-convert(18px);
+          margin-bottom: rem-convert(24px);
+        }
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(20px);
+        }
+
+        a {
+          text-decoration: underline;
+          transition: color 0.35s ease;
+
+          &:hover,
+          &:focus {
+            color: var(--color-highlight);
+          }
+        }
+      }
+    }
+  }
+}

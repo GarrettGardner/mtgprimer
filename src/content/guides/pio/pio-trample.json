@@ -1,0 +1,79 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Akoum Warrior (Akoum Warrior // Akoum Teeth)": {},
+    "Anax and Cymede": {
+      "categories": ["default"]
+    },
+    "Audacity": {
+      "categories": ["granted"]
+    },
+    "Avatar of the Resolute": {
+      "categories": ["default"]
+    },
+    "Bloodfire Enforcers": {
+      "categories": ["default"]
+    },
+    "Chromanticore": {
+      "categories": ["default"]
+    },
+    "Domri Rade": {
+      "categories": ["granted"]
+    },
+    "Dragonlord Atarka": {
+      "categories": ["default"]
+    },
+    "Garruk, Apex Predator": {
+      "categories": ["granted"]
+    },
+    "Gatebreaker Ram": {
+      "categories": ["default"]
+    },
+    "Ghor-Clan Rampager": {
+      "categories": ["default"]
+    },
+    "Gnarlback Rhino": {
+      "categories": ["default"]
+    },
+    "Goreclaw, Terror of Qal Sisma": {
+      "categories": ["default"]
+    },
+    "Honored Hydra": {
+      "categories": ["default"]
+    },
+    "Hunter's Prowess": {
+      "categories": ["granted"]
+    },
+    "Legion Loyalist": {
+      "categories": ["default"]
+    },
+    "Lotleth Troll": {
+      "categories": ["default"]
+    },
+    "Makindi Sliderunner": {
+      "categories": ["default"]
+    },
+    "Nylea, God of the Hunt": {
+      "categories": ["default"]
+    },
+    "Selesnya Charm": {
+      "categories": ["granted"]
+    },
+    "Soulflayer": {
+      "categories": ["default"]
+    },
+    "Stampeding Elk Herd": {
+      "categories": ["default"]
+    },
+    "Unflinching Courage": {
+      "categories": ["granted"]
+    },
+    "Woodland Wanderer": {
+      "categories": ["default"]
+    }
+  }
+}

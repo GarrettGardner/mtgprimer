@@ -1,0 +1,18 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Jin-Gitaxias, Core Augur": {
+      "categories": ["board"]
+    },
+    "Lutri, the Spellchaser": {
+      "categories": ["board"]
+    }
+  }
+}

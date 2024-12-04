@@ -1,0 +1,140 @@
+{
+  "name": "Mechanic: Snow",
+  "icon": "fas fa-snowflake",
+  "categories": {
+    "payoffs": "Snow Payoffs",
+    "all": "All Snow Cards",
+    "hate": "Snow Hate Cards"
+  },
+  "cards": {
+    "Alpine Meadow": {
+      "categories": ["all"]
+    },
+    "Arctic Treeline": {
+      "categories": ["all"]
+    },
+    "Ascendant Spirit": {
+      "categories": ["all"]
+    },
+    "Avalanche Caller": {
+      "categories": ["all"]
+    },
+    "Berg Strider": {
+      "categories": ["payoffs", "all"]
+    },
+    "Blessing of Frost": {
+      "categories": ["all"]
+    },
+    "Blizzard Brawl": {
+      "categories": ["all"]
+    },
+    "Blood on the Snow": {
+      "categories": ["all"]
+    },
+    "Boreal Outrider": {
+      "categories": ["all"]
+    },
+    "Draugr Necromancer": {
+      "categories": ["all"]
+    },
+    "Faceless Haven": {
+      "categories": ["all"]
+    },
+    "Frost Augur": {
+      "categories": ["all"]
+    },
+    "Frost Bite": {
+      "categories": ["all"]
+    },
+    "Frostpeak Yeti": {
+      "categories": ["all"]
+    },
+    "Glacial Floodplain": {
+      "categories": ["all"]
+    },
+    "Glittering Frost": {
+      "categories": ["all"]
+    },
+    "Graven Lore": {
+      "categories": ["all"]
+    },
+    "Grim Draugr": {
+      "categories": ["all"]
+    },
+    "Hailstorm Valkyrie": {
+      "categories": ["all"]
+    },
+    "Highland Forest": {
+      "categories": ["all"]
+    },
+    "Ice Tunnel": {
+      "categories": ["all"]
+    },
+    "Icebind Pillar": {
+      "categories": ["all"]
+    },
+    "Icebreaker Kraken": {
+      "categories": ["all"]
+    },
+    "Icehide Troll": {
+      "categories": ["all"]
+    },
+    "Jorn, God of Winter // Kaldring, the Rimestaff": {
+      "categories": ["all"]
+    },
+    "Moritte of the Frost": {
+      "categories": ["all"]
+    },
+    "Narfi, Betrayer King": {
+      "categories": ["all"]
+    },
+    "Pilfering Hawk": {
+      "categories": ["all"]
+    },
+    "Priest of the Haunted Edge": {
+      "categories": ["all"]
+    },
+    "Reidane, God of the Worthy // Valkmira, Protector's Shield": {
+      "categories": ["hate"]
+    },
+    "Replicating Ring": {
+      "categories": ["all"]
+    },
+    "Rimewood Falls": {
+      "categories": ["all"]
+    },
+    "Sculptor of Winter": {
+      "categories": ["all"]
+    },
+    "Search for Glory": {
+      "categories": ["payoffs"]
+    },
+    "Shimmerdrift Vale": {
+      "categories": ["all"]
+    },
+    "Snowfield Sinkhole": {
+      "categories": ["all"]
+    },
+    "Spirit of the Aldergard": {
+      "categories": ["all"]
+    },
+    "Sulfurous Mire": {
+      "categories": ["all"]
+    },
+    "Svella, Ice Shaper": {
+      "categories": ["all"]
+    },
+    "The Three Seasons": {
+      "categories": ["payoffs"]
+    },
+    "Tundra Fumarole": {
+      "categories": ["all"]
+    },
+    "Volatile Fjord": {
+      "categories": ["all"]
+    },
+    "Woodland Chasm": {
+      "categories": ["all"]
+    }
+  }
+}

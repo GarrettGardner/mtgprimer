@@ -1,0 +1,135 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Awakening of Vitu-Ghazi": {
+      "categories": ["board"]
+    },
+    "Band Together": {
+      "categories": ["board"]
+    },
+    "Battlefield Promotion": {
+      "categories": ["board"]
+    },
+    "Blindblast": {
+      "categories": ["board"]
+    },
+    "Bolt Bend": {
+      "categories": ["board"]
+    },
+    "Chandra's Pyrohelix": {
+      "categories": ["board"]
+    },
+    "Chandra's Triumph": {
+      "categories": ["board"]
+    },
+    "Commence the Endgame": {
+      "categories": ["board"]
+    },
+    "Crush Dissent": {
+      "categories": ["counterspell", "board"]
+    },
+    "Deathsprout": {
+      "categories": ["board"]
+    },
+    "Defiant Strike": {
+      "categories": ["board"]
+    },
+    "Despark": {
+      "categories": ["board"]
+    },
+    "Divine Arrow": {
+      "categories": ["board"]
+    },
+    "Dovin's Veto": {
+      "categories": ["counterspell"]
+    },
+    "Forced Landing": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Gideon's Sacrifice": {
+      "categories": ["board"]
+    },
+    "Gideon's Triumph": {
+      "categories": ["board"]
+    },
+    "Heartfire": {
+      "categories": ["board"]
+    },
+    "Heartwarming Redemption": {
+      "categories": ["other"]
+    },
+    "Ignite the Beacon": {
+      "categories": ["other"]
+    },
+    "Jaya's Greeting": {
+      "categories": ["board"]
+    },
+    "Lazotep Plating": {
+      "categories": ["board"]
+    },
+    "Liliana's Triumph": {
+      "categories": ["board"]
+    },
+    "Nahiri's Stoneblades": {
+      "categories": ["board"]
+    },
+    "Narset's Reversal": {
+      "categories": ["other"]
+    },
+    "No Escape": {
+      "categories": ["counterspell"]
+    },
+    "Ob Nixilis's Cruelty": {
+      "categories": ["board"]
+    },
+    "Pledge of Unity": {
+      "categories": ["board"]
+    },
+    "Ral's Outburst": {
+      "categories": ["board"]
+    },
+    "Rally of Wings": {
+      "categories": ["board"]
+    },
+    "Return to Nature": {
+      "categories": ["board"]
+    },
+    "Samut's Sprint": {
+      "categories": ["board"]
+    },
+    "Sarkhan's Catharsis": {
+      "categories": ["board"]
+    },
+    "Sorin's Thirst": {
+      "categories": ["board"]
+    },
+    "Steady Aim": {
+      "categories": ["board"]
+    },
+    "Teferi's Time Twist": {
+      "categories": ["board"]
+    },
+    "Topple the Statue": {
+      "categories": ["board"]
+    },
+    "Totally Lost": {
+      "categories": ["board"]
+    },
+    "Tyrant's Scorn": {
+      "categories": ["board"]
+    },
+    "Unlikely Aid": {
+      "categories": ["board"]
+    }
+  }
+}

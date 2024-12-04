@@ -1,0 +1,67 @@
+{
+  "name": "Theme: Life Gain",
+  "icon": "fas fa-medkit",
+  "categories": {
+    "payoffs": "Lifegain Payoffs",
+    "enablers": "Lifegain Enablers"
+  },
+  "cards": {
+    "Angel of Destiny": {
+      "categories": ["enablers"]
+    },
+    "Attended Healer": {
+      "categories": ["enablers"]
+    },
+    "Cleric of Life's Bond": {
+      "categories": ["enablers"]
+    },
+    "Forsaken Monument": {
+      "categories": ["enablers"]
+    },
+    "Inscription of Abundance": {
+      "categories": ["enablers"]
+    },
+    "Kazandu Nectarpot": {
+      "categories": ["enablers"]
+    },
+    "Kor Celebrant": {
+      "categories": ["enablers"]
+    },
+    "Lullmage's Familiar": {
+      "categories": ["enablers"]
+    },
+    "Malakir Blood-Priest": {
+      "categories": ["enablers"]
+    },
+    "Marauding Blight-Priest": {
+      "categories": ["payoffs"]
+    },
+    "Mind Drain": {
+      "categories": ["enablers"]
+    },
+    "Relic Vial": {
+      "categories": ["enablers"]
+    },
+    "Scale the Heights": {
+      "categories": ["enablers"]
+    },
+    "Scion of the Swarm": {
+      "categories": ["payoffs"]
+    },
+    "Shepherd of Heroes": {
+      "categories": ["enablers"]
+    },
+    "Skyclave Cleric // Skyclave Basilica": {
+      "categories": ["enablers"]
+    },
+    "Spoils of Adventure": {
+      "categories": ["enablers"]
+    },
+    "Turntimber Ascetic": {
+      "categories": ["enablers"]
+    },
+    "Zof Consumption // Zof Bloodbog": {
+      "categories": ["enablers"]
+    }
+  }
+}

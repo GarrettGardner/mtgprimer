@@ -1,0 +1,144 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Anguished Unmaking": {
+      "categories": ["board"]
+    },
+    "Archangel Avacyn": {
+      "categories": ["board"]
+    },
+    "Broken Concentration": {
+      "categories": ["counterspell"]
+    },
+    "Catalog": {
+      "categories": ["other"]
+    },
+    "Clip Wings": {
+      "categories": ["board"]
+    },
+    "Compelling Deterrence": {
+      "categories": ["board"]
+    },
+    "Confirm Suspicions": {
+      "categories": ["counterspell"]
+    },
+    "Confront the Unknown": {
+      "categories": ["board"]
+    },
+    "Dance with Devils": {
+      "categories": ["board"]
+    },
+    "Deny Existence": {
+      "categories": ["counterspell"]
+    },
+    "Dissension in the Ranks": {
+      "categories": ["board"]
+    },
+    "Dual Shot": {
+      "categories": ["board"]
+    },
+    "Eerie Interlude": {
+      "categories": ["board"]
+    },
+    "Engulf the Shore": {
+      "categories": ["board"]
+    },
+    "Epiphany at the Drownyard": {
+      "categories": ["other"]
+    },
+    "Essence Flux": {
+      "categories": ["board"]
+    },
+    "Expose Evil": {
+      "categories": ["board"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"]
+    },
+    "Geistblast": {
+      "categories": ["board"]
+    },
+    "Grotesque Mutation": {
+      "categories": ["board"]
+    },
+    "Howlpack Resurgence": {
+      "categories": ["board"]
+    },
+    "Humble the Brute": {
+      "categories": ["board"]
+    },
+    "Inner Struggle": {
+      "categories": ["board"]
+    },
+    "Invasive Surgery": {
+      "categories": ["counterspell"]
+    },
+    "Jace's Scrutiny": {
+      "categories": ["board"]
+    },
+    "Just the Wind": {
+      "categories": ["board"]
+    },
+    "Lightning Axe": {
+      "categories": ["board"]
+    },
+    "Merciless Resolve": {
+      "categories": ["other"]
+    },
+    "Might Beyond Reason": {
+      "categories": ["board"]
+    },
+    "Moonlight Hunt": {
+      "categories": ["board"]
+    },
+    "Pack Guardian": {
+      "categories": ["board"]
+    },
+    "Puncturing Light": {
+      "categories": ["board"]
+    },
+    "Rattlechains": {
+      "categories": ["board"]
+    },
+    "Rush of Adrenaline": {
+      "categories": ["board"]
+    },
+    "Second Harvest": {
+      "categories": ["board"]
+    },
+    "Silverstrike": {
+      "categories": ["board"]
+    },
+    "Spiteful Motives": {
+      "categories": ["board"]
+    },
+    "Stormrider Spirit": {
+      "categories": ["board"]
+    },
+    "Strength of Arms": {
+      "categories": ["board"]
+    },
+    "Survive the Night": {
+      "categories": ["board"]
+    },
+    "Tenacity": {
+      "categories": ["board"]
+    },
+    "Throttle": {
+      "categories": ["board"]
+    },
+    "To the Slaughter": {
+      "categories": ["board"]
+    },
+    "Uncaged Fury": {
+      "categories": ["board"]
+    }
+  }
+}

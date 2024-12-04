@@ -1,0 +1,73 @@
+{
+  "name": "Mechanic: Vehicles",
+  "icon": "fas fa-car",
+  "categories": {
+    "payoffs": "Vehicle Payoffs",
+    "all": "All Vehicles"
+  },
+  "cards": {
+    "Aeronaut Admiral": {
+      "categories": ["payoffs"]
+    },
+    "Aethersphere Harvester": {
+      "categories": ["all"]
+    },
+    "Ballista Charger": {
+      "categories": ["all"]
+    },
+    "Bomat Bazaar Barge": {
+      "categories": ["all"]
+    },
+    "Cultivator's Caravan": {
+      "categories": ["all"]
+    },
+    "Daredevil Dragster": {
+      "categories": ["all"]
+    },
+    "Demolition Stomper": {
+      "categories": ["all"]
+    },
+    "Depala, Pilot Exemplar": {
+      "categories": ["payoffs"]
+    },
+    "Gearshift Ace": {
+      "categories": ["payoffs"]
+    },
+    "Heart of Kiran": {
+      "categories": ["all"]
+    },
+    "Irontread Crusher": {
+      "categories": ["all"]
+    },
+    "Mobile Garrison": {
+      "categories": ["all"]
+    },
+    "Ovalchase Dragster": {
+      "categories": ["all"]
+    },
+    "Peacewalker Colossus": {
+      "categories": ["all"]
+    },
+    "Siege Modification": {
+      "categories": ["payoffs"]
+    },
+    "Sky Skiff": {
+      "categories": ["all"]
+    },
+    "Skysovereign, Consul Flagship": {
+      "categories": ["all"]
+    },
+    "Speedway Fanatic": {
+      "categories": ["payoffs"]
+    },
+    "Sram, Senior Edificer": {
+      "categories": ["payoffs"]
+    },
+    "Untethered Express": {
+      "categories": ["all"]
+    },
+    "Veteran Motorist": {
+      "categories": ["payoffs"]
+    }
+  }
+}

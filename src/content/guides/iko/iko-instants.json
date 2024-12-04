@@ -1,0 +1,216 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Adaptive Shimmerer": {
+      "categories": ["board"]
+    },
+    "Anticipate": {
+      "categories": ["other"]
+    },
+    "Avian Oddity": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "Back for More": {
+      "categories": ["board"]
+    },
+    "Barrier Breach": {
+      "categories": ["board"]
+    },
+    "Blade Banish": {
+      "categories": ["board"]
+    },
+    "Blitz Leech": {
+      "categories": ["board"]
+    },
+    "Blitz of the Thunder-Raptor": {
+      "categories": ["board"]
+    },
+    "Blood Curdle": {
+      "categories": ["board"]
+    },
+    "Capture Sphere": {
+      "categories": ["board"]
+    },
+    "Channeled Force": {
+      "categories": ["board"]
+    },
+    "Clash of Titans": {
+      "categories": ["board"]
+    },
+    "Convolute": {
+      "categories": ["counterspell"]
+    },
+    "Coordinated Charge": {
+      "categories": ["board"]
+    },
+    "Corpse Churn": {
+      "categories": ["other"]
+    },
+    "Crystacean": {
+      "categories": ["board"]
+    },
+    "Cunning Nightbonder": {
+      "categories": ["board"]
+    },
+    "Dark Bargain": {
+      "categories": ["other"]
+    },
+    "Dire Tactics": {
+      "categories": ["board"]
+    },
+    "Dirge Bat": {
+      "categories": ["board"]
+    },
+    "Divine Arrow": {
+      "categories": ["board"]
+    },
+    "Easy Prey": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Fight as One": {
+      "categories": ["board"]
+    },
+    "Fire Prophecy": {
+      "categories": ["board"]
+    },
+    "Flame Spill": {
+      "categories": ["board"]
+    },
+    "Frostveil Ambush": {
+      "categories": ["board"]
+    },
+    "Fully Grown": {
+      "categories": ["board"]
+    },
+    "Hampering Snare": {
+      "categories": ["board"]
+    },
+    "Heartless Act": {
+      "categories": ["board"]
+    },
+    "Heightened Reflexes": {
+      "categories": ["board"]
+    },
+    "Keep Safe": {
+      "categories": ["counterspell"]
+    },
+    "Light of Hope": {
+      "categories": ["board"]
+    },
+    "Lurking Deadeye": {
+      "categories": ["board"]
+    },
+    "Lutri, the Spellchaser": {
+      "categories": ["board"]
+    },
+    "Mutual Destruction": {
+      "categories": ["board"]
+    },
+    "Mystic Subdual": {
+      "categories": ["board"]
+    },
+    "Mythos of Nethroi": {
+      "categories": ["board"]
+    },
+    "Neutralize": {
+      "categories": ["counterspell"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Pouncing Shoreshark": {
+      "categories": ["board"],
+      "cost": ["3", "u"]
+    },
+    "Raking Claws": {
+      "categories": ["board"]
+    },
+    "Ram Through": {
+      "categories": ["board"]
+    },
+    "Sanctuary Smasher": {
+      "categories": ["board"],
+      "cost": ["2", "r"]
+    },
+    "Sea-Dasher Octopus": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Shark Typhoon": {
+      "categories": ["board"],
+      "cost": ["x", "1", "u"]
+    },
+    "Shredded Sails": {
+      "categories": ["board"]
+    },
+    "Slitherwisp": {
+      "categories": ["board"]
+    },
+    "Solid Footing": {
+      "categories": ["board"]
+    },
+    "Splendor Mare": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Spontaneous Flight": {
+      "categories": ["board"]
+    },
+    "Springjaw Trap": {
+      "categories": ["board"]
+    },
+    "Startling Development": {
+      "categories": ["board"]
+    },
+    "Sudden Spinnerets": {
+      "categories": ["board"]
+    },
+    "Suffocating Fumes": {
+      "categories": ["board"]
+    },
+    "Thwart the Enemy": {
+      "categories": ["board"]
+    },
+    "Titanoth Rex": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Unexpected Fangs": {
+      "categories": ["board"]
+    },
+    "Unlikely Aid": {
+      "categories": ["board"]
+    },
+    "Void Beckoner": {
+      "categories": ["board"],
+      "cost": ["2", "b"]
+    },
+    "Voracious Greatshark": {
+      "categories": ["board", "counterspell"]
+    },
+    "Will of the All-Hunter": {
+      "categories": ["board"]
+    },
+    "Wilt": {
+      "categories": ["board"]
+    },
+    "Yidaro, Wandering Monster": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Zenith Flare": {
+      "categories": ["board"]
+    }
+  }
+}

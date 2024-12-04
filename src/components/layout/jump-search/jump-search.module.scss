@@ -1,0 +1,231 @@
+@use "../../../sass/mixins" as *;
+
+.jumpSearch {
+  position: fixed;
+  right: rem-convert(16px);
+  top: rem-convert(12px);
+  width: rem-convert(26px);
+  transition: width 0.35s ease;
+  z-index: 9999;
+
+  @include breakpoint("tablet") {
+    width: rem-convert(180px);
+  }
+
+  @include breakpoint("desktop") {
+    top: rem-convert(20px);
+    width: rem-convert(240px);
+  }
+
+  @include breakpoint("wide") {
+    width: rem-convert(360px);
+  }
+
+  &:focus-within {
+    width: calc(100% - rem-convert(64px));
+
+    @include breakpoint("tablet") {
+      width: rem-convert(180px);
+    }
+
+    @include breakpoint("desktop") {
+      width: rem-convert(240px);
+    }
+
+    @include breakpoint("wide") {
+      width: rem-convert(360px);
+    }
+  }
+
+  :global(.box) {
+    position: relative;
+  }
+
+  input[type="search"] {
+    appearance: none;
+    background: black;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: rem-convert(12px);
+    color: white;
+    display: block;
+    font-family: inherit;
+    font-size: rem-convert(13px);
+    line-height: 1.125;
+    outline: none;
+    padding: rem-convert(4px) rem-convert(8px);
+    margin: 0;
+    transition:
+      background 0.35s ease,
+      border 0.35s ease;
+    width: 100%;
+
+    @include breakpoint("desktop") {
+      background: rgba(0, 0, 0, 0.7);
+      border-radius: rem-convert(16px);
+      font-size: rem-convert(15px);
+      border-radius: rem-convert(32px);
+      padding: rem-convert(8px) rem-convert(48px) rem-convert(8px)
+        rem-convert(12px);
+
+      &:focus {
+        background: rgba(0, 0, 0, 0.3);
+      }
+    }
+
+    &:focus {
+      border-color: var(--color-highlight);
+      padding-right: rem-convert(16px);
+
+      + button {
+        > :global(.searchIcon) {
+          display: none;
+        }
+
+        > :global(.clearIcon) {
+          display: block;
+        }
+      }
+    }
+
+    &::-webkit-search-cancel-button {
+      appearance: none;
+    }
+
+    &::placeholder {
+      color: var(--color-gray);
+      font-style: italic;
+    }
+  }
+
+  button {
+    appearance: none;
+    background: none;
+    border: 0 none;
+    color: white;
+    cursor: pointer;
+    font-size: rem-convert(10px);
+    line-height: 1;
+    margin-top: rem-convert(-5px);
+    outline: none;
+    position: absolute;
+    right: rem-convert(8px);
+    top: 50%;
+    transition: color 0.35s ease;
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(15px);
+      margin-top: rem-convert(-7px);
+      right: rem-convert(14px);
+    }
+
+    &:hover,
+    &:focus {
+      color: var(--color-highlight);
+    }
+
+    > :global(.searchIcon) {
+      display: block;
+    }
+
+    > :global(.clearIcon) {
+      display: none;
+    }
+  }
+
+  :global(.results) {
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid black;
+    border-top: 0 none;
+    position: absolute;
+    top: 100%;
+    left: rem-convert(12px);
+    width: calc(100% - rem-convert(24px));
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    @include breakpoint("desktop") {
+      left: rem-convert(24px);
+      width: calc(100% - rem-convert(48px));
+    }
+
+    > li {
+      border-top: 1px solid black;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      &:first-child {
+        border-top: 0 none;
+      }
+
+      > a {
+        align-items: center;
+        color: var(--color-gray-dark-ultra);
+        display: flex;
+        font-size: rem-convert(14px);
+        font-weight: 500;
+        letter-spacing: rem-convert(0.25px);
+        line-height: 1.25;
+        padding: rem-convert(8px) rem-convert(12px);
+        transition:
+          background 0.35s ease,
+          color 0.35s ease;
+
+        @include breakpoint("desktop") {
+          border-radius: rem-convert(16px);
+          padding: rem-convert(12px) rem-convert(8px);
+        }
+
+        &:focus,
+        &:hover {
+          border-radius: none;
+          color: var(--color-highlight);
+          outline: none;
+
+          strong,
+          span {
+            color: var(--color-highlight);
+          }
+        }
+
+        :global(.icon) {
+          margin-right: rem-convert(6px);
+          margin-bottom: rem-convert(2px);
+          font-size: rem-convert(14px);
+          line-height: 1;
+          text-align: center;
+          width: rem-convert(18px);
+        }
+
+        > p {
+          line-height: 1.125;
+          margin: 0;
+
+          strong {
+            color: black;
+            font-weight: 900;
+            transition: color 0.35s ease;
+          }
+
+          > span {
+            color: var(--color-gray-dark);
+            font-size: rem-convert(12px);
+            font-weight: 400;
+            padding-left: rem-convert(4px);
+            transition: color 0.35s ease;
+          }
+        }
+      }
+
+      > span {
+        color: black;
+        display: block;
+        line-height: 1;
+        font-size: rem-convert(14px);
+        padding: rem-convert(2px) rem-convert(12px) rem-convert(8px);
+        text-align: center;
+      }
+    }
+  }
+}

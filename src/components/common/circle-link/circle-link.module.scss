@@ -1,0 +1,126 @@
+@use "../../../sass/mixins" as *;
+
+.circleLink {
+  color: white;
+  display: block;
+  flex: 0 0 auto;
+  text-decoration: none;
+
+  :global(.image) {
+    flex: 0 0 auto;
+    position: relative;
+
+    :global(.img) {
+      background: black none no-repeat center center;
+      background-size: cover;
+      border-radius: 50%;
+      border: 0 solid rgba(0, 0, 0, 0.25);
+      border-width: rem-convert(1px);
+      height: 0;
+      margin-bottom: rem-convert(16px);
+      overflow: hidden;
+      padding-top: 100%;
+      text-align: left;
+      text-indent: -999em;
+
+      > img {
+        display: inline;
+      }
+
+      &::after {
+        content: "";
+        background: rgba(0, 0, 0, 0.4);
+        border-radius: 50%;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        transition: background 0.25s ease;
+        width: 100%;
+      }
+    }
+
+    :global(.format) {
+      color: white;
+      left: 0;
+      line-height: 1;
+      font-size: rem-convert(64px);
+      margin-top: rem-convert(-32px);
+      position: absolute;
+      text-align: center;
+      text-shadow:
+        1px 1px black,
+        -1px 1px black,
+        1px -1px black,
+        -1px -1px black;
+      top: 50%;
+      width: 100%;
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(72px);
+        margin-top: rem-convert(-36px);
+      }
+    }
+  }
+
+  :global(.info) {
+    text-align: center;
+    transition: color 0.25s ease;
+
+    :global(.title) {
+      line-height: 1.2;
+      font-family: var(--font-header);
+      font-size: rem-convert(22px);
+      font-weight: 700;
+      margin-bottom: 0;
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(28px);
+      }
+    }
+
+    :global(.subtitle) {
+      line-height: 1.2;
+      font-size: rem-convert(16px);
+      font-weight: 300;
+      margin-bottom: 0;
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(20px);
+      }
+    }
+  }
+
+  &:focus,
+  &:hover {
+    color: var(--color-highlight);
+
+    :global(.image) {
+      :global(.img) {
+        &::after {
+          background: rgba(0, 0, 0, 0.6);
+        }
+      }
+    }
+  }
+
+  &:global(.sm) {
+    :global(.info) {
+      :global(.title) {
+        font-size: rem-convert(16px);
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(18px);
+        }
+      }
+
+      :global(.subtitle) {
+        font-size: rem-convert(14px);
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(16px);
+        }
+      }
+    }
+  }
+}

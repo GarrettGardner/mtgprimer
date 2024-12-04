@@ -1,0 +1,101 @@
+{
+  "name": "Theme: Wolves/Werewolves",
+  "icon": "fas fa-dog",
+  "categories": {
+    "all": "All Wolves/Werewolves",
+    "payoff": "Werewolf Payoffs",
+    "hate": "Werewolf Hate"
+  },
+  "cards": {
+    "Arlinn, the Pack's Hope // Arlinn, the Moon's Fury": {
+      "categories": ["all"]
+    },
+    "Baneblade Scoundrel // Baneclaw Marauder": {
+      "categories": ["all"]
+    },
+    "Bird Admirer // Wing Shredder": {
+      "categories": ["all"]
+    },
+    "Bounding Wolf": {
+      "categories": ["all"]
+    },
+    "Brutal Cathar // Moonrage Brute": {
+      "categories": ["all"]
+    },
+    "Burly Breaker // Dire-Strain Demolisher": {
+      "categories": ["all"]
+    },
+    "Fangblade Brigand // Fangblade Eviscerator": {
+      "categories": ["all"]
+    },
+    "Graveyard Trespasser // Graveyard Glutton": {
+      "categories": ["all"]
+    },
+    "Harvesttide Infiltrator // Harvesttide Assailant": {
+      "categories": ["all"]
+    },
+    "Hound Tamer // Untamed Pup": {
+      "categories": ["all", "payoff"]
+    },
+    "Howl of the Hunt": {
+      "categories": ["payoff"]
+    },
+    "Katilda, Dawnhart Prime": {
+      "categories": ["hate"]
+    },
+    "Kessig Naturalist // Lord of the Ulvenwald": {
+      "categories": ["all", "payoff"]
+    },
+    "Lambholt Harrier": {
+      "categories": ["all"]
+    },
+    "Outland Liberator // Frenzied Trapbreaker": {
+      "categories": ["all"]
+    },
+    "Pack's Betrayal": {
+      "categories": ["payoff"]
+    },
+    "Pestilent Wolf": {
+      "categories": ["all"]
+    },
+    "Primal Adversary": {
+      "categories": ["all"]
+    },
+    "Reckless Stormseeker // Storm-Charged Slasher": {
+      "categories": ["all"]
+    },
+    "Shady Traveler // Stalking Predator": {
+      "categories": ["all"]
+    },
+    "Silver Bolt": {
+      "categories": ["hate"]
+    },
+    "Snarling Wolf": {
+      "categories": ["all"]
+    },
+    "Spellrune Painter // Spellrune Howler": {
+      "categories": ["all"]
+    },
+    "Suspicious Stowaway // Seafaring Werewolf": {
+      "categories": ["all"]
+    },
+    "Tavern Ruffian // Tavern Smasher": {
+      "categories": ["all"]
+    },
+    "Tireless Hauler // Dire-Strain Brawler": {
+      "categories": ["all"]
+    },
+    "Tovolar's Huntmaster // Tovolar's Packleader": {
+      "categories": ["all", "payoff"]
+    },
+    "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge": {
+      "categories": ["all", "payoff"]
+    },
+    "Unnatural Moonrise": {
+      "categories": ["payoff"]
+    },
+    "Village Watch // Village Reavers": {
+      "categories": ["all", "payoff"]
+    }
+  }
+}

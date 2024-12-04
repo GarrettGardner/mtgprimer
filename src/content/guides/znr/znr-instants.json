@@ -1,0 +1,157 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Allied Assault": {
+      "categories": ["board"]
+    },
+    "Anticognition": {
+      "categories": ["counterspell"]
+    },
+    "Beyeen Veil // Beyeen Coast": {
+      "categories": ["spell", "board"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Chilling Trap": {
+      "categories": ["board"]
+    },
+    "Cinderclasm": {
+      "categories": ["board"]
+    },
+    "Concerted Defense": {
+      "categories": ["counterspell"]
+    },
+    "Dauntless Unity": {
+      "categories": ["board"]
+    },
+    "Deadly Alliance": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Deliberate": {
+      "categories": ["other"]
+    },
+    "Disenchant": {
+      "categories": ["board"]
+    },
+    "Glacial Grasp": {
+      "categories": ["board"]
+    },
+    "Hagra Mauling // Hagra Broodpit": {
+      "categories": ["board"],
+      "cost": ["1", "b", "b"]
+    },
+    "Inordinate Rage": {
+      "categories": ["board"]
+    },
+    "Inscription of Abundance": {
+      "categories": ["board"]
+    },
+    "Into the Roil": {
+      "categories": ["board"]
+    },
+    "Jwari Disruption // Jwari Ruins": {
+      "categories": ["counterspell"]
+    },
+    "Kabira Takedown // Kabira Plateau": {
+      "categories": ["board"]
+    },
+    "Kazuul's Fury // Kazuul's Cliffs": {
+      "categories": ["board"]
+    },
+    "Khalni Ambush // Khalni Territory": {
+      "categories": ["board"]
+    },
+    "Living Tempest": {
+      "categories": ["board"]
+    },
+    "Malakir Rebirth // Malakir Mire": {
+      "categories": ["board"]
+    },
+    "Might of Murasa": {
+      "categories": ["board"]
+    },
+    "Molten Blast": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Nimana Skydancer": {
+      "categories": ["board"]
+    },
+    "Oblivion's Hunger": {
+      "categories": ["board"]
+    },
+    "Practiced Tactics": {
+      "categories": ["board"]
+    },
+    "Pressure Point": {
+      "categories": ["board"]
+    },
+    "Resolute Strike": {
+      "categories": ["board"]
+    },
+    "Roiling Regrowth": {
+      "categories": ["board", "other"]
+    },
+    "Sejiri Shelter // Sejiri Glacier": {
+      "categories": ["board"]
+    },
+    "Shell Shield": {
+      "categories": ["board"]
+    },
+    "Silundi Vision // Silundi Isle": {
+      "categories": ["other"]
+    },
+    "Sizzling Barrage": {
+      "categories": ["board"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["board"]
+    },
+    "Soaring Thought-Thief": {
+      "categories": ["board"]
+    },
+    "Soul Shatter": {
+      "categories": ["board"]
+    },
+    "Spikefield Hazard // Spikefield Cave": {
+      "categories": ["board"]
+    },
+    "Spoils of Adventure": {
+      "categories": ["other"],
+      "cost": ["w", "u"]
+    },
+    "Subtle Strike": {
+      "categories": ["board"]
+    },
+    "Synchronized Spellcraft": {
+      "categories": ["board"]
+    },
+    "Valakut Awakening // Valakut Stoneforge": {
+      "categories": ["board"]
+    },
+    "Vanquish the Weak": {
+      "categories": ["board"]
+    },
+    "Vastwood Fortification // Vastwood Thicket": {
+      "categories": ["board"]
+    },
+    "Zareth San, the Trickster": {
+      "categories": ["board"],
+      "cost": ["2", "u", "b"]
+    },
+    "Zulaport Duelist": {
+      "categories": ["board"]
+    }
+  }
+}

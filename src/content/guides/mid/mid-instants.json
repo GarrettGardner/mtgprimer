@@ -1,0 +1,176 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Arcane Infusion": {
+      "categories": ["other"]
+    },
+    "Bladebrand": {
+      "categories": ["board"]
+    },
+    "Blessed Defiance": {
+      "categories": ["board"]
+    },
+    "Blood Pact": {
+      "categories": ["other"]
+    },
+    "Bloodline Culling": {
+      "categories": ["board"]
+    },
+    "Bounding Wolf": {
+      "categories": ["board"]
+    },
+    "Burn the Accursed": {
+      "categories": ["board"]
+    },
+    "Cathar Commando": {
+      "categories": ["board"]
+    },
+    "Cathartic Pyre": {
+      "categories": ["board"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Consider": {
+      "categories": ["other"]
+    },
+    "Corpse Cobble": {
+      "categories": ["board"]
+    },
+    "Defend the Celestus": {
+      "categories": ["board"]
+    },
+    "Defenestrate": {
+      "categories": ["board"]
+    },
+    "Devious Cover-Up": {
+      "categories": ["counterspell"]
+    },
+    "Dissipate": {
+      "categories": ["counterspell"]
+    },
+    "Duel for Dominance": {
+      "categories": ["board"]
+    },
+    "Electric Revelation": {
+      "categories": ["other"]
+    },
+    "Fading Hope": {
+      "categories": ["board"]
+    },
+    "Faithful Mending": {
+      "categories": ["other"]
+    },
+    "Fateful Absence": {
+      "categories": ["board"]
+    },
+    "Flare of Faith": {
+      "categories": ["board"]
+    },
+    "Flip the Switch": {
+      "categories": ["board", "counterspell"]
+    },
+    "Galvanic Iteration": {
+      "categories": ["board"]
+    },
+    "Geistwave": {
+      "categories": ["board"]
+    },
+    "Howl of the Hunt": {
+      "categories": ["board"]
+    },
+    "Infernal Grasp": {
+      "categories": ["board"]
+    },
+    "Loyal Gryff": {
+      "categories": ["board"]
+    },
+    "Lunar Frenzy": {
+      "categories": ["board"]
+    },
+    "Memory Deluge": {
+      "categories": ["other"]
+    },
+    "Might of the Old Ways": {
+      "categories": ["board"]
+    },
+    "Moonrager's Slash": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Nebelgast Intruder": {
+      "categories": ["board"]
+    },
+    "Neonate's Rush": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Olivia's Midnight Ambush": {
+      "categories": ["board"]
+    },
+    "Otherworldly Gaze": {
+      "categories": ["other"]
+    },
+    "Play with Fire": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Raze the Effigy": {
+      "categories": ["board"]
+    },
+    "Return to Nature": {
+      "categories": ["board"]
+    },
+    "Revenge of the Drowned": {
+      "categories": ["board"]
+    },
+    "Rite of Harmony": {
+      "categories": ["other"]
+    },
+    "Ritual of Hope": {
+      "categories": ["board"]
+    },
+    "Rotten Reunion": {
+      "categories": ["board"]
+    },
+    "Sacred Fire": {
+      "categories": ["board"]
+    },
+    "Secrets of the Key": {
+      "categories": ["other"]
+    },
+    "Siphon Insight": {
+      "categories": ["other"]
+    },
+    "Spectral Adversary": {
+      "categories": ["board"]
+    },
+    "Startle": {
+      "categories": ["board"]
+    },
+    "Stolen Vitality": {
+      "categories": ["board"]
+    },
+    "Stormrider Spirit": {
+      "categories": ["board"]
+    },
+    "Sungold Barrage": {
+      "categories": ["board"]
+    },
+    "Thraben Exorcism": {
+      "categories": ["board"]
+    },
+    "Turn the Earth": {
+      "categories": ["other"]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Madness",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "creature": "Creature",
+    "board": "Board",
+    "other": "Other"
+  },
+  "cards": {
+    "Alms of the Vein": {
+      "categories": ["other"],
+      "cost": ["b"]
+    },
+    "Asylum Visitor": {
+      "categories": ["creature"],
+      "cost": ["1", "b"]
+    },
+    "Avacyn's Judgement": {
+      "categories": ["board"],
+      "cost": ["x", "r"]
+    },
+    "Biting Rain": {
+      "categories": ["board"],
+      "cost": ["2", "b"]
+    },
+    "Bloodmad Vampire": {
+      "categories": ["creature"],
+      "cost": ["1", "r"]
+    },
+    "Broken Concentration": {
+      "categories": ["board"],
+      "cost": ["3", "u"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "From Under the Floorboards": {
+      "categories": ["creature"],
+      "cost": ["x", "b", "b"]
+    },
+    "Gisa's Bidding": {
+      "categories": ["creature"],
+      "cost": ["2", "b"]
+    },
+    "Incorrigible Youths": {
+      "categories": ["creature"],
+      "cost": ["2", "r"]
+    },
+    "Just the Wind": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Malevolent Whispers": {
+      "categories": ["board"],
+      "cost": ["3", "r"]
+    },
+    "Murderous Compulsion": {
+      "categories": ["board"],
+      "cost": ["1", "b"]
+    },
+    "Nagging Thoughts": {
+      "categories": ["other"],
+      "cost": ["1", "u"]
+    },
+    "Senseless Rage": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Stensia Masquerade": {
+      "categories": ["board"],
+      "cost": ["2", "r"]
+    },
+    "Twins of Maurer Estate": {
+      "categories": ["creature"],
+      "cost": ["2", "b"]
+    },
+    "Welcome to the Fold": {
+      "categories": ["board"],
+      "cost": ["x", "u", "u"]
+    }
+  }
+}

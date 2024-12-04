@@ -1,0 +1,114 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Acrobatic Maneuver": {
+      "categories": ["board"]
+    },
+    "Aether Meltdown": {
+      "categories": ["board"]
+    },
+    "Appetite for the Unnatural": {
+      "categories": ["board"]
+    },
+    "Blossoming Defense": {
+      "categories": ["board"]
+    },
+    "Built to Last": {
+      "categories": ["board"]
+    },
+    "Built to Smash": {
+      "categories": ["board"]
+    },
+    "Ceremonious Rejection": {
+      "categories": ["counterspell"]
+    },
+    "Chandra's Pyrohelix": {
+      "categories": ["board"]
+    },
+    "Commencement of Festivities": {
+      "categories": ["other"]
+    },
+    "Disappearing Act": {
+      "categories": ["counterspell"]
+    },
+    "Dramatic Reversal": {
+      "categories": ["board"]
+    },
+    "Essence Extraction": {
+      "categories": ["board"]
+    },
+    "Failed Inspection": {
+      "categories": ["counterspell"]
+    },
+    "Fateful Showdown": {
+      "categories": ["board"]
+    },
+    "Glimmer of Genius": {
+      "categories": ["other"]
+    },
+    "Harnessed Lightning": {
+      "categories": ["board"]
+    },
+    "Impeccable Timing": {
+      "categories": ["board"]
+    },
+    "Incendiary Sabotage": {
+      "categories": ["board"]
+    },
+    "Insidious Will": {
+      "categories": ["counterspell"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Make Obsolete": {
+      "categories": ["board"]
+    },
+    "Ornamental Courage": {
+      "categories": ["board"]
+    },
+    "Paradoxical Outcome": {
+      "categories": ["board"]
+    },
+    "Pressure Point": {
+      "categories": ["board"]
+    },
+    "Revolutionary Rebuff": {
+      "categories": ["counterspell"]
+    },
+    "Rush of Vitality": {
+      "categories": ["board"]
+    },
+    "Select for Inspection": {
+      "categories": ["board"]
+    },
+    "Skywhaler's Shot": {
+      "categories": ["board"]
+    },
+    "Subtle Strike": {
+      "categories": ["board"]
+    },
+    "Tidy Conclusion": {
+      "categories": ["board"]
+    },
+    "Torrential Gearhulk": {
+      "categories": ["board"]
+    },
+    "Unlicensed Disintegration": {
+      "categories": ["board"]
+    },
+    "Welding Sparks": {
+      "categories": ["board"]
+    },
+    "Æther Tradewinds": {
+      "categories": ["board"]
+    }
+  }
+}

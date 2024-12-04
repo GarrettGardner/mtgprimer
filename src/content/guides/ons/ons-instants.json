@@ -1,0 +1,162 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Akroma's Blessing": {
+      "categories": ["board"]
+    },
+    "Artificial Evolution": {
+      "categories": ["board"]
+    },
+    "Aura Extraction": {
+      "categories": ["board"]
+    },
+    "Backslide": {
+      "categories": ["board"]
+    },
+    "Break Open": {
+      "categories": ["board"]
+    },
+    "Brightstone Ritual": {
+      "categories": ["board"]
+    },
+    "Chain of Plasma": {
+      "categories": ["board"]
+    },
+    "Chain of Silence": {
+      "categories": ["board"]
+    },
+    "Chain of Vapor": {
+      "categories": ["board"]
+    },
+    "Choking Tethers": {
+      "categories": ["board"]
+    },
+    "Commando Raid": {
+      "categories": ["board"]
+    },
+    "Complicate": {
+      "categories": ["board"]
+    },
+    "Cruel Revival": {
+      "categories": ["board"]
+    },
+    "Death Pulse": {
+      "categories": ["board"]
+    },
+    "Defensive Maneuvers": {
+      "categories": ["board"]
+    },
+    "Demystify": {
+      "categories": ["board"]
+    },
+    "Discombobulate": {
+      "categories": ["board"]
+    },
+    "Fade from Memory": {
+      "categories": ["board"]
+    },
+    "False Cure": {
+      "categories": ["board"]
+    },
+    "Feeding Frenzy": {
+      "categories": ["board"]
+    },
+    "Fever Charm": {
+      "categories": ["board"]
+    },
+    "Inspirit": {
+      "categories": ["board"]
+    },
+    "Ixidor's Will": {
+      "categories": ["board"]
+    },
+    "Mage's Guile": {
+      "categories": ["board"]
+    },
+    "Meddle": {
+      "categories": ["board"]
+    },
+    "Misery Charm": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Oblation": {
+      "categories": ["board"]
+    },
+    "Piety Charm": {
+      "categories": ["board"]
+    },
+    "Pinpoint Avalanche": {
+      "categories": ["board"]
+    },
+    "Primal Boost": {
+      "categories": ["board"]
+    },
+    "Psychic Trance": {
+      "categories": ["board"]
+    },
+    "Read the Runes": {
+      "categories": ["board"]
+    },
+    "Renewed Faith": {
+      "categories": ["board"]
+    },
+    "Run Wild": {
+      "categories": ["board"]
+    },
+    "Shade's Breath": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Smother": {
+      "categories": ["board"]
+    },
+    "Solar Blast": {
+      "categories": ["board"]
+    },
+    "Spy Network": {
+      "categories": ["board"]
+    },
+    "Standardize": {
+      "categories": ["board"]
+    },
+    "Starstorm": {
+      "categories": ["board"]
+    },
+    "Sunfire Balm": {
+      "categories": ["board"]
+    },
+    "Swat": {
+      "categories": ["board"]
+    },
+    "Tribal Unity": {
+      "categories": ["board"]
+    },
+    "Trickery Charm": {
+      "categories": ["board"]
+    },
+    "Unified Strike": {
+      "categories": ["board"]
+    },
+    "Vitality Charm": {
+      "categories": ["board"]
+    },
+    "Wheel and Deal": {
+      "categories": ["board"]
+    },
+    "Wirewood Pride": {
+      "categories": ["board"]
+    }
+  }
+}

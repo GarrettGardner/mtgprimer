@@ -1,0 +1,255 @@
+@use "../../../sass/mixins" as *;
+
+.guide {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  > ul {
+    > li {
+      align-items: stretch;
+      display: flex;
+      padding-bottom: rem-convert(16px);
+      position: relative;
+
+      &::before {
+        background: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.8),
+          rgba(0, 0, 0, 0.4)
+        );
+        bottom: 0;
+        content: "";
+        display: block;
+        height: rem-convert(16px);
+        left: 0;
+        position: absolute;
+        width: 100%;
+      }
+
+      &:last-child {
+        padding-bottom: 0;
+
+        &::before {
+          display: none;
+        }
+      }
+
+      > h3 {
+        align-items: flex-start;
+        background: rgba(128, 128, 128, 0.5);
+        color: white;
+        display: flex;
+        flex: 0 0 auto;
+        font-family: var(--font-header);
+        font-weight: 700;
+        justify-content: center;
+        line-height: 1;
+        padding: rem-convert(8px) 0;
+        width: rem-convert(24px);
+
+        @include breakpoint("desktop") {
+          padding: rem-convert(16px) 0;
+          width: rem-convert(80px);
+        }
+
+        > * {
+          position: sticky;
+          top: 50%;
+
+          @include breakpoint("desktop") {
+            top: rem-convert(80px);
+          }
+        }
+
+        i {
+          box-shadow:
+            1px 1px black,
+            1px -1px black,
+            -1px 1px black,
+            1px -1px black;
+          display: block;
+          font-size: rem-convert(12px);
+
+          @include breakpoint("desktop") {
+            font-size: rem-convert(32px);
+          }
+
+          &:global(.ss) {
+            box-shadow: none;
+            font-size: rem-convert(28px);
+            text-shadow:
+              1px 1px black,
+              1px -1px black,
+              -1px 1px black,
+              1px -1px black;
+
+            @include breakpoint("desktop") {
+              font-size: rem-convert(42px);
+            }
+          }
+        }
+
+        > span {
+          align-items: center;
+          background-color: white;
+          border: 0 solid black;
+          border-radius: 50%;
+          border-width: rem-convert(2px);
+          color: black;
+          display: flex;
+          font-size: rem-convert(20px);
+          justify-content: center;
+          height: rem-convert(32px);
+          width: rem-convert(32px);
+
+          :global(&.gold) {
+            background: var(--color-mtgcolor-gold);
+          }
+
+          @include breakpoint("desktop") {
+            height: rem-convert(48px);
+            font-size: rem-convert(26px);
+            width: rem-convert(48px);
+          }
+        }
+      }
+
+      > ul {
+        display: flex;
+        flex: 1 1 auto;
+        flex-wrap: wrap;
+        margin: 0;
+        padding: rem-convert(3px) rem-convert(32px) 0 rem-convert(3px);
+        max-width: rem-convert(1920px);
+        width: 100%;
+
+        @include breakpoint("desktop") {
+          padding: rem-convert(4px) rem-convert(48px) 0 rem-convert(4px);
+        }
+
+        > li {
+          flex: 0 0 auto;
+          padding: rem-convert(2px);
+          width: 50%;
+
+          @include breakpoint("mobile") {
+            width: 33.3333%;
+          }
+
+          @include breakpoint("tablet") {
+            width: 25%;
+          }
+
+          @include breakpoint("desktop") {
+            width: 25%;
+          }
+
+          @include breakpoint("wide") {
+            width: 20%;
+          }
+
+          @include breakpoint("ultrawide") {
+            width: 12.5%;
+          }
+        }
+      }
+    }
+  }
+
+  h4 {
+    color: white;
+    font-size: rem-convert(18px);
+    font-weight: 700;
+    margin: 0;
+    padding: rem-convert(64px) rem-convert(16px);
+    text-align: center;
+
+    @include breakpoint("tablet") {
+      font-size: rem-convert(28px);
+    }
+  }
+
+  &:global(.isViewStacked) {
+    > ul {
+      align-items: stretch;
+      display: flex;
+      flex-wrap: nowrap;
+      overflow: auto;
+
+      > li {
+        border-right: 0 solid rgba(0, 0, 0, 0.6);
+        border-right-width: rem-convert(8px);
+        display: block;
+        flex: 1 1 auto;
+        min-width: rem-convert(160px);
+        padding: 0;
+        position: relative;
+        white-space: normal;
+        width: 100%;
+
+        @include breakpoint("desktop") {
+          border-right-width: rem-convert(24px);
+        }
+
+        &::before {
+          display: none;
+        }
+
+        > h3 {
+          padding: rem-convert(8px) rem-convert(4px);
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        > ul {
+          display: block;
+          padding: rem-convert(4px);
+
+          > li {
+            padding: 0;
+            width: 100%;
+
+            &:last-child {
+              padding-bottom: 140%;
+            }
+          }
+
+          // @include rem(padding, (0 4px (size("card-xs-w") * 1.393939)));
+
+          @include breakpoint("desktop") {
+            // @include rem(padding, (0 4px (size("card-md-w") * 1.393939)));
+          }
+        }
+      }
+    }
+  }
+
+  &:global(.isViewText) {
+    > ul {
+      > li {
+        > ul {
+          align-items: flex-start;
+          padding: rem-convert(8px);
+
+          @include breakpoint("desktop") {
+            padding: rem-convert(8px) rem-convert(32px) rem-convert(8px)
+              rem-convert(16px);
+          }
+
+          > li {
+            padding: 0;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}

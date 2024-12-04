@@ -1,0 +1,210 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Archon's Glory": {
+      "categories": ["board"]
+    },
+    "Ardenvale Fealty (Virtue of Loyalty // Ardenvale Fealty)": {
+      "categories": ["board"]
+    },
+    "Asinine Antics": {
+      "categories": ["board"],
+      "cost": ["4", "u", "u"]
+    },
+    "Blow Off Steam (Frolicking Familiar // Blow Off Steam)": {
+      "categories": ["board"]
+    },
+    "Break the Spell": {
+      "categories": ["board"]
+    },
+    "Candy Grapple": {
+      "categories": ["board"]
+    },
+    "Desperate Parry (Obyra's Attendants // Desperate Parry)": {
+      "categories": ["board"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Eerie Interference": {
+      "categories": ["board"]
+    },
+    "Embereth Blaze (Virtue of Courage // Embereth Blaze)": {
+      "categories": ["board"]
+    },
+    "Expensive Taste (Decadent Dragon // Expensive Taste)": {
+      "categories": ["other"]
+    },
+    "Faerie Fencing": {
+      "categories": ["board"]
+    },
+    "Farsight Ritual": {
+      "categories": ["other"]
+    },
+    "Feed the Cauldron": {
+      "categories": ["board"]
+    },
+    "Flick a Coin": {
+      "categories": ["board"]
+    },
+    "Frantic Firebolt": {
+      "categories": ["board"]
+    },
+    "Free the Fae (Picklock Prankster // Free the Fae)": {
+      "categories": ["other"]
+    },
+    "Gnawing Crescendo": {
+      "categories": ["board"]
+    },
+    "Guard Change (Ferocious Werefox // Guard Change)": {
+      "categories": ["board"]
+    },
+    "Have for Dinner (Devouring Sugarmaw // Have for Dinner)": {
+      "categories": ["board"]
+    },
+    "Heartflame Slash (Heartflame Duelist // Heartflame Slash)": {
+      "categories": ["board"]
+    },
+    "Horned Loch-Whale (Horned Loch-Whale // Lagoon Breach)": {
+      "categories": ["board"]
+    },
+    "Ice Out": {
+      "categories": ["counterspell"]
+    },
+    "Kellan's Lightblades": {
+      "categories": ["board"]
+    },
+    "Kindled Heroism": {
+      "categories": ["board"]
+    },
+    "Lagoon Breach (Horned Loch-Whale // Lagoon Breach)": {
+      "categories": ["board"]
+    },
+    "Leaping Ambush": {
+      "categories": ["board"]
+    },
+    "Mend the Wilds (Woodland Acolyte // Mend the Wilds)": {
+      "categories": ["other"]
+    },
+    "Misleading Motes": {
+      "categories": ["board"]
+    },
+    "Moment of Valor": {
+      "categories": ["board"]
+    },
+    "Monstrous Rage": {
+      "categories": ["board"]
+    },
+    "Not Dead After All": {
+      "categories": ["board"]
+    },
+    "Obyra, Dreaming Duelist": {
+      "categories": ["board"]
+    },
+    "Pest Problem (Ratcatcher Trainee // Pest Problem)": {
+      "categories": ["board"]
+    },
+    "Plunge into Winter": {
+      "categories": ["board"]
+    },
+    "Puny Snack (Gingerbread Hunter // Puny Snack)": {
+      "categories": ["board"]
+    },
+    "Quick Study": {
+      "categories": ["other"]
+    },
+    "Rat Out": {
+      "categories": ["board"]
+    },
+    "Ride the Rails (Minecart Daredevil // Ride the Rails)": {
+      "categories": ["board"]
+    },
+    "Rip the Seams (Threadbind Clique // Rip the Seams)": {
+      "categories": ["board"]
+    },
+    "Rowan's Grim Search": {
+      "categories": ["other"]
+    },
+    "Royal Treatment": {
+      "categories": ["board"]
+    },
+    "Scan the Clouds (Tempest Hart // Scan the Clouds)": {
+      "categories": ["other"]
+    },
+    "Seek Thrills (Beluna Grandsquall // Seek Thrills)": {
+      "categories": ["other"]
+    },
+    "Seek the Beast (Questing Druid // Seek the Beast)": {
+      "categories": ["other"]
+    },
+    "Spell Stutter": {
+      "categories": ["counterspell"]
+    },
+    "Stingblade Assassin": {
+      "categories": ["board"]
+    },
+    "Stonesplitter Bolt": {
+      "categories": ["board"]
+    },
+    "Storm Reading (Galvanic Giant // Storm Reading)": {
+      "categories": ["other"]
+    },
+    "Stroke of Midnight": {
+      "categories": ["board"]
+    },
+    "Succumb to the Cold": {
+      "categories": ["board"]
+    },
+    "Sugar Rush": {
+      "categories": ["board"]
+    },
+    "Swift Spiral (Twining Twins // Swift Spiral)": {
+      "categories": ["board"]
+    },
+    "Take It Back (Spellscorn Coven // Take It Back)": {
+      "categories": ["counterspell"]
+    },
+    "Taken by Nightmares": {
+      "categories": ["board"]
+    },
+    "Tempt with Treats (Gumdrop Poisoner // Tempt with Treats)": {
+      "categories": ["other"]
+    },
+    "That's Mine (Grabby Giant // That's Mine)": {
+      "categories": ["other"]
+    },
+    "The End": {
+      "categories": ["board"],
+      "cost": ["b", "b"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Torch the Tower": {
+      "categories": ["board"]
+    },
+    "Twice the Rage (Two-Headed Hunter // Twice the Rage)": {
+      "categories": ["board"]
+    },
+    "Vantress Visions (Virtue of Knowledge // Vantress Visions)": {
+      "categories": ["board"]
+    },
+    "Water Wings": {
+      "categories": ["board"]
+    },
+    "Werefox Bodyguard": {
+      "categories": ["board"]
+    },
+    "Witchstalker Frenzy": {
+      "categories": ["board"],
+      "cost": ["r"]
+    }
+  }
+}

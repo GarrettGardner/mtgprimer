@@ -1,0 +1,61 @@
+{
+  "name": "Mechanic: Ninjutsu",
+  "icon": "fas fa-user-ninja",
+  "categories": {
+    "ninjutsu": "",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Biting-Palm Ninja": {
+      "categories": ["ninjutsu"]
+    },
+    "Blade-Blizzard Kitsune": {
+      "categories": ["ninjutsu"]
+    },
+    "Coiling Stalker": {
+      "categories": ["ninjutsu"]
+    },
+    "Covert Technician": {
+      "categories": ["ninjutsu"]
+    },
+    "Dokuchi Shadow-Walker": {
+      "categories": ["ninjutsu"]
+    },
+    "Dokuchi Silencer": {
+      "categories": ["ninjutsu"]
+    },
+    "Kappa Tech-Wrecker": {
+      "categories": ["ninjutsu"]
+    },
+    "Moon-Circuit Hacker": {
+      "categories": ["ninjutsu"]
+    },
+    "Moonsnare Specialist": {
+      "categories": ["ninjutsu"]
+    },
+    "Mukotai Ambusher": {
+      "categories": ["ninjutsu"]
+    },
+    "Nashi, Moon Sage's Scion": {
+      "categories": ["ninjutsu"]
+    },
+    "Nezumi Prowler": {
+      "categories": ["ninjutsu"]
+    },
+    "Prosperous Thief": {
+      "categories": ["ninjutsu"]
+    },
+    "Satoru Umezawa": {
+      "categories": ["payoff"]
+    },
+    "Silver-Fur Master": {
+      "categories": ["ninjutsu", "payoff"]
+    },
+    "Spring-Leaf Avenger": {
+      "categories": ["ninjutsu"]
+    },
+    "Thousand-Faced Shadow": {
+      "categories": ["ninjutsu"]
+    }
+  }
+}

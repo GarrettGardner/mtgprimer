@@ -1,0 +1,17 @@
+@use "../../../sass/mixins" as *;
+
+.tableOfContents {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+
+  > li {
+    display: flex-inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}

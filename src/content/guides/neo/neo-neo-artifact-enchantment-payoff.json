@@ -1,0 +1,83 @@
+{
+  "name": "Theme: Artifact/Enchantment Payoff",
+  "icon": "fas fa-money-bill",
+  "categories": {
+    "artifact": "Artifact Payoff",
+    "enchantment": "Enchantment Payoff",
+    "both": "Both Payoff"
+  },
+  "cards": {
+    "Assassin's Ink": {
+      "categories": ["both"]
+    },
+    "Bearer of Memory": {
+      "categories": ["enchantment"]
+    },
+    "Brilliant Restoration": {
+      "categories": ["both"]
+    },
+    "Commune with Spirits": {
+      "categories": ["enchantment"]
+    },
+    "Enthusiastic Mechanaut": {
+      "categories": ["artifact"]
+    },
+    "Generous Visitor": {
+      "categories": ["enchantment"]
+    },
+    "Geothermal Kami": {
+      "categories": ["enchantment"]
+    },
+    "Jukai Naturalist": {
+      "categories": ["enchantment"]
+    },
+    "Kami of Terrible Secrets": {
+      "categories": ["both"]
+    },
+    "Kami of Transience": {
+      "categories": ["enchantment"]
+    },
+    "Michiko's Reign of Truth // Portrait of Michiko": {
+      "categories": ["both"]
+    },
+    "Naomi, Pillar of Order": {
+      "categories": ["both"]
+    },
+    "Nezumi Bladeblesser": {
+      "categories": ["both"]
+    },
+    "Norika Yamazaki, the Poet": {
+      "categories": ["enchantment"]
+    },
+    "Okiba Salvage": {
+      "categories": ["both"]
+    },
+    "Regent's Authority": {
+      "categories": ["enchantment"]
+    },
+    "Roadside Reliquary": {
+      "categories": ["both"]
+    },
+    "Runaway Trash-Bot": {
+      "categories": ["both"]
+    },
+    "Satsuki, the Living Lore": {
+      "categories": ["enchantment"]
+    },
+    "Sky-Blessed Samurai": {
+      "categories": ["enchantment"]
+    },
+    "Soul Transfer": {
+      "categories": ["both"]
+    },
+    "Tatsunari, Toad Rider": {
+      "categories": ["enchantment"]
+    },
+    "Weaver of Harmony": {
+      "categories": ["enchantment"]
+    },
+    "When We Were Young": {
+      "categories": ["both"]
+    }
+  }
+}

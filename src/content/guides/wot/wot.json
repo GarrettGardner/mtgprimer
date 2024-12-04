@@ -1,0 +1,392 @@
+{
+  "code": "wot",
+  "formatName": "Wilds of Eldraine: Enchanting Tales",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Blind Obedience": {
+      "number": "1",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dawn of Hope": {
+      "number": "2",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Grasp of Fate": {
+      "number": "3",
+      "cost": ["1", "w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Greater Auramancy": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Griffin Aerie": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Intangible Virtue": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Karmic Justice": {
+      "number": "7",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Knightly Valor": {
+      "number": "8",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Land Tax": {
+      "number": "9",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Leyline of Sanctity": {
+      "number": "10",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Phyrexian Unlife": {
+      "number": "11",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rest in Peace": {
+      "number": "12",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Smothering Tithe": {
+      "number": "13",
+      "cost": ["3", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "As Foretold": {
+      "number": "14",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Compulsion": {
+      "number": "15",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Copy Enchantment": {
+      "number": "16",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Curiosity": {
+      "number": "17",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Forced Fruition": {
+      "number": "18",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fraying Sanity": {
+      "number": "19",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Hatching Plans": {
+      "number": "20",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Intruder Alarm": {
+      "number": "21",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Kindred Discovery": {
+      "number": "22",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Leyline of Anticipation": {
+      "number": "23",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Omniscience": {
+      "number": "24",
+      "cost": ["7", "u", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Rhystic Study": {
+      "number": "25",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Spreading Seas": {
+      "number": "26",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bitterblossom": {
+      "number": "27",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dark Tutelage": {
+      "number": "28",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Grave Pact": {
+      "number": "29",
+      "cost": ["1", "b", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Leyline of the Void": {
+      "number": "30",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Necropotence": {
+      "number": "31",
+      "cost": ["b", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Oppression": {
+      "number": "32",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Oversold Cemetery": {
+      "number": "33",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Polluted Bonds": {
+      "number": "34",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sanguine Bond": {
+      "number": "35",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Stab Wound": {
+      "number": "36",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vampiric Rites": {
+      "number": "37",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Waste Not": {
+      "number": "38",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aggravated Assault": {
+      "number": "39",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Blood Moon": {
+      "number": "40",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dragon Mantle": {
+      "number": "41",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fiery Emancipation": {
+      "number": "42",
+      "cost": ["3", "r", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Goblin Bombardment": {
+      "number": "43",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Impact Tremors": {
+      "number": "44",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Leyline of Lightning": {
+      "number": "45",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mana Flare": {
+      "number": "46",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Raid Bombardment": {
+      "number": "47",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Repercussion": {
+      "number": "48",
+      "cost": ["1", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shared Animosity": {
+      "number": "49",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sneak Attack": {
+      "number": "50",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Defense of the Heart": {
+      "number": "51",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Doubling Season": {
+      "number": "52",
+      "cost": ["4", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Garruk's Uprising": {
+      "number": "53",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ground Seal": {
+      "number": "54",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hardened Scales": {
+      "number": "55",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Leyline of Abundance": {
+      "number": "56",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nature's Will": {
+      "number": "57",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Parallel Lives": {
+      "number": "58",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Primal Vigor": {
+      "number": "59",
+      "cost": ["4", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Prismatic Omen": {
+      "number": "60",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Season of Growth": {
+      "number": "61",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Unnatural Growth": {
+      "number": "62",
+      "cost": ["1", "g", "g", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Utopia Sprawl": {
+      "number": "63",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    }
+  }
+}

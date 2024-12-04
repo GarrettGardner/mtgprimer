@@ -1,0 +1,121 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blacksmith's Skill": {
+      "categories": ["board"]
+    },
+    "Blessed Respite": {
+      "categories": ["board"]
+    },
+    "Blossoming Calm": {
+      "categories": ["board"]
+    },
+    "Break Ties": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Calibrated Blast": {
+      "categories": ["board"]
+    },
+    "Caprichrome": {
+      "categories": ["board"]
+    },
+    "Chef's Kiss": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Dihada's Ploy": {
+      "categories": ["other"]
+    },
+    "Done (Said // Done)": {
+      "categories": ["board"]
+    },
+    "Dress Down": {
+      "categories": ["board"]
+    },
+    "Endurance": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Faithless Salvaging": {
+      "categories": ["other"]
+    },
+    "Fast (Fast // Furious)": {
+      "categories": ["board"]
+    },
+    "Fire (Fire // Ice)": {
+      "categories": ["board"]
+    },
+    "Flourishing Strike": {
+      "categories": ["board"]
+    },
+    "Foundry Helix": {
+      "categories": ["board"]
+    },
+    "Hunting Pack": {
+      "categories": ["board"]
+    },
+    "Ice (Fire // Ice)": {
+      "categories": ["board"]
+    },
+    "Lens Flare": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Lose Focus": {
+      "categories": ["counterspell"]
+    },
+    "Mental Journey": {
+      "categories": ["other"]
+    },
+    "Mine Collapse": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Mogg Salvage": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Recalibrate": {
+      "categories": ["board"]
+    },
+    "Road (Road // Ruin)": {
+      "categories": ["board"]
+    },
+    "Solitude": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Subtlety": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Sudden Edict": {
+      "categories": ["board"]
+    },
+    "Suspend": {
+      "categories": ["board"]
+    },
+    "Tragic Fall": {
+      "categories": ["board"]
+    },
+    "Unbounded Potential": {
+      "categories": ["board"]
+    },
+    "Unholy Heat": {
+      "categories": ["board"]
+    },
+    "Verdant Command": {
+      "categories": ["board", "counterspell"]
+    }
+  }
+}

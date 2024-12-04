@@ -1,0 +1,121 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abstruse Interference": {
+      "categories": ["counterspell"]
+    },
+    "Brute Strength": {
+      "categories": ["board"]
+    },
+    "Comparative Analysis": {
+      "categories": ["other"],
+      "cost": ["2", "u"]
+    },
+    "Consuming Sinkhole": {
+      "categories": ["board"]
+    },
+    "Corpse Churn": {
+      "categories": ["other"]
+    },
+    "Dazzling Reflection": {
+      "categories": ["board"]
+    },
+    "Dimensional Infiltrator": {
+      "categories": ["board"]
+    },
+    "Elemental Uprising": {
+      "categories": ["board"]
+    },
+    "Expedite": {
+      "categories": ["other"]
+    },
+    "Fall of the Titans": {
+      "categories": ["board"],
+      "cost": ["x", "r"]
+    },
+    "Gift of Tusks": {
+      "categories": ["board"]
+    },
+    "Grasp of Darkness": {
+      "categories": ["board"]
+    },
+    "Grip of the Roil": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Immolating Glare": {
+      "categories": ["board"]
+    },
+    "Kozilek's Return": {
+      "categories": ["board"]
+    },
+    "Lead by Example": {
+      "categories": ["board"]
+    },
+    "Make a Stand": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Natural State": {
+      "categories": ["other"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Overwhelming Denial": {
+      "categories": ["counterspell"],
+      "cost": ["u", "u"]
+    },
+    "Pulse of Murasa": {
+      "categories": ["other"]
+    },
+    "Reality Hemorrhage": {
+      "categories": ["board"]
+    },
+    "Searing Light": {
+      "categories": ["board"]
+    },
+    "Spatial Contortion": {
+      "categories": ["board"]
+    },
+    "Sweep Away": {
+      "categories": ["board"]
+    },
+    "Tar Snare": {
+      "categories": ["board"]
+    },
+    "Tears of Valakut": {
+      "categories": ["board"]
+    },
+    "Unity of Purpose": {
+      "categories": ["board"]
+    },
+    "Unnatural Endurance": {
+      "categories": ["board"]
+    },
+    "Vile Redeemer": {
+      "categories": ["board"]
+    },
+    "Vines of the Recluse": {
+      "categories": ["board"]
+    },
+    "Void Grafter": {
+      "categories": ["board"]
+    },
+    "Void Shatter": {
+      "categories": ["counterspell"]
+    },
+    "Warping Wail": {
+      "categories": ["board", "counterspell"]
+    }
+  }
+}

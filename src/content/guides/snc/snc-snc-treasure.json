@@ -1,0 +1,98 @@
+{
+  "name": "Theme: Treasure",
+  "icon": "fas fa-coins",
+  "categories": {
+    "treasure": "",
+    "payoff": "Payoff",
+    "opponent": "Opponent"
+  },
+  "cards": {
+    "An Offer You Can't Refuse": {
+      "categories": ["opponent"]
+    },
+    "Big Score": {
+      "categories": ["treasure"]
+    },
+    "Black Market Tycoon": {
+      "categories": ["treasure"]
+    },
+    "Bootleggers' Stash": {
+      "categories": ["treasure"]
+    },
+    "Buy Your Silence": {
+      "categories": ["opponent"]
+    },
+    "Capenna Express": {
+      "categories": ["payoff"]
+    },
+    "Courier's Briefcase": {
+      "categories": ["treasure"]
+    },
+    "Exhibition Magician": {
+      "categories": ["treasure"]
+    },
+    "Fake Your Own Death": {
+      "categories": ["treasure"]
+    },
+    "Gala Greeters": {
+      "categories": ["treasure"]
+    },
+    "Gilded Pinions": {
+      "categories": ["treasure"]
+    },
+    "Glittering Stockpile": {
+      "categories": ["treasure"]
+    },
+    "Glittermonger": {
+      "categories": ["treasure"]
+    },
+    "Goldhound": {
+      "categories": ["treasure"]
+    },
+    "Halo Scarab": {
+      "categories": ["treasure"]
+    },
+    "Hoard Hauler": {
+      "categories": ["treasure"]
+    },
+    "Involuntary Employment": {
+      "categories": ["treasure"]
+    },
+    "Jetmir's Fixer": {
+      "categories": ["treasure"]
+    },
+    "Jewel Thief": {
+      "categories": ["treasure"]
+    },
+    "Most Wanted": {
+      "categories": ["treasure"]
+    },
+    "Ognis, the Dragon's Lash": {
+      "categories": ["treasure"]
+    },
+    "Prizefight": {
+      "categories": ["treasure"]
+    },
+    "Professional Face-Breaker": {
+      "categories": ["treasure", "payoff"]
+    },
+    "Pyre-Sledge Arsonist": {
+      "categories": ["payoff"]
+    },
+    "Riveteers Requisitioner": {
+      "categories": ["treasure"]
+    },
+    "Security Rhox": {
+      "categories": ["payoff"]
+    },
+    "Stimulus Package": {
+      "categories": ["treasure", "payoff"]
+    },
+    "Widespread Thieving": {
+      "categories": ["treasure"]
+    },
+    "Ziatora, the Incinerator": {
+      "categories": ["treasure"]
+    }
+  }
+}

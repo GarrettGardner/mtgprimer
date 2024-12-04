@@ -1,0 +1,119 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abzan Advantage": {
+      "categories": ["board"]
+    },
+    "Arcbond": {
+      "categories": ["board"]
+    },
+    "Channel Harm": {
+      "categories": ["board"]
+    },
+    "Collateral Damage": {
+      "categories": ["board"]
+    },
+    "Cunning Strike": {
+      "categories": ["board"]
+    },
+    "Douse in Gloom": {
+      "categories": ["board"]
+    },
+    "Dragonrage": {
+      "categories": ["board"]
+    },
+    "Enhanced Awareness": {
+      "categories": ["other"]
+    },
+    "Ethereal Ambush": {
+      "categories": ["board"]
+    },
+    "Friendly Fire": {
+      "categories": ["board"]
+    },
+    "Grim Contest": {
+      "categories": ["board"]
+    },
+    "Harsh Sustenance": {
+      "categories": ["board"]
+    },
+    "Honor's Reward": {
+      "categories": ["board"]
+    },
+    "Hungering Yeti": {
+      "categories": ["board"]
+    },
+    "Jeskai Barricade": {
+      "categories": ["board"]
+    },
+    "Neutralizing Blast": {
+      "categories": ["counterspell"]
+    },
+    "Pressure Point": {
+      "categories": ["board"]
+    },
+    "Rakshasa's Disdain": {
+      "categories": ["counterspell"]
+    },
+    "Rally the Ancestors": {
+      "categories": ["board"]
+    },
+    "Reach of Shadows": {
+      "categories": ["board"]
+    },
+    "Reality Shift": {
+      "categories": ["board"]
+    },
+    "Refocus": {
+      "categories": ["board"]
+    },
+    "Return to the Earth": {
+      "categories": ["board"]
+    },
+    "Rite of Undoing": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Ruthless Instincts": {
+      "categories": ["board"]
+    },
+    "Sandblast": {
+      "categories": ["board"]
+    },
+    "Sudden Reclamation": {
+      "categories": ["other"]
+    },
+    "Supplant Form": {
+      "categories": ["board"]
+    },
+    "Temur Battle Rage": {
+      "categories": ["board"]
+    },
+    "Valorous Stance": {
+      "categories": ["board"]
+    },
+    "War Flare": {
+      "categories": ["board"]
+    },
+    "Whisk Away": {
+      "categories": ["board"]
+    },
+    "Wild Slash": {
+      "categories": ["board"]
+    },
+    "Will of the Naga": {
+      "categories": ["board"],
+      "cost": ["u", "u"]
+    },
+    "Winds of Qal Sisma": {
+      "categories": ["board"]
+    }
+  }
+}

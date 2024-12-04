@@ -1,0 +1,91 @@
+{
+  "name": "Theme: Graveyard",
+  "icon": "fas fa-book-dead",
+  "categories": {
+    "leave": "Payoffs for Leaving Graveyard",
+    "recursion": "Graveyard Recursion/Value"
+  },
+  "cards": {
+    "Aether Helix": {
+      "categories": ["recursion"]
+    },
+    "Ardent Dustspeaker": {
+      "categories": ["recursion"]
+    },
+    "Biblioplex Assistant": {
+      "categories": ["recursion"]
+    },
+    "Brackish Trudge": {
+      "categories": ["recursion"]
+    },
+    "Cogwork Archivist": {
+      "categories": ["recursion"]
+    },
+    "Deadly Brew": {
+      "categories": ["recursion"]
+    },
+    "Ecological Appreciation": {
+      "categories": ["recursion"]
+    },
+    "Efreet Flamepainter": {
+      "categories": ["recursion"]
+    },
+    "Fuming Effigy": {
+      "categories": ["leave"]
+    },
+    "Harness Infinity": {
+      "categories": ["recursion"]
+    },
+    "Illustrious Historian": {
+      "categories": ["recursion"]
+    },
+    "Lorehold Excavation": {
+      "categories": ["recursion"]
+    },
+    "Lukka, Wayward Bonder (Mila, Crafty Companion // Lukka, Wayward Bonder)": {
+      "categories": ["recursion"]
+    },
+    "Mavinda, Students' Advocate": {
+      "categories": ["recursion"]
+    },
+    "Pilgrim of the Ages": {
+      "categories": ["recursion"]
+    },
+    "Pillardrop Rescuer": {
+      "categories": ["recursion"]
+    },
+    "Pillardrop Warden": {
+      "categories": ["recursion"]
+    },
+    "Quintorius, Field Historian": {
+      "categories": ["leave"]
+    },
+    "Radiant Scrollwielder": {
+      "categories": ["recursion"]
+    },
+    "Reconstruct History": {
+      "categories": ["recursion"]
+    },
+    "Returned Pastcaller": {
+      "categories": ["recursion"]
+    },
+    "Stonebound Mentor": {
+      "categories": ["leave"]
+    },
+    "Stonerise Spirit": {
+      "categories": ["recursion"]
+    },
+    "Tome Shredder": {
+      "categories": ["recursion"]
+    },
+    "Torrent Sculptor (Torrent Sculptor // Flamethrower Sonata)": {
+      "categories": ["recursion"]
+    },
+    "Unwilling Ingredient": {
+      "categories": ["recursion"]
+    },
+    "Venerable Warsinger": {
+      "categories": ["recursion"]
+    }
+  }
+}

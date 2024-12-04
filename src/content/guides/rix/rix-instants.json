@@ -1,0 +1,87 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Admiral's Order": {
+      "categories": ["counterspell"]
+    },
+    "Aggressive Urge": {
+      "categories": ["board"]
+    },
+    "Blazing Hope": {
+      "categories": ["board"]
+    },
+    "Bombard": {
+      "categories": ["board"]
+    },
+    "Buccaneer's Bravado": {
+      "categories": ["board"]
+    },
+    "Crafty Cutpurse": {
+      "categories": ["board"]
+    },
+    "Crashing Tide": {
+      "categories": ["board"]
+    },
+    "Dire Fleet Poisoner": {
+      "categories": ["board"]
+    },
+    "Divine Verdict": {
+      "categories": ["board"]
+    },
+    "Expel from Orazca": {
+      "categories": ["board"]
+    },
+    "Hornswoggle": {
+      "categories": ["counterspell"]
+    },
+    "Moment of Craving": {
+      "categories": ["board"]
+    },
+    "Moment of Triumph": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Pride of Conquerors": {
+      "categories": ["board"]
+    },
+    "Reaver Ambush": {
+      "categories": ["board"]
+    },
+    "Reckless Rage": {
+      "categories": ["board"]
+    },
+    "Release to the Wind": {
+      "categories": ["board"]
+    },
+    "Sea Legs": {
+      "categories": ["board"]
+    },
+    "Shake the Foundations": {
+      "categories": ["board"]
+    },
+    "Shatter": {
+      "categories": ["board"]
+    },
+    "Swift Warden": {
+      "categories": ["board"]
+    },
+    "Vona's Hunger": {
+      "categories": ["board"]
+    }
+  }
+}

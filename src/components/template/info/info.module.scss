@@ -1,0 +1,58 @@
+@use "../../../sass/mixins" as *;
+
+.info {
+  :global(.content) {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+    padding: rem-convert(80px) rem-convert(16px);
+    margin: 0 auto;
+    max-width: rem-convert(1920px);
+
+    @include breakpoint("tablet") {
+      padding: rem-convert(80px) rem-convert(32px);
+    }
+
+    @include breakpoint("desktop") {
+      padding: rem-convert(80px) rem-convert(48px);
+    }
+
+    @include breakpoint("wide") {
+      padding: rem-convert(80px) rem-convert(64px);
+    }
+
+    h2 {
+      font-size: rem-convert(32px);
+      font-weight: 700;
+      line-height: 1.25;
+      margin: 0 0 rem-convert(16px);
+      padding: 0;
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(56px);
+        margin: 0 0 rem-convert(32px);
+      }
+    }
+
+    > ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      > li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        list-style: none;
+        margin: 0 0 rem-convert(16px);
+        padding: 0 0 rem-convert(16px);
+
+        &:last-child {
+          border-bottom: 0 none;
+        }
+
+        @include breakpoint("tablet") {
+          flex: 0 0 auto;
+          margin-bottom: rem-convert(32px);
+          padding-bottom: rem-convert(32px);
+        }
+      }
+    }
+  }
+}

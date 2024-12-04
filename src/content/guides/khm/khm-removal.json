@@ -1,0 +1,137 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Arni Slays the Troll": {
+      "categories": ["removal"]
+    },
+    "Basalt Ravager": {
+      "categories": ["removal"]
+    },
+    "Battle of Frost and Fire": {
+      "categories": ["boardwipe"]
+    },
+    "Bind the Monster": {
+      "categories": ["removal"]
+    },
+    "Binding the Old Gods": {
+      "categories": ["removal"]
+    },
+    "Blizzard Brawl": {
+      "categories": ["removal"]
+    },
+    "Blood on the Snow": {
+      "categories": ["boardwipe"]
+    },
+    "Bound in Gold": {
+      "categories": ["removal"]
+    },
+    "Broken Wings": {
+      "categories": ["removal"]
+    },
+    "Cinderheart Giant": {
+      "categories": ["removal"]
+    },
+    "Crippling Fear": {
+      "categories": ["boardwipe"]
+    },
+    "Crush the Weak": {
+      "categories": ["boardwipe"]
+    },
+    "Cyclone Summoner": {
+      "categories": ["bounce", "boardwipe"]
+    },
+    "Demon Bolt": {
+      "categories": ["removal"]
+    },
+    "Divine Gambit": {
+      "categories": ["removal"]
+    },
+    "Doomskar": {
+      "categories": ["boardwipe"]
+    },
+    "Feed the Serpent": {
+      "categories": ["removal"]
+    },
+    "Frost Bite": {
+      "categories": ["removal"]
+    },
+    "Hagi Mob": {
+      "categories": ["removal"]
+    },
+    "Icebind Pillar": {
+      "categories": ["temporary"]
+    },
+    "Iron Verdict": {
+      "categories": ["removal"]
+    },
+    "Jarl of the Forsaken": {
+      "categories": ["removal"]
+    },
+    "Kardur's Vicious Return": {
+      "categories": ["removal"]
+    },
+    "Kaya the Inexorable": {
+      "categories": ["removal"]
+    },
+    "Masked Vandal": {
+      "categories": ["other"]
+    },
+    "Mists of Littjara": {
+      "categories": ["other"]
+    },
+    "Niko Aris": {
+      "categories": ["removal"]
+    },
+    "Poison the Cup": {
+      "categories": ["removal"]
+    },
+    "Priest of the Haunted Edge": {
+      "categories": ["removal"]
+    },
+    "Provoke the Trolls": {
+      "categories": ["removal"]
+    },
+    "Ravenform": {
+      "categories": ["removal"]
+    },
+    "Run Ashore": {
+      "categories": ["bounce"]
+    },
+    "Sigrid, God-Favored": {
+      "categories": ["removal"]
+    },
+    "Squash": {
+      "categories": ["removal"]
+    },
+    "Struggle for Skemfar": {
+      "categories": ["removal"]
+    },
+    "Surtland Frostpyre": {
+      "categories": ["boardwipe"]
+    },
+    "Tergrid's Shadow": {
+      "categories": ["removal"]
+    },
+    "Toralf, God of Fury // Toralf's Hammer": {
+      "categories": ["removal"]
+    },
+    "Tundra Fumarole": {
+      "categories": ["removal"]
+    },
+    "Weigh Down": {
+      "categories": ["removal"]
+    },
+    "Withercrown": {
+      "categories": ["other"]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Autumn's Veil": {
+      "categories": ["board"]
+    },
+    "Back to Nature": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["board"]
+    },
+    "Celestial Purge": {
+      "categories": ["board"]
+    },
+    "Chandra's Outrage": {
+      "categories": ["board"]
+    },
+    "Combust": {
+      "categories": ["board"]
+    },
+    "Condemn": {
+      "categories": ["board"]
+    },
+    "Diminish": {
+      "categories": ["board"]
+    },
+    "Doom Blade": {
+      "categories": ["board"]
+    },
+    "Flashfreeze": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Fog": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Hornet Sting": {
+      "categories": ["board"]
+    },
+    "Incite": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Jace's Ingenuity": {
+      "categories": ["board"]
+    },
+    "Leyline of Anticipation": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Mana Leak": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Pyretic Ritual": {
+      "categories": ["board"]
+    },
+    "Redirect": {
+      "categories": ["board"]
+    },
+    "Reverberate": {
+      "categories": ["board"]
+    },
+    "Safe Passage": {
+      "categories": ["board"]
+    },
+    "Silence": {
+      "categories": ["board"]
+    },
+    "Stabbing Pain": {
+      "categories": ["board"]
+    },
+    "Thunder Strike": {
+      "categories": ["board"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    }
+  }
+}

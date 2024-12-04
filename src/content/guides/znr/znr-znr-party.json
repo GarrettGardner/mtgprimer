@@ -1,0 +1,115 @@
+{
+  "name": "Mechanic: Party",
+  "icon": "fas fa-birthday-cake",
+  "categories": {
+    "enablers": "Party Enablers",
+    "payoffs": "Party Payoffs"
+  },
+  "cards": {
+    "Acquisitions Expert": {
+      "categories": ["payoffs"]
+    },
+    "Allied Assault": {
+      "categories": ["payoffs"]
+    },
+    "Archpriest of Iona": {
+      "categories": ["payoffs"]
+    },
+    "Ardent Electromancer": {
+      "categories": ["payoffs"]
+    },
+    "Base Camp": {
+      "categories": ["enablers"]
+    },
+    "Cascade Seer": {
+      "categories": ["payoffs"]
+    },
+    "Concerted Defense": {
+      "categories": ["payoffs"]
+    },
+    "Coveted Prize": {
+      "categories": ["payoffs"]
+    },
+    "Deadly Alliance": {
+      "categories": ["payoffs"]
+    },
+    "Drana's Silencer": {
+      "categories": ["payoffs"]
+    },
+    "Emeria Captain": {
+      "categories": ["payoffs"]
+    },
+    "Grotag Bug-Catcher": {
+      "categories": ["payoffs"]
+    },
+    "Journey to Oblivion": {
+      "categories": ["payoffs"]
+    },
+    "Kabira Outrider": {
+      "categories": ["payoffs"]
+    },
+    "Linvala, Shield of Sea Gate": {
+      "categories": ["payoffs"]
+    },
+    "Malakir Blood-Priest": {
+      "categories": ["payoffs"]
+    },
+    "Nimble Trapfinder": {
+      "categories": ["payoffs"]
+    },
+    "Practiced Tactics": {
+      "categories": ["payoffs"]
+    },
+    "Ravager's Mace": {
+      "categories": ["payoffs"]
+    },
+    "Sea Gate Colossus": {
+      "categories": ["payoffs"]
+    },
+    "Seafloor Stalker": {
+      "categories": ["payoffs"]
+    },
+    "Shatterskull Minotaur": {
+      "categories": ["payoffs"]
+    },
+    "Shepherd of Heroes": {
+      "categories": ["payoffs"]
+    },
+    "Skyclave Plunder": {
+      "categories": ["payoffs"]
+    },
+    "Spoils of Adventure": {
+      "categories": ["payoffs"]
+    },
+    "Squad Commander": {
+      "categories": ["payoffs"]
+    },
+    "Stonework Packbeast": {
+      "categories": ["enablers"]
+    },
+    "Strength of Solidarity": {
+      "categories": ["payoffs"]
+    },
+    "Synchronized Spellcraft": {
+      "categories": ["payoffs"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["enablers"]
+    },
+    "Tazri, Beacon of Unity": {
+      "categories": ["payoffs"]
+    },
+    "Thundering Sparkmage": {
+      "categories": ["payoffs"]
+    },
+    "Thwart the Grave": {
+      "categories": ["payoffs"]
+    },
+    "Veteran Adventurer": {
+      "categories": ["payoffs"]
+    },
+    "Zagras, Thief of Heartbeats": {
+      "categories": ["payoffs"]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Mechanic: Day/Night",
+  "icon": "fas fa-cloud-moon",
+  "categories": {
+    "daybound-nightbound": "Daybound/Nightbound",
+    "other": "Other Day/Night Cards"
+  },
+  "cards": {
+    "Avabruck Caretaker // Hollowhenge Huntmaster": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Ballista Watcher // Ballista Wielder": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Child of the Pack // Savage Packmate": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Fearful Villager // Fearsome Werewolf": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Hookhand Mariner // Riphook Raider": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Howlpack Piper // Wildsong Howler": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Ill-Tempered Loner // Howlpack Avenger": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Infestation Expert // Infested Werewolf": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Into the Night": {
+      "categories": ["other"]
+    },
+    "Lambholt Raconteur // Lambholt Ravager": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Oakshade Stalker // Moonlit Ambusher": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Volatile Arsonist // Dire-Strain Anarchist": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Weary Prisoner // Wrathful Jailbreaker": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Weaver of Blossoms // Blossom-Clad Werewolf": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Wolf Strike": {
+      "categories": ["other"]
+    },
+    "Wolfkin Outcast // Wedding Crasher": {
+      "categories": ["daybound-nightbound"]
+    }
+  }
+}

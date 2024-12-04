@@ -1,0 +1,44 @@
+@use "../../../sass/mixins" as *;
+
+.footer {
+  background-image: url(/images/bg/pattern-stressed-linen.png);
+  border-top: rem-convert(10px) solid black;
+  color: white;
+  flex-shrink: 0;
+  padding: rem-convert(32px) rem-convert(16px) rem-convert(64px);
+  position: relative;
+
+  @include breakpoint("desktop") {
+    padding: rem-convert(48px) rem-convert(32px) rem-convert(64px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(48px) rem-convert(48px) rem-convert(64px);
+  }
+
+  :global(.logoWrap) {
+    max-width: rem-convert(160px);
+    margin-bottom: rem-convert(32px);
+  }
+
+  p {
+    font-size: rem-convert(14px);
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: rem-convert(24px);
+
+    a {
+      text-decoration: underline;
+      transition: color 0.35s ease;
+
+      &:hover,
+      &:focus {
+        color: var(--color-highlight);
+      }
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

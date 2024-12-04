@@ -1,0 +1,134 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Ad Nauseam": {
+      "categories": ["other"]
+    },
+    "Balduvian Rage": {
+      "categories": ["board"]
+    },
+    "Brainstorm": {
+      "categories": ["other"]
+    },
+    "Brimstone Volley": {
+      "categories": ["board"]
+    },
+    "Cast Down": {
+      "categories": ["board"]
+    },
+    "Chord of Calling": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Costly Plunder": {
+      "categories": ["other"]
+    },
+    "Crib Swap": {
+      "categories": ["board"]
+    },
+    "Crop Rotation": {
+      "categories": ["other"]
+    },
+    "Crushing Vines": {
+      "categories": ["board"]
+    },
+    "Cyclonic Rift": {
+      "categories": ["board"]
+    },
+    "Dualcaster Mage": {
+      "categories": ["board"]
+    },
+    "Fatal Push": {
+      "categories": ["board"]
+    },
+    "Force of Will": {
+      "categories": ["counterspell"],
+      "cost": ["0"]
+    },
+    "Fortify": {
+      "categories": ["board"]
+    },
+    "Galvanic Blast": {
+      "categories": ["board"]
+    },
+    "Hinder": {
+      "categories": ["counterspell"]
+    },
+    "Invigorate": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Izzet Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Lightning Axe": {
+      "categories": ["board"]
+    },
+    "Manamorphose": {
+      "categories": ["other"]
+    },
+    "Metallic Rebuke": {
+      "categories": ["counterspell"],
+      "cost": ["u"]
+    },
+    "Might of the Masses": {
+      "categories": ["board"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Pongify": {
+      "categories": ["board"]
+    },
+    "Ravenous Trap": {
+      "categories": ["other"],
+      "cost": ["0"]
+    },
+    "Sentinel of the Pearl Trident": {
+      "categories": ["board"]
+    },
+    "Steel Sabotage": {
+      "categories": ["counterspell", "board"]
+    },
+    "Strength of Arms": {
+      "categories": ["board"]
+    },
+    "Supernatural Stamina": {
+      "categories": ["board"]
+    },
+    "Sylvan Might": {
+      "categories": ["board"]
+    },
+    "Temur Battle Rage": {
+      "categories": ["board"]
+    },
+    "Thirst for Knowledge": {
+      "categories": ["other"]
+    },
+    "Topple the Statue": {
+      "categories": ["board"]
+    },
+    "Unlicensed Disintegration": {
+      "categories": ["board"]
+    },
+    "Valorous Stance": {
+      "categories": ["board"]
+    },
+    "Weapon Surge": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Theme: Samurai/Warrior",
+  "icon": "fas fa-shield-alt",
+  "categories": {
+    "samurai": "Samurai Creatures",
+    "warrior": "Warrior Creatures",
+    "alone": "Attacks Alone"
+  },
+  "cards": {
+    "Akki Ember-Keeper": {
+      "categories": ["warrior", "alone"]
+    },
+    "Ancestral Katana": {
+      "categories": ["alone"]
+    },
+    "Asari Captain": {
+      "categories": ["samurai", "alone"]
+    },
+    "Banishing Slash": {
+      "categories": ["samurai"]
+    },
+    "Eiganjo Exemplar": {
+      "categories": ["samurai", "alone"]
+    },
+    "Eiganjo Uprising": {
+      "categories": ["samurai"]
+    },
+    "Experimental Synthesizer": {
+      "categories": ["samurai"]
+    },
+    "Goro-Goro, Disciple of Ryusei": {
+      "categories": ["samurai"]
+    },
+    "Guardians of Oboro": {
+      "categories": ["samurai"]
+    },
+    "Heiko Yamazaki, the General": {
+      "categories": ["samurai", "alone"]
+    },
+    "Heir of the Ancient Fang": {
+      "categories": ["samurai"]
+    },
+    "Imperial Oath": {
+      "categories": ["samurai"]
+    },
+    "Imperial Subduer": {
+      "categories": ["samurai", "alone"]
+    },
+    "Isshin, Two Heavens as One": {
+      "categories": ["samurai"]
+    },
+    "Jukai Trainee": {
+      "categories": ["samurai"]
+    },
+    "Life of Toshiro Umezawa // Memory of Toshiro": {
+      "categories": ["samurai"]
+    },
+    "Mothrider Patrol": {
+      "categories": ["warrior"]
+    },
+    "Naomi, Pillar of Order": {
+      "categories": ["samurai"]
+    },
+    "Nezumi Bladeblesser": {
+      "categories": ["samurai"]
+    },
+    "Norika Yamazaki, the Poet": {
+      "categories": ["samurai", "alone"]
+    },
+    "Peerless Samurai": {
+      "categories": ["samurai", "alone"]
+    },
+    "Raiyuu, Storm's Edge": {
+      "categories": ["samurai", "alone"]
+    },
+    "Reinforced Ronin": {
+      "categories": ["samurai"]
+    },
+    "Risona, Asari Commander": {
+      "categories": ["samurai"]
+    },
+    "Scrapyard Steelbreaker": {
+      "categories": ["warrior"]
+    },
+    "Selfless Samurai": {
+      "categories": ["samurai", "alone"]
+    },
+    "Seven-Tail Mentor": {
+      "categories": ["samurai"]
+    },
+    "Sky-Blessed Samurai": {
+      "categories": ["samurai"]
+    },
+    "Sunblade Samurai": {
+      "categories": ["samurai"]
+    },
+    "Tales of Master Seshiro // Seshiro's Living Legacy": {
+      "categories": ["warrior"]
+    },
+    "Tempered in Solitude": {
+      "categories": ["alone"]
+    },
+    "The Shattered States Era // Nameless Conqueror": {
+      "categories": ["samurai"]
+    },
+    "Unstoppable Ogre": {
+      "categories": ["warrior"]
+    },
+    "Upriser Renegade": {
+      "categories": ["samurai"]
+    }
+  }
+}

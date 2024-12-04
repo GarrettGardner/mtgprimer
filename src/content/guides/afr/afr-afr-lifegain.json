@@ -1,0 +1,73 @@
+{
+  "name": "Theme: Lifegain",
+  "icon": "fas fa-notes-medical",
+  "categories": {
+    "lifegain": "Lifegain",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Adult Gold Dragon": {
+      "categories": ["lifegain"]
+    },
+    "Celestial Unicorn": {
+      "categories": ["payoff"]
+    },
+    "Cleric Class": {
+      "categories": ["payoff"]
+    },
+    "Dawnbringer Cleric": {
+      "categories": ["lifegain"]
+    },
+    "Druid Class": {
+      "categories": ["lifegain"]
+    },
+    "Froghemoth": {
+      "categories": ["lifegain"]
+    },
+    "Herald of Hadar": {
+      "categories": ["lifegain"]
+    },
+    "Hill Giant Herdgorger": {
+      "categories": ["lifegain"]
+    },
+    "Inspiring Bard": {
+      "categories": ["lifegain"]
+    },
+    "Krydle of Baldur's Gate": {
+      "categories": ["lifegain"]
+    },
+    "Lurking Roper": {
+      "categories": ["payoff"]
+    },
+    "Potion of Healing": {
+      "categories": ["lifegain"]
+    },
+    "Priest of Ancient Lore": {
+      "categories": ["lifegain"]
+    },
+    "Prosperous Innkeeper": {
+      "categories": ["lifegain"]
+    },
+    "Rally Maneuver": {
+      "categories": ["lifegain"]
+    },
+    "Reaper's Talisman": {
+      "categories": ["lifegain"]
+    },
+    "Steadfast Paladin": {
+      "categories": ["lifegain"]
+    },
+    "Sylvan Shepherd": {
+      "categories": ["lifegain"]
+    },
+    "Treasure Chest": {
+      "categories": ["lifegain"]
+    },
+    "Trelasarra, Moon Dancer": {
+      "categories": ["payoff"]
+    },
+    "Vampire Spawn": {
+      "categories": ["lifegain"]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Acererak the Archlich": {
+      "categories": ["removal"]
+    },
+    "Air-Cult Elemental": {
+      "categories": ["bounce"]
+    },
+    "Black Dragon": {
+      "categories": ["removal"]
+    },
+    "Burning Hands": {
+      "categories": ["removal"]
+    },
+    "Charmed Sleep": {
+      "categories": ["removal"]
+    },
+    "Choose Your Weapon": {
+      "categories": ["removal"]
+    },
+    "Divine Smite": {
+      "categories": ["temporary"]
+    },
+    "Dragon Turtle": {
+      "categories": ["temporary"]
+    },
+    "Dragon's Fire": {
+      "categories": ["removal"]
+    },
+    "Eyes of the Beholder": {
+      "categories": ["removal"]
+    },
+    "Farideh's Fireball": {
+      "categories": ["removal"]
+    },
+    "Gelatinous Cube": {
+      "categories": ["removal"]
+    },
+    "Grim Bounty": {
+      "categories": ["removal"]
+    },
+    "Hobgoblin Bandit Lord": {
+      "categories": ["removal"]
+    },
+    "Hunter's Mark": {
+      "categories": ["removal"]
+    },
+    "Improvised Weaponry": {
+      "categories": ["removal"]
+    },
+    "Magic Missile": {
+      "categories": ["removal"]
+    },
+    "Manticore": {
+      "categories": ["removal"]
+    },
+    "Meteor Swarm": {
+      "categories": ["removal"]
+    },
+    "Minimus Containment": {
+      "categories": ["removal"]
+    },
+    "Orcus, Prince of Undeath": {
+      "categories": ["boardwipe"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Portable Hole": {
+      "categories": ["removal"]
+    },
+    "Power Word Kill": {
+      "categories": ["removal"]
+    },
+    "Power of Persuasion": {
+      "categories": ["bounce"]
+    },
+    "Precipitous Drop": {
+      "categories": ["removal"]
+    },
+    "Ray of Enfeeblement": {
+      "categories": ["removal"]
+    },
+    "Ray of Frost": {
+      "categories": ["removal"]
+    },
+    "Scion of Stygia": {
+      "categories": ["temporary"]
+    },
+    "Spare Dagger": {
+      "categories": ["removal"]
+    },
+    "Sphere of Annihilation": {
+      "categories": ["boardwipe"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["removal"]
+    },
+    "Split the Party": {
+      "categories": ["bounce"]
+    },
+    "Spoils of the Hunt": {
+      "categories": ["removal"]
+    },
+    "The Tarrasque": {
+      "categories": ["removal"]
+    },
+    "Tiger-Tribe Hunter": {
+      "categories": ["removal"]
+    },
+    "White Dragon": {
+      "categories": ["temporary"]
+    },
+    "You Come to a River": {
+      "categories": ["bounce"]
+    },
+    "You Hear Something on Watch": {
+      "categories": ["removal"]
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Theme: Human Tribal",
+  "icon": "fas fa-user",
+  "categories": {
+    "human": "All Humans",
+    "payoff": "Human Payoffs",
+    "hate": "Human Hate Cards"
+  },
+  "cards": {
+    "Apprentice Sharpshooter": {
+      "categories": ["human"]
+    },
+    "Avabruck Caretaker // Hollowhenge Huntmaster": {
+      "categories": ["human"]
+    },
+    "Ballista Watcher // Ballista Wielder": {
+      "categories": ["human"]
+    },
+    "Cemetery Protector": {
+      "categories": ["human"]
+    },
+    "Child of the Pack // Savage Packmate": {
+      "categories": ["human"]
+    },
+    "Cloaked Cadet": {
+      "categories": ["human", "payoff"]
+    },
+    "Creepy Puppeteer": {
+      "categories": ["human"]
+    },
+    "Dawnhart Disciple": {
+      "categories": ["human", "payoff"]
+    },
+    "Daybreak Combatants": {
+      "categories": ["human"]
+    },
+    "Desperate Farmer // Depraved Harvester": {
+      "categories": ["human"]
+    },
+    "Doomed Dissenter": {
+      "categories": ["human"]
+    },
+    "Eruth, Tormented Prophet": {
+      "categories": ["human"]
+    },
+    "Estwald Shieldbasher": {
+      "categories": ["human"]
+    },
+    "Fearful Villager // Fearsome Werewolf": {
+      "categories": ["human"]
+    },
+    "Geralf, Visionary Stitcher": {
+      "categories": ["human"]
+    },
+    "Gryff Rider": {
+      "categories": ["human"]
+    },
+    "Gryffwing Cavalry": {
+      "categories": ["human"]
+    },
+    "Halana and Alena, Partners": {
+      "categories": ["human"]
+    },
+    "Hamlet Vanguard": {
+      "categories": ["human", "payoff"]
+    },
+    "Hiveheart Shaman": {
+      "categories": ["human"]
+    },
+    "Hookhand Mariner // Riphook Raider": {
+      "categories": ["human"]
+    },
+    "Hopeful Initiate": {
+      "categories": ["human"]
+    },
+    "Howlpack Piper // Wildsong Howler": {
+      "categories": ["human"]
+    },
+    "Ill-Tempered Loner // Howlpack Avenger": {
+      "categories": ["human"]
+    },
+    "Infestation Expert // Infested Werewolf": {
+      "categories": ["human"]
+    },
+    "Innocent Traveler // Malicious Invader": {
+      "categories": ["human", "hate"]
+    },
+    "Jacob Hauken, Inspector // Hauken's Insight": {
+      "categories": ["human"]
+    },
+    "Kessig Flamebreather": {
+      "categories": ["human"]
+    },
+    "Kessig Wolfrider": {
+      "categories": ["human"]
+    },
+    "Laid to Rest": {
+      "categories": ["payoff"]
+    },
+    "Lambholt Raconteur // Lambholt Ravager": {
+      "categories": ["human"]
+    },
+    "Militia Rallier": {
+      "categories": ["human"]
+    },
+    "Oakshade Stalker // Moonlit Ambusher": {
+      "categories": ["human"]
+    },
+    "Old Rutstein": {
+      "categories": ["human"]
+    },
+    "Ollenbock Escort": {
+      "categories": ["human"]
+    },
+    "Panicked Bystander // Cackling Culprit": {
+      "categories": ["human"]
+    },
+    "Parasitic Grasp": {
+      "categories": ["hate"]
+    },
+    "Parish-Blade Trainee": {
+      "categories": ["human"]
+    },
+    "Ragged Recluse // Odious Witch": {
+      "categories": ["human"]
+    },
+    "Reclusive Taxidermist": {
+      "categories": ["human"]
+    },
+    "Resistance Squad": {
+      "categories": ["human", "payoff"]
+    },
+    "Rural Recruit": {
+      "categories": ["human"]
+    },
+    "Savior of Ollenbock": {
+      "categories": ["human"]
+    },
+    "Sawblade Slinger": {
+      "categories": ["human"]
+    },
+    "Sigardian Paladin": {
+      "categories": ["human"]
+    },
+    "Stensia Uprising": {
+      "categories": ["human"]
+    },
+    "Thalia, Guardian of Thraben": {
+      "categories": ["human"]
+    },
+    "Torens, Fist of the Angels": {
+      "categories": ["human"]
+    },
+    "Traveling Minister": {
+      "categories": ["human"]
+    },
+    "Vampire Slayer": {
+      "categories": ["human"]
+    },
+    "Volatile Arsonist // Dire-Strain Anarchist": {
+      "categories": ["human"]
+    },
+    "Voltaic Visionary // Volt-Charged Berserker": {
+      "categories": ["human"]
+    },
+    "Weary Prisoner // Wrathful Jailbreaker": {
+      "categories": ["human"]
+    },
+    "Weaver of Blossoms // Blossom-Clad Werewolf": {
+      "categories": ["human"]
+    },
+    "Whispering Wizard": {
+      "categories": ["human"]
+    },
+    "Wolfkin Outcast // Wedding Crasher": {
+      "categories": ["human"]
+    }
+  }
+}

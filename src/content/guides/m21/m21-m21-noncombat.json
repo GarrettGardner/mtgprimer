@@ -1,0 +1,55 @@
+{
+  "name": "Theme: Non-Combat Damage",
+  "icon": "fas fa-magic",
+  "categories": {
+    "payoffs": "Non-Combat Damage Payoffs",
+    "enablers": "Non-Combat Damage Enablers"
+  },
+  "cards": {
+    "Brash Taunter": {
+      "categories": ["enablers"]
+    },
+    "Chandra's Incinerator": {
+      "categories": ["payoffs"]
+    },
+    "Chandra's Magmutt": {
+      "categories": ["enablers"]
+    },
+    "Chandra's Pyreling": {
+      "categories": ["payoffs"]
+    },
+    "Chandra, Heart of Fire": {
+      "categories": ["enablers"]
+    },
+    "Goblin Arsonist": {
+      "categories": ["enablers"]
+    },
+    "Havoc Jester": {
+      "categories": ["enablers"]
+    },
+    "Meteorite": {
+      "categories": ["enablers"]
+    },
+    "Pitchburn Devils": {
+      "categories": ["enablers"]
+    },
+    "Sanctum of Shattered Heights": {
+      "categories": ["enablers"]
+    },
+    "Shock": {
+      "categories": ["enablers"]
+    },
+    "Skeleton Archer": {
+      "categories": ["enablers"]
+    },
+    "Turret Ogre": {
+      "categories": ["enablers"]
+    },
+    "Ugin, the Spirit Dragon": {
+      "categories": ["enablers"]
+    },
+    "Volcanic Geyser": {
+      "categories": ["enablers"]
+    }
+  }
+}

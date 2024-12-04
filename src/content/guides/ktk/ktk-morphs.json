@@ -1,0 +1,110 @@
+{
+  "name": "Morphs",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {},
+  "cards": {
+    "Abomination of Gudul": {
+      "cost": ["2", "b", "g", "u"]
+    },
+    "Abzan Guide": {
+      "cost": ["2", "w", "b", "g"]
+    },
+    "Ainok Tracker": {
+      "cost": ["4", "r"]
+    },
+    "Ashcloud Phoenix": {
+      "cost": ["4", "r", "r"]
+    },
+    "Canyon Lurkers": {
+      "cost": ["3", "r"]
+    },
+    "Dragon's Eye Savants": {
+      "cost": ["0"]
+    },
+    "Efreet Weaponmaster": {
+      "cost": ["2", "u", "r", ""]
+    },
+    "Glacial Stalker": {
+      "cost": ["4", "u"]
+    },
+    "Grim Haruspex": {
+      "cost": ["b"]
+    },
+    "Horde Ambusher": {
+      "cost": ["0"]
+    },
+    "Icefeather Aven": {
+      "cost": ["1", "g", "u"]
+    },
+    "Jeering Instigator": {
+      "cost": ["2", "r"]
+    },
+    "Kheru Spellsnatcher": {
+      "cost": ["4", "u", "u"]
+    },
+    "Kin-Tree Warden": {
+      "cost": ["g"]
+    },
+    "Krumar Bond-Kin": {
+      "cost": ["4", "b"]
+    },
+    "Master of Pearls": {
+      "cost": ["3", "w", "w"]
+    },
+    "Mistfire Weaver": {
+      "cost": ["2", "u"]
+    },
+    "Monastery Flock": {
+      "cost": ["u"]
+    },
+    "Mystic of the Hidden Way": {
+      "cost": ["2", "u"]
+    },
+    "Pine Walker": {
+      "cost": ["4", "g"]
+    },
+    "Ponyback Brigade": {
+      "cost": ["2", "r", "w", "b"]
+    },
+    "Rattleclaw Mystic": {
+      "cost": ["2"]
+    },
+    "Ruthless Ripper": {
+      "cost": ["0"]
+    },
+    "Sage-Eye Harrier": {
+      "cost": ["3", "w"]
+    },
+    "Sagu Archer": {
+      "cost": ["4", "g"]
+    },
+    "Sagu Mauler": {
+      "cost": ["3", "g", "u"]
+    },
+    "Sidisi's Pet": {
+      "cost": ["1", "b"]
+    },
+    "Snowhorn Rider": {
+      "cost": ["2", "g", "u", "r"]
+    },
+    "Temur Charger": {
+      "cost": ["0"]
+    },
+    "Thousand Winds": {
+      "cost": ["5", "u", "u"]
+    },
+    "War Behemoth": {
+      "cost": ["4", "w"]
+    },
+    "Watcher of the Roost": {
+      "cost": ["0"]
+    },
+    "Witness of the Ages": {
+      "cost": ["5"]
+    },
+    "Woolly Loxodon": {
+      "cost": ["5", "g"]
+    }
+  }
+}

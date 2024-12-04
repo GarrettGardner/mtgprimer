@@ -1,0 +1,112 @@
+{
+  "name": "Mechanic: Mutate",
+  "icon": "fas fa-otter",
+  "categories": {
+    "mutate": "All Mutate Cards",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Archipelagore": {
+      "categories": ["mutate"]
+    },
+    "Auspicious Starrix": {
+      "categories": ["mutate"]
+    },
+    "Boneyard Lurker": {
+      "categories": ["mutate"]
+    },
+    "Brokkos, Apex of Forever": {
+      "categories": ["mutate"]
+    },
+    "Cavern Whisperer": {
+      "categories": ["mutate"]
+    },
+    "Chittering Harvester": {
+      "categories": ["mutate"]
+    },
+    "Cloudpiercer": {
+      "categories": ["mutate"]
+    },
+    "Cubwarden": {
+      "categories": ["mutate"]
+    },
+    "Dirge Bat": {
+      "categories": ["mutate"]
+    },
+    "Dreamtail Heron": {
+      "categories": ["mutate"]
+    },
+    "Essence Symbiote": {
+      "categories": ["payoffs"]
+    },
+    "Everquill Phoenix": {
+      "categories": ["mutate"]
+    },
+    "Gemrazer": {
+      "categories": ["mutate"]
+    },
+    "Glowstone Recluse": {
+      "categories": ["mutate"]
+    },
+    "Huntmaster Liger": {
+      "categories": ["mutate"]
+    },
+    "Illuna, Apex of Wishes": {
+      "categories": ["mutate"]
+    },
+    "Insatiable Hemophage": {
+      "categories": ["mutate"]
+    },
+    "Lore Drakkis": {
+      "categories": ["mutate"]
+    },
+    "Majestic Auricorn": {
+      "categories": ["mutate"]
+    },
+    "Migratory Greathorn": {
+      "categories": ["mutate"]
+    },
+    "Mysterious Egg": {
+      "categories": ["payoffs"]
+    },
+    "Necropanther": {
+      "categories": ["mutate"]
+    },
+    "Nethroi, Apex of Death": {
+      "categories": ["mutate"]
+    },
+    "Parcelbeast": {
+      "categories": ["mutate"]
+    },
+    "Pollywog Symbiote": {
+      "categories": ["payoffs"]
+    },
+    "Porcuparrot": {
+      "categories": ["mutate"]
+    },
+    "Pouncing Shoreshark": {
+      "categories": ["mutate"]
+    },
+    "Regal Leosaur": {
+      "categories": ["mutate"]
+    },
+    "Sea-Dasher Octopus": {
+      "categories": ["mutate"]
+    },
+    "Snapdax, Apex of the Hunt": {
+      "categories": ["mutate"]
+    },
+    "Trumpeting Gnarr": {
+      "categories": ["mutate"]
+    },
+    "Vadrok, Apex of Thunder": {
+      "categories": ["mutate"]
+    },
+    "Vulpikeet": {
+      "categories": ["mutate"]
+    },
+    "Zagoth Mamba": {
+      "categories": ["payoffs"]
+    }
+  }
+}

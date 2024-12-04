@@ -1,0 +1,125 @@
+@use "../../../sass/mixins" as *;
+
+.guideGroupTop {
+  max-width: rem-convert(1320px);
+  padding: rem-convert(32px) rem-convert(16px);
+
+  @include breakpoint("desktop") {
+    padding: rem-convert(64px) rem-convert(272px) rem-convert(64px)
+      rem-convert(48px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(64px) rem-convert(320px) rem-convert(64px)
+      rem-convert(48px);
+  }
+
+  h3 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: rem-convert(28px);
+    font-weight: 800;
+    letter-spacing: rem-convert(1px);
+    padding-bottom: rem-convert(8px);
+    text-shadow: 0 0 rem-convert(8px) black;
+    margin: 0 0 rem-convert(16px);
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(48px);
+      letter-spacing: rem-convert(2px);
+      padding-bottom: rem-convert(16px);
+      margin: 0 0 rem-convert(32px);
+    }
+  }
+}
+
+.guideGroup {
+  position: relative;
+
+  > :global(.anchor) {
+    height: 0;
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+    top: calc(var(--size-header-height) * -1);
+    width: 0;
+
+    @include breakpoint("desktop") {
+      top: 0;
+    }
+  }
+
+  > h3 {
+    align-items: stretch;
+    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center
+      center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    display: flex;
+    font-family: var(--font-header);
+    font-size: rem-convert(20px);
+    font-weight: 700;
+    margin: 0;
+    position: sticky;
+    top: var(--size-header-height);
+    z-index: 702;
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(28px);
+      top: 0;
+    }
+
+    > span {
+      align-items: center;
+      display: flex;
+      flex: 0 0 auto;
+      justify-content: center;
+    }
+
+    :global(.icon) {
+      border-right: 1px solid rgba(255, 255, 255, 0.3);
+      font-size: rem-convert(24px);
+      width: rem-convert(48px);
+
+      @include breakpoint("desktop") {
+        font-size: rem-convert(36px);
+        width: rem-convert(80px);
+      }
+    }
+
+    :global(.text) {
+      align-items: flex-start;
+      flex: 1 1 auto;
+      flex-direction: column;
+      padding: rem-convert(8px) rem-convert(12px) rem-convert(8px)
+        rem-convert(12px);
+      justify-content: flex-start;
+
+      @include breakpoint("desktop") {
+        padding: rem-convert(12px) rem-convert(272px) rem-convert(12px)
+          rem-convert(16px);
+      }
+
+      :global(.name) {
+        display: block;
+        font-family: var(--font-header);
+        font-size: rem-convert(20px);
+        font-weight: 700;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(28px);
+        }
+      }
+
+      :global(.description) {
+        display: block;
+        font-family: var(--font-body);
+        font-size: rem-convert(14px);
+        font-weight: 300;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(16px);
+        }
+      }
+    }
+  }
+}

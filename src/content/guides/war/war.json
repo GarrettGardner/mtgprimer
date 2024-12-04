@@ -1,0 +1,1508 @@
+{
+  "code": "war",
+  "formatName": "War of the Spark",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Karn, the Great Creator": {
+      "number": "1",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ugin, the Ineffable": {
+      "number": "2",
+      "cost": ["6"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ugin's Conjurant": {
+      "number": "3",
+      "cost": ["x"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ajani's Pridemate": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Battlefield Promotion": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bond of Discipline": {
+      "number": "6",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bulwark Giant": {
+      "number": "7",
+      "cost": ["5", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Charmed Stray": {
+      "number": "8",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Defiant Strike": {
+      "number": "9",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Divine Arrow": {
+      "number": "10",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Enforcer Griffin": {
+      "number": "11",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Finale of Glory": {
+      "number": "12",
+      "cost": ["x", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Gideon Blackblade": {
+      "number": "13",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Gideon's Sacrifice": {
+      "number": "14",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gideon's Triumph": {
+      "number": "15",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "God-Eternal Oketra": {
+      "number": "16",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Grateful Apparition": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ignite the Beacon": {
+      "number": "18",
+      "cost": ["4", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ironclad Krovod": {
+      "number": "19",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Law-Rune Enforcer": {
+      "number": "20",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Loxodon Sergeant": {
+      "number": "21",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Makeshift Battalion": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Martyr for the Cause": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Parhelion II": {
+      "number": "24",
+      "cost": ["6", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pouncing Lynx": {
+      "number": "25",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Prison Realm": {
+      "number": "26",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rally of Wings": {
+      "number": "27",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ravnica at War": {
+      "number": "28",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rising Populace": {
+      "number": "29",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Single Combat": {
+      "number": "30",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sunblade Angel": {
+      "number": "31",
+      "cost": ["5", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Teyo, the Shieldmage": {
+      "number": "32",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Teyo's Lightshield": {
+      "number": "33",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tomik, Distinguished Advokist": {
+      "number": "34",
+      "cost": ["w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Topple the Statue": {
+      "number": "35",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Trusted Pegasus": {
+      "number": "36",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "The Wanderer": {
+      "number": "37",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wanderer's Strike": {
+      "number": "38",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "War Screecher": {
+      "number": "39",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ashiok's Skulker": {
+      "number": "40",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Augur of Bolas": {
+      "number": "41",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aven Eternal": {
+      "number": "42",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bond of Insight": {
+      "number": "43",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Callous Dismissal": {
+      "number": "44",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Commence the Endgame": {
+      "number": "45",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Contentious Plan": {
+      "number": "46",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Crush Dissent": {
+      "number": "47",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Erratic Visionary": {
+      "number": "48",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Eternal Skylord": {
+      "number": "49",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fblthp, the Lost": {
+      "number": "50",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Finale of Revelation": {
+      "number": "51",
+      "cost": ["x", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Flux Channeler": {
+      "number": "52",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "God-Eternal Kefnet": {
+      "number": "53",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Jace, Wielder of Mysteries": {
+      "number": "54",
+      "cost": ["1", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Jace's Triumph": {
+      "number": "55",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kasmina, Enigmatic Mentor": {
+      "number": "56",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kasmina's Transmutation": {
+      "number": "57",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kiora's Dambreaker": {
+      "number": "58",
+      "cost": ["5", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lazotep Plating": {
+      "number": "59",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Naga Eternal": {
+      "number": "60",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Narset, Parter of Veils": {
+      "number": "61",
+      "cost": ["1", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Narset's Reversal": {
+      "number": "62",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "No Escape": {
+      "number": "63",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Relentless Advance": {
+      "number": "64",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rescuer Sphinx": {
+      "number": "65",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Silent Submersible": {
+      "number": "66",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sky Theater Strix": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Spark Double": {
+      "number": "68",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Spellkeeper Weird": {
+      "number": "69",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Stealth Mission": {
+      "number": "70",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tamiyo's Epiphany": {
+      "number": "71",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Teferi's Time Twist": {
+      "number": "72",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thunder Drake": {
+      "number": "73",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Totally Lost": {
+      "number": "74",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wall of Runes": {
+      "number": "75",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aid the Fallen": {
+      "number": "76",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Banehound": {
+      "number": "77",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bleeding Edge": {
+      "number": "78",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bolas's Citadel": {
+      "number": "79",
+      "cost": ["3", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bond of Revival": {
+      "number": "80",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Charity Extractor": {
+      "number": "81",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Command the Dreadhorde": {
+      "number": "82",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Davriel, Rogue Shadowmage": {
+      "number": "83",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Davriel's Shadowfugue": {
+      "number": "84",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Deliver Unto Evil": {
+      "number": "85",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dreadhorde Invasion": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dreadmalkin": {
+      "number": "87",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Duskmantle Operative": {
+      "number": "88",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "The Elderspell": {
+      "number": "89",
+      "cost": ["b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Eternal Taskmaster": {
+      "number": "90",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Finale of Eternity": {
+      "number": "91",
+      "cost": ["x", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "God-Eternal Bontu": {
+      "number": "92",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Herald of the Dreadhorde": {
+      "number": "93",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kaya's Ghostform": {
+      "number": "94",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lazotep Behemoth": {
+      "number": "95",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lazotep Reaver": {
+      "number": "96",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Liliana, Dreadhorde General": {
+      "number": "97",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Liliana's Triumph": {
+      "number": "98",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Massacre Girl": {
+      "number": "99",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ob Nixilis, the Hate-Twisted": {
+      "number": "100",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ob Nixilis's Cruelty": {
+      "number": "101",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Price of Betrayal": {
+      "number": "102",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Shriekdiver": {
+      "number": "103",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sorin's Thirst": {
+      "number": "104",
+      "cost": ["b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Spark Harvest": {
+      "number": "105",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Spark Reaper": {
+      "number": "106",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tithebearer Giant": {
+      "number": "107",
+      "cost": ["5", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Toll of the Invasion": {
+      "number": "108",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Unlikely Aid": {
+      "number": "109",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Vampire Opportunist": {
+      "number": "110",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vizier of the Scorpion": {
+      "number": "111",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vraska's Finisher": {
+      "number": "112",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ahn-Crop Invader": {
+      "number": "113",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Blindblast": {
+      "number": "114",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bolt Bend": {
+      "number": "115",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bond of Passion": {
+      "number": "116",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Burning Prophet": {
+      "number": "117",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Chainwhip Cyclops": {
+      "number": "118",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Chandra, Fire Artisan": {
+      "number": "119",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Chandra's Pyrohelix": {
+      "number": "120",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chandra's Triumph": {
+      "number": "121",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cyclops Electromancer": {
+      "number": "122",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Demolish": {
+      "number": "123",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Devouring Hellion": {
+      "number": "124",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dreadhorde Arcanist": {
+      "number": "125",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dreadhorde Twins": {
+      "number": "126",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Finale of Promise": {
+      "number": "127",
+      "cost": ["x", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Goblin Assailant": {
+      "number": "128",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Goblin Assault Team": {
+      "number": "129",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Grim Initiate": {
+      "number": "130",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Heartfire": {
+      "number": "131",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Honor the God-Pharaoh": {
+      "number": "132",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ilharg, the Raze-Boar": {
+      "number": "133",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Invading Manticore": {
+      "number": "134",
+      "cost": ["5", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jaya, Venerated Firemage": {
+      "number": "135",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Jaya's Greeting": {
+      "number": "136",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Krenko, Tin Street Kingpin": {
+      "number": "137",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mizzium Tank": {
+      "number": "138",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nahiri's Stoneblades": {
+      "number": "139",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Neheb, Dreadhorde Champion": {
+      "number": "140",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Raging Kronch": {
+      "number": "141",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Samut's Sprint": {
+      "number": "142",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sarkhan the Masterless": {
+      "number": "143",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sarkhan's Catharsis": {
+      "number": "144",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Spellgorger Weird": {
+      "number": "145",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tibalt, Rakish Instigator": {
+      "number": "146",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tibalt's Rager": {
+      "number": "147",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Turret Ogre": {
+      "number": "148",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Arboreal Grazer": {
+      "number": "149",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Arlinn, Voice of the Pack": {
+      "number": "150",
+      "cost": ["4", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Arlinn's Wolf": {
+      "number": "151",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Awakening of Vitu-Ghazi": {
+      "number": "152",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Band Together": {
+      "number": "153",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bloom Hulk": {
+      "number": "154",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bond of Flourishing": {
+      "number": "155",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Centaur Nurturer": {
+      "number": "156",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Challenger Troll": {
+      "number": "157",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Courage in Crisis": {
+      "number": "158",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Evolution Sage": {
+      "number": "159",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Finale of Devastation": {
+      "number": "160",
+      "cost": ["x", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Forced Landing": {
+      "number": "161",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Giant Growth": {
+      "number": "162",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "God-Eternal Rhonas": {
+      "number": "163",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Jiang Yanggu, Wildcrafter": {
+      "number": "164",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kraul Stinger": {
+      "number": "165",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kronch Wrangler": {
+      "number": "166",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mowu, Loyal Companion": {
+      "number": "167",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "New Horizons": {
+      "number": "168",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Nissa, Who Shakes the World": {
+      "number": "169",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nissa's Triumph": {
+      "number": "170",
+      "cost": ["g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Paradise Druid": {
+      "number": "171",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Planewide Celebration": {
+      "number": "172",
+      "cost": ["5", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pollenbright Druid": {
+      "number": "173",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Primordial Wurm": {
+      "number": "174",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Return to Nature": {
+      "number": "175",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Snarespinner": {
+      "number": "176",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Steady Aim": {
+      "number": "177",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Storm the Citadel": {
+      "number": "178",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Thundering Ceratok": {
+      "number": "179",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vivien, Champion of the Wilds": {
+      "number": "180",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Vivien's Arkbow": {
+      "number": "181",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Vivien's Grizzly": {
+      "number": "182",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wardscale Crocodile": {
+      "number": "183",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ajani, the Greathearted": {
+      "number": "184",
+      "cost": ["2", "g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Angrath's Rampage": {
+      "number": "185",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bioessence Hydra": {
+      "number": "186",
+      "cost": ["3", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Casualties of War": {
+      "number": "187",
+      "cost": ["2", "b", "b", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cruel Celebrant": {
+      "number": "188",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deathsprout": {
+      "number": "189",
+      "cost": ["1", "b", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Despark": {
+      "number": "190",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Domri, Anarch of Bolas": {
+      "number": "191",
+      "cost": ["1", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Domri's Ambush": {
+      "number": "192",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dovin's Veto": {
+      "number": "193",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dreadhorde Butcher": {
+      "number": "194",
+      "cost": ["b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Elite Guardmage": {
+      "number": "195",
+      "cost": ["2", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Enter the God-Eternals": {
+      "number": "196",
+      "cost": ["2", "u", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Feather, the Redeemed": {
+      "number": "197",
+      "cost": ["r", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gleaming Overseer": {
+      "number": "198",
+      "cost": ["1", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Heartwarming Redemption": {
+      "number": "199",
+      "cost": ["2", "r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Huatli's Raptor": {
+      "number": "200",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Invade the City": {
+      "number": "201",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Leyline Prowler": {
+      "number": "202",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Living Twister": {
+      "number": "203",
+      "cost": ["r", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mayhem Devil": {
+      "number": "204",
+      "cost": ["1", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Merfolk Skydiver": {
+      "number": "205",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Neoform": {
+      "number": "206",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Nicol Bolas, Dragon-God": {
+      "number": "207",
+      "cost": ["u", "b", "b", "b", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Niv-Mizzet Reborn": {
+      "number": "208",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Oath of Kaya": {
+      "number": "209",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pledge of Unity": {
+      "number": "210",
+      "cost": ["1", "g", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ral, Storm Conduit": {
+      "number": "211",
+      "cost": ["2", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ral's Outburst": {
+      "number": "212",
+      "cost": ["2", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Roalesk, Apex Hybrid": {
+      "number": "213",
+      "cost": ["2", "g", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Role Reversal": {
+      "number": "214",
+      "cost": ["u", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rubblebelt Rioters": {
+      "number": "215",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Solar Blaze": {
+      "number": "216",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sorin, Vengeful Bloodlord": {
+      "number": "217",
+      "cost": ["2", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Soul Diviner": {
+      "number": "218",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Storrev, Devkarin Lich": {
+      "number": "219",
+      "cost": ["1", "b", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tamiyo, Collector of Tales": {
+      "number": "220",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Teferi, Time Raveler": {
+      "number": "221",
+      "cost": ["1", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tenth District Legionnaire": {
+      "number": "222",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Time Wipe": {
+      "number": "223",
+      "cost": ["2", "w", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tolsimir, Friend to Wolves": {
+      "number": "224",
+      "cost": ["2", "g", "g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tyrant's Scorn": {
+      "number": "225",
+      "cost": ["u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Widespread Brutality": {
+      "number": "226",
+      "cost": ["1", "b", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Angrath, Captain of Chaos": {
+      "number": "227",
+      "cost": ["2", "br", "br"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ashiok, Dream Render": {
+      "number": "228",
+      "cost": ["1", "ub", "ub"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dovin, Hand of Control": {
+      "number": "229",
+      "cost": ["2", "wu"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Huatli, the Sun's Heart": {
+      "number": "230",
+      "cost": ["2", "gw"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kaya, Bane of the Dead": {
+      "number": "231",
+      "cost": ["3", "wb", "wb", "wb"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kiora, Behemoth Beckoner": {
+      "number": "232",
+      "cost": ["2", "gu"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Nahiri, Storm of Stone": {
+      "number": "233",
+      "cost": ["2", "rw", "rw"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Saheeli, Sublime Artificer": {
+      "number": "234",
+      "cost": ["1", "ur", "ur"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Samut, Tyrant Smasher": {
+      "number": "235",
+      "cost": ["2", "rg", "rg"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vraska, Swarm's Eminence": {
+      "number": "236",
+      "cost": ["2", "bg", "bg"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Firemind Vessel": {
+      "number": "237",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "God-Pharaoh's Statue": {
+      "number": "238",
+      "cost": ["6"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Guild Globe": {
+      "number": "239",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Iron Bully": {
+      "number": "240",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mana Geode": {
+      "number": "241",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Prismite": {
+      "number": "242",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Saheeli's Silverwing": {
+      "number": "243",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Blast Zone": {
+      "number": "244",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Emergence Zone": {
+      "number": "245",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Gateway Plaza": {
+      "number": "246",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Interplanar Beacon": {
+      "number": "247",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Karn's Bastion": {
+      "number": "248",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Mobilized District": {
+      "number": "249",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

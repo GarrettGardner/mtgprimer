@@ -1,0 +1,15 @@
+{
+  "name": "Theme: Defender",
+  "icon": "fas fa-shield-alt",
+  "cards": {
+    "Academy Wall": {},
+    "Blight Pile": {},
+    "Clockwork Drawbridge": {},
+    "Coral Colony": {},
+    "Floriferous Vinewall": {},
+    "Gibbering Barricade": {},
+    "Shield-Wall Sentinel": {},
+    "Walking Bulwark": {},
+    "Wingmantle Chaplain": {}
+  }
+}

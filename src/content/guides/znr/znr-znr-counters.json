@@ -1,0 +1,103 @@
+{
+  "name": "Theme: +1/+1 Counters",
+  "icon": "fas fa-dumbbell",
+  "categories": {
+    "payoffs": "+1/+1 Counter Payoffs",
+    "enablers": "+1/+1 Counter Enablers"
+  },
+  "cards": {
+    "Cleric of Life's Bond": {
+      "categories": ["enablers"]
+    },
+    "Cragplate Baloth": {
+      "categories": ["enablers"]
+    },
+    "Crawling Barrens": {
+      "categories": ["enablers"]
+    },
+    "Dauntless Survivor": {
+      "categories": ["enablers"]
+    },
+    "Drana, the Last Bloodchief": {
+      "categories": ["enablers"]
+    },
+    "Ghastly Gloomhunter": {
+      "categories": ["enablers"]
+    },
+    "Gnarlid Colony": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Grakmaw, Skyclave Ravager": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Guul Draz Mucklord": {
+      "categories": ["enablers"]
+    },
+    "Hagra Constrictor": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Inscription of Abundance": {
+      "categories": ["enablers"]
+    },
+    "Iridescent Hornbeetle": {
+      "categories": ["payoffs"]
+    },
+    "Moss-Pit Skeleton": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Myriad Construct": {
+      "categories": ["enablers"]
+    },
+    "Nissa of Shadowed Boughs": {
+      "categories": ["enablers"]
+    },
+    "Oblivion's Hunger": {
+      "categories": ["payoffs"]
+    },
+    "Oran-Rief Ooze": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Phylath, World Sculptor": {
+      "categories": ["enablers"]
+    },
+    "Scion of the Swarm": {
+      "categories": ["enablers"]
+    },
+    "Shatterskull Charger": {
+      "categories": ["enablers"]
+    },
+    "Skyclave Sentinel": {
+      "categories": ["enablers"]
+    },
+    "Skyclave Shade": {
+      "categories": ["enablers"]
+    },
+    "Skyclave Shadowcat": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Subtle Strike": {
+      "categories": ["enablers"]
+    },
+    "Taborax, Hope's Demise": {
+      "categories": ["enablers"]
+    },
+    "Territorial Scythecat": {
+      "categories": ["enablers"]
+    },
+    "Turntimber Symbiosis // Turntimber, Serpentine Wood": {
+      "categories": ["enablers"]
+    },
+    "Vastwood Fortification // Vastwood Thicket": {
+      "categories": ["enablers"]
+    },
+    "Vastwood Surge": {
+      "categories": ["enablers"]
+    },
+    "Verazol, the Split Current": {
+      "categories": ["enablers"]
+    },
+    "Vine Gecko": {
+      "categories": ["enablers"]
+    }
+  }
+}

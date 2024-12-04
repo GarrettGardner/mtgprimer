@@ -1,0 +1,133 @@
+{
+  "name": "Mechanic: Learn/Lesson",
+  "icon": "fas fa-school",
+  "categories": {
+    "learn": "All Learn Cards",
+    "lesson": "All Lesson Cards"
+  },
+  "cards": {
+    "Academic Dispute": {
+      "categories": ["learn"]
+    },
+    "Academic Probation": {
+      "categories": ["lesson"]
+    },
+    "Arcane Subtraction": {
+      "categories": ["learn"]
+    },
+    "Basic Conjuration": {
+      "categories": ["lesson"]
+    },
+    "Confront the Past": {
+      "categories": ["lesson"]
+    },
+    "Containment Breach": {
+      "categories": ["lesson"]
+    },
+    "Cram Session": {
+      "categories": ["learn"]
+    },
+    "Divide by Zero": {
+      "categories": ["learn"]
+    },
+    "Dream Strix": {
+      "categories": ["learn"]
+    },
+    "Elemental Summoning": {
+      "categories": ["lesson"]
+    },
+    "Enthusiastic Study": {
+      "categories": ["learn"]
+    },
+    "Environmental Sciences": {
+      "categories": ["lesson"]
+    },
+    "Expanded Anatomy": {
+      "categories": ["lesson"]
+    },
+    "Eyetwitch": {
+      "categories": ["learn"]
+    },
+    "Field Trip": {
+      "categories": ["learn"]
+    },
+    "First Day of Class": {
+      "categories": ["learn"]
+    },
+    "Fractal Summoning": {
+      "categories": ["lesson"]
+    },
+    "Gnarled Professor": {
+      "categories": ["learn"]
+    },
+    "Guiding Voice": {
+      "categories": ["learn"]
+    },
+    "Hunt for Specimens": {
+      "categories": ["learn"]
+    },
+    "Igneous Inspiration": {
+      "categories": ["learn"]
+    },
+    "Illuminate History": {
+      "categories": ["lesson"]
+    },
+    "Inkling Summoning": {
+      "categories": ["lesson"]
+    },
+    "Introduction to Annihilation": {
+      "categories": ["lesson"]
+    },
+    "Introduction to Prophecy": {
+      "categories": ["lesson"]
+    },
+    "Mascot Exhibition": {
+      "categories": ["lesson"]
+    },
+    "Mercurial Transformation": {
+      "categories": ["lesson"]
+    },
+    "Necrotic Fumes": {
+      "categories": ["lesson"]
+    },
+    "Overgrown Arch": {
+      "categories": ["learn"]
+    },
+    "Pest Summoning": {
+      "categories": ["lesson"]
+    },
+    "Poet's Quill": {
+      "categories": ["learn"]
+    },
+    "Pop Quiz": {
+      "categories": ["learn"]
+    },
+    "Professor of Symbology": {
+      "categories": ["learn"]
+    },
+    "Reduce to Memory": {
+      "categories": ["lesson"]
+    },
+    "Retriever Phoenix": {
+      "categories": ["learn"]
+    },
+    "Rise of Extus": {
+      "categories": ["learn"]
+    },
+    "Sparring Regimen": {
+      "categories": ["learn"]
+    },
+    "Spirit Summoning": {
+      "categories": ["lesson"]
+    },
+    "Start from Scratch": {
+      "categories": ["lesson"]
+    },
+    "Study Break": {
+      "categories": ["learn"]
+    },
+    "Teachings of the Archaics": {
+      "categories": ["lesson"]
+    }
+  }
+}

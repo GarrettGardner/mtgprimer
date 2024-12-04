@@ -1,0 +1,12 @@
+{
+  "name": "Theme: Shrines",
+  "icon": "fas fa-place-of-worship",
+  "cards": {
+    "Go-Shintai of Ancient Wars": {},
+    "Go-Shintai of Boundless Vigor": {},
+    "Go-Shintai of Hidden Cruelty": {},
+    "Go-Shintai of Lost Wisdom": {},
+    "Go-Shintai of Shared Purpose": {},
+    "Shrine Steward": {}
+  }
+}

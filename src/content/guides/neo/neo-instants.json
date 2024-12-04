@@ -1,0 +1,229 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ambitious Assault": {
+      "categories": ["board"]
+    },
+    "Assassin's Ink": {
+      "categories": ["board"],
+      "cost": ["b", "b"]
+    },
+    "Bamboo Grove Archer": {
+      "categories": ["board"],
+      "cost": ["4", "g"]
+    },
+    "Boon of Boseiju": {
+      "categories": ["board"]
+    },
+    "Born to Drive": {
+      "categories": ["board"],
+      "cost": ["2", "w"]
+    },
+    "Boseiju, Who Endures": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Careful Cultivation": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Colossal Skyturtle": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Debt to the Kami": {
+      "categories": ["board"]
+    },
+    "Discover the Impossible": {
+      "categories": ["other"]
+    },
+    "Disruption Protocol": {
+      "categories": ["counterspell"]
+    },
+    "Eiganjo, Seat of the Empire": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Essence Capture": {
+      "categories": ["counterspell"]
+    },
+    "Favor of Jukai": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Flame Discharge": {
+      "categories": ["board"]
+    },
+    "Greater Tanuki": {
+      "categories": ["other"],
+      "cost": ["2", "g"]
+    },
+    "High-Speed Hoverbike": {
+      "categories": ["board"]
+    },
+    "Invoke Calamity": {
+      "categories": ["board"]
+    },
+    "Ironhoof Boar": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Jukai Preserver": {
+      "categories": ["board"],
+      "cost": ["2", "g"]
+    },
+    "Kami's Flare": {
+      "categories": ["board"]
+    },
+    "Kindled Fury": {
+      "categories": ["board"]
+    },
+    "Kyodai, Soul of Kamigawa": {
+      "categories": ["board"]
+    },
+    "Lethal Exploit": {
+      "categories": ["board"]
+    },
+    "Light the Way": {
+      "categories": ["board"]
+    },
+    "March of Burgeoning Life": {
+      "categories": ["board"]
+    },
+    "March of Otherworldly Light": {
+      "categories": ["board"]
+    },
+    "March of Reckless Joy": {
+      "categories": ["other"]
+    },
+    "March of Swirling Mist": {
+      "categories": ["board"]
+    },
+    "March of Wretched Sorrow": {
+      "categories": ["board"]
+    },
+    "Master's Rebuke": {
+      "categories": ["board"]
+    },
+    "Mirrorshell Crab": {
+      "categories": ["counterspell"],
+      "cost": ["2", "u"]
+    },
+    "Mnemonic Sphere": {
+      "categories": ["other"],
+      "cost": ["u"]
+    },
+    "Moonsnare Prototype": {
+      "categories": ["board"],
+      "cost": ["4", "u"]
+    },
+    "Otawara, Soaring City": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Planar Incision": {
+      "categories": ["board"]
+    },
+    "Reality Heist": {
+      "categories": ["board"],
+      "cost": ["u", "u"]
+    },
+    "Reckoner's Bargain": {
+      "categories": ["board"]
+    },
+    "Regent's Authority": {
+      "categories": ["board"]
+    },
+    "Reinforced Ronin": {
+      "categories": ["other"],
+      "cost": ["1", "r"]
+    },
+    "Repel the Vile": {
+      "categories": ["board"]
+    },
+    "Return to Action": {
+      "categories": ["board"]
+    },
+    "Roaring Earth": {
+      "categories": ["board"],
+      "cost": ["x", "g", "g"]
+    },
+    "Saiba Trespassers": {
+      "categories": ["board"],
+      "cost": ["3", "u"]
+    },
+    "Season of Renewal": {
+      "categories": ["other"]
+    },
+    "Seismic Wave": {
+      "categories": ["board"]
+    },
+    "Shigeki, Jukai Visionary": {
+      "categories": ["other"],
+      "cost": ["x", "x", "g", "g"]
+    },
+    "Short Circuit": {
+      "categories": ["board"]
+    },
+    "Sokenzan, Crucible of Defiance": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Storyweave": {
+      "categories": ["board"]
+    },
+    "Suit Up": {
+      "categories": ["board"]
+    },
+    "Sunblade Samurai": {
+      "categories": ["other"],
+      "cost": ["2"]
+    },
+    "Takenuma, Abandoned Mire": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Tamiyo's Compleation": {
+      "categories": ["board"]
+    },
+    "Tamiyo's Safekeeping": {
+      "categories": ["board"]
+    },
+    "The Wandering Emperor": {
+      "categories": ["board"]
+    },
+    "Thirst for Knowledge": {
+      "categories": ["other"]
+    },
+    "Touch the Spirit Realm": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Twinshot Sniper": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Voltage Surge": {
+      "categories": ["board"]
+    },
+    "Wanderer's Intervention": {
+      "categories": ["board"]
+    },
+    "When We Were Young": {
+      "categories": ["board"]
+    },
+    "You Are Already Dead": {
+      "categories": ["board"]
+    }
+  }
+}

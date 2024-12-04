@@ -1,0 +1,1913 @@
+{
+  "code": "neo",
+  "formatName": "Kamigawa: Neon Dynasty",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Ancestral Katana": {
+      "number": "1",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ao, the Dawn Sky": {
+      "number": "2",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Banishing Slash": {
+      "number": "3",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Befriending the Moths (Befriending the Moths // Imperial Moth)": {
+      "number": "4",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Imperial Moth (Befriending the Moths // Imperial Moth)": {
+      "number": "4",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Blade-Blizzard Kitsune": {
+      "number": "5",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Born to Drive": {
+      "number": "6",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Brilliant Restoration": {
+      "number": "7",
+      "cost": ["3", "w", "w", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cloudsteel Kirin": {
+      "number": "8",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dragonfly Suit": {
+      "number": "9",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Eiganjo Exemplar": {
+      "number": "10",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Era of Enlightenment (Era of Enlightenment // Hand of Enlightenment)": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Hand of Enlightenment (Era of Enlightenment // Hand of Enlightenment)": {
+      "number": "11",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Fall of Lord Konda (The Fall of Lord Konda // Fragment of Konda)": {
+      "number": "12",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Fragment of Konda (The Fall of Lord Konda // Fragment of Konda)": {
+      "number": "12",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Farewell": {
+      "number": "13",
+      "cost": ["4", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Go-Shintai of Shared Purpose": {
+      "number": "14",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Golden-Tail Disciple": {
+      "number": "15",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hotshot Mechanic": {
+      "number": "16",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Imperial Oath": {
+      "number": "17",
+      "cost": ["5", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Imperial Recovery Unit": {
+      "number": "18",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Imperial Subduer": {
+      "number": "19",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Intercessor's Arrest": {
+      "number": "20",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Invoke Justice": {
+      "number": "21",
+      "cost": ["1", "w", "w", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Kitsune Ace": {
+      "number": "22",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kyodai, Soul of Kamigawa": {
+      "number": "23",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Light the Way": {
+      "number": "24",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Light-Paws, Emperor's Voice": {
+      "number": "25",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lion Sash": {
+      "number": "26",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lucky Offering": {
+      "number": "27",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "March of Otherworldly Light": {
+      "number": "28",
+      "cost": ["x", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Michiko's Reign of Truth (Michiko's Reign of Truth // Portrait of Michiko)": {
+      "number": "29",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Portrait of Michiko (Michiko's Reign of Truth // Portrait of Michiko)": {
+      "number": "29",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Mothrider Patrol": {
+      "number": "30",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Norika Yamazaki, the Poet": {
+      "number": "31",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Regent's Authority": {
+      "number": "32",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Repel the Vile": {
+      "number": "33",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Restoration of Eiganjo (The Restoration of Eiganjo // Architect of Restoration)": {
+      "number": "34",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Architect of Restoration (The Restoration of Eiganjo // Architect of Restoration)": {
+      "number": "34",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Selfless Samurai": {
+      "number": "35",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Seven-Tail Mentor": {
+      "number": "36",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sky-Blessed Samurai": {
+      "number": "37",
+      "cost": ["6", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spirited Companion": {
+      "number": "38",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sunblade Samurai": {
+      "number": "39",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Touch the Spirit Realm": {
+      "number": "40",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wanderer's Intervention": {
+      "number": "41",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Wandering Emperor": {
+      "number": "42",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "When We Were Young": {
+      "number": "43",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Acquisition Octopus": {
+      "number": "44",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Anchor to Reality": {
+      "number": "45",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Armguard Familiar": {
+      "number": "46",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Awakened Awareness": {
+      "number": "47",
+      "cost": ["x", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Behold the Unspeakable (Behold the Unspeakable // Vision of the Unspeakable)": {
+      "number": "48",
+      "cost": ["3", "u", "u"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vision of the Unspeakable (Behold the Unspeakable // Vision of the Unspeakable)": {
+      "number": "48",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Covert Technician": {
+      "number": "49",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Discover the Impossible": {
+      "number": "50",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Disruption Protocol": {
+      "number": "51",
+      "cost": ["u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Essence Capture": {
+      "number": "52",
+      "cost": ["u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Futurist Operative": {
+      "number": "53",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Futurist Sentinel": {
+      "number": "54",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Go-Shintai of Lost Wisdom": {
+      "number": "55",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Guardians of Oboro": {
+      "number": "56",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Inventive Iteration (Inventive Iteration // Living Breakthrough)": {
+      "number": "57",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Living Breakthrough (Inventive Iteration // Living Breakthrough)": {
+      "number": "57",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invoke the Winds": {
+      "number": "58",
+      "cost": ["1", "u", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Jin-Gitaxias, Progress Tyrant": {
+      "number": "59",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kairi, the Swirling Sky": {
+      "number": "60",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "March of Swirling Mist": {
+      "number": "61",
+      "cost": ["x", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mindlink Mech": {
+      "number": "62",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mirrorshell Crab": {
+      "number": "63",
+      "cost": ["5", "u", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mnemonic Sphere": {
+      "number": "64",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mobilizer Mech": {
+      "number": "65",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Modern Age (The Modern Age // Vector Glider)": {
+      "number": "66",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vector Glider (The Modern Age // Vector Glider)": {
+      "number": "66",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Moon-Circuit Hacker": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Moonfolk Puzzlemaker": {
+      "number": "68",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Moonsnare Prototype": {
+      "number": "69",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Moonsnare Specialist": {
+      "number": "70",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Network Disruptor": {
+      "number": "71",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Planar Incision": {
+      "number": "72",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Prosperous Thief": {
+      "number": "73",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Reality Chip": {
+      "number": "74",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Reality Heist": {
+      "number": "75",
+      "cost": ["5", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Replication Specialist": {
+      "number": "76",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Saiba Trespassers": {
+      "number": "77",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Short Circuit": {
+      "number": "78",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Skyswimmer Koi": {
+      "number": "79",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Spell Pierce": {
+      "number": "80",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Suit Up": {
+      "number": "81",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tameshi, Reality Architect": {
+      "number": "82",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tamiyo's Compleation": {
+      "number": "83",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tezzeret, Betrayer of Flesh": {
+      "number": "84",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Thirst for Knowledge": {
+      "number": "85",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Thousand-Faced Shadow": {
+      "number": "86",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Assassin's Ink": {
+      "number": "87",
+      "cost": ["2", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Biting-Palm Ninja": {
+      "number": "88",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Blade of the Oni": {
+      "number": "89",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Chainflail Centipede": {
+      "number": "90",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Clawing Torment": {
+      "number": "91",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Debt to the Kami": {
+      "number": "92",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dockside Chef": {
+      "number": "93",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dokuchi Shadow-Walker": {
+      "number": "94",
+      "cost": ["4", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dokuchi Silencer": {
+      "number": "95",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Enormous Energy Blade": {
+      "number": "96",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Go-Shintai of Hidden Cruelty": {
+      "number": "97",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gravelighter": {
+      "number": "98",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hidetsugu, Devouring Chaos": {
+      "number": "99",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Inkrise Infiltrator": {
+      "number": "100",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Invoke Despair": {
+      "number": "101",
+      "cost": ["1", "b", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Junji, the Midnight Sky": {
+      "number": "102",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kaito's Pursuit": {
+      "number": "103",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kami of Restless Shadows": {
+      "number": "104",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kami of Terrible Secrets": {
+      "number": "105",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Leech Gauntlet": {
+      "number": "106",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lethal Exploit": {
+      "number": "107",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Life of Toshiro Umezawa (Life of Toshiro Umezawa // Memory of Toshiro)": {
+      "number": "108",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Memory of Toshiro (Life of Toshiro Umezawa // Memory of Toshiro)": {
+      "number": "108",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Long Reach of Night (The Long Reach of Night // Animus of Night's Reach)": {
+      "number": "109",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Animus of Night's Reach (The Long Reach of Night // Animus of Night's Reach)": {
+      "number": "109",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Malicious Malfunction": {
+      "number": "110",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "March of Wretched Sorrow": {
+      "number": "111",
+      "cost": ["x", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mukotai Ambusher": {
+      "number": "112",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mukotai Soulripper": {
+      "number": "113",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nashi, Moon Sage's Scion": {
+      "number": "114",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Nezumi Bladeblesser": {
+      "number": "115",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Nezumi Prowler": {
+      "number": "116",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Okiba Reckoner Raid (Okiba Reckoner Raid // Nezumi Road Captain)": {
+      "number": "117",
+      "cost": ["b"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Nezumi Road Captain (Okiba Reckoner Raid // Nezumi Road Captain)": {
+      "number": "117",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Okiba Salvage": {
+      "number": "118",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Reckoner Shakedown": {
+      "number": "119",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Reckoner's Bargain": {
+      "number": "120",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Return to Action": {
+      "number": "121",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Soul Transfer": {
+      "number": "122",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tatsunari, Toad Rider": {
+      "number": "123",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tribute to Horobi (Tribute to Horobi // Echo of Death's Wail)": {
+      "number": "124",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Echo of Death's Wail (Tribute to Horobi // Echo of Death's Wail)": {
+      "number": "124",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Twisted Embrace": {
+      "number": "125",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Undercity Scrounger": {
+      "number": "126",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Unforgiving One": {
+      "number": "127",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Virus Beetle": {
+      "number": "128",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "You Are Already Dead": {
+      "number": "129",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Akki Ember-Keeper": {
+      "number": "130",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Akki Ronin": {
+      "number": "131",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Akki War Paint": {
+      "number": "132",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ambitious Assault": {
+      "number": "133",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Atsushi, the Blazing Sky": {
+      "number": "134",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bronzeplate Boar": {
+      "number": "135",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Crackling Emergence": {
+      "number": "136",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dragonspark Reactor": {
+      "number": "137",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Experimental Synthesizer": {
+      "number": "138",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Explosive Entry": {
+      "number": "139",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Explosive Singularity": {
+      "number": "140",
+      "cost": ["8", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fable of the Mirror-Breaker (Fable of the Mirror-Breaker // Reflection of Kiki-Jiki)": {
+      "number": "141",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Reflection of Kiki-Jiki (Fable of the Mirror-Breaker // Reflection of Kiki-Jiki)": {
+      "number": "141",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Flame Discharge": {
+      "number": "142",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gift of Wrath": {
+      "number": "143",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Go-Shintai of Ancient Wars": {
+      "number": "144",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Goro-Goro, Disciple of Ryusei": {
+      "number": "145",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Heiko Yamazaki, the General": {
+      "number": "146",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Invoke Calamity": {
+      "number": "147",
+      "cost": ["1", "r", "r", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ironhoof Boar": {
+      "number": "148",
+      "cost": ["5", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kami of Industry": {
+      "number": "149",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kami's Flare": {
+      "number": "150",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kindled Fury": {
+      "number": "151",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kumano Faces Kakkazan (Kumano Faces Kakkazan // Etching of Kumano)": {
+      "number": "152",
+      "cost": ["r"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Etching of Kumano (Kumano Faces Kakkazan // Etching of Kumano)": {
+      "number": "152",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Lizard Blades": {
+      "number": "153",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "March of Reckless Joy": {
+      "number": "154",
+      "cost": ["x", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ogre-Head Helm": {
+      "number": "155",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Peerless Samurai": {
+      "number": "156",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rabbit Battery": {
+      "number": "157",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reinforced Ronin": {
+      "number": "158",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Scrap Welder": {
+      "number": "159",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Scrapyard Steelbreaker": {
+      "number": "160",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Seismic Wave": {
+      "number": "161",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Shattered States Era (The Shattered States Era // Nameless Conqueror)": {
+      "number": "162",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Nameless Conqueror (The Shattered States Era // Nameless Conqueror)": {
+      "number": "162",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Simian Sling": {
+      "number": "163",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sokenzan Smelter": {
+      "number": "164",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tempered in Solitude": {
+      "number": "165",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Thundering Raiju": {
+      "number": "166",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Towashi Songshaper": {
+      "number": "167",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Twinshot Sniper": {
+      "number": "168",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Unstoppable Ogre": {
+      "number": "169",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Upriser Renegade": {
+      "number": "170",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Voltage Surge": {
+      "number": "171",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Azusa's Many Journeys (Azusa's Many Journeys // Likeness of the Seeker)": {
+      "number": "172",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Likeness of the Seeker (Azusa's Many Journeys // Likeness of the Seeker)": {
+      "number": "172",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Bamboo Grove Archer": {
+      "number": "173",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bearer of Memory": {
+      "number": "174",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Blossom Prancer": {
+      "number": "175",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Boon of Boseiju": {
+      "number": "176",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Boseiju Reaches Skyward (Boseiju Reaches Skyward // Branch of Boseiju)": {
+      "number": "177",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Branch of Boseiju (Boseiju Reaches Skyward // Branch of Boseiju)": {
+      "number": "177",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Careful Cultivation": {
+      "number": "178",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Coiling Stalker": {
+      "number": "179",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Commune with Spirits": {
+      "number": "180",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Dragon-Kami Reborn (The Dragon-Kami Reborn // Dragon-Kami's Egg)": {
+      "number": "181",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Dragon-Kami's Egg (The Dragon-Kami Reborn // Dragon-Kami's Egg)": {
+      "number": "181",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Fade into Antiquity": {
+      "number": "182",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fang of Shigeki": {
+      "number": "183",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Favor of Jukai": {
+      "number": "184",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Generous Visitor": {
+      "number": "185",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Geothermal Kami": {
+      "number": "186",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Go-Shintai of Boundless Vigor": {
+      "number": "187",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Grafted Growth": {
+      "number": "188",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Greater Tanuki": {
+      "number": "189",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Harmonious Emergence": {
+      "number": "190",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Heir of the Ancient Fang": {
+      "number": "191",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Historian's Wisdom": {
+      "number": "192",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Invoke the Ancients": {
+      "number": "193",
+      "cost": ["1", "g", "g", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Jugan Defends the Temple (Jugan Defends the Temple // Remnant of the Rising Star)": {
+      "number": "194",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Remnant of the Rising Star (Jugan Defends the Temple // Remnant of the Rising Star)": {
+      "number": "194",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Jukai Preserver": {
+      "number": "195",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jukai Trainee": {
+      "number": "196",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kami of Transience": {
+      "number": "197",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kappa Tech-Wrecker": {
+      "number": "198",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kodama of the West Tree": {
+      "number": "199",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kura, the Boundless Sky": {
+      "number": "200",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "March of Burgeoning Life": {
+      "number": "201",
+      "cost": ["x", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Master's Rebuke": {
+      "number": "202",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Orochi Merge-Keeper": {
+      "number": "203",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Roaring Earth": {
+      "number": "204",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Season of Renewal": {
+      "number": "205",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shigeki, Jukai Visionary": {
+      "number": "206",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Spinning Wheel Kick": {
+      "number": "207",
+      "cost": ["x", "x", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Spring-Leaf Avenger": {
+      "number": "208",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Storyweave": {
+      "number": "209",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tales of Master Seshiro (Tales of Master Seshiro // Seshiro's Living Legacy)": {
+      "number": "210",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Seshiro's Living Legacy (Tales of Master Seshiro // Seshiro's Living Legacy)": {
+      "number": "210",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Tamiyo's Safekeeping": {
+      "number": "211",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Teachings of the Kirin (Teachings of the Kirin // Kirin-Touched Orochi)": {
+      "number": "212",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Kirin-Touched Orochi (Teachings of the Kirin // Kirin-Touched Orochi)": {
+      "number": "212",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Weaver of Harmony": {
+      "number": "213",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Webspinner Cuff": {
+      "number": "214",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Asari Captain": {
+      "number": "215",
+      "cost": ["3", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Colossal Skyturtle": {
+      "number": "216",
+      "cost": ["4", "g", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Eiganjo Uprising": {
+      "number": "217",
+      "cost": ["x", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Enthusiastic Mechanaut": {
+      "number": "218",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gloomshrieker": {
+      "number": "219",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Greasefang, Okiba Boss": {
+      "number": "220",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hidetsugu Consumes All (Hidetsugu Consumes All // Vessel of the All-Consuming)": {
+      "number": "221",
+      "cost": ["1", "b", "r"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vessel of the All-Consuming (Hidetsugu Consumes All // Vessel of the All-Consuming)": {
+      "number": "221",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Hinata, Dawn-Crowned": {
+      "number": "222",
+      "cost": ["1", "u", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Invigorating Hot Spring": {
+      "number": "223",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Isshin, Two Heavens as One": {
+      "number": "224",
+      "cost": ["r", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Jukai Naturalist": {
+      "number": "225",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kaito Shizuki": {
+      "number": "226",
+      "cost": ["1", "u", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "The Kami War (The Kami War // O-Kagachi Made Manifest)": {
+      "number": "227",
+      "cost": ["1", "w", "u", "b", "r", "g"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "O-Kagachi Made Manifest (The Kami War // O-Kagachi Made Manifest)": {
+      "number": "227",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Kotose, the Silent Spider": {
+      "number": "228",
+      "cost": ["3", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Naomi, Pillar of Order": {
+      "number": "229",
+      "cost": ["3", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Oni-Cult Anvil": {
+      "number": "230",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Prodigy's Prototype": {
+      "number": "231",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Raiyuu, Storm's Edge": {
+      "number": "232",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Risona, Asari Commander": {
+      "number": "233",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Satoru Umezawa": {
+      "number": "234",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Satsuki, the Living Lore": {
+      "number": "235",
+      "cost": ["g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Silver-Fur Master": {
+      "number": "236",
+      "cost": ["u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spirit-Sister's Call": {
+      "number": "237",
+      "cost": ["3", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tamiyo, Compleated Sage": {
+      "number": "238",
+      "cost": ["2", "g", "gu/p", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Automated Artificer": {
+      "number": "239",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bronze Cudgels": {
+      "number": "240",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Brute Suit": {
+      "number": "241",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Circuit Mender": {
+      "number": "242",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Containment Construct": {
+      "number": "243",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dramatist's Puppet": {
+      "number": "244",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Eater of Virtue": {
+      "number": "245",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ecologist's Terrarium": {
+      "number": "246",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "High-Speed Hoverbike": {
+      "number": "247",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Iron Apprentice": {
+      "number": "248",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mechtitan Core": {
+      "number": "249",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mirror Box": {
+      "number": "250",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Network Terminal": {
+      "number": "251",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ninja's Kunai": {
+      "number": "252",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Papercraft Decoy": {
+      "number": "253",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Patchwork Automaton": {
+      "number": "254",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reckoner Bankbuster": {
+      "number": "255",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Reito Sentinel": {
+      "number": "256",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Runaway Trash-Bot": {
+      "number": "257",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Searchlight Companion": {
+      "number": "258",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shrine Steward": {
+      "number": "259",
+      "cost": ["5"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Surgehacker Mech": {
+      "number": "260",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thundersteel Colossus": {
+      "number": "261",
+      "cost": ["7"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Towashi Guide-Bot": {
+      "number": "262",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Walking Skyscraper": {
+      "number": "263",
+      "cost": ["8"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bloodfell Caves": {
+      "number": "264",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Blossoming Sands": {
+      "number": "265",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Boseiju, Who Endures": {
+      "number": "266",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Dismal Backwater": {
+      "number": "267",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Eiganjo, Seat of the Empire": {
+      "number": "268",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Jungle Hollow": {
+      "number": "269",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Mech Hangar": {
+      "number": "270",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Otawara, Soaring City": {
+      "number": "271",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Roadside Reliquary": {
+      "number": "272",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Rugged Highlands": {
+      "number": "273",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Scoured Barrens": {
+      "number": "274",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Secluded Courtyard": {
+      "number": "275",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Sokenzan, Crucible of Defiance": {
+      "number": "276",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Swiftwater Cliffs": {
+      "number": "277",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Takenuma, Abandoned Mire": {
+      "number": "278",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Thornwood Falls": {
+      "number": "279",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Tranquil Cove": {
+      "number": "280",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Uncharted Haven": {
+      "number": "281",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Wind-Scarred Crag": {
+      "number": "282",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    }
+  }
+}

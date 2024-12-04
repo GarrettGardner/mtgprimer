@@ -1,0 +1,404 @@
+{
+  "code": "mul",
+  "formatName": "Multiverse Legends",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Anafenza, Kin-Tree Spirit": {
+      "number": "1",
+      "cost": ["w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Daxos, Blessed by the Sun": {
+      "number": "2",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Elesh Norn, Grand Cenobite": {
+      "number": "3",
+      "cost": ["5", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kenrith, the Returned King": {
+      "number": "4",
+      "cost": ["4", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kwende, Pride of Femeref": {
+      "number": "5",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sram, Senior Edificer": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thalia, Guardian of Thraben": {
+      "number": "7",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Baral, Chief of Compliance": {
+      "number": "8",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Emry, Lurker of the Loch": {
+      "number": "9",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Inga Rune-Eyes": {
+      "number": "10",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jin-Gitaxias, Core Augur": {
+      "number": "11",
+      "cost": ["8", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Tetsuko Umezawa, Fugitive": {
+      "number": "12",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ayara, First of Locthwain": {
+      "number": "13",
+      "cost": ["b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Horobi, Death's Wail": {
+      "number": "14",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Seizan, Perverter of Truth": {
+      "number": "15",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sheoldred, Whispering One": {
+      "number": "16",
+      "cost": ["5", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Skithiryx, the Blight Dragon": {
+      "number": "17",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Tymaret, Chosen from Death": {
+      "number": "18",
+      "cost": ["b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Yargle, Glutton of Urborg": {
+      "number": "19",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Captain Lannery Storm": {
+      "number": "20",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ragavan, Nimble Pilferer": {
+      "number": "21",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Squee, the Immortal": {
+      "number": "22",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Urabrask the Hidden": {
+      "number": "23",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Valduk, Keeper of the Flame": {
+      "number": "24",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Zada, Hedron Grinder": {
+      "number": "25",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fynn, the Fangbearer": {
+      "number": "26",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Goreclaw, Terror of Qal Sisma": {
+      "number": "27",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Renata, Called to the Hunt": {
+      "number": "28",
+      "cost": ["2", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vorinclex, Voice of Hunger": {
+      "number": "29",
+      "cost": ["6", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Yedora, Grave Gardener": {
+      "number": "30",
+      "cost": ["4", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aegar, the Freezing Flame": {
+      "number": "31",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Arixmethes, Slumbering Isle": {
+      "number": "32",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Atraxa, Praetors' Voice": {
+      "number": "33",
+      "cost": ["g", "w", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Atris, Oracle of Half-Truths": {
+      "number": "34",
+      "cost": ["2", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aurelia, the Warleader": {
+      "number": "35",
+      "cost": ["2", "r", "r", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Brudiclad, Telchor Engineer": {
+      "number": "36",
+      "cost": ["4", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dina, Soul Steeper": {
+      "number": "37",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ezuri, Claw of Progress": {
+      "number": "38",
+      "cost": ["2", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Firesong and Sunspeaker": {
+      "number": "39",
+      "cost": ["4", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Firja, Judge of Valor": {
+      "number": "40",
+      "cost": ["2", "w", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Grimgrin, Corpse-Born": {
+      "number": "41",
+      "cost": ["3", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Gyruda, Doom of Depths": {
+      "number": "42",
+      "cost": ["4", "ub", "ub"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Imoti, Celebrant of Bounty": {
+      "number": "43",
+      "cost": ["3", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jegantha, the Wellspring": {
+      "number": "44",
+      "cost": ["4", "rg"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Judith, the Scourge Diva": {
+      "number": "45",
+      "cost": ["1", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Juri, Master of the Revue": {
+      "number": "46",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kaheera, the Orphanguard": {
+      "number": "47",
+      "cost": ["1", "gw", "gw"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Keruga, the Macrosage": {
+      "number": "48",
+      "cost": ["3", "gu", "gu"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kroxa, Titan of Death's Hunger": {
+      "number": "49",
+      "cost": ["b", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lathiel, the Bounteous Dawn": {
+      "number": "50",
+      "cost": ["2", "g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lurrus of the Dream-Den": {
+      "number": "51",
+      "cost": ["1", "wb", "wb"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lutri, the Spellchaser": {
+      "number": "52",
+      "cost": ["1", "ur", "ur"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Niv-Mizzet Reborn": {
+      "number": "53",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Obosh, the Preypiercer": {
+      "number": "54",
+      "cost": ["3", "br", "br"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Radha, Coalition Warlord": {
+      "number": "55",
+      "cost": ["2", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Raff, Weatherlight Stalwart": {
+      "number": "56",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reyav, Master Smith": {
+      "number": "57",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rona, Sheoldred's Faithful": {
+      "number": "58",
+      "cost": ["1", "u", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Shanna, Sisay's Legacy": {
+      "number": "59",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Taigam, Ojutai Master": {
+      "number": "60",
+      "cost": ["2", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Teysa Karlov": {
+      "number": "61",
+      "cost": ["2", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Umori, the Collector": {
+      "number": "62",
+      "cost": ["2", "bg", "bg"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Yarok, the Desecrated": {
+      "number": "63",
+      "cost": ["2", "b", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Yorion, Sky Nomad": {
+      "number": "64",
+      "cost": ["3", "wu", "wu"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Zirda, the Dawnwaker": {
+      "number": "65",
+      "cost": ["1", "rw", "rw"],
+      "rarity": "r",
+      "categories": ["creature"]
+    }
+  }
+}

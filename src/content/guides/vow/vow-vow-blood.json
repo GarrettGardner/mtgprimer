@@ -1,0 +1,100 @@
+{
+  "name": "Mechanic: Blood Tokens",
+  "icon": "fas fa-tint",
+  "categories": {
+    "token": "Blood Token Generators",
+    "payoff": "Blood Token Payoffs"
+  },
+  "cards": {
+    "Anje, Maid of Dishonor": {
+      "categories": ["token", "payoff"]
+    },
+    "Belligerent Guest": {
+      "categories": ["token"]
+    },
+    "Blood Fountain": {
+      "categories": ["token"]
+    },
+    "Blood Hypnotist": {
+      "categories": ["payoff"]
+    },
+    "Blood Petal Celebrant": {
+      "categories": ["token"]
+    },
+    "Blood Servitor": {
+      "categories": ["token"]
+    },
+    "Bloodcrazed Socialite": {
+      "categories": ["token", "payoff"]
+    },
+    "Bloodtithe Harvester": {
+      "categories": ["token", "payoff"]
+    },
+    "Bloodvial Purveyor": {
+      "categories": ["payoff"]
+    },
+    "Bloody Betrayal": {
+      "categories": ["token"]
+    },
+    "Ceremonial Knife": {
+      "categories": ["token"]
+    },
+    "Falkenrath Celebrants": {
+      "categories": ["token"]
+    },
+    "Falkenrath Forebear": {
+      "categories": ["token", "payoff"]
+    },
+    "Gluttonous Guest": {
+      "categories": ["token", "payoff"]
+    },
+    "Grisly Ritual": {
+      "categories": ["token"]
+    },
+    "Lacerate Flesh": {
+      "categories": ["token"]
+    },
+    "Odric, Blood-Cursed": {
+      "categories": ["token"]
+    },
+    "Old Rutstein": {
+      "categories": ["token"]
+    },
+    "Olivia's Attendants": {
+      "categories": ["token"]
+    },
+    "Pointed Discussion": {
+      "categories": ["token"]
+    },
+    "Restless Bloodseeker // Bloodsoaked Reveler": {
+      "categories": ["token"]
+    },
+    "Sanguine Statuette": {
+      "categories": ["token", "payoff"]
+    },
+    "Sigarda's Imprisonment": {
+      "categories": ["token"]
+    },
+    "Syphon Essence": {
+      "categories": ["token"]
+    },
+    "Vampire's Kiss": {
+      "categories": ["token"]
+    },
+    "Vampires' Vengeance": {
+      "categories": ["token"]
+    },
+    "Voldaren Bloodcaster // Bloodbat Summoner": {
+      "categories": ["token", "payoff"]
+    },
+    "Voldaren Epicure": {
+      "categories": ["token"]
+    },
+    "Voldaren Estate": {
+      "categories": ["token"]
+    },
+    "Wedding Security": {
+      "categories": ["payoff"]
+    }
+  }
+}

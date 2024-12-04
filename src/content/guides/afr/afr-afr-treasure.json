@@ -1,0 +1,94 @@
+{
+  "name": "Theme: Treasures",
+  "icon": "fas fa-gem",
+  "categories": {
+    "treasure": "Treasure",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Deadly Dispute": {
+      "categories": ["treasure"]
+    },
+    "Devour Intellect": {
+      "categories": ["payoff"]
+    },
+    "Forsworn Paladin": {
+      "categories": ["treasure", "payoff"]
+    },
+    "Grim Bounty": {
+      "categories": ["treasure"]
+    },
+    "Herald of Hadar": {
+      "categories": ["treasure"]
+    },
+    "Hired Hexblade": {
+      "categories": ["payoff"]
+    },
+    "Hoard Robber": {
+      "categories": ["treasure"]
+    },
+    "Hoarding Ogre": {
+      "categories": ["treasure"]
+    },
+    "Improvised Weaponry": {
+      "categories": ["treasure"]
+    },
+    "Instrument of the Bards": {
+      "categories": ["treasure"]
+    },
+    "Jaded Sell-Sword": {
+      "categories": ["payoff"]
+    },
+    "Kalain, Reclusive Painter": {
+      "categories": ["payoff"]
+    },
+    "Mimic": {
+      "categories": ["treasure"]
+    },
+    "Minimus Containment": {
+      "categories": ["treasure"]
+    },
+    "Old Gnawbone": {
+      "categories": ["treasure"]
+    },
+    "Plundering Barbarian": {
+      "categories": ["treasure"]
+    },
+    "Price of Loyalty": {
+      "categories": ["payoff"]
+    },
+    "Prosperous Innkeeper": {
+      "categories": ["treasure"]
+    },
+    "Shambling Ghast": {
+      "categories": ["treasure"]
+    },
+    "Skullport Merchant": {
+      "categories": ["treasure", "payoff"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["treasure"]
+    },
+    "Spoils of the Hunt": {
+      "categories": ["payoff"]
+    },
+    "Thieves' Tools": {
+      "categories": ["treasure"]
+    },
+    "Treasure Chest": {
+      "categories": ["treasure"]
+    },
+    "Treasure Vault": {
+      "categories": ["treasure"]
+    },
+    "Unexpected Windfall": {
+      "categories": ["treasure"]
+    },
+    "Xorn": {
+      "categories": ["payoff"]
+    },
+    "You Find a Cursed Idol": {
+      "categories": ["treasure"]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["spell"]
+    },
+    "Chaos Maw": {
+      "categories": ["boardwipe"]
+    },
+    "Desert's Hold": {
+      "categories": ["removal"]
+    },
+    "Fervent Paincaster": {
+      "categories": ["removal"]
+    },
+    "Grind (Grind / Dust)": {
+      "categories": ["removal"]
+    },
+    "Hour of Devastation": {
+      "categories": ["boardwipe"]
+    },
+    "Hour of Revelation": {
+      "categories": ["boardwipe"]
+    },
+    "Kefnet's Last Word": {
+      "categories": ["removal"]
+    },
+    "Lethal Sting": {
+      "categories": ["removal"]
+    },
+    "Liliana's Defeat": {
+      "categories": ["removal"]
+    },
+    "Nicol Bolas, God-Pharaoh": {
+      "categories": ["removal"]
+    },
+    "Nissa's Defeat": {
+      "categories": ["other"]
+    },
+    "Samut, the Tested": {
+      "categories": ["removal"]
+    },
+    "Torment of Hailfire": {
+      "categories": ["removal"]
+    },
+    "Torment of Venom": {
+      "categories": ["removal"]
+    }
+  }
+}

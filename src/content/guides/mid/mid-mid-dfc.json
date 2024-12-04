@@ -1,0 +1,22 @@
+{
+  "name": "Mechanic: Double Faced Cards",
+  "icon": "fas fa-history",
+  "cards": {
+    "Ambitious Farmhand // Seasoned Cathar": {},
+    "Bereaved Survivor // Dauntless Avenger": {},
+    "Deathbonnet Sprout // Deathbonnet Hulk": {},
+    "Delver of Secrets // Insectile Aberration": {},
+    "Ecstatic Awakener // Awoken Demon": {},
+    "Enduring Angel // Angelic Enforcer": {},
+    "Flame Channeler // Embodiment of Flame": {},
+    "Heirloom Mirror // Inherited Fiend": {},
+    "Hostile Hostel // Creeping Inn": {},
+    "Jerren, Corrupted Bishop // Ormendahl, the Corrupter": {},
+    "Ludevic, Necrogenius // Olag, Ludevic's Hubris": {},
+    "Mysterious Tome // Chilling Chronicle": {},
+    "Mystic Skull // Mystic Monstrosity": {},
+    "Poppet Stitcher // Poppet Factory": {},
+    "Smoldering Egg // Ashmouth Dragon": {},
+    "Vengeful Strangler // Strangling Grasp": {}
+  }
+}

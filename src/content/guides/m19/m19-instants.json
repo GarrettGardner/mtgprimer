@@ -1,0 +1,108 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abnormal Endurance": {
+      "categories": ["board"]
+    },
+    "Aegis of the Heavens": {
+      "categories": ["board"]
+    },
+    "Anticipate": {
+      "categories": ["other"]
+    },
+    "Bone to Ash": {
+      "categories": ["counterspell"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Chromium, the Mutable": {
+      "categories": ["board"]
+    },
+    "Disperse": {
+      "categories": ["board"]
+    },
+    "Electrify": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Hired Blade": {
+      "categories": ["board"]
+    },
+    "Infernal Reckoning": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Invoke the Divine": {
+      "categories": ["board"]
+    },
+    "Isolate": {
+      "categories": ["board"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Make a Stand": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Nightmare's Thirst": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Revitalize": {
+      "categories": ["other"]
+    },
+    "Root Snare": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Smelt": {
+      "categories": ["board"]
+    },
+    "Spit Flame": {
+      "categories": ["board"]
+    },
+    "Strangling Spores": {
+      "categories": ["board"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Totally Lost": {
+      "categories": ["board"]
+    },
+    "Trumpet Blast": {
+      "categories": ["board"]
+    },
+    "Uncomfortable Chill": {
+      "categories": ["board"]
+    }
+  }
+}

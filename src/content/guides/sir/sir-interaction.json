@@ -1,0 +1,14 @@
+{
+  "name": "Interaction Guide",
+  "defaultGrouping": "color",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "disenchant": "Disenchant",
+    "temporary": "Temporary",
+    "wipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {}
+}

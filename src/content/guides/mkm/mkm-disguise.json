@@ -1,0 +1,116 @@
+{
+  "name": "Disguise",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {},
+  "cards": {
+    "Alley Assailant": {
+      "cost": ["4", "b", "b"]
+    },
+    "Aurelia's Vindicator": {
+      "cost": ["x", "3", "w"]
+    },
+    "Basilica Stalker": {
+      "cost": ["4", "b"]
+    },
+    "Bolrac-Clan Basher": {
+      "cost": ["3", "r", "r"]
+    },
+    "Branch of Vitu-Ghazi": {
+      "cost": ["3"]
+    },
+    "Bubble Smuggler": {
+      "cost": ["5", "u"]
+    },
+    "Concealed Weapon": {
+      "cost": ["2", "r"]
+    },
+    "Coveted Falcon": {
+      "cost": ["1", "u"]
+    },
+    "Crowd-Control Warden": {
+      "cost": ["3", "gw", "gw"]
+    },
+    "Culvert Ambusher": {
+      "cost": ["4", "g"]
+    },
+    "Defenestrated Phantom": {
+      "cost": ["4", "w"]
+    },
+    "Dog Walker": {
+      "cost": ["rw", "rw"]
+    },
+    "Essence of Antiquity": {
+      "cost": ["2", "w"]
+    },
+    "Exit Specialist": {
+      "cost": ["1", "u"]
+    },
+    "Faerie Snoop": {
+      "cost": ["1", "ub", "ub"]
+    },
+    "Flourishing Bloom-Kin": {
+      "cost": ["4", "g"]
+    },
+    "Forum Familiar": {
+      "cost": ["1", "w"]
+    },
+    "Fugitive Codebreaker": {
+      "cost": ["5", "r"]
+    },
+    "Gadget Technician": {
+      "cost": ["ur", "ur"]
+    },
+    "Granite Witness": {
+      "cost": ["wu", "wu"]
+    },
+    "Greenbelt Radical": {
+      "cost": ["5", "g", "g"]
+    },
+    "Hunted Bonebrute": {
+      "cost": ["1", "b"]
+    },
+    "Lumbering Laundry": {
+      "cost": ["5"]
+    },
+    "Mistway Spy": {
+      "cost": ["1", "u"]
+    },
+    "Museum Nightwatch": {
+      "cost": ["1", "w"]
+    },
+    "Nervous Gardener": {
+      "cost": ["g"]
+    },
+    "Nightdrinker Moroii": {
+      "cost": ["b", "b"]
+    },
+    "Offender at Large": {
+      "cost": ["4", "r"]
+    },
+    "Pyrotechnic Performer": {
+      "cost": ["r"]
+    },
+    "Rakish Scoundrel": {
+      "cost": ["4", "bg", "bg"]
+    },
+    "Riftburst Hellion": {
+      "cost": ["4", "rg", "rg"]
+    },
+    "Sanguine Savior": {
+      "cost": ["wb", "wb"]
+    },
+    "Shady Informant": {
+      "cost": ["2", "br", "br"]
+    },
+    "Undercover Crocodelf": {
+      "cost": ["3", "gu", "gu"]
+    },
+    "Unyielding Gatekeeper": {
+      "cost": ["1", "w"]
+    },
+    "Vengeful Creeper": {
+      "cost": ["5", "g"]
+    }
+  }
+}

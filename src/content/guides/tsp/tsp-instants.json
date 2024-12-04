@@ -1,0 +1,201 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Web": {
+      "categories": ["board"]
+    },
+    "Ancient Grudge": {
+      "categories": ["board"]
+    },
+    "Angel's Grace": {
+      "categories": ["board"]
+    },
+    "Ashcoat Bear": {
+      "categories": ["board"]
+    },
+    "Bewilder": {
+      "categories": ["board"]
+    },
+    "Bogardan Hellkite": {
+      "categories": ["board"]
+    },
+    "Bogardan Rager": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["board"]
+    },
+    "Careful Consideration": {
+      "categories": ["board"]
+    },
+    "Celestial Crusader": {
+      "categories": ["board"]
+    },
+    "Chameleon Blur": {
+      "categories": ["board"]
+    },
+    "Clockspinning": {
+      "categories": ["board"]
+    },
+    "Conflagrate": {
+      "categories": ["board"]
+    },
+    "Crookclaw Transmuter": {
+      "categories": ["board"]
+    },
+    "Dark Withering": {
+      "categories": ["board"]
+    },
+    "Draining Whelk": {
+      "categories": ["board"]
+    },
+    "Dralnu, Lich Lord": {
+      "categories": ["board"]
+    },
+    "Dread Return": {
+      "categories": ["board"]
+    },
+    "Drudge Reavers": {
+      "categories": ["board"]
+    },
+    "Feebleness": {
+      "categories": ["board"]
+    },
+    "Foriysian Interceptor": {
+      "categories": ["board"]
+    },
+    "Fortify": {
+      "categories": ["board"]
+    },
+    "Gaze of Justice": {
+      "categories": ["board"]
+    },
+    "Ghitu Firebreathing": {
+      "categories": ["board"]
+    },
+    "Haunting Hymn": {
+      "categories": ["board"]
+    },
+    "Havenwood Wurm": {
+      "categories": ["board"]
+    },
+    "Krosan Grip": {
+      "categories": ["board"]
+    },
+    "Lightning Axe": {
+      "categories": ["board"]
+    },
+    "Might of Old Krosa": {
+      "categories": ["board"]
+    },
+    "Molder": {
+      "categories": ["board"]
+    },
+    "Momentary Blink": {
+      "categories": ["board"]
+    },
+    "Moonlace": {
+      "categories": ["board"]
+    },
+    "Mystical Teachings": {
+      "categories": ["board"]
+    },
+    "Ophidian Eye": {
+      "categories": ["board"]
+    },
+    "Orcish Cannonade": {
+      "categories": ["board"]
+    },
+    "Plated Pegasus": {
+      "categories": ["board"]
+    },
+    "Pull from Eternity": {
+      "categories": ["board"]
+    },
+    "Reiterate": {
+      "categories": ["board"]
+    },
+    "Return to Dust": {
+      "categories": ["board"]
+    },
+    "Scryb Ranger": {
+      "categories": ["board"]
+    },
+    "Snapback": {
+      "categories": ["board"]
+    },
+    "Spell Burst": {
+      "categories": ["board"]
+    },
+    "Sprout": {
+      "categories": ["board"]
+    },
+    "Squall Line": {
+      "categories": ["board"]
+    },
+    "Stonewood Invocation": {
+      "categories": ["board"]
+    },
+    "Strangling Soot": {
+      "categories": ["board"]
+    },
+    "Strength in Numbers": {
+      "categories": ["board"]
+    },
+    "Sudden Death": {
+      "categories": ["board"]
+    },
+    "Sudden Shock": {
+      "categories": ["board"]
+    },
+    "Sudden Spoiling": {
+      "categories": ["board"]
+    },
+    "Sulfurous Blast": {
+      "categories": ["board"]
+    },
+    "Teferi, Mage of Zhalfir": {
+      "categories": ["board"]
+    },
+    "Temporal Isolation": {
+      "categories": ["board"]
+    },
+    "Tendrils of Corruption": {
+      "categories": ["board"]
+    },
+    "Think Twice": {
+      "categories": ["board"]
+    },
+    "Thrill of the Hunt": {
+      "categories": ["board"]
+    },
+    "Traitor's Clutch": {
+      "categories": ["board"]
+    },
+    "Trickbind": {
+      "categories": ["board"]
+    },
+    "Truth or Tale": {
+      "categories": ["board"]
+    },
+    "Viashino Bladescout": {
+      "categories": ["board"]
+    },
+    "Voidmage Husher": {
+      "categories": ["board"]
+    },
+    "Wipe Away": {
+      "categories": ["board"]
+    },
+    "Word of Seizing": {
+      "categories": ["board"]
+    }
+  }
+}

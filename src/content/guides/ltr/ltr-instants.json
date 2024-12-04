@@ -1,0 +1,156 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Bitter Downfall": {
+      "categories": ["board"]
+    },
+    "Bombadil's Song": {
+      "categories": ["board"]
+    },
+    "Borne Upon a Wind": {
+      "categories": ["board"]
+    },
+    "Cast into the Fire": {
+      "categories": ["board"]
+    },
+    "Council's Deliberation": {
+      "categories": ["board"]
+    },
+    "Deceive the Messenger": {
+      "categories": ["board"]
+    },
+    "Display of Power": {
+      "categories": ["board"]
+    },
+    "Dreadful as the Storm": {
+      "categories": ["board"]
+    },
+    "Entish Restoration": {
+      "categories": ["board"]
+    },
+    "Escape from Orthanc": {
+      "categories": ["board"]
+    },
+    "Flame of Anor": {
+      "categories": ["board"]
+    },
+    "Friendly Rivalry": {
+      "categories": ["board"]
+    },
+    "Galadhrim Bow": {
+      "categories": ["board"]
+    },
+    "Gandalf the White": {
+      "categories": ["board"]
+    },
+    "Gandalf, Friend of the Shire": {
+      "categories": ["board"]
+    },
+    "Gift of Strands": {
+      "categories": ["board"]
+    },
+    "Gimli's Fury": {
+      "categories": ["board"]
+    },
+    "Glorious Gale": {
+      "categories": ["board"]
+    },
+    "Gollum's Bite": {
+      "categories": ["board"]
+    },
+    "Grey Havens Navigator": {
+      "categories": ["board"]
+    },
+    "Hithlain Knots": {
+      "categories": ["board"]
+    },
+    "Hobbit's Sting": {
+      "categories": ["board"]
+    },
+    "Improvised Club": {
+      "categories": ["board"]
+    },
+    "Isildur's Fateful Strike": {
+      "categories": ["board"]
+    },
+    "Isolation at Orthanc": {
+      "categories": ["board"]
+    },
+    "Lobelia Sackville-Baggins": {
+      "categories": ["board"]
+    },
+    "Lost to Legend": {
+      "categories": ["board"]
+    },
+    "Mithril Coat": {
+      "categories": ["board"]
+    },
+    "Nasty End": {
+      "categories": ["board"]
+    },
+    "Orcish Bowmasters": {
+      "categories": ["board"]
+    },
+    "Orcish Medicine": {
+      "categories": ["board"]
+    },
+    "Pippin's Bravery": {
+      "categories": ["board"]
+    },
+    "Press the Enemy": {
+      "categories": ["board"]
+    },
+    "Reprieve": {
+      "categories": ["board"]
+    },
+    "Rush the Room": {
+      "categories": ["board"]
+    },
+    "Samwise the Stouthearted": {
+      "categories": ["board"]
+    },
+    "Saruman's Trickery": {
+      "categories": ["board"]
+    },
+    "Sauron's Ransom": {
+      "categories": ["board"]
+    },
+    "Second Breakfast": {
+      "categories": ["board"]
+    },
+    "Shelob's Ambush": {
+      "categories": ["board"]
+    },
+    "Shower of Arrows": {
+      "categories": ["board"]
+    },
+    "Slip On the Ring": {
+      "categories": ["board"]
+    },
+    "Smite the Deathless": {
+      "categories": ["board"]
+    },
+    "Soldier of the Grey Host": {
+      "categories": ["board"]
+    },
+    "Soothing of Sméagol": {
+      "categories": ["board"]
+    },
+    "Stern Scolding": {
+      "categories": ["board"]
+    },
+    "Stew the Coneys": {
+      "categories": ["board"]
+    },
+    "You Cannot Pass!": {
+      "categories": ["board"]
+    }
+  }
+}

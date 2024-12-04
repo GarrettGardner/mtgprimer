@@ -1,0 +1,149 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "foretell": "Foretell",
+    "other": "Other"
+  },
+  "cards": {
+    "Annul": {
+      "categories": ["counterspell"]
+    },
+    "Behold the Multiverse": {
+      "categories": ["other", "foretell"],
+      "cost": ["1", "u"]
+    },
+    "Brinebarrow Intruder": {
+      "categories": ["board"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Cosmos Charger": {
+      "categories": ["board", "foretell"],
+      "cost": ["2", "u"]
+    },
+    "Demon Bolt": {
+      "categories": ["board", "foretell"],
+      "cost": ["r"]
+    },
+    "Demonic Gifts": {
+      "categories": ["board"]
+    },
+    "Depart the Realm": {
+      "categories": ["board", "foretell"],
+      "cost": ["u"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Dual Strike": {
+      "categories": ["board", "foretell"],
+      "cost": ["r"]
+    },
+    "Feed the Serpent": {
+      "categories": ["board"]
+    },
+    "Frost Bite": {
+      "categories": ["board"]
+    },
+    "Glorious Protector": {
+      "categories": ["board", "foretell"],
+      "cost": ["2", "w"]
+    },
+    "Graven Lore": {
+      "categories": ["other"]
+    },
+    "Invoke the Divine": {
+      "categories": ["other"]
+    },
+    "Iron Verdict": {
+      "categories": ["board", "foretell"],
+      "cost": ["w"]
+    },
+    "Jarl of the Forsaken": {
+      "categories": ["board", "foretell"],
+      "cost": ["1", "b"]
+    },
+    "Kaya's Onslaught": {
+      "categories": ["board", "foretell"],
+      "cost": ["w"]
+    },
+    "Mammoth Growth": {
+      "categories": ["board", "foretell"],
+      "cost": ["g"]
+    },
+    "Mists of Littjara": {
+      "categories": ["board"]
+    },
+    "Mystic Reflection": {
+      "categories": ["board", "foretell"],
+      "cost": ["u"]
+    },
+    "Open the Omenpaths": {
+      "categories": ["board"]
+    },
+    "Poison the Cup": {
+      "categories": ["board", "foretell"],
+      "cost": ["1", "b"]
+    },
+    "Provoke the Trolls": {
+      "categories": ["board"]
+    },
+    "Raise the Draugr": {
+      "categories": ["other"]
+    },
+    "Revitalize": {
+      "categories": ["other"]
+    },
+    "Rise of the Dread Marn": {
+      "categories": ["board", "foretell"],
+      "cost": ["b"]
+    },
+    "Run Amok": {
+      "categories": ["board"]
+    },
+    "Run Ashore": {
+      "categories": ["board"]
+    },
+    "Saw It Coming": {
+      "categories": ["counterspell", "foretell"],
+      "cost": ["1", "u"]
+    },
+    "Sigrid, God-Favored": {
+      "categories": ["board"]
+    },
+    "Smashing Success": {
+      "categories": ["board"]
+    },
+    "Snakeskin Veil": {
+      "categories": ["board"]
+    },
+    "Squash": {
+      "categories": ["board"]
+    },
+    "Tergrid's Shadow": {
+      "categories": ["board", "foretell"],
+      "cost": ["2", "b", "b"]
+    },
+    "Tibalt's Trickery": {
+      "categories": ["counterspell"]
+    },
+    "Undersea Invader": {
+      "categories": ["board"]
+    },
+    "Village Rites": {
+      "categories": ["other"]
+    },
+    "Warhorn Blast": {
+      "categories": ["board", "foretell"],
+      "cost": ["2", "w"]
+    },
+    "Wings of the Cosmos": {
+      "categories": ["board"]
+    }
+  }
+}

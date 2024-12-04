@@ -1,0 +1,163 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aerial Boost": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Angelic Intervention": {
+      "categories": ["board"]
+    },
+    "Arachnoid Adaptation": {
+      "categories": ["board"]
+    },
+    "Artistic Refusal": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Assimilate Essence": {
+      "categories": ["counterspell"]
+    },
+    "Bladed Battle-Fan": {
+      "categories": ["board"]
+    },
+    "Burning Sun's Fury": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Change the Equation": {
+      "categories": ["counterspell"]
+    },
+    "Collective Nightmare": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Coming In Hot": {
+      "categories": ["board"]
+    },
+    "Complete the Circuit": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Corrupted Conviction": {
+      "categories": ["other"]
+    },
+    "Cosmic Hunger": {
+      "categories": ["board"]
+    },
+    "Cut Short": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Deadly Derision": {
+      "categories": ["board"]
+    },
+    "Disturbing Conversion": {
+      "categories": ["board"]
+    },
+    "Elspeth's Smite": {
+      "categories": ["board"]
+    },
+    "Ephara's Dispersal": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Errant and Giada": {
+      "categories": ["board"]
+    },
+    "Faerie Mastermind": {
+      "categories": ["board"]
+    },
+    "Fertilid's Favor": {
+      "categories": ["board"]
+    },
+    "Final Flourish": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Meeting of Minds": {
+      "categories": ["other"],
+      "cost": []
+    },
+    "Merciless Repurposing": {
+      "categories": ["board"]
+    },
+    "Mirran Banesplitter": {
+      "categories": ["board"]
+    },
+    "Mirrodin Avenged": {
+      "categories": ["board"]
+    },
+    "Moment of Truth": {
+      "categories": ["other"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Pile On": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Saiba Cryptomancer": {
+      "categories": ["board"]
+    },
+    "Sandstalker Moloch": {
+      "categories": ["board"]
+    },
+    "Scrollshift": {
+      "categories": ["board"]
+    },
+    "See Double": {
+      "categories": ["board"]
+    },
+    "Seed of Hope": {
+      "categories": ["other"]
+    },
+    "Shatter the Source": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Stoke the Flames": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Surge of Salvation": {
+      "categories": ["board"]
+    },
+    "Tandem Takedown": {
+      "categories": ["board"]
+    },
+    "Transcendent Message": {
+      "categories": ["other"],
+      "cost": []
+    },
+    "Unseal the Necropolis": {
+      "categories": ["other"]
+    },
+    "Vanquish the Weak": {
+      "categories": ["board"]
+    },
+    "Vengeant Earth": {
+      "categories": ["board"]
+    },
+    "Volcanic Spite": {
+      "categories": ["board"]
+    },
+    "Wicked Slumber": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Zhalfirin Shapecraft": {
+      "categories": ["board"]
+    }
+  }
+}

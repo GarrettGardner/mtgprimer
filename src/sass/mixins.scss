@@ -1,0 +1,24 @@
+@use "sass:map";
+@use "sass:math";
+
+@function rem-convert($pixels: 16px) {
+  @return #{math.div($pixels, 16px)}rem;
+}
+
+$breakpoints: (
+  "mobile": 576px,
+  "tablet": 768px,
+  "desktop": 992px,
+  "wide": 1200px,
+  "ultrawide": 1440px,
+);
+
+@mixin breakpoint($breakpoint: "tablet", $direction: "min-width") {
+  @if map.has-key($breakpoints, $breakpoint) {
+    @media only screen and ($direction: rem-convert(map.get($breakpoints, $breakpoint))) {
+      @content;
+    }
+  } @else {
+    @warn "Map value could not be retrieved: `#{$breakpoint}`.";
+  }
+}

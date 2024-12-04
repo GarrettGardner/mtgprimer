@@ -1,0 +1,99 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Akroan Crusader": {
+      "categories": ["default"]
+    },
+    "Ash Zealot": {
+      "categories": ["default"]
+    },
+    "Assemble the Legion": {
+      "categories": ["granted"]
+    },
+    "Chandra, Flamecaller": {
+      "categories": ["granted"]
+    },
+    "Clutch of Currents": {
+      "categories": ["granted"]
+    },
+    "Domri Rade": {
+      "categories": ["granted"]
+    },
+    "Dragonlord Kolaghan": {
+      "categories": ["default"]
+    },
+    "Dreg Mangler": {
+      "categories": ["default"]
+    },
+    "Expedite": {
+      "categories": ["granted"]
+    },
+    "Goblin Heelcutter": {
+      "categories": ["default"]
+    },
+    "Goblin Rabblemaster": {
+      "categories": ["default"]
+    },
+    "Legion Loyalist": {
+      "categories": ["default"]
+    },
+    "Limits of Solidarity": {
+      "categories": ["granted"]
+    },
+    "Mistcutter Hydra": {
+      "categories": ["default"]
+    },
+    "Monastery Swiftspear": {
+      "categories": ["default"]
+    },
+    "Part the Waterveil": {
+      "categories": ["granted"]
+    },
+    "Reckless Bushwhacker": {
+      "categories": ["default"]
+    },
+    "Ruinous Path": {
+      "categories": ["granted"]
+    },
+    "Scab-Clan Berserker": {
+      "categories": ["default"]
+    },
+    "Scatter to the Winds": {
+      "categories": ["granted"]
+    },
+    "Soulflayer": {
+      "categories": ["default"]
+    },
+    "Stormbreath Dragon": {
+      "categories": ["default"]
+    },
+    "Stormchaser Mage": {
+      "categories": ["default"]
+    },
+    "Swift Warkite": {
+      "categories": ["default"]
+    },
+    "Tenth District Legionnaire": {
+      "categories": ["default"]
+    },
+    "Thopter Engineer": {
+      "categories": ["default"]
+    },
+    "Whip of Erebos": {
+      "categories": ["granted"]
+    },
+    "Xenagos, God of Revels": {
+      "categories": ["default"]
+    },
+    "Xenagos, the Reveler": {
+      "categories": ["granted"]
+    },
+    "Zurgo Bellstriker": {
+      "categories": ["default"]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Theme: Clerics",
+  "icon": "fas fa-heartbeat",
+  "categories": {
+    "payoffs": "Cleric Payoffs",
+    "all": "All Clerics"
+  },
+  "cards": {
+    "Angel of Destiny": {
+      "categories": ["all"]
+    },
+    "Angelheart Protector": {
+      "categories": ["all"]
+    },
+    "Archpriest of Iona": {
+      "categories": ["all"]
+    },
+    "Attended Healer": {
+      "categories": ["all"]
+    },
+    "Cleric of Chill Depths": {
+      "categories": ["all"]
+    },
+    "Cleric of Life's Bond": {
+      "categories": ["all"]
+    },
+    "Demon's Disciple": {
+      "categories": ["all"]
+    },
+    "Drana, the Last Bloodchief": {
+      "categories": ["all"]
+    },
+    "Expedition Healer": {
+      "categories": ["all"]
+    },
+    "Kitesail Cleric": {
+      "categories": ["all"]
+    },
+    "Kor Celebrant": {
+      "categories": ["all"]
+    },
+    "Luminarch Aspirant": {
+      "categories": ["all"]
+    },
+    "Malakir Blood-Priest": {
+      "categories": ["all"]
+    },
+    "Marauding Blight-Priest": {
+      "categories": ["all"]
+    },
+    "Nullpriest of Oblivion": {
+      "categories": ["all"]
+    },
+    "Orah, Skyclave Hierophant": {
+      "categories": ["all"]
+    },
+    "Relic Vial": {
+      "categories": ["payoffs"]
+    },
+    "Scion of the Swarm": {
+      "categories": ["all"]
+    },
+    "Shepherd of Heroes": {
+      "categories": ["all"]
+    },
+    "Skyclave Cleric // Skyclave Basilica": {
+      "categories": ["all"]
+    },
+    "Springmantle Cleric": {
+      "categories": ["all"]
+    },
+    "Stonework Packbeast": {
+      "categories": ["all"]
+    },
+    "Taborax, Hope's Demise": {
+      "categories": ["all"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["all"]
+    },
+    "Turntimber Ascetic": {
+      "categories": ["all"]
+    },
+    "Veteran Adventurer": {
+      "categories": ["all"]
+    }
+  }
+}

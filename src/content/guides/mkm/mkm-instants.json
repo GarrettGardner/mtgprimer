@@ -1,0 +1,159 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Airtight Alibi": {
+      "categories": ["board"]
+    },
+    "Archdruid's Charm": {
+      "categories": ["board"]
+    },
+    "Assassin's Trophy": {
+      "categories": ["board"]
+    },
+    "Auspicious Arrival": {
+      "categories": ["board"]
+    },
+    "Behind the Mask": {
+      "categories": ["board"]
+    },
+    "Burden of Proof": {
+      "categories": ["board"]
+    },
+    "Caught Red-Handed": {
+      "categories": ["board"]
+    },
+    "Cease // Desist (Cease)": {
+      "categories": ["other"]
+    },
+    "Deduce": {
+      "categories": ["other"]
+    },
+    "Demand Answers": {
+      "categories": ["other"]
+    },
+    "Doorkeeper Thrull": {
+      "categories": ["board"]
+    },
+    "Drag the Canal": {
+      "categories": ["board"]
+    },
+    "Eliminate the Impossible": {
+      "categories": ["board"]
+    },
+    "Expose the Culprit": {
+      "categories": ["board"]
+    },
+    "Fae Flight": {
+      "categories": ["board"]
+    },
+    "Fanatical Strength": {
+      "categories": ["board"]
+    },
+    "Felonious Rage": {
+      "categories": ["board"]
+    },
+    "Flotsam // Jetsam (Flotsam)": {
+      "categories": ["other"]
+    },
+    "Fuss // Bother (Fuss)": {
+      "categories": ["board"]
+    },
+    "Galvanize": {
+      "categories": ["board"]
+    },
+    "Get a Leg Up": {
+      "categories": ["board"]
+    },
+    "Hustle // Bustle (Hustle)": {
+      "categories": ["board"]
+    },
+    "Illicit Masquerade": {
+      "categories": ["board"]
+    },
+    "Intrude on the Mind": {
+      "categories": ["board"]
+    },
+    "It Doesn't Add Up": {
+      "categories": ["board"]
+    },
+    "Lightning Helix": {
+      "categories": ["board"]
+    },
+    "Long Goodbye": {
+      "categories": ["board"]
+    },
+    "Lost in the Maze": {
+      "categories": ["board"]
+    },
+    "Make Your Move": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "No More Lies": {
+      "categories": ["counterspell"]
+    },
+    "Not on My Watch": {
+      "categories": ["board"]
+    },
+    "Officious Interrogation": {
+      "categories": ["other"]
+    },
+    "On the Job": {
+      "categories": ["board"]
+    },
+    "Out Cold": {
+      "categories": ["board"]
+    },
+    "Outrageous Robbery": {
+      "categories": ["other"]
+    },
+    "Presumed Dead": {
+      "categories": ["board"]
+    },
+    "Reasonable Doubt": {
+      "categories": ["board", "counterspell"]
+    },
+    "Reenact the Crime": {
+      "categories": ["board"]
+    },
+    "Repulsive Mutation": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Slice from the Shadows": {
+      "categories": ["board"]
+    },
+    "Soul Enervation": {
+      "categories": ["board"]
+    },
+    "Sudden Setback": {
+      "categories": ["board"]
+    },
+    "The Chase Is On": {
+      "categories": ["board"]
+    },
+    "Toxin Analysis": {
+      "categories": ["board"]
+    },
+    "Treacherous Greed": {
+      "categories": ["other"]
+    },
+    "Unauthorized Exit": {
+      "categories": ["board"]
+    },
+    "Urgent Necropsy": {
+      "categories": ["board"]
+    }
+  }
+}

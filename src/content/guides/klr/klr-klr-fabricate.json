@@ -1,0 +1,79 @@
+{
+  "name": "Mechanic: Fabricate/Servos",
+  "icon": "fas fa-robot",
+  "categories": {
+    "all": "All Fabricate Cards",
+    "servo": "Servo Cards"
+  },
+  "cards": {
+    "Aether Chaser": {
+      "categories": ["servo"]
+    },
+    "Aether Inspector": {
+      "categories": ["servo"]
+    },
+    "Aether Poisoner": {
+      "categories": ["servo"]
+    },
+    "Aether Swooper": {
+      "categories": ["servo"]
+    },
+    "Angel of Invention": {
+      "categories": ["all"]
+    },
+    "Animation Module": {
+      "categories": ["servo"]
+    },
+    "Cogworker's Puzzleknot": {
+      "categories": ["servo"]
+    },
+    "Countless Gears Renegade": {
+      "categories": ["servo"]
+    },
+    "Glint-Sleeve Artisan": {
+      "categories": ["all"]
+    },
+    "Hidden Stockpile": {
+      "categories": ["servo"]
+    },
+    "Highspire Artisan": {
+      "categories": ["all"]
+    },
+    "Marionette Master": {
+      "categories": ["all"]
+    },
+    "Master Trinketeer": {
+      "categories": ["servo"]
+    },
+    "Maulfist Squad": {
+      "categories": ["all"]
+    },
+    "Oviya Pashiri, Sage Lifecrafter": {
+      "categories": ["servo"]
+    },
+    "Peema Outrider": {
+      "categories": ["all"]
+    },
+    "Propeller Pioneer": {
+      "categories": ["all"]
+    },
+    "Servo Exhibition": {
+      "categories": ["servo"]
+    },
+    "Servo Schematic": {
+      "categories": ["servo"]
+    },
+    "Sly Requisitioner": {
+      "categories": ["servo"]
+    },
+    "Sram's Expertise": {
+      "categories": ["servo"]
+    },
+    "Visionary Augmenter": {
+      "categories": ["all"]
+    },
+    "Weaponcraft Enthusiast": {
+      "categories": ["all"]
+    }
+  }
+}

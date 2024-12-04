@@ -1,0 +1,135 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aetherspouts": {
+      "categories": ["board"]
+    },
+    "Back to Nature": {
+      "categories": ["board"]
+    },
+    "Blastfire Bolt": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Chord of Calling": {
+      "categories": ["board"]
+    },
+    "Chronostutter": {
+      "categories": ["board"]
+    },
+    "Congregate": {
+      "categories": ["board"]
+    },
+    "Crowd's Favor": {
+      "categories": ["board"]
+    },
+    "Devouring Light": {
+      "categories": ["board"]
+    },
+    "Dissipate": {
+      "categories": ["counterspell"]
+    },
+    "Divine Verdict": {
+      "categories": ["board"]
+    },
+    "Ephemeral Shields": {
+      "categories": ["board"]
+    },
+    "Flesh to Dust": {
+      "categories": ["board"]
+    },
+    "Gather Courage": {
+      "categories": ["board"]
+    },
+    "Heat Ray": {
+      "categories": ["board"]
+    },
+    "Hunter's Ambush": {
+      "categories": ["board"]
+    },
+    "Hushwing Gryff": {
+      "categories": ["board"]
+    },
+    "Hydrosurge": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Jace's Ingenuity": {
+      "categories": ["board"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Meditation Puzzle": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Necrobite": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Peel from Reality": {
+      "categories": ["board"]
+    },
+    "Pillar of Light": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Polymorphist's Jest": {
+      "categories": ["board"]
+    },
+    "Quickling": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Ranger's Guile": {
+      "categories": ["board"]
+    },
+    "Sanctified Charge": {
+      "categories": ["board"]
+    },
+    "Seismic Strike": {
+      "categories": ["board"]
+    },
+    "Shrapnel Blast": {
+      "categories": ["board"]
+    },
+    "Statute of Denial": {
+      "categories": ["counterspell"]
+    },
+    "Stoke the Flames": {
+      "categories": ["board"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Turn to Frog": {
+      "categories": ["board"]
+    },
+    "Ulcerate": {
+      "categories": ["board"]
+    },
+    "Unmake the Graves": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Aligned Hedron Network": {
+      "categories": ["boardwipe"]
+    },
+    "Blighted Fen": {
+      "categories": ["removal"]
+    },
+    "Blighted Gorge": {
+      "categories": ["removal"]
+    },
+    "Boiling Earth": {
+      "categories": ["boardwipe"]
+    },
+    "Bone Splinters": {
+      "categories": ["removal"]
+    },
+    "Brutal Expulsion": {
+      "categories": ["removal", "bounce"]
+    },
+    "Clutch of Currents": {
+      "categories": ["bounce"]
+    },
+    "Complete Disregard": {
+      "categories": ["removal"]
+    },
+    "Demon's Grasp": {
+      "categories": ["removal"]
+    },
+    "Exert Influence": {
+      "categories": ["removal"]
+    },
+    "Gideon's Reproach": {
+      "categories": ["removal"]
+    },
+    "Grip of Desolation": {
+      "categories": ["removal"]
+    },
+    "Gruesome Slaughter": {
+      "categories": ["removal"]
+    },
+    "Murk Strider": {
+      "categories": ["bounce"]
+    },
+    "Ob Nixilis Reignited": {
+      "categories": ["removal"]
+    },
+    "Outnumber": {
+      "categories": ["removal"]
+    },
+    "Planar Outburst": {
+      "categories": ["boardwipe"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Processor Assault": {
+      "categories": ["removal"]
+    },
+    "Quarantine Field": {
+      "categories": ["removal"]
+    },
+    "Radiant Flames": {
+      "categories": ["boardwipe"]
+    },
+    "Reclaiming Vines": {
+      "categories": ["other"]
+    },
+    "Rising Miasma": {
+      "categories": ["boardwipe"]
+    },
+    "Roil Spout": {
+      "categories": ["bounce"]
+    },
+    "Roil's Retribution": {
+      "categories": ["removal"]
+    },
+    "Rolling Thunder": {
+      "categories": ["removal"]
+    },
+    "Ruinous Path": {
+      "categories": ["removal"]
+    },
+    "Scour from Existence": {
+      "categories": ["removal"]
+    },
+    "Serpentine Spike": {
+      "categories": ["removal"]
+    },
+    "Sheer Drop": {
+      "categories": ["removal"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["removal"]
+    },
+    "Stasis Snare": {
+      "categories": ["removal"]
+    },
+    "Stonefury": {
+      "categories": ["removal"]
+    },
+    "Tightening Coils": {
+      "categories": ["other"]
+    },
+    "Titan's Presence": {
+      "categories": ["removal"]
+    },
+    "Touch of the Void": {
+      "categories": ["removal"]
+    },
+    "Ulamog, the Ceaseless Hunger": {
+      "categories": ["removal"]
+    },
+    "Unnatural Aggression": {
+      "categories": ["removal"]
+    },
+    "Volcanic Upheaval": {
+      "categories": ["other"]
+    },
+    "Wasteland Strangler": {
+      "categories": ["removal"]
+    }
+  }
+}

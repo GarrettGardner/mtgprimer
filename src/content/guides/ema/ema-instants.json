@@ -1,0 +1,128 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Annihilate": {
+      "categories": ["board"]
+    },
+    "Brainstorm": {
+      "categories": ["other"]
+    },
+    "Carbonize": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Daze": {
+      "categories": ["counterspell"]
+    },
+    "Desperate Ravings": {
+      "categories": ["other"]
+    },
+    "Dream Twist": {
+      "categories": ["other"]
+    },
+    "Dualcaster Mage": {
+      "categories": ["board"]
+    },
+    "Enlightened Tutor": {
+      "categories": ["other"]
+    },
+    "Entomb": {
+      "categories": ["other"]
+    },
+    "Eyeblight's Ending": {
+      "categories": ["board"]
+    },
+    "Fact or Fiction": {
+      "categories": ["other"]
+    },
+    "Fog": {
+      "categories": ["other"]
+    },
+    "Force of Will": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Humble": {
+      "categories": ["board"]
+    },
+    "Hydroblast": {
+      "categories": ["board", "counterspell"]
+    },
+    "Invigorate": {
+      "categories": ["board"]
+    },
+    "Malicious Affliction": {
+      "categories": ["board"]
+    },
+    "Memory Lapse": {
+      "categories": ["counterspell"]
+    },
+    "Mystical Tutor": {
+      "categories": ["other"]
+    },
+    "Nature's Claim": {
+      "categories": ["other"]
+    },
+    "Oona's Grace": {
+      "categories": ["other"]
+    },
+    "Price of Progress": {
+      "categories": ["other"]
+    },
+    "Pyroblast": {
+      "categories": ["board", "counterspell"]
+    },
+    "Pyrokinesis": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Rally the Peasants": {
+      "categories": ["board"]
+    },
+    "Second Thoughts": {
+      "categories": ["board"]
+    },
+    "Shelter": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["board"]
+    },
+    "Sylvan Might": {
+      "categories": ["board"]
+    },
+    "Thunderclap Wyvern": {
+      "categories": ["board"]
+    },
+    "Tidal Wave": {
+      "categories": ["board"]
+    },
+    "Tragic Slip": {
+      "categories": ["board"]
+    },
+    "Unexpectedly Absent": {
+      "categories": ["board"]
+    },
+    "Vampiric Tutor": {
+      "categories": ["other"]
+    },
+    "Whitemane Lion": {
+      "categories": ["board"]
+    },
+    "Zealous Persecution": {
+      "categories": ["board"]
+    }
+  }
+}

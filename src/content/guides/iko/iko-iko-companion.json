@@ -1,0 +1,15 @@
+{
+  "name": "Mechanic: Companion",
+  "icon": "fas fa-paw",
+  "cards": {
+    "Gyruda, Doom of Depths": {},
+    "Jegantha, the Wellspring": {},
+    "Kaheera, the Orphanguard": {},
+    "Lurrus of the Dream-Den": {},
+    "Lutri, the Spellchaser": {},
+    "Obosh, the Preypiercer": {},
+    "Umori, the Collector": {},
+    "Yorion, Sky Nomad": {},
+    "Zirda, the Dawnwaker": {}
+  }
+}

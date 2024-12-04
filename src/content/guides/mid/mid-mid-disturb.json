@@ -1,0 +1,89 @@
+{
+  "name": "Mechanic: Disturb",
+  "icon": "fas fa-ghost",
+  "categories": {
+    "disturb": "Disturb",
+    "payoff": "Payoffs",
+    "hate": "Hate Cards"
+  },
+  "cards": {
+    "Baithook Angler // Hook-Haunt Drifter": {
+      "categories": ["disturb"]
+    },
+    "Beloved Beggar // Generous Soul": {
+      "categories": ["disturb"]
+    },
+    "Chaplain of Alms // Chapel Shieldgeist": {
+      "categories": ["disturb"]
+    },
+    "Covert Cutpurse // Covetous Geist": {
+      "categories": ["disturb"]
+    },
+    "Dennick, Pious Apprentice // Dennick, Pious Apparition": {
+      "categories": ["disturb"]
+    },
+    "Devoted Grafkeeper // Departed Soulkeeper": {
+      "categories": ["disturb", "payoff"]
+    },
+    "Galedrifter // Waildrifter": {
+      "categories": ["disturb"]
+    },
+    "Graveyard Trespasser // Graveyard Glutton": {
+      "categories": ["hate"]
+    },
+    "Heirloom Mirror // Inherited Fiend": {
+      "categories": ["hate"]
+    },
+    "Lord of the Forsaken": {
+      "categories": ["payoff"]
+    },
+    "Lunarch Veteran // Luminous Phantom": {
+      "categories": ["disturb"]
+    },
+    "Malevolent Hermit // Benevolent Geist": {
+      "categories": ["disturb"]
+    },
+    "Mourning Patrol // Morning Apparition": {
+      "categories": ["disturb"]
+    },
+    "Old Stickfingers": {
+      "categories": ["payoff"]
+    },
+    "Ominous Roost": {
+      "categories": ["payoff"]
+    },
+    "Overwhelmed Archivist // Archive Haunt": {
+      "categories": ["disturb"]
+    },
+    "Patrician Geist": {
+      "categories": ["payoff"]
+    },
+    "Phantom Carriage": {
+      "categories": ["payoff"]
+    },
+    "Rootcoil Creeper": {
+      "categories": ["payoff"]
+    },
+    "Rotten Reunion": {
+      "categories": ["hate"]
+    },
+    "Shipwreck Sifters": {
+      "categories": ["payoff"]
+    },
+    "Soul-Guide Gryff": {
+      "categories": ["hate"]
+    },
+    "Sungold Sentinel": {
+      "categories": ["hate"]
+    },
+    "Thraben Exorcism": {
+      "categories": ["hate"]
+    },
+    "Unblinking Observer": {
+      "categories": ["payoff"]
+    },
+    "Willow Geist": {
+      "categories": ["payoff"]
+    }
+  }
+}

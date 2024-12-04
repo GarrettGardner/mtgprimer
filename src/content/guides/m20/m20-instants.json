@@ -1,0 +1,123 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Gust": {
+      "categories": ["board", "counterspell"]
+    },
+    "Anticipate": {
+      "categories": ["other"]
+    },
+    "Befuddle": {
+      "categories": ["board"]
+    },
+    "Bladebrand": {
+      "categories": ["board"]
+    },
+    "Bone to Ash": {
+      "categories": ["counterspell"]
+    },
+    "Brineborn Cutthroat": {
+      "categories": ["board"]
+    },
+    "Brought Back": {
+      "categories": ["board"]
+    },
+    "Chandra's Outrage": {
+      "categories": ["board"]
+    },
+    "Convolute": {
+      "categories": ["counterspell"]
+    },
+    "Disenchant": {
+      "categories": ["board"]
+    },
+    "Disfigure": {
+      "categories": ["board"]
+    },
+    "Feral Invocation": {
+      "categories": ["board"]
+    },
+    "Flame Sweep": {
+      "categories": ["board"]
+    },
+    "Fry": {
+      "categories": ["board"]
+    },
+    "Gods Willing": {
+      "categories": ["board"]
+    },
+    "Growth Cycle": {
+      "categories": ["board"]
+    },
+    "Infuriate": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Masterful Replication": {
+      "categories": ["board"]
+    },
+    "Might of the Masses": {
+      "categories": ["board"]
+    },
+    "Moment of Heroism": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Natural End": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Nightpack Ambusher": {
+      "categories": ["board"]
+    },
+    "Noxious Grasp": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Pulse of Murasa": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Repeated Reverberation": {
+      "categories": ["board"]
+    },
+    "Shared Summons": {
+      "categories": ["other"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Spectral Sailor": {
+      "categories": ["board"]
+    },
+    "Tale's End": {
+      "categories": ["counterspell"]
+    },
+    "Uncaged Fury": {
+      "categories": ["board"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    },
+    "Veil of Summer": {
+      "categories": ["board"]
+    }
+  }
+}

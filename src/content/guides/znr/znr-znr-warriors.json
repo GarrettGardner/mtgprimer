@@ -1,0 +1,103 @@
+{
+  "name": "Theme: Warriors",
+  "icon": "fas fa-shield-alt",
+  "categories": {
+    "payoffs": "Warrior Payoffs",
+    "all": "All Warriors"
+  },
+  "cards": {
+    "Akiri, Fearless Voyager": {
+      "categories": ["all"]
+    },
+    "Akoum Warrior // Akoum Teeth": {
+      "categories": ["all"]
+    },
+    "Cliffhaven Sell-Sword": {
+      "categories": ["all"]
+    },
+    "Dauntless Survivor": {
+      "categories": ["all"]
+    },
+    "Emeria Captain": {
+      "categories": ["all"]
+    },
+    "Emeria's Call // Emeria, Shattered Skyclave": {
+      "categories": ["all"]
+    },
+    "Expedition Champion": {
+      "categories": ["all"]
+    },
+    "Fireblade Charger": {
+      "categories": ["all"]
+    },
+    "Goma Fada Vanguard": {
+      "categories": ["payoffs", "all"]
+    },
+    "Grotag Bug-Catcher": {
+      "categories": ["all"]
+    },
+    "Highborn Vampire": {
+      "categories": ["all"]
+    },
+    "Kabira Outrider": {
+      "categories": ["all"]
+    },
+    "Kargan Intimidator": {
+      "categories": ["payoffs", "all"]
+    },
+    "Kargan Warleader": {
+      "categories": ["all", "payoffs"]
+    },
+    "Kor Blademaster": {
+      "categories": ["payoffs", "all"]
+    },
+    "Legion Angel": {
+      "categories": ["all"]
+    },
+    "Moraug, Fury of Akoum": {
+      "categories": ["all"]
+    },
+    "Murasa Brute": {
+      "categories": ["all"]
+    },
+    "Paired Tactician": {
+      "categories": ["payoffs", "all"]
+    },
+    "Relic Axe": {
+      "categories": ["payoffs"]
+    },
+    "Resolute Strike": {
+      "categories": ["payoffs"]
+    },
+    "Scorch Rider": {
+      "categories": ["all"]
+    },
+    "Sea Gate Banneret": {
+      "categories": ["all"]
+    },
+    "Sea Gate Colossus": {
+      "categories": ["all"]
+    },
+    "Shatterskull Charger": {
+      "categories": ["all"]
+    },
+    "Shatterskull Minotaur": {
+      "categories": ["all"]
+    },
+    "Squad Commander": {
+      "categories": ["all"]
+    },
+    "Stonework Packbeast": {
+      "categories": ["all"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["all"]
+    },
+    "Tazri, Beacon of Unity": {
+      "categories": ["all"]
+    },
+    "Veteran Adventurer": {
+      "categories": ["all"]
+    }
+  }
+}

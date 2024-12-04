@@ -1,0 +1,181 @@
+{
+  "name": "Theme: Mascot Tokens/Tribal",
+  "icon": "fas fa-bullhorn",
+  "categories": {
+    "inkling": "Inkling Tokens/Payoffs",
+    "spirit": "Spirit Tokens/Tribal/Payoffs",
+    "elemental": "Elemental Tokens/Tribal/Payoffs",
+    "fractal": "Fractal Tokens/Payoffs",
+    "pest": "Pest Tokens/Tribal/Payoffs"
+  },
+  "cards": {
+    "Ageless Guardian": {
+      "categories": ["spirit"]
+    },
+    "Beledros Witherbloom": {
+      "categories": ["pest"]
+    },
+    "Biomathematician": {
+      "categories": ["fractal"]
+    },
+    "Blex, Vexing Pest (Blex, Vexing Pest // Search for Blex)": {
+      "categories": ["pest"]
+    },
+    "Blood Age General": {
+      "categories": ["spirit"]
+    },
+    "Blot Out the Sky": {
+      "categories": ["inkling"]
+    },
+    "Body of Research": {
+      "categories": ["fractal"]
+    },
+    "Callous Bloodmage": {
+      "categories": ["pest"]
+    },
+    "Containment Breach": {
+      "categories": ["pest"]
+    },
+    "Dramatic Finale": {
+      "categories": ["inkling"]
+    },
+    "Elemental Expressionist": {
+      "categories": ["elemental"]
+    },
+    "Elemental Masterpiece": {
+      "categories": ["elemental"]
+    },
+    "Elemental Summoning": {
+      "categories": ["elemental"]
+    },
+    "Emergent Sequence": {
+      "categories": ["fractal"]
+    },
+    "Fractal Summoning": {
+      "categories": ["fractal"]
+    },
+    "Fuming Effigy": {
+      "categories": ["spirit"]
+    },
+    "Grinning Ignus": {
+      "categories": ["elemental"]
+    },
+    "Hofri Ghostforge": {
+      "categories": ["spirit"]
+    },
+    "Hunt for Specimens": {
+      "categories": ["pest"]
+    },
+    "Illuminate History": {
+      "categories": ["spirit"]
+    },
+    "Illustrious Historian": {
+      "categories": ["spirit"]
+    },
+    "Inkling Summoning": {
+      "categories": ["inkling"]
+    },
+    "Kasmina, Enigma Sage": {
+      "categories": ["fractal"]
+    },
+    "Kianne, Dean of Substance (Kianne, Dean of Substance // Imbraham, Dean of Theory)": {
+      "categories": ["fractal"]
+    },
+    "Leyline Invocation": {
+      "categories": ["fractal"]
+    },
+    "Lorehold Apprentice": {
+      "categories": ["spirit"]
+    },
+    "Lorehold Command": {
+      "categories": ["spirit"]
+    },
+    "Lorehold Excavation": {
+      "categories": ["spirit"]
+    },
+    "Magma Opus": {
+      "categories": ["elemental"]
+    },
+    "Make Your Mark": {
+      "categories": ["spirit"]
+    },
+    "Manifestation Sage": {
+      "categories": ["fractal"]
+    },
+    "Mascot Exhibition": {
+      "categories": ["spirit", "inkling", "elemental"]
+    },
+    "Multiple Choice": {
+      "categories": ["elemental"]
+    },
+    "Pest Summoning": {
+      "categories": ["pest"]
+    },
+    "Pestilent Cauldron (Pestilent Cauldron // Restorative Burst)": {
+      "categories": ["pest"]
+    },
+    "Pilgrim of the Ages": {
+      "categories": ["spirit"]
+    },
+    "Pillardrop Rescuer": {
+      "categories": ["spirit"]
+    },
+    "Pillardrop Warden": {
+      "categories": ["spirit"]
+    },
+    "Professor of Zoomancy": {
+      "categories": ["pest"]
+    },
+    "Quintorius, Field Historian": {
+      "categories": ["spirit"]
+    },
+    "Reduce to Memory": {
+      "categories": ["spirit"]
+    },
+    "Resculpt": {
+      "categories": ["elemental"]
+    },
+    "Returned Pastcaller": {
+      "categories": ["spirit"]
+    },
+    "Sedgemoor Witch": {
+      "categories": ["pest"]
+    },
+    "Serpentine Curve": {
+      "categories": ["fractal"]
+    },
+    "Shadrix Silverquill": {
+      "categories": ["inkling"]
+    },
+    "Spirit Summoning": {
+      "categories": ["spirit"]
+    },
+    "Stonebinder's Familiar": {
+      "categories": ["spirit"]
+    },
+    "Stonebound Mentor": {
+      "categories": ["spirit"]
+    },
+    "Stonerise Spirit": {
+      "categories": ["spirit"]
+    },
+    "Strict Proctor": {
+      "categories": ["spirit"]
+    },
+    "Tend the Pests": {
+      "categories": ["pest"]
+    },
+    "Umbral Juke": {
+      "categories": ["inkling"]
+    },
+    "Valentin, Dean of the Vein (Valentin, Dean of the Vein // Lisette, Dean of the Root)": {
+      "categories": ["pest"]
+    },
+    "Venerable Warsinger": {
+      "categories": ["spirit"]
+    },
+    "Will, Scholar of Frost (Rowan, Scholar of Sparks // Will, Scholar of Frost)": {
+      "categories": ["elemental"]
+    }
+  }
+}

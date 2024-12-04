@@ -1,0 +1,178 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrupt Decay": {
+      "categories": ["board"]
+    },
+    "Advent of the Wurm": {
+      "categories": ["board"]
+    },
+    "Aethermage's Touch": {
+      "categories": ["board"]
+    },
+    "Aethertow": {
+      "categories": ["board"]
+    },
+    "Agony Warp": {
+      "categories": ["board"]
+    },
+    "Ancient Grudge": {
+      "categories": ["board"]
+    },
+    "Auger Spree": {
+      "categories": ["board"]
+    },
+    "Baloth Cage Trap": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Banishing Stroke": {
+      "categories": ["board"]
+    },
+    "Cackling Counterpart": {
+      "categories": ["board"]
+    },
+    "Chandra's Outrage": {
+      "categories": ["board"]
+    },
+    "Cower in Fear": {
+      "categories": ["board"]
+    },
+    "Crippling Chill": {
+      "categories": ["board"]
+    },
+    "Cyclonic Rift": {
+      "categories": ["board"]
+    },
+    "Deputy of Acquittals": {
+      "categories": ["board"]
+    },
+    "Druid's Deliverance": {
+      "categories": ["board"]
+    },
+    "Dynacharge": {
+      "categories": ["board"]
+    },
+    "Eyes in the Skies": {
+      "categories": ["board"]
+    },
+    "Familiar's Ruse": {
+      "categories": ["counterspell"]
+    },
+    "Forbidden Alchemy": {
+      "categories": ["other"]
+    },
+    "Ghor-Clan Rampager": {
+      "categories": ["board"],
+      "cost": ["r", "g"]
+    },
+    "Ghostly Flicker": {
+      "categories": ["board"]
+    },
+    "Gifts Ungiven": {
+      "categories": ["other"]
+    },
+    "Graceful Reprieve": {
+      "categories": ["board"]
+    },
+    "Grisly Spectacle": {
+      "categories": ["board"]
+    },
+    "Izzet Charm": {
+      "categories": ["board"]
+    },
+    "Magma Jet": {
+      "categories": ["board"]
+    },
+    "Might of Old Krosa": {
+      "categories": ["board"]
+    },
+    "Momentary Blink": {
+      "categories": ["board"]
+    },
+    "Mystic Genesis": {
+      "categories": ["counterspell"]
+    },
+    "Mystical Teachings": {
+      "categories": ["other"]
+    },
+    "Opportunity": {
+      "categories": ["other"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Pitfall Trap": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Putrefy": {
+      "categories": ["board"]
+    },
+    "Pyrewild Shaman": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Restoration Angel": {
+      "categories": ["board"]
+    },
+    "Rewind": {
+      "categories": ["counterspell"]
+    },
+    "Rootborn Defenses": {
+      "categories": ["board"]
+    },
+    "Rubblebelt Maaka": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Slaughterhorn": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Snapcaster Mage": {
+      "categories": ["board"]
+    },
+    "Soul Manipulation": {
+      "categories": ["counterspell"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Sphinx's Revelation": {
+      "categories": ["other"]
+    },
+    "Spire Monitor": {
+      "categories": ["board"]
+    },
+    "Strength in Numbers": {
+      "categories": ["board"]
+    },
+    "Summoning Trap": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Sundering Growth": {
+      "categories": ["board"]
+    },
+    "Terminate": {
+      "categories": ["board"]
+    },
+    "Thunderous Wrath": {
+      "categories": ["board"]
+    },
+    "Vanish into Memory": {
+      "categories": ["board"]
+    },
+    "Venser, Shaper Savant": {
+      "categories": ["board"]
+    }
+  }
+}

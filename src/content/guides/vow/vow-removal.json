@@ -1,0 +1,146 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["removal"]
+    },
+    "Aim for the Head": {
+      "categories": ["removal"]
+    },
+    "Alchemist's Retrieval": {
+      "categories": ["bounce"]
+    },
+    "Ballista Watcher // Ballista Wielder": {
+      "categories": ["removal"]
+    },
+    "Binding Geist // Spectral Binding": {
+      "categories": ["other"]
+    },
+    "Bleed Dry": {
+      "categories": ["removal"]
+    },
+    "Bloodtithe Harvester": {
+      "categories": ["removal"]
+    },
+    "By Invitation Only": {
+      "categories": ["boardwipe"]
+    },
+    "Cemetery Desecrator": {
+      "categories": ["removal"]
+    },
+    "Chill of the Grave": {
+      "categories": ["temporary"]
+    },
+    "Circle of Confinement": {
+      "categories": ["removal"]
+    },
+    "Consuming Tide": {
+      "categories": ["bounce", "boardwipe"]
+    },
+    "Crushing Canopy": {
+      "categories": ["removal"]
+    },
+    "Dreamshackle Geist": {
+      "categories": ["temporary"]
+    },
+    "End the Festivities": {
+      "categories": ["boardwipe"]
+    },
+    "Fear of Death": {
+      "categories": ["other"]
+    },
+    "Fierce Retribution": {
+      "categories": ["removal"]
+    },
+    "Flame-Blessed Bolt": {
+      "categories": ["removal"]
+    },
+    "Gift of Fangs": {
+      "categories": ["removal"]
+    },
+    "Grisly Ritual": {
+      "categories": ["removal"]
+    },
+    "Henrika Domnathi // Henrika, Infernal Seer": {
+      "categories": ["removal"]
+    },
+    "Hero's Downfall": {
+      "categories": ["removal"]
+    },
+    "Hullbreaker Horror": {
+      "categories": ["bounce"]
+    },
+    "Lantern Flare": {
+      "categories": ["removal"]
+    },
+    "Lunar Rejection": {
+      "categories": ["bounce"]
+    },
+    "Markov Retribution": {
+      "categories": ["removal"]
+    },
+    "Nebelgast Beguiler": {
+      "categories": ["temporary"]
+    },
+    "Olivia's Attendants": {
+      "categories": ["removal"]
+    },
+    "Parasitic Grasp": {
+      "categories": ["removal"]
+    },
+    "Path of Peril": {
+      "categories": ["boardwipe"]
+    },
+    "Piercing Light": {
+      "categories": ["removal"]
+    },
+    "Pyre Spawn": {
+      "categories": ["removal"]
+    },
+    "Rending Flame": {
+      "categories": ["removal"]
+    },
+    "Rot-Tide Gargantua": {
+      "categories": ["removal"]
+    },
+    "Savior of Ollenbock": {
+      "categories": ["removal"]
+    },
+    "Sawblade Slinger": {
+      "categories": ["removal"]
+    },
+    "Sigarda's Imprisonment": {
+      "categories": ["removal"]
+    },
+    "Skulking Killer": {
+      "categories": ["removal"]
+    },
+    "Stensia Uprising": {
+      "categories": ["removal"]
+    },
+    "Toxrill, the Corrosive": {
+      "categories": ["boardwipe"]
+    },
+    "Valorous Stance": {
+      "categories": ["removal"]
+    },
+    "Vampires' Vengeance": {
+      "categories": ["boardwipe"]
+    },
+    "Volatile Arsonist // Dire-Strain Anarchist": {
+      "categories": ["removal"]
+    },
+    "Wolf Strike": {
+      "categories": ["removal"]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Theme: Zombie Tribal",
+  "icon": "fas fa-biohazard",
+  "categories": {
+    "zombie": "All Zombies",
+    "payoff": "Zombie Payoffs",
+    "hate": "Zombie Hate Cards"
+  },
+  "cards": {
+    "Aim for the Head": {
+      "categories": ["hate"]
+    },
+    "Archghoul of Thraben": {
+      "categories": ["payoff"]
+    },
+    "Catapult Fodder // Catapult Captain": {
+      "categories": ["zombie"]
+    },
+    "Cemetery Desecrator": {
+      "categories": ["zombie"]
+    },
+    "Chill of the Grave": {
+      "categories": ["payoff"]
+    },
+    "Cobbled Lancer": {
+      "categories": ["zombie"]
+    },
+    "Diregraf Scavenger": {
+      "categories": ["zombie"]
+    },
+    "Diver Skaab": {
+      "categories": ["zombie"]
+    },
+    "Doomed Dissenter": {
+      "categories": ["zombie"]
+    },
+    "Dying to Serve": {
+      "categories": ["payoff"]
+    },
+    "Fell Stinger": {
+      "categories": ["zombie"]
+    },
+    "Geralf, Visionary Stitcher": {
+      "categories": ["payoff"]
+    },
+    "Graf Reaver": {
+      "categories": ["zombie"]
+    },
+    "Headless Rider": {
+      "categories": ["zombie", "payoff"]
+    },
+    "Mindleech Ghoul": {
+      "categories": ["zombie"]
+    },
+    "Necroduality": {
+      "categories": ["payoff"]
+    },
+    "Overcharged Amalgam": {
+      "categories": ["zombie"]
+    },
+    "Patchwork Crawler": {
+      "categories": ["zombie"]
+    },
+    "Repository Skaab": {
+      "categories": ["zombie"]
+    },
+    "Rot-Tide Gargantua": {
+      "categories": ["zombie"]
+    },
+    "Sawblade Slinger": {
+      "categories": ["hate"]
+    },
+    "Selhoff Entomber": {
+      "categories": ["zombie"]
+    },
+    "Skull Skaab": {
+      "categories": ["zombie"]
+    },
+    "Skywarp Skaab": {
+      "categories": ["zombie"]
+    },
+    "Stitched Assistant": {
+      "categories": ["zombie"]
+    },
+    "Undead Butler": {
+      "categories": ["zombie"]
+    },
+    "Unhallowed Phalanx": {
+      "categories": ["zombie"]
+    },
+    "Wretched Throng": {
+      "categories": ["zombie"]
+    }
+  }
+}

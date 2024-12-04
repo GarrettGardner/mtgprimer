@@ -1,0 +1,73 @@
+{
+  "name": "Theme: Sacrifice",
+  "icon": "fas fa-utensils",
+  "categories": {
+    "payoffs": "Sacrifice Payoffs",
+    "enablers": "Sacrifice Enablers"
+  },
+  "cards": {
+    "Crypt Lurker": {
+      "categories": ["enablers"]
+    },
+    "Deathbloom Thallid": {
+      "categories": ["enablers"]
+    },
+    "Dire Fleet Warmonger": {
+      "categories": ["enablers"]
+    },
+    "Fabled Passage": {
+      "categories": ["enablers"]
+    },
+    "Fungal Rebirth": {
+      "categories": ["enablers"]
+    },
+    "Goremand": {
+      "categories": ["enablers"]
+    },
+    "Havoc Jester": {
+      "categories": ["payoffs"]
+    },
+    "Heartfire Immolator": {
+      "categories": ["enablers"]
+    },
+    "Hobblefiend": {
+      "categories": ["enablers"]
+    },
+    "Liliana's Standard Bearer": {
+      "categories": ["payoffs"]
+    },
+    "Liliana's Steward": {
+      "categories": ["enablers"]
+    },
+    "Pitchburn Devils": {
+      "categories": ["enablers"]
+    },
+    "Portcullis Vine": {
+      "categories": ["enablers"]
+    },
+    "Selfless Savior": {
+      "categories": ["enablers"]
+    },
+    "Silversmote Ghoul": {
+      "categories": ["enablers"]
+    },
+    "Solemn Simulacrum": {
+      "categories": ["payoffs"]
+    },
+    "Thrashing Brontodon": {
+      "categories": ["enablers"]
+    },
+    "Traitorous Greed": {
+      "categories": ["payoffs"]
+    },
+    "Twinblade Assassins": {
+      "categories": ["payoffs"]
+    },
+    "Village Rites": {
+      "categories": ["enablers"]
+    },
+    "Witch's Cauldron": {
+      "categories": ["enablers"]
+    }
+  }
+}

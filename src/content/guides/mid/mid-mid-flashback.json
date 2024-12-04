@@ -1,0 +1,155 @@
+{
+  "name": "Mechanic: Flashback",
+  "icon": "fas fa-hand-sparkles",
+  "categories": {
+    "flashback": "Flashback",
+    "payoff": "Payoffs",
+    "hate": "Hate Cards"
+  },
+  "cards": {
+    "Abandon the Post": {
+      "categories": ["flashback"]
+    },
+    "Angelfire Ignition": {
+      "categories": ["flashback"]
+    },
+    "Arcane Infusion": {
+      "categories": ["flashback"]
+    },
+    "Can't Stay Away": {
+      "categories": ["flashback"]
+    },
+    "Corpse Cobble": {
+      "categories": ["flashback"]
+    },
+    "Crawl from the Cellar": {
+      "categories": ["flashback"]
+    },
+    "Croaking Counterpart": {
+      "categories": ["flashback"]
+    },
+    "Devoted Grafkeeper // Departed Soulkeeper": {
+      "categories": ["payoff"]
+    },
+    "Dire-Strain Rampage": {
+      "categories": ["flashback"]
+    },
+    "Diregraf Rebirth": {
+      "categories": ["flashback"]
+    },
+    "Dryad's Revival": {
+      "categories": ["flashback"]
+    },
+    "Electric Revelation": {
+      "categories": ["flashback"]
+    },
+    "Faithful Mending": {
+      "categories": ["flashback"]
+    },
+    "Galvanic Iteration": {
+      "categories": ["flashback"]
+    },
+    "Ghoulcaller's Harvest": {
+      "categories": ["flashback"]
+    },
+    "Graveyard Trespasser // Graveyard Glutton": {
+      "categories": ["hate"]
+    },
+    "Hallowed Respite": {
+      "categories": ["flashback"]
+    },
+    "Homestead Courage": {
+      "categories": ["flashback"]
+    },
+    "Hungry for More": {
+      "categories": ["flashback"]
+    },
+    "Join the Dance": {
+      "categories": ["flashback"]
+    },
+    "Lier, Disciple of the Drowned": {
+      "categories": ["payoff"]
+    },
+    "Light Up the Night": {
+      "categories": ["flashback"]
+    },
+    "Lord of the Forsaken": {
+      "categories": ["payoff"]
+    },
+    "Memory Deluge": {
+      "categories": ["flashback"]
+    },
+    "Ominous Roost": {
+      "categories": ["payoff"]
+    },
+    "Otherworldly Gaze": {
+      "categories": ["flashback"]
+    },
+    "Path to the Festival": {
+      "categories": ["flashback"]
+    },
+    "Patrician Geist": {
+      "categories": ["payoff"]
+    },
+    "Phantom Carriage": {
+      "categories": ["payoff"]
+    },
+    "Rise of the Ants": {
+      "categories": ["flashback"]
+    },
+    "Rite of Harmony": {
+      "categories": ["flashback"]
+    },
+    "Rite of Oblivion": {
+      "categories": ["flashback"]
+    },
+    "Rootcoil Creeper": {
+      "categories": ["payoff"]
+    },
+    "Rotten Reunion": {
+      "categories": ["flashback", "hate"]
+    },
+    "Sacred Fire": {
+      "categories": ["flashback"]
+    },
+    "Secrets of the Key": {
+      "categories": ["flashback"]
+    },
+    "Seize the Storm": {
+      "categories": ["flashback"]
+    },
+    "Shadowbeast Sighting": {
+      "categories": ["flashback"]
+    },
+    "Siphon Insight": {
+      "categories": ["flashback"]
+    },
+    "Soul-Guide Gryff": {
+      "categories": ["hate"]
+    },
+    "Storm the Festival": {
+      "categories": ["flashback"]
+    },
+    "Sungold Sentinel": {
+      "categories": ["hate"]
+    },
+    "Tapping at the Window": {
+      "categories": ["flashback"]
+    },
+    "Turn the Earth": {
+      "categories": ["flashback"]
+    },
+    "Unnatural Moonrise": {
+      "categories": ["flashback"]
+    },
+    "Wake to Slaughter": {
+      "categories": ["flashback"]
+    },
+    "Willow Geist": {
+      "categories": ["payoff"]
+    },
+    "Winterthorn Blessing": {
+      "categories": ["flashback"]
+    }
+  }
+}

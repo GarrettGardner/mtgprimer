@@ -1,0 +1,152 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Arc Spitter": {
+      "categories": ["removal"]
+    },
+    "Bouncer's Beatdown": {
+      "categories": ["removal"]
+    },
+    "Broken Wings": {
+      "categories": ["removal"]
+    },
+    "Brokers Charm": {
+      "categories": ["removal"]
+    },
+    "Buy Your Silence": {
+      "categories": ["removal"]
+    },
+    "Cabaretti Charm": {
+      "categories": ["removal"]
+    },
+    "Call In a Professional": {
+      "categories": ["removal"]
+    },
+    "Cleanup Crew": {
+      "categories": ["removal"]
+    },
+    "Corpse Explosion": {
+      "categories": ["boardwipe"]
+    },
+    "Deal Gone Bad": {
+      "categories": ["removal"]
+    },
+    "Depopulate": {
+      "categories": ["boardwipe"]
+    },
+    "Dusk Mangler": {
+      "categories": ["removal"]
+    },
+    "Fatal Grudge": {
+      "categories": ["removal"]
+    },
+    "Grisly Sigil": {
+      "categories": ["removal"]
+    },
+    "Hold for Ransom": {
+      "categories": ["removal"]
+    },
+    "Hostile Takeover": {
+      "categories": ["boardwipe"]
+    },
+    "Incandescent Aria": {
+      "categories": ["boardwipe"]
+    },
+    "Incriminate": {
+      "categories": ["removal"]
+    },
+    "Kill Shot": {
+      "categories": ["removal"]
+    },
+    "Knockout Blow": {
+      "categories": ["removal"]
+    },
+    "Lagrella, the Magpie": {
+      "categories": ["removal"]
+    },
+    "Light 'Em Up": {
+      "categories": ["removal"]
+    },
+    "Maestros Ascendancy": {
+      "categories": ["removal"]
+    },
+    "Murder": {
+      "categories": ["removal"]
+    },
+    "Mysterious Limousine": {
+      "categories": ["removal"]
+    },
+    "Night Clubber": {
+      "categories": ["boardwipe"]
+    },
+    "Obscura Charm": {
+      "categories": ["removal"]
+    },
+    "Ominous Parcel": {
+      "categories": ["removal"]
+    },
+    "Out of the Way": {
+      "categories": ["bounce"]
+    },
+    "Prizefight": {
+      "categories": ["removal"]
+    },
+    "Psychic Pickpocket": {
+      "categories": ["bounce"]
+    },
+    "Pyre-Sledge Arsonist": {
+      "categories": ["removal"]
+    },
+    "Raffine's Silencer": {
+      "categories": ["removal"]
+    },
+    "Ready to Rumble": {
+      "categories": ["removal"]
+    },
+    "Riveteers Charm": {
+      "categories": ["removal"]
+    },
+    "Run Out of Town": {
+      "categories": ["bounce"]
+    },
+    "Soul of Emancipation": {
+      "categories": ["removal"]
+    },
+    "Spara's Adjudicators": {
+      "categories": ["temporary"]
+    },
+    "Strangle": {
+      "categories": ["removal"]
+    },
+    "Structural Assault": {
+      "categories": ["boardwipe"]
+    },
+    "Torch Breath": {
+      "categories": ["removal"]
+    },
+    "Unleash the Inferno": {
+      "categories": ["removal"]
+    },
+    "Void Rend": {
+      "categories": ["removal"]
+    },
+    "Whack": {
+      "categories": ["removal"]
+    },
+    "Witness Protection": {
+      "categories": ["removal"]
+    },
+    "Ziatora, the Incinerator": {
+      "categories": ["removal"]
+    }
+  }
+}
