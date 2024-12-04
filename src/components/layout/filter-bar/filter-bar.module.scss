@@ -1,0 +1,180 @@
+@use "../../../sass/mixins" as *;
+
+.filterBar {
+  background: var(--color-gray) url("/images/bg/pattern-grey-wash-wall.png") repeat left top;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 rem-convert(16px);
+  position: sticky;
+  top: var(--size-header-height);
+  text-align: left;
+  z-index: 801;
+
+  @include breakpoint("desktop") {
+    padding: 0 rem-convert(32px);
+    top: 0;
+    z-index: 702;
+  }
+
+  > div {
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    display: block;
+    flex: 0 0 auto;
+    margin: rem-convert(8px) rem-convert(8px) rem-convert(8px) 0;
+    padding-right: rem-convert(8px);
+
+    > p {
+      font-size: rem-convert(12px);
+      font-weight: 700;
+      letter-spacing: rem-convert(2px);
+      line-height: 1;
+      margin-bottom: rem-convert(6px);
+      text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+      text-transform: uppercase;
+    }
+
+    label {
+      cursor: pointer;
+    }
+
+    input {
+      display: none;
+    }
+
+    > :global(.filter) {
+      display: flex;
+
+      > :global(.checkbox),
+      > :global(.radio) {
+        line-height: 1;
+        margin: rem-convert(2px) rem-convert(4px) 0 0;
+
+        &:global(.color) {
+          font-size: rem-convert(14px);
+          margin-right: rem-convert(4px);
+
+          @include breakpoint("desktop") {
+            font-size: rem-convert(18px);
+            margin-right: rem-convert(6px);
+          }
+        }
+
+        &:global(.rarity),
+        &:global(.set) {
+          font-size: rem-convert(18px);
+          margin-top: 0;
+          margin-right: rem-convert(3px);
+
+          @include breakpoint("desktop") {
+            font-size: rem-convert(24px);
+          }
+        }
+
+        &:global(.category) {
+          background-color: rgba(0, 0, 0, 0.4);
+          border-radius: rem-convert(4px);
+          font-size: rem-convert(12px);
+          line-height: 1;
+          margin-right: rem-convert(6px);
+          padding: rem-convert(3px) rem-convert(4px);
+
+          @include breakpoint("desktop") {
+            border-radius: rem-convert(6px);
+            font-size: rem-convert(13px);
+            padding: rem-convert(4px) rem-convert(6px);
+          }
+        }
+
+        > input + label {
+          opacity: 0.35;
+
+          > :global(.ss) {
+            text-shadow: 1px 1px black;
+            text-shadow:
+              1px 0 black,
+              0 1px black,
+              -1px 0 black,
+              0 -1px black;
+          }
+
+          > :global(.ms) {
+            box-shadow:
+              1px 0 black,
+              0 1px black,
+              0 -1px black,
+              -1px 0 black;
+          }
+        }
+
+        > input:checked + label {
+          opacity: 1;
+        }
+      }
+
+      > :global(.radio) {
+        > input + label {
+          opacity: 0.35;
+        }
+
+        > input:checked + label {
+          opacity: 1;
+        }
+      }
+    }
+
+    > :global(.dropdown) {
+      background-color: rgba(0, 0, 0, 0.4);
+      border-radius: rem-convert(4px);
+      margin-top: rem-convert(8px);
+      overflow: hidden;
+      position: relative;
+
+      > select {
+        appearance: none;
+        background: transparent;
+        background-image: none;
+        border: 0 none;
+        box-shadow: none;
+        color: white;
+        cursor: pointer;
+        display: block;
+        font: inherit;
+        font-size: rem-convert(12px);
+        line-height: 1.25;
+        padding: rem-convert(2px) rem-convert(16px) rem-convert(2px) rem-convert(4px);
+        width: 100%;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(14px);
+          padding: rem-convert(3px) rem-convert(32px) rem-convert(3px) rem-convert(6px);
+        }
+
+        &:focus {
+          outline: none;
+        }
+
+        > option {
+          background-color: var(--color-white);
+          color: var(--color-black);
+        }
+      }
+
+      &::after {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+        border-top: 1px solid white;
+        border-width: rem-convert(4px) rem-convert(4px) 0 rem-convert(4px);
+        content: "";
+        display: block;
+        height: 0;
+        margin-top: rem-convert(-2px);
+        pointer-events: none;
+        position: absolute;
+        right: rem-convert(4px);
+        top: 50%;
+        width: 0;
+      }
+    }
+  }
+}

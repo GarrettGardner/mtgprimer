@@ -1,0 +1,33 @@
+{
+  "name": "mtg-primer",
+  "version": "5.0.alpha",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export-format": "npx tsx src/scripts/scryfall-format.ts %npm_config_set%"
+  },
+  "dependencies": {
+    "@next/third-parties": "^15.0.3",
+    "next": "^15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "axios": "^1.7.9",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "fs-extra": "^11.2.0",
+    "prettier": "^3.4.2",
+    "sass": "^1.81.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5"
+  }
+}

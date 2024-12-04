@@ -1,0 +1,69 @@
+@use "../../../sass/mixins" as *;
+
+.header {
+  align-items: center;
+  background: var(--color-black) url("/images/bg/pattern-asfalt.png") repeat center center;
+  display: flex;
+  height: var(--size-header-height);
+  left: 0;
+  justify-content: center;
+  padding: rem-convert(4px) rem-convert(16px);
+  position: sticky;
+  top: 0;
+  transition: 0.35s ease transform;
+  width: 100%;
+  z-index: 801;
+
+  @include breakpoint("desktop") {
+    display: none;
+  }
+
+  :global(.menuCollapsed) & {
+    transform: translate3D(var(--size-menu-width), 0, 0);
+  }
+
+  :global(.logo) {
+    width: rem-convert(120px);
+  }
+
+  :global(.toggle) {
+    appearance: none;
+    background: none;
+    border: 0 none;
+    color: var(--color-white);
+    cursor: pointer;
+    display: block;
+    font-size: rem-convert(24px);
+    left: rem-convert(12px);
+    line-height: 1;
+    position: fixed;
+    text-decoration: none;
+    top: rem-convert(12px);
+    transform: translate3D(0, 0, 0);
+    transition:
+      color 0.25s ease,
+      transform 0.35s ease;
+    z-index: 802;
+
+    &:focus,
+    &:hover {
+      color: var(--color-highlight);
+    }
+
+    :global(.open) {
+      display: block;
+
+      body.js-state-menu-open & {
+        display: none;
+      }
+    }
+
+    :global(.close) {
+      display: none;
+
+      body.js-state-menu-open & {
+        display: block;
+      }
+    }
+  }
+}

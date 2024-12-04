@@ -1,0 +1,62 @@
+@use "../../../sass/mixins" as *;
+
+.button {
+  background-color: rgba(0, 0, 0, 0.65);
+  border-radius: rem-convert(4px);
+  color: var(--color-white);
+  cursor: pointer;
+  display: inline-block;
+  font-size: rem-convert(18px);
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1;
+  padding: rem-convert(8px) rem-convert(16px);
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.25s ease;
+
+  @include breakpoint("desktop") {
+    border-radius: rem-convert(6px);
+    font-size: rem-convert(22px);
+    padding: rem-convert(12px) rem-convert(24px);
+  }
+
+  i {
+    margin-left: rem-convert(4px);
+    margin-bottom: rem-convert(3px);
+    font-size: rem-convert(14px);
+    vertical-align: middle;
+
+    &.left {
+      margin-left: 0;
+      margin-right: rem-convert(4px);
+    }
+  }
+
+  &--full {
+    display: block;
+  }
+
+  &--size-lg {
+    border-radius: rem-convert(8px);
+    font-size: rem-convert(24px);
+    padding: rem-convert(16px) rem-convert(32px);
+
+    @include breakpoint("desktop") {
+      border-radius: rem-convert(12px);
+      font-size: rem-convert(32px);
+      padding: rem-convert(24px) rem-convert(48px);
+    }
+  }
+
+  &--white {
+    color: var(--color-black);
+    background-color: rgba(255, 255, 255, 0.6);
+  }
+
+  &:focus,
+  &:hover {
+    background-color: var(--color-highlight);
+    color: var(--color-white);
+  }
+}

@@ -1,0 +1,13 @@
+TODO List
+
+- Metadata
+
+- Restructure format/guide content pages to JSON, break out guides
+- Fix Stack view
+- Improved automated process for generating guides
+- Better organize Utils file
+- Button to minimize filter bar / filter bar improvements
+- Reset filters to defaults button
+- Make better links to formats
+- Search bar on directory page
+- Add scroll up button
