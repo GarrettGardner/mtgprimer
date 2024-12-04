@@ -1,0 +1,88 @@
+@use "./mixins" as *;
+
+:root {
+  --color-gray-dark-ultra: #151513;
+  --color-gray: #808080;
+  --color-gray-light: #e0e0e0;
+  --color-highlight: #ff8c00;
+  --color-blue-dark: #193441;
+  --color-blue: #395362;
+  --color-blue-light: #91aa9d;
+  --color-mtg-colorless: 120, 118, 125;
+  --color-mtg-white: 245, 239, 210;
+  --color-mtg-blue: 78, 162, 205;
+  --color-mtg-black: 117, 76, 134;
+  --color-mtg-red: 189, 54, 53;
+  --color-mtg-green: 157, 192, 59;
+  --color-mtg-gold: 201, 155, 40;
+  --color-mtg-common: 255, 255, 255;
+  --color-mtg-uncommon: 112, 120, 131;
+  --color-mtg-rare: 165, 142, 74;
+  --color-mtg-mythic: 191, 68, 39;
+  --font-body: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-header: "Bitter", "Georgia", serif;
+  --size-header-height: #{rem-convert(48px)};
+  --size-menu-width: #{rem-convert(240px)};
+  --size-menu-width-collapsed: #{rem-convert(50px)};
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body,
+html {
+  min-height: 100vh;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background: black url("/images/bg/pattern-debut-dark.png") repeat center top;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-body);
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--color-highlight);
+  color: white;
+  text-shadow: none;
+}
+
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+
+  &:focus {
+    background-color: white;
+    border: 1px solid var(--color-gray);
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15);
+    clip: auto !important;
+    color: black;
+    display: block;
+    font-size: rem-convert(14px);
+    font-weight: 700;
+    height: auto;
+    left: rem-convert(8px);
+    top: rem-convert(8px);
+    padding: rem-convert(16px) rem-convert(24px);
+    line-height: normal;
+    text-decoration: none;
+    width: auto;
+    z-index: 999999;
+  }
+}

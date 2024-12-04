@@ -1,0 +1,28 @@
+@use "../../../sass/mixins" as *;
+
+.site {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+
+  @include breakpoint("desktop") {
+    flex-direction: row;
+  }
+
+  :global(.content) {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    width: 100%;
+
+    main {
+      display: flex;
+      flex-direction: column;
+      flex: 1 0 auto;
+      position: relative;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+@use "../../../sass/mixins" as *;
+
+.info {
+  ul {
+    margin: 0;
+    padding: rem-convert(16px);
+
+    @include breakpoint("tablet") {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: rem-convert(128px) rem-convert(32px);
+    }
+
+    li {
+      list-style: none;
+      margin: 0 auto rem-convert(32px);
+      max-width: rem-convert(240px);
+      padding: 0;
+
+      @include breakpoint("tablet") {
+        flex: 0 0 auto;
+        margin: 0 rem-convert(16px) rem-convert(32px);
+        width: 25%;
+      }
+    }
+  }
+}

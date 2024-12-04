@@ -1,0 +1,26 @@
+@use "../../../sass/mixins" as *;
+
+.logo {
+  display: block;
+  width: 100%;
+
+  > span {
+    display: block;
+    background: transparent url("/images/logo-mtgprimer.svg") no-repeat center center;
+    background-size: contain;
+    height: 0;
+    padding-top: 26.6666%;
+    text-align: left;
+    text-indent: -999em;
+    overflow: hidden;
+  }
+
+  &:global(.small) {
+    @include breakpoint("desktop") {
+      > span {
+        background-image: url("/images/logo-mtgprimer-simple.svg");
+        padding-top: 100%;
+      }
+    }
+  }
+}

@@ -1,0 +1,275 @@
+@use "../../../sass/mixins" as *;
+
+.guide {
+  flex: 1 1 auto;
+  height: 100%;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  > ul {
+    > li {
+      display: block;
+
+      :global(.headerText) {
+        background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) 75%, rgba(0, 0, 0, 0) 95%);
+        font-weight: 600;
+        font-size: rem-convert(16px);
+        letter-spacing: rem-convert(1px);
+        line-height: 1.25;
+        left: 0;
+        padding: rem-convert(4px) rem-convert(16px) rem-convert(4px) rem-convert(60px);
+        text-shadow: 0 0 rem-convert(2px) black;
+        width: 100%;
+
+        @include breakpoint("desktop") {
+          font-size: rem-convert(20px);
+          padding: rem-convert(8px) rem-convert(16px) rem-convert(8px) rem-convert(96px);
+        }
+      }
+
+      > :global(.cards) {
+        align-items: stretch;
+        display: flex;
+        position: relative;
+
+        > :global(.headerIcon) {
+          align-items: flex-start;
+          background: rgba(128, 128, 128, 0.5);
+          color: white;
+          display: flex;
+          flex: 0 0 auto;
+          font-family: var(--font-header);
+          font-weight: 700;
+          justify-content: center;
+          line-height: 1;
+          padding: rem-convert(8px) 0;
+          width: rem-convert(48px);
+
+          @include breakpoint("desktop") {
+            padding: rem-convert(16px) 0;
+            width: rem-convert(80px);
+          }
+
+          > i,
+          > :global(.circle) {
+            position: sticky;
+            top: 50%;
+
+            @include breakpoint("desktop") {
+              top: 45%;
+            }
+          }
+
+          i {
+            box-shadow:
+              1px 1px black,
+              1px -1px black,
+              -1px 1px black,
+              1px -1px black;
+            display: block;
+            font-size: rem-convert(20px);
+
+            @include breakpoint("desktop") {
+              font-size: rem-convert(32px);
+            }
+
+            &:global(.ss) {
+              box-shadow: none;
+              font-size: rem-convert(28px);
+              text-shadow:
+                1px 1px black,
+                1px -1px black,
+                -1px 1px black,
+                1px -1px black;
+
+              @include breakpoint("desktop") {
+                font-size: rem-convert(42px);
+              }
+            }
+          }
+
+          :global(.circle) {
+            align-items: center;
+            background-color: white;
+            border: 0 solid black;
+            border-radius: 50%;
+            border-width: rem-convert(2px);
+            color: black;
+            display: flex;
+            font-size: rem-convert(20px);
+            justify-content: center;
+            height: rem-convert(32px);
+            width: rem-convert(32px);
+
+            &:global(.gold) {
+              background: rgb(var(--color-mtg-gold));
+            }
+
+            @include breakpoint("desktop") {
+              height: rem-convert(48px);
+              font-size: rem-convert(26px);
+              width: rem-convert(48px);
+            }
+          }
+
+          :global(.text) {
+            text-align: left;
+            text-indent: -9999rem;
+            text-shadow: 0 0 rem-convert(4px) black;
+            letter-spacing: rem-convert(1px);
+            overflow: hidden;
+          }
+        }
+
+        > ul {
+          display: flex;
+          flex: 1 1 auto;
+          flex-wrap: wrap;
+          margin: 0;
+          padding: rem-convert(4px) rem-convert(24px) rem-convert(4px) rem-convert(4px);
+          max-width: rem-convert(1920px);
+          width: 100%;
+
+          @include breakpoint("desktop") {
+            padding: rem-convert(6px) rem-convert(48px) rem-convert(6px) rem-convert(6px);
+          }
+
+          > li {
+            flex: 0 0 auto;
+            padding: rem-convert(2px);
+            width: 50%;
+
+            @include breakpoint("mobile") {
+              width: 33.3333%;
+            }
+
+            @include breakpoint("tablet") {
+              width: 25%;
+            }
+
+            @include breakpoint("desktop") {
+              width: 25%;
+            }
+
+            @include breakpoint("wide") {
+              width: 20%;
+            }
+
+            @include breakpoint("ultrawide") {
+              width: 12.5%;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  h4 {
+    color: white;
+    font-size: rem-convert(18px);
+    font-weight: 700;
+    margin: 0;
+    padding: rem-convert(64px) rem-convert(16px);
+    text-align: center;
+
+    @include breakpoint("tablet") {
+      font-size: rem-convert(28px);
+    }
+  }
+
+  &:global(.isViewStacked) {
+    @include breakpoint("desktop") {
+      padding-right: rem-convert(32px);
+    }
+
+    > ul {
+      align-items: stretch;
+      display: flex;
+      flex-wrap: nowrap;
+      overflow: auto;
+      width: 100%;
+
+      > li {
+        border-right: 0 solid rgba(0, 0, 0, 0.6);
+        border-right-width: rem-convert(8px);
+        display: block;
+        flex: 1 1 auto;
+        max-width: rem-convert(240px);
+        min-width: rem-convert(160px);
+        padding: 0;
+        position: relative;
+        white-space: normal;
+        width: 100%;
+
+        @include breakpoint("desktop") {
+          border-right-width: rem-convert(24px);
+        }
+
+        > :global(.headerText) {
+          display: none;
+        }
+
+        > :global(.cards) {
+          display: block;
+
+          > :global(.headerIcon) {
+            padding: rem-convert(8px) rem-convert(4px);
+            white-space: nowrap;
+            width: 100%;
+
+            :global(.text) {
+              text-align: left;
+              text-indent: 0;
+              overflow: hidden;
+            }
+          }
+
+          > ul {
+            display: block;
+            padding: rem-convert(4px);
+
+            > li {
+              padding: 0;
+              width: 100%;
+
+              &:last-child {
+                padding-bottom: 140%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &:global(.isViewText) {
+    > ul {
+      > li {
+        > :global(.cards) {
+          > ul {
+            align-items: flex-start;
+            padding: rem-convert(8px);
+
+            @include breakpoint("desktop") {
+              padding: rem-convert(8px) rem-convert(32px) rem-convert(8px) rem-convert(16px);
+            }
+
+            > li {
+              padding: 0;
+              width: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}

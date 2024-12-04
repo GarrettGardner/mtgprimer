@@ -1,0 +1,318 @@
+@use "../../../sass/mixins" as *;
+
+.menu {
+  background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+  border-right: 0 solid black;
+  border-right-width: rem-convert(4px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+  color: white;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  font-size: rem-convert(14px);
+  height: 100%;
+  left: 0;
+  min-height: 100vh;
+  position: fixed;
+  transition: transform 0.35s ease;
+  transform: translate3D(-100%, 0, 0);
+  top: 0;
+  width: var(--size-menu-width);
+  z-index: 901;
+
+  @include breakpoint("tablet") {
+    font-size: rem-convert(16px);
+  }
+
+  @include breakpoint("desktop") {
+    position: sticky;
+    transition: none;
+    transform: translate3D(0, 0, 0);
+  }
+
+  :global(.menuMobileOpen) & {
+    transform: translate3D(0, 0, 0);
+  }
+
+  :global(.menuCollapsed) & {
+    @include breakpoint("desktop") {
+      border-right-width: rem-convert(2px);
+      width: var(--size-menu-width-collapsed);
+    }
+  }
+
+  .collapser {
+    background: none;
+    border: 0 none;
+    cursor: pointer;
+    outline: none;
+    margin: 0;
+    padding: 0;
+
+    border: 0 solid white;
+    border-right-width: rem-convert(2px);
+    color: white;
+    display: none;
+    font-size: rem-convert(16px);
+    right: rem-convert(8px);
+    line-height: 1;
+    padding-right: rem-convert(4px);
+    position: absolute;
+    text-decoration: none;
+    top: rem-convert(140px);
+    transition:
+      color 0.25s ease,
+      border-color 0.25s ease;
+    z-index: 801;
+
+    @include breakpoint("desktop") {
+      display: block;
+    }
+
+    &:focus,
+    &:hover {
+      border-color: var(--color-highlight);
+      color: var(--color-highlight);
+    }
+
+    :global(.menuCollapsed) & {
+      @include breakpoint("desktop") {
+        border-right-width: 0;
+        border-left-width: rem-convert(2px);
+        padding-left: rem-convert(4px);
+        padding-right: 0;
+        right: rem-convert(12px);
+      }
+    }
+  }
+
+  .logoWrap {
+    align-items: center;
+    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat left top;
+    border: 0 solid black;
+    padding: rem-convert(16px);
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+
+    @include breakpoint("desktop") {
+      border-bottom-width: rem-convert(4px);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+      height: rem-convert(128px);
+      padding: rem-convert(8px) rem-convert(16px);
+    }
+
+    > a {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .content {
+    flex: 1 1 auto;
+    position: relative;
+
+    > div {
+      height: 100%;
+      left: 0;
+      overflow-x: hidden;
+      overflow-y: auto;
+      padding: rem-convert(32px) rem-convert(8px);
+      position: absolute;
+      top: 0;
+      width: 100%;
+
+      :global(.menuCollapsed) & {
+        @include breakpoint("desktop") {
+          padding: rem-convert(32px) rem-convert(4px);
+        }
+      }
+    }
+  }
+
+  .format {
+    align-items: center;
+    border-radius: 50%;
+    box-shadow:
+      inset 0 0 0 2px white,
+      inset 0 0 0 4px black;
+    background: white;
+    color: black;
+    display: flex;
+    font-size: rem-convert(48px);
+    height: rem-convert(80px);
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: rem-convert(16px);
+    text-align: center;
+    width: rem-convert(80px);
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(80px);
+      height: rem-convert(120px);
+      margin-bottom: rem-convert(32px);
+      width: rem-convert(120px);
+    }
+
+    i {
+      display: block;
+    }
+
+    :global(.menuCollapsed) & {
+      @include breakpoint("desktop") {
+        box-shadow:
+          inset 0 0 0 1px white,
+          inset 0 0 0 2px black;
+        font-size: rem-convert(28px);
+        height: rem-convert(40px);
+        margin: rem-convert(40px) 0 rem-convert(40px + 32px);
+        width: rem-convert(40px);
+      }
+    }
+  }
+
+  nav {
+    li {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    > ul {
+      > li {
+        margin-bottom: rem-convert(6px);
+
+        > a {
+          background: transparent;
+          border-radius: rem-convert(4px);
+          display: flex;
+          font-size: rem-convert(16px);
+          margin-bottom: rem-convert(8px);
+          padding: rem-convert(8px);
+          position: relative;
+          transition: background 0.35s ease;
+          white-space: nowrap;
+
+          @include breakpoint("desktop") {
+            font-size: rem-convert(18px);
+          }
+
+          &:hover,
+          &:focus {
+            background: var(--color-highlight);
+          }
+
+          :global(.menuCollapsed) & {
+            @include breakpoint("desktop") {
+              padding: rem-convert(8px) rem-convert(4px);
+            }
+          }
+
+          &:global(.current) {
+            background: rgba(255, 255, 255, 0.25);
+          }
+
+          > span {
+            display: block;
+            font-size: rem-convert(18px);
+            margin-right: rem-convert(4px);
+            text-align: center;
+            width: rem-convert(28px);
+
+            :global(.menuCollapsed) & {
+              @include breakpoint("desktop") {
+                margin-right: 0;
+                width: 100%;
+              }
+            }
+          }
+
+          > p {
+            display: block;
+            margin: 0;
+
+            :global(.menuCollapsed) & {
+              @include breakpoint("desktop") {
+                display: none;
+              }
+            }
+          }
+        }
+
+        ul {
+          padding-left: rem-convert(16px);
+        }
+      }
+    }
+  }
+
+  .directory {
+    align-items: center;
+    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat left top;
+    border: 0 solid black;
+    border-top-width: rem-convert(4px);
+    display: flex;
+    flex: 0 0 auto;
+    font-size: rem-convert(14px);
+    line-height: 1;
+    justify-content: center;
+    padding: rem-convert(16px) rem-convert(8px);
+    position: relative;
+    text-align: center;
+    width: 100%;
+
+    @include breakpoint("desktop") {
+      bottom: 0;
+      left: 0;
+    }
+
+    :global(.menuCollapsed) & {
+      @include breakpoint("desktop") {
+        border-top-width: rem-convert(2px);
+      }
+    }
+
+    &::before {
+      content: "";
+      display: block;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      transition: background 0.25s ease;
+      width: 100%;
+    }
+
+    > span {
+      font-size: rem-convert(24px);
+      position: relative;
+      margin-right: rem-convert(6px);
+
+      :global(.menuCollapsed) & {
+        @include breakpoint("desktop") {
+          margin-right: 0;
+        }
+      }
+    }
+
+    > p {
+      position: relative;
+      margin: 0;
+      text-transform: uppercase;
+      letter-spacing: rem-convert(1px);
+
+      :global(.menuCollapsed) & {
+        @include breakpoint("desktop") {
+          display: none;
+        }
+      }
+    }
+
+    &:focus,
+    &:hover {
+      &::before {
+        background: var(--color-highlight);
+      }
+    }
+  }
+}

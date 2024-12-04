@@ -1,0 +1,541 @@
+@use "../../../sass/mixins" as *;
+
+.background {
+  height: 0;
+  position: relative;
+  width: 100%;
+
+  &::after {
+    @include breakpoint("desktop") {
+      background: rgba(128, 128, 128, 0.5);
+      content: "";
+      display: block;
+      left: 0;
+      position: absolute;
+      top: 0;
+      height: rem-convert(180px);
+      width: rem-convert(80px);
+    }
+  }
+}
+
+.filterBar {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  position: fixed;
+  left: 0;
+  transition: transform 0.35s ease;
+  transform: translate3D(0, 100%, 0);
+  width: 100%;
+  z-index: 801;
+
+  :global(.isFilterMobileOpen) & {
+    transform: translate3D(0, 0, 0);
+  }
+
+  @include breakpoint("desktop") {
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.75) 50%,
+      rgba(0, 0, 0, 1) 80%,
+      rgba(0, 0, 0, 1) 100%
+    );
+    padding: rem-convert(32px) rem-convert(16px) rem-convert(32px) rem-convert(16px);
+    position: sticky;
+    transform: translate3D(0, 0, 0);
+  }
+
+  :global(.bar) {
+    align-items: stretch;
+    background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    display: flex;
+    flex: 0 0 auto;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    position: relative;
+    text-align: left;
+    width: 100%;
+
+    @include breakpoint("desktop") {
+      border-radius: rem-convert(16px);
+      border-top: none;
+      box-shadow:
+        0 4px 8px rgba(0, 0, 0, 0.5),
+        0 6px 4px rgba(0, 0, 0, 0.8),
+        inset 0 2px 0 rgba(255, 255, 255, 0.1),
+        inset 1px 0 0 rgba(255, 255, 255, 0.1),
+        inset -1px 0 0 rgba(255, 255, 255, 0.1),
+        inset 0 0 2px rgba(255, 255, 255, 0.3);
+      flex-wrap: none;
+      width: auto;
+    }
+
+    &::before {
+      background: linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04));
+      content: "";
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+
+      @include breakpoint("desktop") {
+        border-radius: rem-convert(16px);
+      }
+    }
+
+    :global(.toggleMobile) {
+      position: absolute;
+      bottom: 100%;
+
+      @include breakpoint("desktop") {
+        display: none;
+      }
+
+      > button {
+        appearance: none;
+        background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+        border: 0 none;
+        border-right: 1px solid rgba(255, 255, 255, 0.3);
+        border-top: 1px solid rgba(255, 255, 255, 0.3);
+        border-radius: 0 rem-convert(12px) 0 0;
+        color: white;
+        cursor: pointer;
+        font: inherit;
+        font-size: rem-convert(14px);
+        font-weight: 700;
+        letter-spacing: rem-convert(2px);
+        margin: 0;
+        padding: rem-convert(8px) rem-convert(12px);
+        position: relative;
+        text-transform: uppercase;
+        transition: color 0.25s ease;
+
+        &:hover,
+        &:focus {
+          color: var(--color-highlight);
+        }
+
+        &::before {
+          background: rgba(255, 255, 255, 0.12);
+          content: "";
+          height: 100%;
+          left: 0;
+          position: absolute;
+          top: 0;
+          width: 100%;
+
+          @include breakpoint("desktop") {
+            border-radius: rem-convert(16px);
+          }
+        }
+      }
+    }
+
+    :global(.title),
+    :global(.actions) {
+      position: absolute;
+      top: -#{rem-convert(32px)};
+
+      @include breakpoint("desktop") {
+        top: 100%;
+      }
+
+      > button,
+      > h3 {
+        color: white;
+        font-weight: 700;
+        letter-spacing: rem-convert(2px);
+        line-height: 1.5;
+        margin: 0;
+        text-align: center;
+        text-transform: uppercase;
+      }
+
+      > button {
+        appearance: none;
+        background: none;
+        border: 0 none;
+        cursor: pointer;
+        font: inherit;
+        transition: color 0.25s ease;
+
+        &:hover,
+        &:focus {
+          color: var(--color-highlight);
+        }
+      }
+    }
+
+    :global(.title) {
+      display: none;
+      left: rem-convert(8px);
+
+      @include breakpoint("desktop") {
+        display: block;
+      }
+
+      > h3 {
+        font-size: rem-convert(14px);
+        margin: rem-convert(4px) 0 0 0;
+      }
+    }
+
+    :global(.actions) {
+      right: rem-convert(8px);
+      top: 0;
+
+      @include breakpoint("desktop") {
+        top: 100%;
+      }
+
+      > button {
+        font-size: rem-convert(11px);
+        padding: rem-convert(6px) 0 0 rem-convert(16px);
+      }
+    }
+
+    > :global(.col) {
+      align-items: stretch;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+      border-left: 1px solid rgba(255, 255, 255, 0.2);
+      display: flex;
+      flex: 0 0 auto;
+      flex-direction: column;
+      justify-content: stretch;
+      padding: rem-convert(8px) rem-convert(16px);
+      position: relative;
+      width: 50%;
+
+      @include breakpoint("tablet") {
+        width: 33.3333%;
+      }
+
+      @include breakpoint("desktop") {
+        border-bottom: none;
+        width: auto;
+      }
+
+      &:global(.isLeftmost) {
+        @include breakpoint("desktop") {
+          border-left: 0 none;
+        }
+      }
+
+      &:global(.hasRows) {
+        padding: 0;
+
+        p {
+          margin: rem-convert(4px) 0 0 0;
+
+          @include breakpoint("desktop") {
+            text-align: left;
+          }
+        }
+
+        > :global(.row) {
+          border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+          padding: rem-convert(8px) rem-convert(10px);
+
+          &:last-child {
+            border-bottom: none;
+          }
+        }
+      }
+
+      &:global(.isSkinny) {
+        padding: rem-convert(8px) rem-convert(8px);
+      }
+
+      label {
+        cursor: pointer;
+      }
+
+      p {
+        color: #e0e0e0;
+        font-size: rem-convert(11px);
+        font-weight: 700;
+        letter-spacing: rem-convert(2px);
+        line-height: 1;
+        margin: rem-convert(6px) 0 0 0;
+        text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+        text-transform: uppercase;
+        text-align: center;
+      }
+
+      :global(.checkbox),
+      :global(.radio) {
+        line-height: 1;
+
+        > input {
+          display: none;
+
+          & + label {
+            opacity: 0.35;
+          }
+
+          &:checked + label {
+            opacity: 1;
+          }
+        }
+      }
+
+      > :global(.filter) {
+        height: 100%;
+        flex: 1 1 auto;
+        margin: 0 auto;
+
+        :global(.checkbox),
+        :global(.radio) {
+          > label {
+            display: block;
+            flex: 0 0 auto;
+            position: relative;
+
+            > span {
+              align-items: center;
+              color: red;
+              display: flex;
+              font-size: rem-convert(22px);
+              height: 100%;
+              justify-content: center;
+              left: 0;
+              position: absolute;
+              text-shadow: 0 0 1px black;
+              top: 0;
+              width: 100%;
+            }
+          }
+        }
+
+        &:global(.colors) {
+          font-size: rem-convert(16px);
+          height: rem-convert(74px);
+          position: relative;
+          width: rem-convert(76px);
+
+          > :global(.color) {
+            align-items: center;
+            display: flex;
+            height: rem-convert(24px);
+            justify-content: center;
+            margin: 0;
+            position: absolute;
+            width: rem-convert(24px);
+
+            > label {
+              font-size: rem-convert(18px);
+
+              > :global(.ms) {
+                box-shadow:
+                  1px 0 black,
+                  0 1px black,
+                  0 -1px black,
+                  -1px 0 black;
+              }
+
+              > span {
+                align-items: center;
+                color: red;
+                display: flex;
+                font-size: rem-convert(22px);
+                height: 100%;
+                justify-content: center;
+                left: 0;
+                position: absolute;
+                text-shadow: 0 0 1px black;
+                top: 0;
+                width: 100%;
+              }
+            }
+
+            &:global(.color-w) {
+              left: 26px;
+              top: 0;
+            }
+
+            &:global(.color-u) {
+              left: 52px;
+              top: 20px;
+            }
+
+            &:global(.color-b) {
+              left: 40px;
+              top: 48px;
+            }
+
+            &:global(.color-c) {
+              left: 26px;
+              top: 26px;
+            }
+
+            &:global(.color-r) {
+              left: 10px;
+              top: 48px;
+            }
+
+            &:global(.color-g) {
+              left: 0;
+              top: 20px;
+            }
+          }
+        }
+
+        &:global(.rarities),
+        &:global(.sets) {
+          align-items: center;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          position: relative;
+          width: rem-convert(72px);
+
+          > :global(.rarity),
+          > :global(.set) {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            width: 50%;
+
+            > label {
+              font-size: rem-convert(28px);
+
+              :global(.ss) {
+                text-shadow:
+                  1px 0 black,
+                  0 1px black,
+                  -1px 0 black,
+                  0 -1px black;
+              }
+            }
+
+            > input:checked + label {
+              :global(.ss) {
+                text-shadow:
+                  1px 0 black,
+                  0 1px black,
+                  -1px 0 black,
+                  0 -1px black,
+                  0 0 8px rgba(255, 255, 255, 0.5);
+              }
+            }
+          }
+        }
+
+        &:global(.categories) {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          margin-bottom: rem-convert(4px);
+
+          > :global(.category) {
+            background-color: rgba(0, 0, 0, 0.4);
+            border-radius: rem-convert(4px);
+            font-size: rem-convert(12px);
+            line-height: 1;
+            padding: rem-convert(4px) rem-convert(12px) rem-convert(4px) rem-convert(8px);
+            margin-bottom: rem-convert(4px);
+          }
+        }
+      }
+
+      :global(.dropdown) {
+        align-items: stretch;
+        background-color: rgba(0, 0, 0, 0.4);
+        border-radius: rem-convert(4px);
+        display: flex;
+        height: rem-convert(24px);
+        justify-content: stretch;
+        margin: 0 auto;
+        overflow: hidden;
+        position: relative;
+        width: rem-convert(100px);
+
+        > select {
+          appearance: none;
+          background: transparent;
+          background-image: none;
+          border: 0 none;
+          box-shadow: none;
+          color: transparent;
+          cursor: pointer;
+          display: block;
+          flex: 1 1 auto;
+          font: inherit;
+          font-size: rem-convert(13px);
+          letter-spacing: rem-convert(1px);
+          line-height: 1.25;
+          width: 100%;
+
+          &:focus {
+            outline: none;
+          }
+
+          > option {
+            background-color: white;
+            color: black;
+            padding: rem-convert(2px);
+          }
+        }
+
+        :global(.selected) {
+          align-items: center;
+          display: flex;
+          height: 100%;
+          font-size: rem-convert(12px);
+          justify-content: flex-start;
+          left: 0;
+          letter-spacing: rem-convert(1px);
+          line-height: 1.25;
+          padding: 0 rem-convert(20px) 0 rem-convert(4px);
+          pointer-events: none;
+          position: absolute;
+          top: 0;
+          width: 100%;
+        }
+
+        &::after {
+          border-left: 1px solid transparent;
+          border-right: 1px solid transparent;
+          border-top: 1px solid white;
+          border-width: rem-convert(4px) rem-convert(4px) 0 rem-convert(4px);
+          content: "";
+          display: block;
+          height: 0;
+          margin-top: rem-convert(-2px);
+          pointer-events: none;
+          position: absolute;
+          right: rem-convert(4px);
+          top: 50%;
+          width: 0;
+        }
+      }
+
+      :global(.dropdownTall) {
+        flex: 1 1 auto;
+
+        > :global(.dropdown) {
+          height: 100%;
+          width: rem-convert(80px);
+
+          :global(.selected) {
+            flex-direction: column;
+            padding: 0 rem-convert(4px);
+            justify-content: center;
+
+            i {
+              font-size: rem-convert(28px);
+              margin-bottom: rem-convert(6px);
+            }
+          }
+        }
+      }
+    }
+  }
+}

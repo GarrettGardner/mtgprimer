@@ -1,0 +1,49 @@
+@use "../../../sass/mixins" as *;
+
+.directory {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+  padding: rem-convert(80px) 0;
+
+  :global(.logo) {
+    margin: 0 auto rem-convert(12px);
+    max-width: rem-convert(400px);
+
+    @include breakpoint("desktop") {
+      margin-bottom: rem-convert(24px);
+      max-width: rem-convert(720px);
+    }
+  }
+
+  p {
+    font-size: rem-convert(32px);
+    font-weight: 300;
+    line-height: 1.25;
+    margin-bottom: rem-convert(48px);
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(48px);
+      margin-bottom: rem-convert(128px);
+    }
+  }
+
+  ul {
+    display: flex;
+    margin-bottom: rem-convert(128px);
+    max-width: none;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    > li {
+      flex: 0 0 auto;
+      list-style: none;
+      margin-bottom: rem-convert(32px);
+      padding: 0 rem-convert(24px);
+      width: 33.3333%;
+
+      @include breakpoint("tablet") {
+        width: 20%;
+      }
+    }
+  }
+}
