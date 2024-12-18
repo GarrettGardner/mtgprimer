@@ -1,0 +1,88 @@
+{
+  "name": "Theme: Rogues",
+  "icon": "fas fa-user-secret",
+  "categories": {
+    "payoffs": "Rogue Payoffs",
+    "all": "All Rogues"
+  },
+  "cards": {
+    "Acquisitions Expert": {
+      "categories": ["all"]
+    },
+    "Blackbloom Rogue // Blackbloom Bog": {
+      "categories": ["all"]
+    },
+    "Drana's Silencer": {
+      "categories": ["all"]
+    },
+    "Expedition Skulker": {
+      "categories": ["payoffs", "all"]
+    },
+    "Glasspool Mimic // Glasspool Shore": {
+      "categories": ["all"]
+    },
+    "Grotag Night-Runner": {
+      "categories": ["all"]
+    },
+    "Merfolk Windrobber": {
+      "categories": ["all"]
+    },
+    "Nighthawk Scavenger": {
+      "categories": ["all"]
+    },
+    "Nimana Skitter-Sneak": {
+      "categories": ["all"]
+    },
+    "Nimana Skydancer": {
+      "categories": ["all"]
+    },
+    "Nimble Trapfinder": {
+      "categories": ["all"]
+    },
+    "Relic Robber": {
+      "categories": ["all"]
+    },
+    "Seafloor Stalker": {
+      "categories": ["all"]
+    },
+    "Shadow Stinger": {
+      "categories": ["payoffs", "all"]
+    },
+    "Sneaking Guide": {
+      "categories": ["all"]
+    },
+    "Soaring Thought-Thief": {
+      "categories": ["payoffs", "all"]
+    },
+    "Stonework Packbeast": {
+      "categories": ["all"]
+    },
+    "Sure-Footed Infiltrator": {
+      "categories": ["payoffs", "all"]
+    },
+    "Tajuru Blightblade": {
+      "categories": ["all"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["all"]
+    },
+    "Tajuru Snarecaster": {
+      "categories": ["all"]
+    },
+    "Thieving Skydiver": {
+      "categories": ["all"]
+    },
+    "Veteran Adventurer": {
+      "categories": ["all"]
+    },
+    "Zagras, Thief of Heartbeats": {
+      "categories": ["all"]
+    },
+    "Zareth San, the Trickster": {
+      "categories": ["payoffs", "all"]
+    },
+    "Zulaport Duelist": {
+      "categories": ["all"]
+    }
+  }
+}

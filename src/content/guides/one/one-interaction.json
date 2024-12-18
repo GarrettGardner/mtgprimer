@@ -1,0 +1,135 @@
+{
+  "name": "Interaction Guide",
+  "defaultGrouping": "color",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "disenchant": "Disenchant",
+    "temporary": "Temporary",
+    "wipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "All Will Be One": {
+      "categories": ["removal"]
+    },
+    "Ambulatory Edifice": {
+      "categories": ["removal"]
+    },
+    "Annex Sentry": {
+      "categories": ["removal"]
+    },
+    "Annihilating Glare": {
+      "categories": ["removal"]
+    },
+    "Anoint with Affliction": {
+      "categories": ["removal"]
+    },
+    "Blue Sun's Twilight": {
+      "categories": ["removal"]
+    },
+    "Cankerbloom": {
+      "categories": ["disenchant"]
+    },
+    "Charge of the Mites": {
+      "categories": ["removal"]
+    },
+    "Chrome Prowler": {
+      "categories": ["temporary"]
+    },
+    "Cinderslash Ravager": {
+      "categories": ["wipe"]
+    },
+    "Drown in Ichor": {
+      "categories": ["removal"]
+    },
+    "Glissa Sunslayer": {
+      "categories": ["disenchant"]
+    },
+    "Hazardous Blast": {
+      "categories": ["wipe"]
+    },
+    "Hexgold Slash": {
+      "categories": ["removal"]
+    },
+    "Infectious Bite": {
+      "categories": ["removal"]
+    },
+    "Jace, the Perfected Mind": {
+      "categories": ["removal"]
+    },
+    "Kaito, Dancing Shadow": {
+      "categories": ["temporary"]
+    },
+    "Kaya, Intangible Slayer": {
+      "categories": ["removal", "disenchant"]
+    },
+    "Koth, Fire of Resistance": {
+      "categories": ["removal"]
+    },
+    "Lukka, Bound to Ruin": {
+      "categories": ["removal"]
+    },
+    "Mesmerizing Dose": {
+      "categories": ["removal"]
+    },
+    "Molten Rebuke": {
+      "categories": ["removal"]
+    },
+    "Nahiri's Sacrifice": {
+      "categories": ["removal"]
+    },
+    "Nissa, Ascended Animist": {
+      "categories": ["disenchant"]
+    },
+    "Planar Disruption": {
+      "categories": ["removal"]
+    },
+    "Rebel Salvo": {
+      "categories": ["removal"]
+    },
+    "Red Sun's Twilight": {
+      "categories": ["disenchant"]
+    },
+    "Ruthless Predation": {
+      "categories": ["removal"]
+    },
+    "Serum Snare": {
+      "categories": ["bounce"]
+    },
+    "Shrapnel Slinger": {
+      "categories": ["disenchant"]
+    },
+    "Sinew Dancer": {
+      "categories": ["temporary"]
+    },
+    "Surgical Skullbomb": {
+      "categories": ["bounce"]
+    },
+    "The Eternal Wanderer": {
+      "categories": ["removal", "wipe"]
+    },
+    "Urabrask's Anointer": {
+      "categories": ["removal"]
+    },
+    "Vanish into Eternity": {
+      "categories": ["removal"]
+    },
+    "Volt Charge": {
+      "categories": ["removal"]
+    },
+    "Vraska's Fall": {
+      "categories": ["removal"]
+    },
+    "Vraska, Betrayal's Sting": {
+      "categories": ["removal"]
+    },
+    "Whisper of the Dross": {
+      "categories": ["removal"]
+    },
+    "White Sun's Twilight": {
+      "categories": ["wipe"]
+    }
+  }
+}

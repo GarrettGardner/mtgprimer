@@ -1,0 +1,142 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Angelic Purge": {
+      "categories": ["removal"]
+    },
+    "Anguished Unmaking": {
+      "categories": ["removal"]
+    },
+    "Archangel Avacyn": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Arlinn Kord": {
+      "categories": ["removal"]
+    },
+    "Avacyn's Judgement": {
+      "categories": ["removal"]
+    },
+    "Avacynian Missionaries": {
+      "categories": ["removal"]
+    },
+    "Biting Rain": {
+      "categories": ["boardwipe"]
+    },
+    "Bound by Moonsilver": {
+      "categories": ["removal"]
+    },
+    "Burn from Within": {
+      "categories": ["removal"]
+    },
+    "Clip Wings": {
+      "categories": ["removal"]
+    },
+    "Compelling Deterrence": {
+      "categories": ["bounce"]
+    },
+    "Dead Weight": {
+      "categories": ["removal"]
+    },
+    "Declaration in Stone": {
+      "categories": ["removal"]
+    },
+    "Descend upon the Sinful": {
+      "categories": ["boardwipe"]
+    },
+    "Dissension in the Ranks": {
+      "categories": ["removal"]
+    },
+    "Dual Shot": {
+      "categories": ["removal"]
+    },
+    "Engulf the Shore": {
+      "categories": ["boardwipe"]
+    },
+    "Explosive Apparatus": {
+      "categories": ["removal"]
+    },
+    "Fiery Temper": {
+      "categories": ["removal"]
+    },
+    "Geistblast": {
+      "categories": ["removal"]
+    },
+    "Gone Missing": {
+      "categories": ["bounce"]
+    },
+    "Humble the Brute": {
+      "categories": ["removal"]
+    },
+    "Inner Struggle": {
+      "categories": ["removal"]
+    },
+    "Just the Wind": {
+      "categories": ["bounce"]
+    },
+    "Kindly Stranger": {
+      "categories": ["removal"]
+    },
+    "Lightning Axe": {
+      "categories": ["removal"]
+    },
+    "Moonlight Hunt": {
+      "categories": ["removal"]
+    },
+    "Murderous Compulsion": {
+      "categories": ["removal"]
+    },
+    "Nahiri, the Harbinger": {
+      "categories": ["removal"]
+    },
+    "Puncturing Light": {
+      "categories": ["removal"]
+    },
+    "Rabid Bite": {
+      "categories": ["removal"]
+    },
+    "Reduce to Ashes": {
+      "categories": ["removal"]
+    },
+    "Root Out": {
+      "categories": ["other"]
+    },
+    "Silverstrike": {
+      "categories": ["removal"]
+    },
+    "Sinister Concoction": {
+      "categories": ["removal"]
+    },
+    "Sleep Paralysis": {
+      "categories": ["removal"]
+    },
+    "Sorin, Grim Nemesis": {
+      "categories": ["removal"]
+    },
+    "Structural Distortion": {
+      "categories": ["other"]
+    },
+    "Throttle": {
+      "categories": ["removal"]
+    },
+    "To the Slaughter": {
+      "categories": ["removal"]
+    },
+    "Tooth Collector": {
+      "categories": ["removal"]
+    },
+    "Welcome to the Fold": {
+      "categories": ["removal"]
+    },
+    "Wolf of Devil's Breach": {
+      "categories": ["removal"]
+    }
+  }
+}

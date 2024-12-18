@@ -6,7 +6,10 @@ import styles from "./card-text.module.scss";
 export const CardText = (props: { card: ICard }) => {
   const card = props.card;
   return (
-    <button className={`${styles.cardText} color-${card.color}`} title={`${card.number}: ${card.name}`}>
+    <button
+      className={`${styles.cardText} color-${card.color}`}
+      title={`${card.number}: ${card.name}`}
+    >
       <div>
         <div className="name">
           <Icon type="set" slug={card.code} slugSecondary={card.rarity} />
@@ -14,7 +17,12 @@ export const CardText = (props: { card: ICard }) => {
         </div>
         <div className="mana">
           {card.cost.map((cost, key) => (
-            <Icon key={key} type="mana" slug={cost} slugSecondary={cost.length === 2 ? "split" : ""} />
+            <Icon
+              key={key}
+              type="mana"
+              slug={cost}
+              slugSecondary={cost.length === 2 ? "split" : ""}
+            />
           ))}
         </div>
       </div>

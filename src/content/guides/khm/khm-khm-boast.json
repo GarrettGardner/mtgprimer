@@ -1,0 +1,61 @@
+{
+  "name": "Mechanic: Boast",
+  "icon": "fas fa-fist-raised",
+  "categories": {
+    "payoffs": "Boast Payoffs",
+    "all": "All Boast Cards"
+  },
+  "cards": {
+    "Arni Brokenbrow": {
+      "categories": ["all"]
+    },
+    "Axgard Braggart": {
+      "categories": ["all"]
+    },
+    "Battershield Warrior": {
+      "categories": ["all"]
+    },
+    "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {
+      "categories": ["payoffs"]
+    },
+    "Dragonkin Berserker": {
+      "categories": ["all"]
+    },
+    "Draugr Recruiter": {
+      "categories": ["all"]
+    },
+    "Duskwielder": {
+      "categories": ["all"]
+    },
+    "Eradicator Valkyrie": {
+      "categories": ["all"]
+    },
+    "Fearless Liberator": {
+      "categories": ["all"]
+    },
+    "Fearless Pup": {
+      "categories": ["all"]
+    },
+    "Frenzied Raider": {
+      "categories": ["payoffs"]
+    },
+    "Goldmaw Champion": {
+      "categories": ["all"]
+    },
+    "Hagi Mob": {
+      "categories": ["all"]
+    },
+    "Horizon Seeker": {
+      "categories": ["all"]
+    },
+    "Tuskeri Firewalker": {
+      "categories": ["all"]
+    },
+    "Usher of the Fallen": {
+      "categories": ["all"]
+    },
+    "Varragoth, Bloodsky Sire": {
+      "categories": ["all"]
+    }
+  }
+}

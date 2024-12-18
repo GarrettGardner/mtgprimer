@@ -1,0 +1,15 @@
+{
+  "name": "Mechanic: Training",
+  "icon": "fas fa-dumbbell",
+  "cards": {
+    "Apprentice Sharpshooter": {},
+    "Cloaked Cadet": {},
+    "Gryff Rider": {},
+    "Gryffwing Cavalry": {},
+    "Hopeful Initiate": {},
+    "Parish-Blade Trainee": {},
+    "Rural Recruit": {},
+    "Savior of Ollenbock": {},
+    "Torens, Fist of the Angels": {}
+  }
+}

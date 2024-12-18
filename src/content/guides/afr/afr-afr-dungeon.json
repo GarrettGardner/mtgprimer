@@ -1,0 +1,125 @@
+{
+  "name": "Mechanic: Dungeon",
+  "icon": "fas fa-dungeon",
+  "categories": {
+    "dungeon": "Dungeon",
+    "venture": "Venture",
+    "completed": "Completed/Extra"
+  },
+  "cards": {
+    "Acererak the Archlich": {
+      "categories": ["venture", "completed"]
+    },
+    "Bar the Gate": {
+      "categories": ["venture"]
+    },
+    "Barrowin of Clan Undurr": {
+      "categories": ["venture", "completed"]
+    },
+    "Clattering Skeletons": {
+      "categories": ["venture"]
+    },
+    "Cloister Gargoyle": {
+      "categories": ["venture", "completed"]
+    },
+    "Delver's Torch": {
+      "categories": ["venture"]
+    },
+    "Displacer Beast": {
+      "categories": ["venture"]
+    },
+    "Dungeon Crawler": {
+      "categories": ["completed"]
+    },
+    "Dungeon Descent": {
+      "categories": ["venture"]
+    },
+    "Dungeon Map": {
+      "categories": ["venture"]
+    },
+    "Dungeon of the Mad Mage": {
+      "categories": ["dungeon"]
+    },
+    "Eccentric Apprentice": {
+      "categories": ["venture", "completed"]
+    },
+    "Ellywick Tumblestrum": {
+      "categories": ["venture", "completed"]
+    },
+    "Fates' Reversal": {
+      "categories": ["venture"]
+    },
+    "Fifty Feet of Rope": {
+      "categories": ["venture"]
+    },
+    "Find the Path": {
+      "categories": ["venture"]
+    },
+    "Fly": {
+      "categories": ["venture"]
+    },
+    "Gloom Stalker": {
+      "categories": ["completed"]
+    },
+    "Hama Pashar, Ruin Seeker": {
+      "categories": ["completed"]
+    },
+    "Intrepid Outlander": {
+      "categories": ["venture"]
+    },
+    "Kick in the Door": {
+      "categories": ["venture"]
+    },
+    "Loast Mine of Phandelver": {
+      "categories": ["dungeon"]
+    },
+    "Nadaar, Selfless Paladin": {
+      "categories": ["venture", "completed"]
+    },
+    "Planar Ally": {
+      "categories": ["venture"]
+    },
+    "Precipitous Drop": {
+      "categories": ["venture", "completed"]
+    },
+    "Ranger's Hawk": {
+      "categories": ["venture"]
+    },
+    "Secret Door": {
+      "categories": ["venture"]
+    },
+    "Shortcut Seeker": {
+      "categories": ["venture"]
+    },
+    "Tomb of Annihilation": {
+      "categories": ["dungeon"]
+    },
+    "Triumphant Adventurer": {
+      "categories": ["venture"]
+    },
+    "Varis, Silverymoon Ranger": {
+      "categories": ["venture", "completed"]
+    },
+    "Veteran Dungeoneer": {
+      "categories": ["venture"]
+    },
+    "Wandering Troubadour": {
+      "categories": ["venture"]
+    },
+    "You Find a Cursed Idol": {
+      "categories": ["venture"]
+    },
+    "Yuan-Ti Fang-Blade": {
+      "categories": ["venture"]
+    },
+    "Yuan-Ti Malison": {
+      "categories": ["venture"]
+    },
+    "Zalto, Fire Giant Duke": {
+      "categories": ["venture"]
+    },
+    "Zombie Ogre": {
+      "categories": ["venture"]
+    }
+  }
+}

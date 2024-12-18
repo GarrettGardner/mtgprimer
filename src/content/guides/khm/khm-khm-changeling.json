@@ -1,0 +1,67 @@
+{
+  "name": "Theme: Changeling",
+  "icon": "fas fa-person-booth",
+  "categories": {
+    "payoffs": "Creature Type Payoffs",
+    "all": "All Changelings"
+  },
+  "cards": {
+    "Arachnoform": {
+      "categories": ["all"]
+    },
+    "Basalt Ravager": {
+      "categories": ["payoffs"]
+    },
+    "Bloodline Pretender": {
+      "categories": ["payoffs", "all"]
+    },
+    "Faceless Haven": {
+      "categories": ["all"]
+    },
+    "Guardian Gladewalker": {
+      "categories": ["all"]
+    },
+    "Littjara Glade-Warden": {
+      "categories": ["all"]
+    },
+    "Littjara Kinseekers": {
+      "categories": ["payoffs", "all"]
+    },
+    "Masked Vandal": {
+      "categories": ["all"]
+    },
+    "Maskwood Nexus": {
+      "categories": ["all"]
+    },
+    "Mistwalker": {
+      "categories": ["all"]
+    },
+    "Moritte of the Frost": {
+      "categories": ["all"]
+    },
+    "Orvar, the All-Form": {
+      "categories": ["all"]
+    },
+    "Pyre of Heroes": {
+      "categories": ["payoffs"]
+    },
+    "Rally the Ranks": {
+      "categories": ["payoffs"]
+    },
+    "Realmwalker": {
+      "categories": ["all"]
+    },
+    "Reflections of Littjara": {
+      "categories": ["payoffs"]
+    },
+    "Resplendent Marshal": {
+      "categories": ["payoffs"]
+    },
+    "Skemfar Shadowsage": {
+      "categories": ["payoffs"]
+    },
+    "The Bears of Littjara": {
+      "categories": ["payoffs", "all"]
+    }
+  }
+}

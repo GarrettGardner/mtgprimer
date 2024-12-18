@@ -1,0 +1,113 @@
+{
+  "name": "Mechanic: Day/Night",
+  "icon": "fas fa-cloud-moon",
+  "categories": {
+    "daybound-nightbound": "Daybound/Nightbound",
+    "switch": "Day/Night Switch Payoffs",
+    "night": "Night Enabler/Payoffs"
+  },
+  "cards": {
+    "Arlinn, the Pack's Hope // Arlinn, the Moon's Fury": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Baneblade Scoundrel // Baneclaw Marauder": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Bird Admirer // Wing Shredder": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Brimstone Vandal": {
+      "categories": ["switch"]
+    },
+    "Brutal Cathar // Moonrage Brute": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Burly Breaker // Dire-Strain Demolisher": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Celestus Sanctifier": {
+      "categories": ["switch"]
+    },
+    "Component Collector": {
+      "categories": ["switch"]
+    },
+    "Curse of Leeches // Leeching Lurker": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Fangblade Brigand // Fangblade Eviscerator": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Firmament Sage": {
+      "categories": ["switch"]
+    },
+    "Gavony Dawnguard": {
+      "categories": ["switch"]
+    },
+    "Graveyard Trespasser // Graveyard Glutton": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Harvesttide Infiltrator // Harvesttide Assailant": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Hound Tamer // Untamed Pup": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Kessig Naturalist // Lord of the Ulvenwald": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Moonrager's Slash": {
+      "categories": ["night"]
+    },
+    "Obsessive Astronomer": {
+      "categories": ["switch"]
+    },
+    "Olivia's Midnight Ambush": {
+      "categories": ["night"]
+    },
+    "Outland Liberator // Frenzied Trapbreaker": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Reckless Stormseeker // Storm-Charged Slasher": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Shady Traveler // Stalking Predator": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Spellrune Painter // Spellrune Howler": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Sunrise Cavalier": {
+      "categories": ["switch"]
+    },
+    "Sunstreak Phoenix": {
+      "categories": ["switch"]
+    },
+    "Suspicious Stowaway // Seafaring Werewolf": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Tavern Ruffian // Tavern Smasher": {
+      "categories": ["daybound-nightbound"]
+    },
+    "The Celestus": {
+      "categories": ["switch"]
+    },
+    "Tireless Hauler // Dire-Strain Brawler": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Tovolar's Huntmaster // Tovolar's Packleader": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge": {
+      "categories": ["daybound-nightbound"]
+    },
+    "Unnatural Moonrise": {
+      "categories": ["night"]
+    },
+    "Vadrik, Astral Archmage": {
+      "categories": ["switch"]
+    },
+    "Village Watch // Village Reavers": {
+      "categories": ["daybound-nightbound"]
+    }
+  }
+}

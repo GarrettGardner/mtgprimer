@@ -20,7 +20,10 @@ export const Footer = () => {
             17Lands.com
           </a>{" "}
           (under{" "}
-          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+          <a
+            href="https://creativecommons.org/licenses/by/4.0/"
+            target="_blank"
+          >
             Creative Commons Attribution 4.0 Interational License
           </a>
           ) and Andrew Gioia&lsquo;s{" "}
@@ -41,8 +44,9 @@ export const Footer = () => {
           anytime!
         </p>
         <p>
-          MTG Primer is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards.
-          Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+          MTG Primer is unofficial Fan Content permitted under the Fan Content
+          Policy. Not approved/endorsed by Wizards. Portions of the materials
+          used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
         </p>
       </Container>
     </footer>

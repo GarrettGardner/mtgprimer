@@ -1,0 +1,59 @@
+{
+  "name": "Removal Guide",
+  "defaultGrouping": "color",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Chaos Warp": {
+      "categories": ["removal"]
+    },
+    "Crux of Fate": {
+      "categories": ["boardwipe"]
+    },
+    "Day of Judgment": {
+      "categories": ["boardwipe"]
+    },
+    "Despark": {
+      "categories": ["removal"]
+    },
+    "Divine Gambit": {
+      "categories": ["removal"]
+    },
+    "Doom Blade": {
+      "categories": ["removal"]
+    },
+    "Electrolyze": {
+      "categories": ["removal"]
+    },
+    "Eliminate": {
+      "categories": ["removal"]
+    },
+    "Grapeshot": {
+      "categories": ["removal"]
+    },
+    "Lightning Bolt": {
+      "categories": ["removal"]
+    },
+    "Lightning Helix": {
+      "categories": ["removal"]
+    },
+    "Putrefy": {
+      "categories": ["removal"]
+    },
+    "Shock": {
+      "categories": ["removal"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["removal"]
+    },
+    "Urza's Rage": {
+      "categories": ["removal"]
+    }
+  }
+}

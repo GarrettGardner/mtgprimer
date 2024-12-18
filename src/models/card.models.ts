@@ -3,17 +3,16 @@ export type TColor = "c" | "w" | "u" | "b" | "r" | "g" | "m";
 export type TView = "card" | "text" | "stack";
 export type TGrouping = "none" | "mv" | "color" | "rarity" | "category";
 export type TOrdering = "number" | "mv" | "color" | "rarity" | "name";
-
-export interface IGuide {
-  key: string;
-  name: string;
-  description?: string;
-  code: string;
-  icon?: string;
-  cards: ICard[];
-  categories?: Record<string, string>;
-  // options instead?
-}
+export type TLayout =
+  | "normal"
+  | "split"
+  | "aftermath"
+  | "flip"
+  | "transform"
+  | "modal_dfc"
+  | "meld"
+  | "adventure"
+  | "battle";
 
 export interface ICard {
   number: string;
@@ -24,10 +23,24 @@ export interface ICard {
   color: string;
   colorsRequired: string[];
   mv: number;
-  isFlippable?: boolean;
-  isFlipped?: boolean;
-  isRotatable?: boolean;
+  layout?: TLayout;
+  isTransformed?: boolean;
   categories: string[];
+}
+
+export interface IGuide {
+  key: string;
+  code: string;
+  formatName: string;
+  name: string;
+  description?: string;
+  icon?: string;
+  cards: ICard[];
+}
+
+export interface IFilter {
+  options: IFilterOptions;
+  defaultSelections: IFilterSelections;
 }
 
 export interface IFilterOptions {
@@ -40,7 +53,7 @@ export interface IFilterOptions {
   categories: Record<string, string>;
 }
 
-export interface IFilters {
+export interface IFilterSelections {
   grouping: TGrouping;
   ordering: TOrdering;
   view: TView;

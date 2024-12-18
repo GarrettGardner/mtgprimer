@@ -1,0 +1,58 @@
+{
+  "name": "Theme: Giants",
+  "icon": "fas fa-search-plus",
+  "categories": {
+    "payoffs": "Giant Payoffs",
+    "all": "All Giants"
+  },
+  "cards": {
+    "Aegar, the Freezing Flame": {
+      "categories": ["payoffs", "all"]
+    },
+    "Basalt Ravager": {
+      "categories": ["payoffs", "all"]
+    },
+    "Battle of Frost and Fire": {
+      "categories": ["payoffs"]
+    },
+    "Berg Strider": {
+      "categories": ["all"]
+    },
+    "Calamity Bearer": {
+      "categories": ["payoffs", "all"]
+    },
+    "Cinderheart Giant": {
+      "categories": ["all"]
+    },
+    "Craven Hulk": {
+      "categories": ["all"]
+    },
+    "Cyclone Summoner": {
+      "categories": ["payoffs", "all"]
+    },
+    "Doomskar Titan": {
+      "categories": ["all"]
+    },
+    "Frostpyre Arcanist": {
+      "categories": ["payoffs", "all"]
+    },
+    "Giant's Amulet": {
+      "categories": ["all"]
+    },
+    "Glimpse the Cosmos": {
+      "categories": ["payoffs"]
+    },
+    "Invasion of the Giants": {
+      "categories": ["payoffs"]
+    },
+    "Quakebringer": {
+      "categories": ["payoffs", "all"]
+    },
+    "Squash": {
+      "categories": ["payoffs"]
+    },
+    "Undersea Invader": {
+      "categories": ["all"]
+    }
+  }
+}

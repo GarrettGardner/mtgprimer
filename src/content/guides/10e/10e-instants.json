@@ -1,0 +1,153 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Afflict": {
+      "categories": ["board"]
+    },
+    "Aggressive Urge": {
+      "categories": ["board"]
+    },
+    "Aura Graft": {
+      "categories": ["board"]
+    },
+    "Bandage": {
+      "categories": ["board"]
+    },
+    "Beacon of Destruction": {
+      "categories": ["board"]
+    },
+    "Beacon of Immortality": {
+      "categories": ["board"]
+    },
+    "Benalish Knight": {
+      "categories": ["board"]
+    },
+    "Boomerang": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["board"]
+    },
+    "Condemn": {
+      "categories": ["board"]
+    },
+    "Deluge": {
+      "categories": ["board"]
+    },
+    "Demystify": {
+      "categories": ["board"]
+    },
+    "Discombobulate": {
+      "categories": ["board"]
+    },
+    "Evacuation": {
+      "categories": ["board"]
+    },
+    "Fists of the Anvil": {
+      "categories": ["board"]
+    },
+    "Flashfreeze": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Guerrilla Tactics": {
+      "categories": ["board"]
+    },
+    "Hail of Arrows": {
+      "categories": ["board"]
+    },
+    "Holy Day": {
+      "categories": ["board"]
+    },
+    "Hurkyl's Recall": {
+      "categories": ["board"]
+    },
+    "Incinerate": {
+      "categories": ["board"]
+    },
+    "Luminesce": {
+      "categories": ["board"]
+    },
+    "Might of Oaks": {
+      "categories": ["board"]
+    },
+    "Mind Bend": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Peek": {
+      "categories": ["board"]
+    },
+    "Plagiarize": {
+      "categories": ["board"]
+    },
+    "Remove Soul": {
+      "categories": ["board"]
+    },
+    "Reviving Dose": {
+      "categories": ["board"]
+    },
+    "Righteousness": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Shunt": {
+      "categories": ["board"]
+    },
+    "Smash": {
+      "categories": ["board"]
+    },
+    "Soulblast": {
+      "categories": ["board"]
+    },
+    "Stun": {
+      "categories": ["board"]
+    },
+    "Sudden Impact": {
+      "categories": ["board"]
+    },
+    "Tangle Spider": {
+      "categories": ["board"]
+    },
+    "Telling Time": {
+      "categories": ["board"]
+    },
+    "Tempest of Light": {
+      "categories": ["board"]
+    },
+    "Terror": {
+      "categories": ["board"]
+    },
+    "Time Stop": {
+      "categories": ["board"]
+    },
+    "Twincast": {
+      "categories": ["board"]
+    },
+    "Twitch": {
+      "categories": ["board"]
+    },
+    "Uncontrollable Anger": {
+      "categories": ["board"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    },
+    "Warrior's Honor": {
+      "categories": ["board"]
+    }
+  }
+}

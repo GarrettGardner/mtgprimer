@@ -1,0 +1,130 @@
+{
+  "name": "Theme: Lifegain",
+  "icon": "fas fa-medkit",
+  "categories": {
+    "payoffs": "Lifegain Payoffs",
+    "enablers": "Lifegain Enablers"
+  },
+  "cards": {
+    "Alchemist's Gift": {
+      "categories": ["enablers"]
+    },
+    "Anointed Chorister": {
+      "categories": ["enablers"]
+    },
+    "Archfiend's Vessel": {
+      "categories": ["enablers"]
+    },
+    "Aven Gagglemaster": {
+      "categories": ["enablers"]
+    },
+    "Baneslayer Angel": {
+      "categories": ["enablers"]
+    },
+    "Basri's Acolyte": {
+      "categories": ["enablers"]
+    },
+    "Blood Glutton": {
+      "categories": ["enablers"]
+    },
+    "Bloodfell Caves": {
+      "categories": ["enablers"]
+    },
+    "Blossoming Sands": {
+      "categories": ["enablers"]
+    },
+    "Canopy Stalker": {
+      "categories": ["enablers"]
+    },
+    "Conclave Mentor": {
+      "categories": ["enablers"]
+    },
+    "Dismal Backwater": {
+      "categories": ["enablers"]
+    },
+    "Faith's Fetters": {
+      "categories": ["enablers"]
+    },
+    "Gloom Sower": {
+      "categories": ["enablers"]
+    },
+    "Griffin Aerie": {
+      "categories": ["payoffs"]
+    },
+    "Hooded Blightfang": {
+      "categories": ["enablers"]
+    },
+    "Indulging Patrician": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Jungle Hollow": {
+      "categories": ["enablers"]
+    },
+    "Life Goes On": {
+      "categories": ["enablers"]
+    },
+    "Light of Promise": {
+      "categories": ["payoffs"]
+    },
+    "Mangara, the Diplomat": {
+      "categories": ["enablers"]
+    },
+    "Mazemind Tome": {
+      "categories": ["enablers"]
+    },
+    "Niambi, Esteemed Speaker": {
+      "categories": ["enablers"]
+    },
+    "Radiant Fountain": {
+      "categories": ["enablers"]
+    },
+    "Revitalize": {
+      "categories": ["enablers"]
+    },
+    "Rugged Highlands": {
+      "categories": ["enablers"]
+    },
+    "Sanctum of Stone Fangs": {
+      "categories": ["enablers"]
+    },
+    "Sanguine Indulgence": {
+      "categories": ["payoffs"]
+    },
+    "Scavenging Ooze": {
+      "categories": ["enablers"]
+    },
+    "Scoured Barrens": {
+      "categories": ["enablers"]
+    },
+    "Silversmote Ghoul": {
+      "categories": ["payoffs"]
+    },
+    "Speaker of the Heavens": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Sporeweb Weaver": {
+      "categories": ["enablers"]
+    },
+    "Swiftwater Cliffs": {
+      "categories": ["enablers"]
+    },
+    "Thornwood Falls": {
+      "categories": ["enablers"]
+    },
+    "Tranquil Cove": {
+      "categories": ["enablers"]
+    },
+    "Trufflesnout": {
+      "categories": ["enablers"]
+    },
+    "Vito, Thorn of the Dusk Rose": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Wind-Scarred Crag": {
+      "categories": ["enablers"]
+    },
+    "Witch's Cauldron": {
+      "categories": ["enablers"]
+    }
+  }
+}

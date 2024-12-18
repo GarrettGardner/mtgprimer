@@ -1,0 +1,128 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ambush Paratrooper": {
+      "categories": ["board"]
+    },
+    "Ashnod's Intervention": {
+      "categories": ["board"]
+    },
+    "Calamity's Wake": {
+      "categories": ["other"]
+    },
+    "Curate": {
+      "categories": ["other"]
+    },
+    "Deadly Riposte": {
+      "categories": ["board"]
+    },
+    "Defabricate": {
+      "categories": ["counterspell"]
+    },
+    "Desynchronize": {
+      "categories": ["board"]
+    },
+    "Disenchant": {
+      "categories": ["board"]
+    },
+    "Disfigure": {
+      "categories": ["board"]
+    },
+    "Flow of Knowledge": {
+      "categories": ["other"]
+    },
+    "Fog of War": {
+      "categories": ["board"]
+    },
+    "Gaea's Gift": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Go for the Throat": {
+      "categories": ["board"]
+    },
+    "Goblin Firebomb": {
+      "categories": ["board"]
+    },
+    "Hostile Negotiations": {
+      "categories": ["other"]
+    },
+    "Hurkyl's Final Meditation": {
+      "categories": ["board"]
+    },
+    "Koilos Roc": {
+      "categories": ["board"]
+    },
+    "Liberator, Urza's Battlethopter": {
+      "categories": ["board"]
+    },
+    "Loran's Escape": {
+      "categories": ["board"]
+    },
+    "Machine Over Matter": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Military Discipline": {
+      "categories": ["board"]
+    },
+    "Mishra's Onslaught": {
+      "categories": ["board"]
+    },
+    "Moment of Defiance": {
+      "categories": ["board"]
+    },
+    "Overwhelming Remorse": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Pyrrhic Blast": {
+      "categories": ["board"]
+    },
+    "Scatter Ray": {
+      "categories": ["counterspell"]
+    },
+    "Soul Partition": {
+      "categories": ["board"]
+    },
+    "Stern Lesson": {
+      "categories": ["other"]
+    },
+    "Supply Drop": {
+      "categories": ["board"]
+    },
+    "Tawnos's Tinkering": {
+      "categories": ["board"]
+    },
+    "Union of the Third Path": {
+      "categories": ["other"]
+    },
+    "Unleash Shell": {
+      "categories": ["board"]
+    },
+    "Urza's Command": {
+      "categories": ["board"]
+    },
+    "Urza's Rebuff": {
+      "categories": ["board", "counterspell"]
+    },
+    "Wasteful Harvest": {
+      "categories": ["board"]
+    },
+    "Whirling Strike": {
+      "categories": ["board"]
+    },
+    "Zephyr Sentinel": {
+      "categories": ["board"]
+    }
+  }
+}

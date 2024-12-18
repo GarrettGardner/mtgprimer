@@ -1,0 +1,22 @@
+{
+  "name": "Mechanic: Modal Double-Faced Cards",
+  "icon": "fas fa-angle-double-right",
+  "cards": {
+    "Alrund, God of the Cosmos // Hakka, Whispering Raven": {},
+    "Barkchannel Pathway // Tidechannel Pathway": {},
+    "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {},
+    "Blightstep Pathway // Searstep Pathway": {},
+    "Cosima, God of the Voyage // The Omenkeel": {},
+    "Darkbore Pathway // Slitherbore Pathway": {},
+    "Egon, God of Death // Throne of Death": {},
+    "Esika, God of the Tree // The Prismatic Bridge": {},
+    "Halvar, God of Battle // Sword of the Realms": {},
+    "Hengegate Pathway // Mistgate Pathway": {},
+    "Jorn, God of Winter // Kaldring, the Rimestaff": {},
+    "Kolvori, God of Kinship // The Ringhart Crest": {},
+    "Reidane, God of the Worthy // Valkmira, Protector's Shield": {},
+    "Tergrid, God of Fright // Tergrid's Lantern": {},
+    "Toralf, God of Fury // Toralf's Hammer": {},
+    "Valki, God of Lies // Tibalt, Cosmic Impostor": {}
+  }
+}

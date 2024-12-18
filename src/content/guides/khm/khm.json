@@ -1,0 +1,1664 @@
+{
+  "code": "khm",
+  "formatName": "Kaldheim",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Axgard Braggart": {
+      "number": "1",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Battershield Warrior": {
+      "number": "2",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Battlefield Raptor": {
+      "number": "3",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Beskir Shieldmate": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bound in Gold": {
+      "number": "5",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Clarion Spirit": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Codespell Cleric": {
+      "number": "7",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Divine Gambit": {
+      "number": "8",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Doomskar": {
+      "number": "9",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Doomskar Oracle": {
+      "number": "10",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Giant Ox": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Glorious Protector": {
+      "number": "12",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gods' Hall Guardian": {
+      "number": "13",
+      "cost": ["5", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Goldmaw Champion": {
+      "number": "14",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Halvar, God of Battle // Sword of the Realms": {
+      "number": "15",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Invoke the Divine": {
+      "number": "16",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Iron Verdict": {
+      "number": "17",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kaya's Onslaught": {
+      "number": "18",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Master Skald": {
+      "number": "19",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rally the Ranks": {
+      "number": "20",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Reidane, God of the Worthy // Valkmira, Protector's Shield": {
+      "number": "21",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Resplendent Marshal": {
+      "number": "22",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Revitalize": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Righteous Valkyrie": {
+      "number": "24",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rune of Sustenance": {
+      "number": "25",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Runeforge Champion": {
+      "number": "26",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Search for Glory": {
+      "number": "27",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shepherd of the Cosmos": {
+      "number": "28",
+      "cost": ["4", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sigrid, God-Favored": {
+      "number": "29",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Spectral Steel": {
+      "number": "30",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stalwart Valkyrie": {
+      "number": "31",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Starnheim Courser": {
+      "number": "32",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Starnheim Unleashed": {
+      "number": "33",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Story Seeker": {
+      "number": "34",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Usher of the Fallen": {
+      "number": "35",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Valkyrie's Sword": {
+      "number": "36",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Valor of the Worthy": {
+      "number": "37",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Warhorn Blast": {
+      "number": "38",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wings of the Cosmos": {
+      "number": "39",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Alrund, God of the Cosmos // Hakka, Whispering Raven": {
+      "number": "40",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Alrund's Epiphany": {
+      "number": "41",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Annul": {
+      "number": "42",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ascendant Spirit": {
+      "number": "43",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Augury Raven": {
+      "number": "44",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Avalanche Caller": {
+      "number": "45",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Behold the Multiverse": {
+      "number": "46",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Berg Strider": {
+      "number": "47",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bind the Monster": {
+      "number": "48",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Brinebarrow Intruder": {
+      "number": "49",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cosima, God of the Voyage // The Omenkeel": {
+      "number": "50",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cosmos Charger": {
+      "number": "51",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cyclone Summoner": {
+      "number": "52",
+      "cost": ["5", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Depart the Realm": {
+      "number": "53",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Disdainful Stroke": {
+      "number": "54",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Draugr Thought-Thief": {
+      "number": "55",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Frost Augur": {
+      "number": "56",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Frostpeak Yeti": {
+      "number": "57",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Frostpyre Arcanist": {
+      "number": "58",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Giant's Amulet": {
+      "number": "59",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Glimpse the Cosmos": {
+      "number": "60",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Graven Lore": {
+      "number": "61",
+      "cost": ["3", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Icebind Pillar": {
+      "number": "62",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Icebreaker Kraken": {
+      "number": "63",
+      "cost": ["10", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Inga Rune-Eyes": {
+      "number": "64",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Karfell Harbinger": {
+      "number": "65",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Littjara Kinseekers": {
+      "number": "66",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mists of Littjara": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mistwalker": {
+      "number": "68",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mystic Reflection": {
+      "number": "69",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Orvar, the All-Form": {
+      "number": "70",
+      "cost": ["3", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Pilfering Hawk": {
+      "number": "71",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ravenform": {
+      "number": "72",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Reflections of Littjara": {
+      "number": "73",
+      "cost": ["4", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Run Ashore": {
+      "number": "74",
+      "cost": ["4", "u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rune of Flight": {
+      "number": "75",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Saw It Coming": {
+      "number": "76",
+      "cost": ["1", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Strategic Planning": {
+      "number": "77",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Undersea Invader": {
+      "number": "78",
+      "cost": ["4", "u", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Blood on the Snow": {
+      "number": "79",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bloodsky Berserker": {
+      "number": "80",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Burning-Rune Demon": {
+      "number": "81",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Crippling Fear": {
+      "number": "82",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Deathknell Berserker": {
+      "number": "83",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Demonic Gifts": {
+      "number": "84",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dogged Pursuit": {
+      "number": "85",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Draugr Necromancer": {
+      "number": "86",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Draugr Recruiter": {
+      "number": "87",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Draugr's Helm": {
+      "number": "88",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dread Rider": {
+      "number": "89",
+      "cost": ["5", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dream Devourer": {
+      "number": "90",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Duskwielder": {
+      "number": "91",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Egon, God of Death // Throne of Death": {
+      "number": "92",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Elderfang Disciple": {
+      "number": "93",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Eradicator Valkyrie": {
+      "number": "94",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Feed the Serpent": {
+      "number": "95",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Grim Draugr": {
+      "number": "96",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hailstorm Valkyrie": {
+      "number": "97",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Haunting Voyage": {
+      "number": "98",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Infernal Pet": {
+      "number": "99",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jarl of the Forsaken": {
+      "number": "100",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Karfell Kennel-Master": {
+      "number": "101",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Koma's Faithful": {
+      "number": "102",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Poison the Cup": {
+      "number": "103",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Priest of the Haunted Edge": {
+      "number": "104",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Raise the Draugr": {
+      "number": "105",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Return Upon the Tide": {
+      "number": "106",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rise of the Dread Marn": {
+      "number": "107",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rune of Mortality": {
+      "number": "108",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Skemfar Avenger": {
+      "number": "109",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Skemfar Shadowsage": {
+      "number": "110",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Skull Raid": {
+      "number": "111",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tergrid, God of Fright // Tergrid's Lantern": {
+      "number": "112",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tergrid's Shadow": {
+      "number": "113",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Valki, God of Lies // Tibalt, Cosmic Impostor": {
+      "number": "114",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Varragoth, Bloodsky Sire": {
+      "number": "115",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Vengeful Reaper": {
+      "number": "116",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Village Rites": {
+      "number": "117",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Weigh Down": {
+      "number": "118",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Withercrown": {
+      "number": "119",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Arni Brokenbrow": {
+      "number": "120",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Axgard Cavalry": {
+      "number": "121",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Basalt Ravager": {
+      "number": "122",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {
+      "number": "123",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Breakneck Berserker": {
+      "number": "124",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Calamity Bearer": {
+      "number": "125",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cinderheart Giant": {
+      "number": "126",
+      "cost": ["5", "r", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Craven Hulk": {
+      "number": "127",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Crush the Weak": {
+      "number": "128",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Demon Bolt": {
+      "number": "129",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Doomskar Titan": {
+      "number": "130",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dragonkin Berserker": {
+      "number": "131",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dual Strike": {
+      "number": "132",
+      "cost": ["r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dwarven Hammer": {
+      "number": "133",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dwarven Reinforcements": {
+      "number": "134",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fearless Liberator": {
+      "number": "135",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fearless Pup": {
+      "number": "136",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Frenzied Raider": {
+      "number": "137",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Frost Bite": {
+      "number": "138",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Goldspan Dragon": {
+      "number": "139",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Hagi Mob": {
+      "number": "140",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Immersturm Raider": {
+      "number": "141",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Magda, Brazen Outlaw": {
+      "number": "142",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Open the Omenpaths": {
+      "number": "143",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Provoke the Trolls": {
+      "number": "144",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Quakebringer": {
+      "number": "145",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Reckless Crew": {
+      "number": "146",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Run Amok": {
+      "number": "147",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rune of Speed": {
+      "number": "148",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Seize the Spoils": {
+      "number": "149",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shackles of Treachery": {
+      "number": "150",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Smashing Success": {
+      "number": "151",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Squash": {
+      "number": "152",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tibalt's Trickery": {
+      "number": "153",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Toralf, God of Fury // Toralf's Hammer": {
+      "number": "154",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Tormentor's Helm": {
+      "number": "155",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tundra Fumarole": {
+      "number": "156",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tuskeri Firewalker": {
+      "number": "157",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vault Robber": {
+      "number": "158",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Arachnoform": {
+      "number": "159",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Battle Mammoth": {
+      "number": "160",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Blessing of Frost": {
+      "number": "161",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Blizzard Brawl": {
+      "number": "162",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Boreal Outrider": {
+      "number": "163",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Broken Wings": {
+      "number": "164",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Elderleaf Mentor": {
+      "number": "165",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Elven Bow": {
+      "number": "166",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Elvish Warmaster": {
+      "number": "167",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Esika, God of the Tree // The Prismatic Bridge": {
+      "number": "168",
+      "cost": ["1", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Esika's Chariot": {
+      "number": "169",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fynn, the Fangbearer": {
+      "number": "170",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Glittering Frost": {
+      "number": "171",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gnottvold Recluse": {
+      "number": "172",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Grizzled Outrider": {
+      "number": "173",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Guardian Gladewalker": {
+      "number": "174",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Horizon Seeker": {
+      "number": "175",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Icehide Troll": {
+      "number": "176",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "In Search of Greatness": {
+      "number": "177",
+      "cost": ["g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Jaspera Sentinel": {
+      "number": "178",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jorn, God of Winter // Kaldring, the Rimestaff": {
+      "number": "179",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "King Harald's Revenge": {
+      "number": "180",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Kolvori, God of Kinship // The Ringhart Crest": {
+      "number": "181",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Littjara Glade-Warden": {
+      "number": "182",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Mammoth Growth": {
+      "number": "183",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Masked Vandal": {
+      "number": "184",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Old-Growth Troll": {
+      "number": "185",
+      "cost": ["g", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Path to the World Tree": {
+      "number": "186",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ravenous Lindwurm": {
+      "number": "187",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Realmwalker": {
+      "number": "188",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rootless Yew": {
+      "number": "189",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Roots of Wisdom": {
+      "number": "190",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rune of Might": {
+      "number": "191",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sarulf's Packmate": {
+      "number": "192",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sculptor of Winter": {
+      "number": "193",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Snakeskin Veil": {
+      "number": "194",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Spirit of the Aldergard": {
+      "number": "195",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Struggle for Skemfar": {
+      "number": "196",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Toski, Bearer of Secrets": {
+      "number": "197",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tyvar Kell": {
+      "number": "198",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Vorinclex, Monstrous Raider": {
+      "number": "199",
+      "cost": ["4", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Aegar, the Freezing Flame": {
+      "number": "200",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Arni Slays the Troll": {
+      "number": "201",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ascent of the Worthy": {
+      "number": "202",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Battle for Bretagard": {
+      "number": "203",
+      "cost": ["1", "g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Battle of Frost and Fire": {
+      "number": "204",
+      "cost": ["3", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Bears of Littjara": {
+      "number": "205",
+      "cost": ["1", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Binding the Old Gods": {
+      "number": "206",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Bloodsky Massacre": {
+      "number": "207",
+      "cost": ["1", "b", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fall of the Impostor": {
+      "number": "208",
+      "cost": ["1", "g", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Firja, Judge of Valor": {
+      "number": "209",
+      "cost": ["2", "w", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Firja's Retribution": {
+      "number": "210",
+      "cost": ["1", "w", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Forging the Tyrite Sword": {
+      "number": "211",
+      "cost": ["1", "r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Harald, King of Skemfar": {
+      "number": "212",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Harald Unites the Elves": {
+      "number": "213",
+      "cost": ["2", "b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Immersturm Predator": {
+      "number": "214",
+      "cost": ["2", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Invasion of the Giants": {
+      "number": "215",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kardur, Doomscourge": {
+      "number": "216",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kardur's Vicious Return": {
+      "number": "217",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kaya the Inexorable": {
+      "number": "218",
+      "cost": ["3", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "King Narfi's Betrayal": {
+      "number": "219",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Koll, the Forgemaster": {
+      "number": "220",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Koma, Cosmos Serpent": {
+      "number": "221",
+      "cost": ["3", "g", "g", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Maja, Bretagard Protector": {
+      "number": "222",
+      "cost": ["2", "g", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Moritte of the Frost": {
+      "number": "223",
+      "cost": ["2", "g", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Narfi, Betrayer King": {
+      "number": "224",
+      "cost": ["3", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Niko Aris": {
+      "number": "225",
+      "cost": ["x", "w", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Niko Defies Destiny": {
+      "number": "226",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Raven's Warning": {
+      "number": "227",
+      "cost": ["1", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sarulf, Realm Eater": {
+      "number": "228",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Showdown of the Skalds": {
+      "number": "229",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Svella, Ice Shaper": {
+      "number": "230",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Three Seasons": {
+      "number": "231",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Trickster-God's Heist": {
+      "number": "232",
+      "cost": ["2", "u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vega, the Watcher": {
+      "number": "233",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Waking the Trolls": {
+      "number": "234",
+      "cost": ["4", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bloodline Pretender": {
+      "number": "235",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Colossal Plow": {
+      "number": "236",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cosmos Elixir": {
+      "number": "237",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Funeral Longboat": {
+      "number": "238",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Goldvein Pick": {
+      "number": "239",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Maskwood Nexus": {
+      "number": "240",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pyre of Heroes": {
+      "number": "241",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Raiders' Karve": {
+      "number": "242",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Raven Wings": {
+      "number": "243",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Replicating Ring": {
+      "number": "244",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Runed Crown": {
+      "number": "245",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Scorn Effigy": {
+      "number": "246",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Weathered Runestone": {
+      "number": "247",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Alpine Meadow": {
+      "number": "248",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Arctic Treeline": {
+      "number": "249",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Axgard Armory": {
+      "number": "250",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Barkchannel Pathway // Tidechannel Pathway": {
+      "number": "251",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Blightstep Pathway // Searstep Pathway": {
+      "number": "252",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Bretagard Stronghold": {
+      "number": "253",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Darkbore Pathway // Slitherbore Pathway": {
+      "number": "254",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Faceless Haven": {
+      "number": "255",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Gates of Istfell": {
+      "number": "256",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Glacial Floodplain": {
+      "number": "257",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Gnottvold Slumbermound": {
+      "number": "258",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Great Hall of Starnheim": {
+      "number": "259",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Hengegate Pathway // Mistgate Pathway": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Highland Forest": {
+      "number": "261",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Ice Tunnel": {
+      "number": "262",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Immersturm Skullcairn": {
+      "number": "263",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Littjara Mirrorlake": {
+      "number": "264",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Port of Karfell": {
+      "number": "265",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Rimewood Falls": {
+      "number": "266",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Shimmerdrift Vale": {
+      "number": "267",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Skemfar Elderhall": {
+      "number": "268",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Snowfield Sinkhole": {
+      "number": "269",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Sulfurous Mire": {
+      "number": "270",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Surtland Frostpyre": {
+      "number": "271",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Tyrite Sanctum": {
+      "number": "272",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Volatile Fjord": {
+      "number": "273",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Woodland Chasm": {
+      "number": "274",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "The World Tree": {
+      "number": "275",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

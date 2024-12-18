@@ -1,0 +1,14 @@
+{
+  "code": "dbl",
+  "formatName": "Innistrad: Double Feature",
+  "name": "Full Card Gallery",
+  "includeFormats": ["mid", "vow"],
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {}
+}

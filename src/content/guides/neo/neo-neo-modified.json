@@ -1,0 +1,61 @@
+{
+  "name": "Mechanic: Modified",
+  "icon": "fas fa-hat-cowboy",
+  "categories": {
+    "reconfigure": "",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Akki Ember-Keeper": {
+      "categories": ["payoff"]
+    },
+    "Ambitious Assault": {
+      "categories": ["payoff"]
+    },
+    "Flame Discharge": {
+      "categories": ["payoff"]
+    },
+    "Goro-Goro, Disciple of Ryusei": {
+      "categories": ["payoff"]
+    },
+    "Guardians of Oboro": {
+      "categories": ["payoff"]
+    },
+    "Heir of the Ancient Fang": {
+      "categories": ["payoff"]
+    },
+    "Invigorating Hot Spring": {
+      "categories": ["payoff"]
+    },
+    "Jugan Defends the Temple // Remnant of the Rising Star": {
+      "categories": ["payoff"]
+    },
+    "Kami's Flare": {
+      "categories": ["payoff"]
+    },
+    "Kodama of the West Tree": {
+      "categories": ["payoff"]
+    },
+    "Lethal Exploit": {
+      "categories": ["payoff"]
+    },
+    "Orochi Merge-Keeper": {
+      "categories": ["payoff"]
+    },
+    "Thundering Raiju": {
+      "categories": ["payoff"]
+    },
+    "Towashi Guide-Bot": {
+      "categories": ["payoff"]
+    },
+    "Unforgiving One": {
+      "categories": ["payoff"]
+    },
+    "Upriser Renegade": {
+      "categories": ["payoff"]
+    },
+    "Walking Skyscraper": {
+      "categories": ["payoff"]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Theme: Spells",
+  "icon": "fas fa-hat-wizard",
+  "categories": {
+    "payoffs": "Spell Payoffs"
+  },
+  "cards": {
+    "Double Vision": {
+      "categories": ["payoffs"]
+    },
+    "Experimental Overload": {
+      "categories": ["payoffs"]
+    },
+    "Frantic Inventory": {
+      "categories": ["payoffs"]
+    },
+    "Goblin Wizardry": {
+      "categories": ["payoffs"]
+    },
+    "Heartfire Immolator": {
+      "categories": ["payoffs"]
+    },
+    "Jeskai Elder": {
+      "categories": ["payoffs"]
+    },
+    "Kinetic Augur": {
+      "categories": ["payoffs"]
+    },
+    "Mistral Singer": {
+      "categories": ["payoffs"]
+    },
+    "Riddleform": {
+      "categories": ["payoffs"]
+    },
+    "Shipwreck Dowser": {
+      "categories": ["payoffs"]
+    },
+    "Spellgorger Weird": {
+      "categories": ["payoffs"]
+    },
+    "Stormwing Entity": {
+      "categories": ["payoffs"]
+    },
+    "Vodalian Arcanist": {
+      "categories": ["payoffs"]
+    }
+  }
+}

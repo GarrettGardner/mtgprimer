@@ -1,0 +1,193 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Aven Mindcensor": {
+      "categories": ["board"]
+    },
+    "Blur of Blades": {
+      "categories": ["board"]
+    },
+    "Brute Strength": {
+      "categories": ["board"]
+    },
+    "Cast Out": {
+      "categories": ["board"]
+    },
+    "Censor": {
+      "categories": ["counterspell"]
+    },
+    "Chandra's Defeat": {
+      "categories": ["board"]
+    },
+    "Collected Company": {
+      "categories": ["board"]
+    },
+    "Commit (Commit / Memory)": {
+      "categories": ["board"]
+    },
+    "Consign": {
+      "categories": ["board"]
+    },
+    "Cooperate": {
+      "categories": ["board"]
+    },
+    "Countervailing Winds": {
+      "categories": ["counterspell"]
+    },
+    "Deem Worthy": {
+      "categories": ["board"],
+      "cost": ["3", "r"]
+    },
+    "Destined": {
+      "categories": ["board"]
+    },
+    "Dissenter's Deliverance": {
+      "categories": ["board"]
+    },
+    "Djeru's Resolve": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Failure": {
+      "categories": ["counterspell"]
+    },
+    "Farm": {
+      "categories": ["board"]
+    },
+    "Final Reward": {
+      "categories": ["board"]
+    },
+    "Forsake the Worldly": {
+      "categories": ["board"]
+    },
+    "Glorious End": {
+      "categories": ["board", "counterspell"]
+    },
+    "Haze of Pollen": {
+      "categories": ["board"]
+    },
+    "Heaven": {
+      "categories": ["board"]
+    },
+    "Hieroglyphic Illumination": {
+      "categories": ["board"]
+    },
+    "Impeccable Timing": {
+      "categories": ["board"]
+    },
+    "In Oketra's Name": {
+      "categories": ["board"]
+    },
+    "Leave": {
+      "categories": ["board"]
+    },
+    "Life Goes On": {
+      "categories": ["other"]
+    },
+    "Magma Spray": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Mind": {
+      "categories": ["other"]
+    },
+    "Nimble Obstructionist": {
+      "categories": ["board", "counterspell"]
+    },
+    "Onward": {
+      "categories": ["board"]
+    },
+    "Open Fire": {
+      "categories": ["board"]
+    },
+    "Pact of Negation": {
+      "categories": ["counterspell"]
+    },
+    "Pouncing Cheetah": {
+      "categories": ["board"]
+    },
+    "Prepare": {
+      "categories": ["board"]
+    },
+    "Pull from Tomorrow": {
+      "categories": ["other"]
+    },
+    "Pursue Glory": {
+      "categories": ["board"]
+    },
+    "Reduce": {
+      "categories": ["counterspell"]
+    },
+    "Refuse": {
+      "categories": ["board"]
+    },
+    "Renewed Faith": {
+      "categories": ["other"],
+      "cost": ["1", "w"]
+    },
+    "Samut, Voice of Dissent": {
+      "categories": ["board"]
+    },
+    "Scarab Feast": {
+      "categories": ["other"]
+    },
+    "Shadow of the Grave": {
+      "categories": ["other"]
+    },
+    "Shed Weakness": {
+      "categories": ["board"]
+    },
+    "Shefet Monitor": {
+      "categories": ["other"],
+      "cost": ["3", "g"]
+    },
+    "Sphinx's Revelation": {
+      "categories": ["other"]
+    },
+    "Splendid Agony": {
+      "categories": ["board"]
+    },
+    "Start": {
+      "categories": ["board"]
+    },
+    "Stinging Shot": {
+      "categories": ["board"]
+    },
+    "Struggle": {
+      "categories": ["board"]
+    },
+    "Supernatural Stamina": {
+      "categories": ["board"]
+    },
+    "Supreme Will": {
+      "categories": ["counterspell"]
+    },
+    "Synchronized Strike": {
+      "categories": ["board"]
+    },
+    "Vizier of Deferment": {
+      "categories": ["board"]
+    },
+    "Vizier of Tumbling Sands": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Winds of Rebuke": {
+      "categories": ["board"]
+    }
+  }
+}

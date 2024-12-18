@@ -1,0 +1,129 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Meltdown": {
+      "categories": ["board"]
+    },
+    "Aether Tradewinds": {
+      "categories": ["board"]
+    },
+    "Alley Evasion": {
+      "categories": ["board"]
+    },
+    "Appetite for the Unnatural": {
+      "categories": ["board"]
+    },
+    "Blossoming Defense": {
+      "categories": ["board"]
+    },
+    "Built to Last": {
+      "categories": ["board"]
+    },
+    "Built to Smash": {
+      "categories": ["board"]
+    },
+    "Ceremonious Rejection": {
+      "categories": ["counterspell"]
+    },
+    "Chandra's Pyrohelix": {
+      "categories": ["board"]
+    },
+    "Commencement of Festivities": {
+      "categories": ["board"]
+    },
+    "Disallow": {
+      "categories": ["counterspell"]
+    },
+    "Essence Extraction": {
+      "categories": ["board"]
+    },
+    "Fatal Push": {
+      "categories": ["board"]
+    },
+    "Fateful Showdown": {
+      "categories": ["board"]
+    },
+    "Glimmer of Genius": {
+      "categories": ["other"]
+    },
+    "Harnessed Lightning": {
+      "categories": ["board"]
+    },
+    "Heroic Intervention": {
+      "categories": ["board"]
+    },
+    "Highspire Infusion": {
+      "categories": ["board"]
+    },
+    "Hungry Flames": {
+      "categories": ["board"]
+    },
+    "Illusionist's Stratagem": {
+      "categories": ["board"]
+    },
+    "Impeccable Timing": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Invigorated Rampage": {
+      "categories": ["board"]
+    },
+    "Leave in the Dust": {
+      "categories": ["board"]
+    },
+    "Make Obsolete": {
+      "categories": ["board"]
+    },
+    "Metallic Rebuke": {
+      "categories": ["counterspell"]
+    },
+    "Ornamental Courage": {
+      "categories": ["board"]
+    },
+    "Paradoxical Outcome": {
+      "categories": ["board"]
+    },
+    "Precise Strike": {
+      "categories": ["board"]
+    },
+    "Revolutionary Rebuff": {
+      "categories": ["counterspell"]
+    },
+    "Rush of Vitality": {
+      "categories": ["board"]
+    },
+    "Select for Inspection": {
+      "categories": ["board"]
+    },
+    "Shielded Aether Thief": {
+      "categories": ["board"]
+    },
+    "Skywhaler's Shot": {
+      "categories": ["board"]
+    },
+    "Subtle Strike": {
+      "categories": ["board"]
+    },
+    "Torrential Gearhulk": {
+      "categories": ["board"]
+    },
+    "Unlicensed Disintegration": {
+      "categories": ["board"]
+    },
+    "Welding Sparks": {
+      "categories": ["board"]
+    },
+    "Whir of Invention": {
+      "categories": ["board"]
+    }
+  }
+}

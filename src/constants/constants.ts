@@ -1,6 +1,6 @@
-import type { IFilterOptions, IFilters } from "@/models";
+import type { IFilterOptions, IFilterSelections } from "@/models";
 
-export const DEFAULT_FILTERS: IFilters = {
+export const DEFAULT_FILTER_SELECTIONS: IFilterSelections = {
   grouping: "mv",
   ordering: "rarity",
   view: "card",

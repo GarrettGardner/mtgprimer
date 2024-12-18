@@ -1,0 +1,120 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Tradewinds": {
+      "categories": ["board"]
+    },
+    "Altar's Reap": {
+      "categories": ["board"]
+    },
+    "Brainstorm": {
+      "categories": ["board"]
+    },
+    "Brimstone Volley": {
+      "categories": ["board"]
+    },
+    "Crookclaw Transmuter": {
+      "categories": ["board"]
+    },
+    "Dream Fracture": {
+      "categories": ["board"]
+    },
+    "Echoing Courage": {
+      "categories": ["board"]
+    },
+    "Fact or Fiction": {
+      "categories": ["board"]
+    },
+    "Hunger of the Howlpack": {
+      "categories": ["board"]
+    },
+    "Kor Chant": {
+      "categories": ["board"]
+    },
+    "Misdirection": {
+      "categories": ["board"]
+    },
+    "Moment of Heroism": {
+      "categories": ["board"]
+    },
+    "Mortify": {
+      "categories": ["board"]
+    },
+    "Nature's Claim": {
+      "categories": ["board"]
+    },
+    "Orcish Cannonade": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Predator's Howl": {
+      "categories": ["board"]
+    },
+    "Provoke": {
+      "categories": ["board"]
+    },
+    "Reckless Spite": {
+      "categories": ["board"]
+    },
+    "Relic Crush": {
+      "categories": ["board"]
+    },
+    "Respite": {
+      "categories": ["board"]
+    },
+    "Rout": {
+      "categories": ["board"]
+    },
+    "Skeletal Scrying": {
+      "categories": ["board"]
+    },
+    "Split Decision": {
+      "categories": ["board"]
+    },
+    "Spontaneous Combustion": {
+      "categories": ["board"]
+    },
+    "Stave Off": {
+      "categories": ["board"]
+    },
+    "Stifle": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["board"]
+    },
+    "Tragic Slip": {
+      "categories": ["board"]
+    },
+    "Trumpet Blast": {
+      "categories": ["board"]
+    },
+    "Turn the Tide": {
+      "categories": ["board"]
+    },
+    "Uncontrollable Anger": {
+      "categories": ["board"]
+    },
+    "Valor Made Real": {
+      "categories": ["board"]
+    },
+    "Vedalken Orrery": {
+      "categories": ["board"]
+    },
+    "Volcanic Fallout": {
+      "categories": ["board"]
+    },
+    "Wrap in Vigor": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Agony Warp": {
+      "categories": ["board"]
+    },
+    "Apostle's Blessing": {
+      "categories": ["board"],
+      "cost": ["1"]
+    },
+    "Blades of Velis Vel": {
+      "categories": ["board"]
+    },
+    "Brute Force": {
+      "categories": ["board"]
+    },
+    "Burst Lightning": {
+      "categories": ["board"]
+    },
+    "Celestial Purge": {
+      "categories": ["board"]
+    },
+    "Combust": {
+      "categories": ["board"]
+    },
+    "Comet Storm": {
+      "categories": ["board"]
+    },
+    "Cryptic Command": {
+      "categories": ["board", "counterspell"]
+    },
+    "Death Denied": {
+      "categories": ["other"]
+    },
+    "Dismember": {
+      "categories": ["board"],
+      "cost": ["1"]
+    },
+    "Dispatch": {
+      "categories": ["board"]
+    },
+    "Electrolyze": {
+      "categories": ["board"]
+    },
+    "Fiery Fall": {
+      "categories": ["board"]
+    },
+    "Flashfreeze": {
+      "categories": ["counterspell"]
+    },
+    "Fortify": {
+      "categories": ["board"]
+    },
+    "Grim Affliction": {
+      "categories": ["board"]
+    },
+    "Gut Shot": {
+      "categories": ["board"]
+    },
+    "Hurkyl's Recall": {
+      "categories": ["other"]
+    },
+    "Instill Infection": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Mana Leak": {
+      "categories": ["counterspell"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Mutagenic Growth": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Mystic Snake": {
+      "categories": ["board", "counterspell"]
+    },
+    "Nameless Inversion": {
+      "categories": ["board"]
+    },
+    "Otherworldly Journey": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Remand": {
+      "categories": ["counterspell"]
+    },
+    "Repeal": {
+      "categories": ["board"]
+    },
+    "Scatter the Seeds": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Sigil Blessing": {
+      "categories": ["board"]
+    },
+    "Smash to Smithereens": {
+      "categories": ["other"]
+    },
+    "Steady Progress": {
+      "categories": ["board"]
+    },
+    "Stoic Rebuttal": {
+      "categories": ["counterspell"],
+      "cost": ["u", "u"]
+    },
+    "Sundering Vitae": {
+      "categories": ["other"],
+      "cost": []
+    },
+    "Surgical Extraction": {
+      "categories": ["other"],
+      "cost": []
+    },
+    "Sylvan Bounty": {
+      "categories": ["other"]
+    },
+    "Telling Time": {
+      "categories": ["other"]
+    },
+    "Vapor Snag": {
+      "categories": ["board"]
+    },
+    "Vendilion Clique": {
+      "categories": ["board"]
+    },
+    "Vines of Vastwood": {
+      "categories": ["board"]
+    },
+    "Wings of Velis Vel": {
+      "categories": ["board"]
+    },
+    "Wrecking Ball": {
+      "categories": ["board"]
+    }
+  }
+}

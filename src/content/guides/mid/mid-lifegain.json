@@ -1,0 +1,85 @@
+{
+  "cards": {
+    "Ambitious Farmhand // Seasoned Cathar": {
+      "categories": ["lifegain"]
+    },
+    "Angelfire Ignition": {
+      "categories": ["lifegain"]
+    },
+    "Arrogant Outlaw": {
+      "categories": ["lifegain"]
+    },
+    "Blessed Defiance": {
+      "categories": ["lifegain"]
+    },
+    "Curse of Leeches // Leeching Lurker": {
+      "categories": ["lifegain"]
+    },
+    "Dawnhart Rejuvenator": {
+      "categories": ["lifegain"]
+    },
+    "Dennick, Pious Apprentice // Dennick, Pious Apparition": {
+      "categories": ["lifegain"]
+    },
+    "Enduring Angel // Angelic Enforcer": {
+      "categories": ["lifegain"]
+    },
+    "Faithful Mending": {
+      "categories": ["lifegain"]
+    },
+    "Fleshtaker": {
+      "categories": ["lifegain"]
+    },
+    "Graveyard Trespasser // Graveyard Glutton": {
+      "categories": ["lifegain"]
+    },
+    "Hostile Hostel // Creeping Inn": {
+      "categories": ["lifegain"]
+    },
+    "Hungry for More": {
+      "categories": ["lifegain"]
+    },
+    "Intrepid Adversary": {
+      "categories": ["lifegain"]
+    },
+    "Jerren, Corrupted Bishop // Ormendahl, the Corrupter": {
+      "categories": ["lifegain"]
+    },
+    "Liesa, Forgotten Archangel": {
+      "categories": ["lifegain"]
+    },
+    "Lunarch Veteran // Luminous Phantom": {
+      "categories": ["lifegain"]
+    },
+    "Mask of Griselbrand": {
+      "categories": ["lifegain"]
+    },
+    "Rise of the Ants": {
+      "categories": ["lifegain"]
+    },
+    "Ritual Guardian": {
+      "categories": ["lifegain"]
+    },
+    "Sigarda's Splendor": {
+      "categories": ["lifegain"]
+    },
+    "Sunset Revelry": {
+      "categories": ["lifegain"]
+    },
+    "Teferi, Who Slows the Sunset": {
+      "categories": ["lifegain"]
+    },
+    "The Celestus": {
+      "categories": ["lifegain"]
+    },
+    "The Meathook Massacre": {
+      "categories": ["lifegain"]
+    },
+    "Turn the Earth": {
+      "categories": ["lifegain"]
+    },
+    "Willow Geist": {
+      "categories": ["lifegain"]
+    }
+  }
+}

@@ -33,20 +33,27 @@ export const TemplateHome = (props: { template: ITemplateHome }) => {
           </div>
           <div className="text">
             <p>
-              MTG Primer offers tools to help you break down limited Magic: The Gathering formats so you can learn to
-              play a new format or brush up on an old one.
+              MTG Primer offers tools to help you break down limited Magic: The
+              Gathering formats so you can learn to play a new format or brush
+              up on an old one.
             </p>
             <p>
-              First launched with a <Link href="/khans-of-tarkir/morphs">morphs guide</Link> for Khans of Tarkir in
-              2014, MTG Primer has since grown to include instant speed guides, common Effect-o-pedia effects,
-              interaction guides, and format themes. Check it out!
+              First launched with a{" "}
+              <Link href="/khans-of-tarkir/morphs">morphs guide</Link> for Khans
+              of Tarkir in 2014, MTG Primer has since grown to include instant
+              speed guides, common Effect-o-pedia effects, interaction guides,
+              and format themes. Check it out!
             </p>
             <p>
               MTG Primer was created by Garrett Gardner and is also now{" "}
-              <Link href="https://github.com/GarrettGardner/mtgprimer" target="_blank">
+              <Link
+                href="https://github.com/GarrettGardner/mtgprimer"
+                target="_blank"
+              >
                 open source on GitHub
               </Link>
-              , so please feel free to contribute! (Especially if you find an error!)
+              , so please feel free to contribute! (Especially if you find an
+              error!)
             </p>
           </div>
         </div>

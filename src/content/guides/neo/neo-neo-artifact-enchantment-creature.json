@@ -1,0 +1,277 @@
+{
+  "name": "Theme: Artifact/Enchantment Creatures",
+  "icon": "fas fa-mug-hot",
+  "categories": {
+    "artifact": "Artifact Creatures",
+    "enchantment": "Enchantment Creatures"
+  },
+  "cards": {
+    "Acquisition Octopus": {
+      "categories": ["artifact"]
+    },
+    "Akki Ember-Keeper": {
+      "categories": ["enchantment"]
+    },
+    "Armguard Familiar": {
+      "categories": ["artifact"]
+    },
+    "Automated Artificer": {
+      "categories": ["artifact"]
+    },
+    "Azusa's Many Journeys // Likeness of the Seeker": {
+      "categories": ["enchantment"]
+    },
+    "Bamboo Grove Archer": {
+      "categories": ["enchantment"]
+    },
+    "Bearer of Memory": {
+      "categories": ["enchantment"]
+    },
+    "Befriending the Moths // Imperial Moth": {
+      "categories": ["enchantment"]
+    },
+    "Behold the Unspeakable // Vision of the Unspeakable": {
+      "categories": ["enchantment"]
+    },
+    "Blade of the Oni": {
+      "categories": ["artifact"]
+    },
+    "Boseiju Reaches Skyward // Branch of Boseiju": {
+      "categories": ["enchantment"]
+    },
+    "Bronzeplate Boar": {
+      "categories": ["artifact"]
+    },
+    "Chainflail Centipede": {
+      "categories": ["artifact"]
+    },
+    "Circuit Mender": {
+      "categories": ["artifact"]
+    },
+    "Cloudsteel Kirin": {
+      "categories": ["artifact"]
+    },
+    "Colossal Skyturtle": {
+      "categories": ["enchantment"]
+    },
+    "Containment Construct": {
+      "categories": ["artifact"]
+    },
+    "Covert Technician": {
+      "categories": ["artifact"]
+    },
+    "Dockside Chef": {
+      "categories": ["enchantment"]
+    },
+    "Dramatist's Puppet": {
+      "categories": ["artifact"]
+    },
+    "Eiganjo Exemplar": {
+      "categories": ["enchantment"]
+    },
+    "Enthusiastic Mechanaut": {
+      "categories": ["artifact"]
+    },
+    "Era of Enlightenment // Hand of Enlightenment": {
+      "categories": ["enchantment"]
+    },
+    "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki": {
+      "categories": ["enchantment"]
+    },
+    "Fang of Shigeki": {
+      "categories": ["enchantment"]
+    },
+    "Gloomshrieker": {
+      "categories": ["enchantment"]
+    },
+    "Go-Shintai of Ancient Wars": {
+      "categories": ["enchantment"]
+    },
+    "Go-Shintai of Boundless Vigor": {
+      "categories": ["enchantment"]
+    },
+    "Go-Shintai of Hidden Cruelty": {
+      "categories": ["enchantment"]
+    },
+    "Go-Shintai of Lost Wisdom": {
+      "categories": ["enchantment"]
+    },
+    "Go-Shintai of Shared Purpose": {
+      "categories": ["enchantment"]
+    },
+    "Golden-Tail Disciple": {
+      "categories": ["enchantment"]
+    },
+    "Greater Tanuki": {
+      "categories": ["enchantment"]
+    },
+    "Hidetsugu Consumes All // Vessel of the All-Consuming": {
+      "categories": ["enchantment"]
+    },
+    "Hotshot Mechanic": {
+      "categories": ["artifact"]
+    },
+    "Inventive Iteration // Living Breakthrough": {
+      "categories": ["enchantment"]
+    },
+    "Iron Apprentice": {
+      "categories": ["artifact"]
+    },
+    "Ironhoof Boar": {
+      "categories": ["artifact"]
+    },
+    "Jugan Defends the Temple // Remnant of the Rising Star": {
+      "categories": ["enchantment"]
+    },
+    "Jukai Naturalist": {
+      "categories": ["enchantment"]
+    },
+    "Jukai Preserver": {
+      "categories": ["enchantment"]
+    },
+    "Kumano Faces Kakkazan // Etching of Kumano": {
+      "categories": ["enchantment"]
+    },
+    "Leech Gauntlet": {
+      "categories": ["artifact"]
+    },
+    "Life of Toshiro Umezawa // Memory of Toshiro": {
+      "categories": ["enchantment"]
+    },
+    "Lion Sash": {
+      "categories": ["artifact"]
+    },
+    "Lizard Blades": {
+      "categories": ["artifact"]
+    },
+    "Michiko's Reign of Truth // Portrait of Michiko": {
+      "categories": ["enchantment"]
+    },
+    "Mirrorshell Crab": {
+      "categories": ["artifact"]
+    },
+    "Moon-Circuit Hacker": {
+      "categories": ["enchantment"]
+    },
+    "Moonfolk Puzzlemaker": {
+      "categories": ["artifact"]
+    },
+    "Mukotai Ambusher": {
+      "categories": ["artifact"]
+    },
+    "Network Disruptor": {
+      "categories": ["artifact"]
+    },
+    "Ogre-Head Helm": {
+      "categories": ["artifact"]
+    },
+    "Okiba Reckoner Raid // Nezumi Road Captain": {
+      "categories": ["enchantment"]
+    },
+    "Papercraft Decoy": {
+      "categories": ["artifact"]
+    },
+    "Patchwork Automaton": {
+      "categories": ["artifact"]
+    },
+    "Rabbit Battery": {
+      "categories": ["artifact"]
+    },
+    "Reinforced Ronin": {
+      "categories": ["artifact"]
+    },
+    "Reito Sentinel": {
+      "categories": ["artifact"]
+    },
+    "Runaway Trash-Bot": {
+      "categories": ["artifact"]
+    },
+    "Saiba Trespassers": {
+      "categories": ["artifact"]
+    },
+    "Scrapyard Steelbreaker": {
+      "categories": ["artifact"]
+    },
+    "Searchlight Companion": {
+      "categories": ["artifact"]
+    },
+    "Shigeki, Jukai Visionary": {
+      "categories": ["enchantment"]
+    },
+    "Shrine Steward": {
+      "categories": ["artifact"]
+    },
+    "Simian Sling": {
+      "categories": ["artifact"]
+    },
+    "Sky-Blessed Samurai": {
+      "categories": ["enchantment"]
+    },
+    "Spirited Companion": {
+      "categories": ["enchantment"]
+    },
+    "Sunblade Samurai": {
+      "categories": ["enchantment"]
+    },
+    "Tales of Master Seshiro // Seshiro's Living Legacy": {
+      "categories": ["enchantment"]
+    },
+    "Teachings of the Kirin // Kirin-Touched Orochi": {
+      "categories": ["enchantment"]
+    },
+    "The Dragon-Kami Reborn // Dragon-Kami's Egg": {
+      "categories": ["enchantment"]
+    },
+    "The Fall of Lord Konda // Fragment of Konda": {
+      "categories": ["enchantment"]
+    },
+    "The Kami War // O-Kagachi Made Manifest": {
+      "categories": ["enchantment"]
+    },
+    "The Long Reach of Night // Animus of Night's Reach": {
+      "categories": ["enchantment"]
+    },
+    "The Modern Age // Vector Glider": {
+      "categories": ["enchantment"]
+    },
+    "The Reality Chip": {
+      "categories": ["artifact"]
+    },
+    "The Restoration of Eiganjo // Architect of Restoration": {
+      "categories": ["enchantment"]
+    },
+    "The Shattered States Era // Nameless Conqueror": {
+      "categories": ["enchantment"]
+    },
+    "Towashi Guide-Bot": {
+      "categories": ["artifact"]
+    },
+    "Towashi Songshaper": {
+      "categories": ["artifact"]
+    },
+    "Tribute to Horobi // Echo of Death's Wail": {
+      "categories": ["enchantment"]
+    },
+    "Twinshot Sniper": {
+      "categories": ["artifact"]
+    },
+    "Undercity Scrounger": {
+      "categories": ["artifact"]
+    },
+    "Unstoppable Ogre": {
+      "categories": ["artifact"]
+    },
+    "Virus Beetle": {
+      "categories": ["artifact"]
+    },
+    "Walking Skyscraper": {
+      "categories": ["artifact"]
+    },
+    "Weaver of Harmony": {
+      "categories": ["enchantment"]
+    },
+    "Webspinner Cuff": {
+      "categories": ["artifact"]
+    }
+  }
+}

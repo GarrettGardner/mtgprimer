@@ -1,0 +1,163 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Annihilate": {
+      "categories": ["removal"]
+    },
+    "Balance": {
+      "categories": ["boardwipe"]
+    },
+    "Braids, Cabal Minion": {
+      "categories": ["other"]
+    },
+    "Burning Vengeance": {
+      "categories": ["removal"]
+    },
+    "Carbonize": {
+      "categories": ["removal"]
+    },
+    "Chain Lightning": {
+      "categories": ["removal"]
+    },
+    "Control Magic": {
+      "categories": ["removal"]
+    },
+    "Crater Hellion": {
+      "categories": ["boardwipe"]
+    },
+    "Dack Fayden": {
+      "categories": ["other"]
+    },
+    "Duplicant": {
+      "categories": ["removal"]
+    },
+    "Eyeblight's Ending": {
+      "categories": ["removal"]
+    },
+    "Faith's Fetters": {
+      "categories": ["removal"]
+    },
+    "Firebolt": {
+      "categories": ["removal"]
+    },
+    "Flame Jab": {
+      "categories": ["removal"]
+    },
+    "Gaseous Form": {
+      "categories": ["other"]
+    },
+    "Ghitu Slinger": {
+      "categories": ["removal"]
+    },
+    "Havoc Demon": {
+      "categories": ["boardwipe"]
+    },
+    "Honden of Infinite Rage": {
+      "categories": ["removal"]
+    },
+    "Hydroblast": {
+      "categories": ["removal"]
+    },
+    "Innocent Blood": {
+      "categories": ["removal"]
+    },
+    "Jace, the Mind Sculptor": {
+      "categories": ["bounce"]
+    },
+    "Keldon Champion": {
+      "categories": ["removal"]
+    },
+    "Malicious Affliction": {
+      "categories": ["removal"]
+    },
+    "Man-o'-War": {
+      "categories": ["bounce"]
+    },
+    "Mogg Fanatic": {
+      "categories": ["removal"]
+    },
+    "Nature's Claim": {
+      "categories": ["other"]
+    },
+    "Nausea": {
+      "categories": ["boardwipe"]
+    },
+    "Nekrataal": {
+      "categories": ["removal"]
+    },
+    "Nevinyrral's Disk": {
+      "categories": ["boardwipe"]
+    },
+    "Pacifism": {
+      "categories": ["removal"]
+    },
+    "Phyrexian Ingester": {
+      "categories": ["removal"]
+    },
+    "Pyroblast": {
+      "categories": ["removal"]
+    },
+    "Pyrokinesis": {
+      "categories": ["removal"]
+    },
+    "Roots": {
+      "categories": ["removal"]
+    },
+    "Seal of Cleansing": {
+      "categories": ["other"]
+    },
+    "Second Thoughts": {
+      "categories": ["removal"]
+    },
+    "Siege-Gang Commander": {
+      "categories": ["removal"]
+    },
+    "Silent Departure": {
+      "categories": ["bounce"]
+    },
+    "Stingscourger": {
+      "categories": ["bounce"]
+    },
+    "Stupefying Touch": {
+      "categories": ["other"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["removal"]
+    },
+    "Ticking Gnomes": {
+      "categories": ["removal"]
+    },
+    "Toxic Deluge": {
+      "categories": ["boardwipe"]
+    },
+    "Tragic Slip": {
+      "categories": ["removal"]
+    },
+    "Unexpectedly Absent": {
+      "categories": ["removal"]
+    },
+    "Vindicate": {
+      "categories": ["removal"]
+    },
+    "Void": {
+      "categories": ["boardwipe"]
+    },
+    "War Priest of Thune": {
+      "categories": ["other"]
+    },
+    "Wrath of God": {
+      "categories": ["boardwipe"]
+    },
+    "Zealous Persecution": {
+      "categories": ["boardwipe"]
+    }
+  }
+}

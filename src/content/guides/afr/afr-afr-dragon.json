@@ -1,0 +1,85 @@
+{
+  "name": "Theme: Dragons",
+  "icon": "fas fa-dragon",
+  "categories": {
+    "dragon": "Dragon Cards",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Adult Gold Dragon": {
+      "categories": ["dragon"]
+    },
+    "Black Dragon": {
+      "categories": ["dragon"]
+    },
+    "Blue Dragon": {
+      "categories": ["dragon"]
+    },
+    "Cave of the Frost Dragon": {
+      "categories": ["dragon"]
+    },
+    "Dragon Turtle": {
+      "categories": ["dragon"]
+    },
+    "Dragon's Disciple": {
+      "categories": ["payoff"]
+    },
+    "Dragon's Fire": {
+      "categories": ["payoff"]
+    },
+    "Ebondeath, Dracolich": {
+      "categories": ["dragon"]
+    },
+    "Feywild Trickster": {
+      "categories": ["dragon"]
+    },
+    "Grand Master of Flowers": {
+      "categories": ["dragon"]
+    },
+    "Green Dragon": {
+      "categories": ["dragon"]
+    },
+    "Icingdeath, Frost Tyrant": {
+      "categories": ["dragon"]
+    },
+    "Inferno of the Star Mounts": {
+      "categories": ["dragon"]
+    },
+    "Iymrith, Desert Doom": {
+      "categories": ["dragon"]
+    },
+    "Jaded Sell-Sword": {
+      "categories": ["dragon"]
+    },
+    "Minion of the Mighty": {
+      "categories": ["payoff"]
+    },
+    "Mordenkainen's Polymorph": {
+      "categories": ["dragon"]
+    },
+    "Nadaar, Selfless Paladin": {
+      "categories": ["dragon"]
+    },
+    "Old Gnawbone": {
+      "categories": ["dragon"]
+    },
+    "Orb of Dragonkind": {
+      "categories": ["payoff"]
+    },
+    "Red Dragon": {
+      "categories": ["dragon"]
+    },
+    "Temple of the Dragon Queen": {
+      "categories": ["payoff"]
+    },
+    "Tiamat": {
+      "categories": ["dragon", "payoff"]
+    },
+    "Wandering Troubadour": {
+      "categories": ["dragon"]
+    },
+    "White Dragon": {
+      "categories": ["dragon"]
+    }
+  }
+}

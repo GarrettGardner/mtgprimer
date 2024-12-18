@@ -1,0 +1,101 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Bearer of Silence": {
+      "categories": ["removal"],
+      "cost": ["2", "c", "b"]
+    },
+    "Boulder Salvo": {
+      "categories": ["removal"]
+    },
+    "Consuming Sinkhole": {
+      "categories": ["other"]
+    },
+    "Crush of Tentacles": {
+      "categories": ["bounce"]
+    },
+    "Devour in Flames": {
+      "categories": ["removal"]
+    },
+    "Fall of the Titans": {
+      "categories": ["removal"]
+    },
+    "Flaying Tendrils": {
+      "categories": ["boardwipe"]
+    },
+    "Grasp of Darkness": {
+      "categories": ["removal"]
+    },
+    "Immolating Glare": {
+      "categories": ["removal"]
+    },
+    "Isolation Zone": {
+      "categories": ["removal"]
+    },
+    "Kozilek's Return": {
+      "categories": ["boardwipe"]
+    },
+    "Natural State": {
+      "categories": ["other"]
+    },
+    "Nissa's Judgment": {
+      "categories": ["removal"]
+    },
+    "Oath of Chandra": {
+      "categories": ["removal"]
+    },
+    "Oblivion Strike": {
+      "categories": ["removal"]
+    },
+    "Pyromancer's Assault": {
+      "categories": ["removal"]
+    },
+    "Reality Hemorrhage": {
+      "categories": ["removal"]
+    },
+    "Reflector Mage": {
+      "categories": ["bounce"]
+    },
+    "Remorseless Punishment": {
+      "categories": ["removal"]
+    },
+    "Roiling Waters": {
+      "categories": ["bounce"]
+    },
+    "Searing Light": {
+      "categories": ["removal"]
+    },
+    "Sparkmage's Gambit": {
+      "categories": ["removal"]
+    },
+    "Spatial Contortion": {
+      "categories": ["removal"]
+    },
+    "Sweep Away": {
+      "categories": ["bounce"]
+    },
+    "Tar Snare": {
+      "categories": ["removal"]
+    },
+    "Tears of Valakut": {
+      "categories": ["removal"]
+    },
+    "Tyrant of Valakut": {
+      "categories": ["removal"]
+    },
+    "Warping Wail": {
+      "categories": ["removal"]
+    },
+    "World Breaker": {
+      "categories": ["other"]
+    }
+  }
+}

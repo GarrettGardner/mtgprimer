@@ -1,0 +1,142 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Bar the Gate": {
+      "categories": ["counterspell"]
+    },
+    "Bull's Strength": {
+      "categories": ["board"]
+    },
+    "Burning Hands": {
+      "categories": ["board"]
+    },
+    "Choose Your Weapon": {
+      "categories": ["board"]
+    },
+    "Contact Other Plane": {
+      "categories": ["other"]
+    },
+    "Critical Hit": {
+      "categories": ["board"]
+    },
+    "Deadly Dispute": {
+      "categories": ["other"]
+    },
+    "Divine Smite": {
+      "categories": ["board"]
+    },
+    "Dragon Turtle": {
+      "categories": ["board"]
+    },
+    "Dragon's Fire": {
+      "categories": ["board"]
+    },
+    "Dueling Rapier": {
+      "categories": ["board"]
+    },
+    "Ebondeath, Dracolich": {
+      "categories": ["board"]
+    },
+    "Eyes of the Beholder": {
+      "categories": ["board"]
+    },
+    "Farideh's Fireball": {
+      "categories": ["board"]
+    },
+    "Feign Death": {
+      "categories": ["board"]
+    },
+    "Grim Wanderer": {
+      "categories": ["board"]
+    },
+    "Guardian of Faith": {
+      "categories": ["board"]
+    },
+    "Hunter's Mark": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Manticore": {
+      "categories": ["board"]
+    },
+    "Mordenkainen's Polymorph": {
+      "categories": ["board"]
+    },
+    "Paladin's Shield": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Power Word Kill": {
+      "categories": ["board"]
+    },
+    "Rally Maneuver": {
+      "categories": ["board"]
+    },
+    "Ray of Enfeeblement": {
+      "categories": ["board"]
+    },
+    "Ray of Frost": {
+      "categories": ["board"]
+    },
+    "Scion of Stygia": {
+      "categories": ["board"]
+    },
+    "Shocking Grasp": {
+      "categories": ["board"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["board"]
+    },
+    "Spoils of the Hunt": {
+      "categories": ["board"]
+    },
+    "Sudden Insight": {
+      "categories": ["other"]
+    },
+    "True Polymorph": {
+      "categories": ["board"]
+    },
+    "Unexpected Windfall": {
+      "categories": ["other"]
+    },
+    "Wild Shape": {
+      "categories": ["board"]
+    },
+    "You Come to a River": {
+      "categories": ["board"]
+    },
+    "You Come to the Gnoll Camp": {
+      "categories": ["board"]
+    },
+    "You Find Some Prisoners": {
+      "categories": ["board"]
+    },
+    "You Find the Villains' Lair": {
+      "categories": ["counterspell"]
+    },
+    "You Happen On a Glade": {
+      "categories": ["other"]
+    },
+    "You Hear Something on Watch": {
+      "categories": ["board"]
+    },
+    "You See a Guard Approach": {
+      "categories": ["board"]
+    },
+    "You See a Pair of Goblins": {
+      "categories": ["board"]
+    },
+    "You're Ambushed on the Road": {
+      "categories": ["board"]
+    }
+  }
+}

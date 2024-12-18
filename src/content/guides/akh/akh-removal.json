@@ -1,0 +1,161 @@
+{
+  "name": "Removal Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Angel of Sanctions": {
+      "categories": ["removal"]
+    },
+    "Angler Drake": {
+      "categories": ["bounce"]
+    },
+    "Blazing Volley": {
+      "categories": ["boardwipe"]
+    },
+    "By Force": {
+      "categories": ["other"]
+    },
+    "Cartouche of Ambition": {
+      "categories": ["removal"]
+    },
+    "Cartouche of Strength": {
+      "categories": ["removal"]
+    },
+    "Cast Out": {
+      "categories": ["removal"]
+    },
+    "Commit (Commit / Memory)": {
+      "categories": ["bounce"]
+    },
+    "Compulsory Rest": {
+      "categories": ["removal"]
+    },
+    "Cruel Reality": {
+      "categories": ["removal"]
+    },
+    "Cut (Cut / Ribbons)": {
+      "categories": ["removal"]
+    },
+    "Decimator Beetle": {
+      "categories": ["removal"]
+    },
+    "Deem Worthy": {
+      "categories": ["removal"],
+      "cost": ["3", "r"]
+    },
+    "Dissenter's Deliverance": {
+      "categories": ["other"]
+    },
+    "Dusk (Dusk / Dawn)": {
+      "categories": ["boardwipe"]
+    },
+    "Earth (Heaven / Earth)": {
+      "categories": ["boardwipe"]
+    },
+    "Electrify": {
+      "categories": ["removal"]
+    },
+    "Fight (Prepare / Fight)": {
+      "categories": ["removal"]
+    },
+    "Final Reward": {
+      "categories": ["removal"]
+    },
+    "Finish (Start / Finish)": {
+      "categories": ["removal"]
+    },
+    "Fling": {
+      "categories": ["removal"]
+    },
+    "Floodwaters": {
+      "categories": ["bounce"]
+    },
+    "Forsake the Worldly": {
+      "categories": ["other"]
+    },
+    "Galestrike": {
+      "categories": ["bounce"]
+    },
+    "Gideon's Intervention": {
+      "categories": ["other"]
+    },
+    "Glorybringer": {
+      "categories": ["removal"]
+    },
+    "Grasping Dunes": {
+      "categories": ["removal"]
+    },
+    "Heart-Piercer Manticore": {
+      "categories": ["removal"]
+    },
+    "Heaven (Heaven / Earth)": {
+      "categories": ["boardwipe"]
+    },
+    "Illusory Wrappings": {
+      "categories": ["other"]
+    },
+    "Impeccable Timing": {
+      "categories": ["removal"]
+    },
+    "Injury (Insult / Injury)": {
+      "categories": ["removal"]
+    },
+    "Lay Claim": {
+      "categories": ["removal"]
+    },
+    "Liliana, Death's Majesty": {
+      "categories": ["boardwipe"]
+    },
+    "Magma Spray": {
+      "categories": ["removal"]
+    },
+    "Manglehorn": {
+      "categories": ["other"]
+    },
+    "Merciless Javelineer": {
+      "categories": ["removal"]
+    },
+    "Never (Never / Return)": {
+      "categories": ["removal"]
+    },
+    "Rags (Rags / Riches)": {
+      "categories": ["boardwipe"]
+    },
+    "Riches (Rags / Riches)": {
+      "categories": ["removal"]
+    },
+    "Splendid Agony": {
+      "categories": ["removal"]
+    },
+    "Stinging Shot": {
+      "categories": ["removal"]
+    },
+    "Sweltering Suns": {
+      "categories": ["boardwipe"]
+    },
+    "Time to Reflect": {
+      "categories": ["removal"]
+    },
+    "Trial of Ambition": {
+      "categories": ["removal"]
+    },
+    "Trial of Zeal": {
+      "categories": ["removal"]
+    },
+    "Violent Impact": {
+      "categories": ["other"]
+    },
+    "Warfire Javelineer": {
+      "categories": ["removal"]
+    },
+    "Winds of Rebuke": {
+      "categories": ["bounce"]
+    }
+  }
+}

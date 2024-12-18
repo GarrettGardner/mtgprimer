@@ -1,66 +1,105 @@
-import type { ICard, TColor, IFilters, IFilterOptions, TGrouping, ICardGroup } from "@/models";
+import type {
+  ICard,
+  TColor,
+  IFilter,
+  ICardGroup,
+  IFilterSelections,
+} from "@/models";
 
-export const applyFilters = (cards: ICard[], filters: IFilters, options: IFilterOptions) => {
-  cards = _filterCards(cards, filters, options);
+export const applyFilters = (
+  cards: ICard[],
+  filter: IFilter,
+  selections: IFilterSelections,
+) => _groupCards(_orderCards(_filterCards({ cards, filter, selections })));
 
-  cards = _orderCards(cards, filters, options);
+const _filterCards = (props: {
+  cards: ICard[];
+  filter: IFilter;
+  selections: IFilterSelections;
+}) => {
+  const filter = props.filter;
+  const selections = props.selections;
 
-  return _groupCards(filters.grouping, cards, options);
+  return {
+    cards: props.cards.filter((card) => {
+      if (
+        selections.colors.length &&
+        !card.colorsRequired.reduce(
+          (acc, colorRequired) =>
+            acc &&
+            colorRequired
+              .split("")
+              .reduce(
+                (accParts, colorRequiredPart) =>
+                  accParts ||
+                  selections.colors.includes(colorRequiredPart as TColor),
+                false,
+              ),
+          true,
+        )
+      ) {
+        return false;
+      }
+
+      if (
+        selections.rarities.length &&
+        !selections.rarities.includes(card.rarity)
+      ) {
+        return false;
+      }
+
+      if (selections.sets.length && !selections.sets.includes(card.code)) {
+        return false;
+      }
+
+      if (
+        selections.categories.length &&
+        !card.categories.reduce(
+          (acc, category) => acc || selections.categories.includes(category),
+          false,
+        )
+      ) {
+        return false;
+      }
+
+      return true;
+    }),
+    filter,
+    selections,
+  };
 };
 
-const _filterCards = (cards: ICard[], filters: IFilters, options: IFilterOptions) => {
-  return cards.filter((card) => {
-    if (
-      filters.colors.length &&
-      !card.colorsRequired.reduce(
-        (acc, colorRequired) =>
-          acc &&
-          colorRequired
-            .split("")
-            .reduce(
-              (accParts, colorRequiredPart) => accParts || filters.colors.includes(colorRequiredPart as TColor),
-              false,
-            ),
-        true,
-      )
-    ) {
-      return false;
-    }
+const _orderCards = (props: {
+  cards: ICard[];
+  filter: IFilter;
+  selections: IFilterSelections;
+}) => {
+  const cards = props.cards;
+  const filter = props.filter;
+  const selections = props.selections;
+  const options = props.filter.options;
 
-    if (filters.rarities.length && !filters.rarities.includes(card.rarity)) {
-      return false;
-    }
+  const orderOrdering = ["name", "mv", "number", "color", "rarity"].filter(
+    (ordering) => ordering !== selections.ordering,
+  );
+  orderOrdering.push(selections.ordering);
 
-    if (filters.sets.length && !filters.sets.includes(card.code)) {
-      return false;
-    }
+  const orders = {
+    color: Object.keys(options.colors),
+    rarity: Object.keys(options.rarities),
+  };
 
-    if (
-      filters.categories.length &&
-      !card.categories.reduce((acc, category) => acc || filters.categories.includes(category), false)
-    ) {
-      return false;
-    }
-
-    return true;
-  });
-};
-
-const _orderCards = (cards: ICard[], filters: IFilters, options: IFilterOptions) => {
-  const orderOrdering = ["name", "mv", "number", "color", "rarity"].filter((ordering) => ordering !== filters.ordering);
-  orderOrdering.push(filters.ordering);
-
-  const orderColor = ["c", "w", "u", "b", "r", "g", "m"];
-  const orderRarity = ["c", "u", "r", "m"];
   orderOrdering.forEach((ordering) => {
     cards.sort((a, b) => {
       switch (ordering) {
         case "mv":
           return a.mv - b.mv;
         case "color":
-          return orderColor.indexOf(a.color) - orderColor.indexOf(b.color);
+          return orders.color.indexOf(a.color) - orders.color.indexOf(b.color);
         case "rarity":
-          return orderRarity.indexOf(a.rarity) - orderRarity.indexOf(b.rarity);
+          return (
+            orders.rarity.indexOf(a.rarity) - orders.rarity.indexOf(b.rarity)
+          );
         case "number":
           return parseInt(a.number) - parseInt(b.number);
         case "name":
@@ -70,21 +109,34 @@ const _orderCards = (cards: ICard[], filters: IFilters, options: IFilterOptions)
     });
   });
 
-  return cards;
+  return {
+    cards,
+    filter,
+    selections,
+  };
 };
 
-const _groupCards = (grouping: TGrouping, cards: ICard[], options: IFilterOptions) => {
+const _groupCards = (props: {
+  cards: ICard[];
+  filter: IFilter;
+  selections: IFilterSelections;
+}) => {
+  const cards = props.cards;
+  const selections = props.selections;
+  const options = props.filter.options;
+
   const orders = {
     color: Object.keys(options.colors),
     rarity: Object.keys(options.rarities),
     categories: Object.keys(options.categories),
   };
 
-  if (grouping === "none") {
+  if (selections.grouping === "none") {
     return [{ key: "all", cards }];
   }
 
-  let groupingKey: keyof ICard = grouping === "category" ? "categories" : grouping;
+  let groupingKey: keyof ICard =
+    selections.grouping === "category" ? "categories" : selections.grouping;
 
   return cards
     .reduce<ICardGroup[]>((groups, card) => {
@@ -99,7 +151,7 @@ const _groupCards = (grouping: TGrouping, cards: ICard[], options: IFilterOption
         } else {
           groups.push({
             key,
-            icon: grouping,
+            icon: selections.grouping,
             header: key,
             cards: [card],
           });
@@ -112,8 +164,15 @@ const _groupCards = (grouping: TGrouping, cards: ICard[], options: IFilterOption
       if (!a.header || !b.header) {
         return 0;
       }
-      if (groupingKey === "color" || groupingKey === "rarity" || groupingKey === "categories") {
-        return orders[groupingKey].indexOf(a.header) - orders[groupingKey].indexOf(b.header);
+      if (
+        groupingKey === "color" ||
+        groupingKey === "rarity" ||
+        groupingKey === "categories"
+      ) {
+        return (
+          orders[groupingKey].indexOf(a.header) -
+          orders[groupingKey].indexOf(b.header)
+        );
       }
       return parseInt(a.header) - parseInt(b.header);
     });

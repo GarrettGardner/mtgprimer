@@ -1,369 +1,487 @@
-import type { ICard, ICardConfig, IFormatConfig, TTemplate, TPageConfig, ITemplateMenu, TColor } from "@/models";
-import { DEFAULT_FILTER_OPTIONS, DEFAULT_FILTERS } from "@/constants";
+import type {
+  ICard,
+  ICardConfig,
+  TTemplate,
+  TPageConfig,
+  ITemplateMenu,
+  TColor,
+  IGuideConfig,
+  IGuide,
+  IFilter,
+  IFilterSelections,
+} from "@/models";
+import { DEFAULT_FILTER_OPTIONS, DEFAULT_FILTER_SELECTIONS } from "@/constants";
 import { PRESET } from "@/content/global";
 
 export const generatePages = async (pageConfig: TPageConfig) => {
-  let pages = await _parsePageConfig(pageConfig);
-  pages.forEach((_, key) => {
-    if (pages[key]?.type === "directory") {
-      pages[key].directory = pages.filter((pageInner) => pageInner.type === "info");
-    }
-  });
-  return pages;
-};
+  const _guideConfigsMemo: Record<string, IGuideConfig> = {};
 
-const _parsePageConfig = async (
-  pageConfig: TPageConfig,
-  parentTemplate?: TTemplate | undefined,
-): Promise<TTemplate[]> => {
-  const preset = pageConfig.preset ? PRESET[pageConfig.preset] : undefined;
-
-  let path = parentTemplate?.path ?? "/";
-  if (pageConfig.slug) {
-    path += path.slice(-1) === "/" ? pageConfig.slug : `/${pageConfig.slug}`;
-  }
-  const type = pageConfig.template;
-  const backgroundImage =
-    (pageConfig.backgroundImage &&
-      `https://s3-us-west-2.amazonaws.com/mtgprimer/splash/${pageConfig.backgroundImage}.jpg`) ??
-    parentTemplate?.backgroundImage ??
-    "default image";
-  const backgroundCaption =
-    (pageConfig.backgroundCaption && `Illustrated by ${pageConfig.backgroundCaption}`) ??
-    parentTemplate?.backgroundCaption ??
-    "";
-  const title = pageConfig.title ?? preset?.NAME ?? "";
-  const description = pageConfig.description ?? preset?.DESCRIPTION ?? "Page was not found.";
-  const icon = pageConfig.icon ?? preset?.ICON ?? parentTemplate?.icon ?? "";
-
-  const titleFull = `${title ? `${title} | ` : ""}MTG Primer${
-    title ? "" : ` | Strategy Guides for Limited Magic: The Gathering`
-  }`;
-
-  const template: Partial<TTemplate> = {
-    path,
-    type,
-    backgroundImage,
-    backgroundCaption,
-    icon,
-    title,
-    titleFull,
-    description,
+  const _start = async (pageConfig: TPageConfig) => {
+    let pages = await _parsePageConfig(pageConfig);
+    pages.forEach((_, key) => {
+      if (pages[key]?.type === "directory") {
+        pages[key].directory = pages.filter(
+          (pageInner) => pageInner.type === "info",
+        );
+      }
+    });
+    return pages;
   };
 
-  switch (template.type) {
-    case "info":
-    case "guide":
-    case "guide-group":
-      let formatCode: string | undefined;
-      if (pageConfig.template === "info") {
-        formatCode = pageConfig.formatCode;
-      } else if (parentTemplate?.type === "info") {
-        formatCode = parentTemplate.formatCode;
-      }
-      if (!formatCode) {
-        return [];
-      }
-      const format = await _parseFormatConfig(formatCode);
-      if (!format) {
-        return [];
-      }
-      const formatName = format.name;
-      template.formatName = formatName;
-      template.formatCode = formatCode;
-      template.titleFull = `${formatName}: ${titleFull}`;
-      template.description = description.replaceAll("%formatName", formatName);
+  const _parsePageConfig = async (
+    pageConfig: TPageConfig,
+    parentTemplate?: TTemplate,
+  ): Promise<TTemplate[]> => {
+    const preset = pageConfig.preset ? PRESET[pageConfig.preset] : undefined;
 
-      switch (template.type) {
-        case "info":
-          if (pageConfig.template === "info") {
-            template.releaseDate = pageConfig.releaseDate;
-          }
-          break;
-        case "guide":
-          if (pageConfig.template === "guide") {
-            const guideData = _parseGuideConfig(format, pageConfig.guide);
-            if (!guideData) {
-              return [];
-            }
-            template.defaultFilters = guideData.defaultFilters;
-            template.options = guideData.options;
-            template.guide = guideData.guide;
-          }
-          break;
-        case "guide-group":
-          if (pageConfig.template === "guide-group") {
-            const guideGroupData = _parseGuideGroupConfig(format, pageConfig.guideGroup);
-            if (!guideGroupData) {
-              return [];
-            }
-            template.defaultFilters = { ...structuredClone(DEFAULT_FILTERS), ...guideGroupData.defaultFilters };
-            template.options = guideGroupData.options;
-            template.guides = guideGroupData.guides;
-          }
-          break;
-      }
-      break;
-  }
-
-  let subTemplates: TTemplate[] = [];
-  if (pageConfig.pages) {
-    for (const currentPageConfig of pageConfig.pages) {
-      subTemplates = subTemplates.concat(await _parsePageConfig(currentPageConfig, template as TTemplate));
+    let path = parentTemplate?.path ?? "/";
+    if (pageConfig.slug) {
+      path += path.slice(-1) === "/" ? pageConfig.slug : `/${pageConfig.slug}`;
     }
-  }
 
-  let menu: ITemplateMenu | undefined;
-  if (pageConfig.template === "info") {
-    menu = {
-      formatCode: pageConfig.formatCode,
-      home: {
-        path,
-        icon,
-        title,
-        image: backgroundImage,
-      },
-      pages:
-        subTemplates.map((page) => ({
-          path: page.path,
-          icon: page.icon,
-          title: page.title,
-          image: page.backgroundImage,
-        })) ?? [],
+    const type = pageConfig.template;
+    const backgroundImage =
+      (pageConfig.backgroundImage &&
+        `https://s3-us-west-2.amazonaws.com/mtgprimer/splash/${pageConfig.backgroundImage}.jpg`) ??
+      parentTemplate?.backgroundImage ??
+      "";
+    const backgroundCaption =
+      (pageConfig.backgroundCaption &&
+        `Illustrated by ${pageConfig.backgroundCaption}`) ??
+      parentTemplate?.backgroundCaption ??
+      "";
+    const title = pageConfig.title ?? preset?.NAME ?? "";
+    const description =
+      pageConfig.description ?? preset?.DESCRIPTION ?? "Page was not found.";
+    const icon = pageConfig.icon ?? preset?.ICON ?? parentTemplate?.icon ?? "";
+
+    const titleFull = `${title ? `${title} | ` : ""}MTG Primer${
+      title ? "" : ` | Strategy Guides for Limited Magic: The Gathering`
+    }`;
+
+    const template: Partial<TTemplate> = {
+      path,
+      type,
+      backgroundImage,
+      backgroundCaption,
+      icon,
+      title,
+      titleFull,
+      description,
     };
-    if (template.type === "info") {
-      template.menu = menu;
+
+    switch (template.type) {
+      case "info":
+      case "guide":
+      case "guide-group":
+        const formatCode =
+          pageConfig.template === "info"
+            ? pageConfig.formatCode
+            : parentTemplate?.type === "info"
+              ? parentTemplate.formatCode
+              : "";
+        if (!formatCode) {
+          return [];
+        }
+
+        const guideGalleryData = await _parseGuideConfig(formatCode, "gallery");
+        if (!guideGalleryData) {
+          return [];
+        }
+
+        const formatName = guideGalleryData.guide.formatName;
+        template.formatName = formatName;
+        template.formatCode = formatCode;
+        template.titleFull = `${formatName}: ${titleFull}`;
+        template.description = description.replaceAll(
+          "%formatName",
+          formatName,
+        );
+
+        switch (template.type) {
+          case "info":
+            if (pageConfig.template === "info") {
+              template.releaseDate = pageConfig.releaseDate;
+            }
+            break;
+          case "guide":
+            if (pageConfig.template === "guide") {
+              const guideData = await _parseGuideConfig(
+                formatCode,
+                pageConfig.guide,
+              );
+              template.guide = guideData?.guide;
+              template.filter = guideData?.filter;
+            }
+            break;
+          case "guide-group":
+            if (pageConfig.template === "guide-group") {
+              const guideGroupData = await _parseGuideGroupConfig(
+                formatCode,
+                pageConfig.guides,
+                {
+                  grouping: pageConfig.defaultGrouping,
+                  ordering: pageConfig.defaultOrdering,
+                },
+              );
+              if (!guideGroupData) {
+                return [];
+              }
+              template.guides = guideGroupData.guides;
+              template.filter = guideGroupData.filter;
+            }
+            break;
+        }
+        break;
     }
-  }
 
-  if (menu) {
-    subTemplates = subTemplates.map((subTemplate) => ({
-      ...subTemplate,
-      menu,
-    }));
-  }
+    let subTemplates: TTemplate[] = [];
+    if (pageConfig.pages) {
+      for (const currentPageConfig of pageConfig.pages) {
+        subTemplates = subTemplates.concat(
+          await _parsePageConfig(currentPageConfig, template as TTemplate),
+        );
+      }
+    }
 
-  if (template.type === "home") {
-    template.latestFormats = subTemplates.filter((page) => page.type === "info").slice(0, 3);
-  }
+    let menu: ITemplateMenu | undefined;
+    if (pageConfig.template === "info") {
+      menu = {
+        formatCode: pageConfig.formatCode,
+        home: {
+          path,
+          icon,
+          title,
+          image: backgroundImage,
+        },
+        pages:
+          subTemplates.map((page) => ({
+            path: page.path,
+            icon: page.icon,
+            title: page.title,
+            image: page.backgroundImage,
+          })) ?? [],
+      };
+      if (template.type === "info") {
+        template.menu = menu;
+      }
+    }
 
-  if (template.type === "directory") {
-    template.directory = [];
-  }
+    if (menu) {
+      subTemplates = subTemplates.map((subTemplate) => ({
+        ...subTemplate,
+        menu,
+      }));
+    }
 
-  return [template as TTemplate, ...subTemplates];
-};
+    if (template.type === "home") {
+      template.latestFormats = subTemplates
+        .filter((page) => page.type === "info")
+        .slice(0, 3);
+    }
 
-const _parseFormatConfig = async (formatCode: string) => {
-  let format: IFormatConfig | undefined;
-  try {
-    format = (await import(`@/content/format/${formatCode}`)).default;
-  } catch (e: unknown) {
-    console.error(e);
-  }
-  if (!format) {
-    return;
-  }
-  const sets = { [format.code]: format.name };
-  let cards = format.cards.map((card) => ({
-    ...card,
-    code: format.code,
-  }));
+    if (template.type === "directory") {
+      template.directory = [];
+    }
 
-  if (format.includeFormats) {
-    for (const subFormatCode of format?.includeFormats) {
-      let subFormat: IFormatConfig | undefined;
-      try {
-        subFormat = (await import(`@/content/format/${subFormatCode}`)).default;
-      } catch (e: unknown) {
+    return [template as TTemplate, ...subTemplates];
+  };
+
+  const _loadGuideJson = async (formatCode: string, guideFile: string) => {
+    if (_guideConfigsMemo[guideFile]) {
+      return _guideConfigsMemo[guideFile];
+    }
+    let guideConfig: IGuideConfig | undefined;
+    try {
+      guideConfig = (
+        await import(`@/content/guides/${formatCode}/${guideFile}.json`)
+      )?.default;
+    } catch (e: unknown) {
+      if (formatCode === guideFile) {
         console.error(e);
       }
-      if (!subFormat) {
-        continue;
+      // TODO: Just skipping if it's not found and its not the gallery file
+    }
+    if (guideConfig) _guideConfigsMemo[guideFile] = guideConfig;
+    return guideConfig;
+  };
+
+  const _parseGuideConfig = async (
+    formatCode: string,
+    guideKey: string,
+  ): Promise<{ guide: IGuide; filter: IFilter } | undefined> => {
+    const guideFile =
+      guideKey === "gallery" ? formatCode : `${formatCode}-${guideKey}`;
+    const preset = PRESET[`guide-${guideKey}`];
+
+    let guideConfig = await _loadGuideJson(formatCode, guideFile);
+    if (!guideConfig) return;
+
+    let guideConfigGallery =
+      guideKey !== "gallery"
+        ? await _loadGuideJson(formatCode, formatCode)
+        : undefined;
+
+    let formatName =
+      guideConfigGallery?.formatName ?? guideConfig.formatName ?? formatCode;
+    const name = guideConfig.name ?? preset?.NAME ?? guideKey;
+    const description = guideConfig.description ?? preset?.DESCRIPTION;
+    const icon = guideConfig.icon ?? preset?.ICON;
+    let sets = {
+      [formatCode]: formatName,
+      ...guideConfig.sets,
+    };
+    let cards = Object.keys(guideConfig.cards).map((cardName) =>
+      _mergeCards([
+        {
+          code:
+            guideConfig.cards[cardName]?.code ??
+            guideConfig.code ??
+            guideConfigGallery?.code ??
+            formatCode,
+        },
+        _parseCardConfig(cardName, guideConfig.cards[cardName]),
+        _parseCardConfig(cardName, guideConfigGallery?.cards[cardName]),
+      ]),
+    );
+
+    const includeFormats =
+      guideConfig.includeFormats ?? guideConfigGallery?.includeFormats;
+    if (includeFormats) {
+      for (const subFormat of includeFormats) {
+        let subGuideCode: string | undefined;
+        if (typeof subFormat === "string") {
+          subGuideCode = subFormat;
+        } else {
+          subGuideCode = subFormat.code;
+        }
+        const subGuideData = await _parseGuideConfig(subGuideCode, guideKey);
+        if (!subGuideData) continue;
+
+        cards = cards.concat(
+          subGuideData.guide.cards
+            .map((card) => ({
+              ...card,
+              set: subGuideCode,
+            }))
+            .filter((card) => {
+              if (typeof subFormat === "object") {
+                if (!!subFormat.min && parseInt(card.number) < subFormat.min) {
+                  return false;
+                }
+                if (!!subFormat.max && parseInt(card.number) > subFormat.max) {
+                  return false;
+                }
+              }
+              return true;
+            }),
+        );
+
+        sets[subGuideCode] = subGuideData.guide.name;
       }
-      cards = cards.concat(
-        subFormat.cards.map((card) => ({
-          ...card,
-          code: subFormat.code,
-        })),
-      );
-
-      sets[subFormat.code] = subFormat.name;
     }
-  }
 
-  return {
-    code: format.code,
-    name: format.name,
-    guides: { ...format.guides },
-    guideGroups: { ...format.guideGroups },
-    sets,
-    cards,
+    const filter = {
+      options: {
+        ...structuredClone(DEFAULT_FILTER_OPTIONS),
+        sets,
+        categories: guideConfig.categories ?? {},
+      },
+      defaultSelections: {
+        ...structuredClone(DEFAULT_FILTER_SELECTIONS),
+        grouping:
+          guideConfig.defaultGrouping ?? DEFAULT_FILTER_SELECTIONS.grouping,
+        ordering:
+          guideConfig.defaultOrdering ?? DEFAULT_FILTER_SELECTIONS.ordering,
+      },
+    };
+
+    return {
+      guide: {
+        key: guideKey,
+        code: formatCode,
+        formatName,
+        name,
+        description,
+        icon,
+        cards,
+      },
+      filter,
+    };
   };
-};
 
-const _parseGuideConfig = (format: IFormatConfig, guideKey: string) => {
-  const guideConfig = format.guides?.[guideKey];
-  if (!guideConfig) {
-    return;
-  }
+  const _parseGuideGroupConfig = async (
+    formatCode: string,
+    guideKeys: string[],
+    defaultSelections?: Partial<IFilterSelections>,
+  ) => {
+    const guidesData = (
+      await Promise.all(
+        guideKeys.map(
+          async (guideKey) => await _parseGuideConfig(formatCode, guideKey),
+        ),
+      )
+    ).filter((guide) => !!guide);
 
-  return {
-    defaultFilters: {
-      ...structuredClone(DEFAULT_FILTERS),
-      grouping: guideConfig.defaultGrouping ?? DEFAULT_FILTERS.grouping,
-      ordering: guideConfig.defaultOrdering ?? DEFAULT_FILTERS.ordering,
-    },
-    options: {
-      ...structuredClone(DEFAULT_FILTER_OPTIONS),
-      sets: format.sets ?? {},
-      categories: guideConfig.categories ?? {},
-    },
-    guide: {
-      key: guideKey,
-      code: format.code,
-      name: guideConfig.name ?? "Guide Name",
-      cards: _parseGuideCardConfig(format, guideKey),
-    },
+    const guides = guidesData.map((guideData) => guideData.guide);
+
+    const filter = {
+      options: {
+        ...structuredClone(DEFAULT_FILTER_OPTIONS),
+        sets: guidesData.reduce(
+          (acc, guideData) => ({
+            ...acc,
+            ...guideData.filter.options.sets,
+          }),
+          {},
+        ),
+        categories: guidesData.reduce(
+          (acc, guideData) => ({
+            ...acc,
+            ...guideData.filter.options.categories,
+          }),
+          {},
+        ),
+      },
+      defaultSelections: {
+        ...structuredClone(DEFAULT_FILTER_SELECTIONS),
+        ...defaultSelections,
+      },
+    };
+
+    return {
+      guides,
+      filter,
+    };
   };
-};
 
-const _parseGuideGroupConfig = (format: IFormatConfig, slug: string) => {
-  const guideGroup = format.guideGroups?.[slug];
-  const guides = format.guides;
-  if (!guideGroup || !guides) {
-    return;
-  }
-
-  return {
-    defaultFilters: {
-      ...structuredClone(DEFAULT_FILTERS),
-      grouping: guideGroup.defaultGrouping ?? DEFAULT_FILTERS.grouping,
-      ordering: guideGroup.defaultOrdering ?? DEFAULT_FILTERS.ordering,
-    },
-    options: {
-      ...structuredClone(DEFAULT_FILTER_OPTIONS),
-      sets: format.sets ?? {},
-    },
-    // TODO: Check why array check is necessary
-    guides: Array.isArray(guideGroup.guides)
-      ? guideGroup.guides.map((guideKey) => ({
-          key: guideKey,
-          code: format.code,
-          description: guides[guideKey]?.description ?? PRESET[`guide-${guideKey}`]?.DESCRIPTION,
-          icon: guides[guideKey]?.icon ?? PRESET[`guide-${guideKey}`]?.ICON,
-          name: guides[guideKey]?.name ?? PRESET[`guide-${guideKey}`]?.NAME ?? "Guide",
-          cards: _parseGuideCardConfig(format, guideKey),
-          categories: guides[guideKey]?.categories,
-        }))
-      : [],
-  };
-};
-
-const _parseGuideCardConfig = (format: IFormatConfig, guideKey: string) => {
-  return format.cards.reduce<ICard[]>((current, cardConfig) => {
-    if (cardConfig.guides.find((currGuide) => currGuide.guide === guideKey)) {
-      current.push(_parseCardConfig(cardConfig, guideKey));
-    }
-    return current;
-  }, []);
-};
-
-const _parseCardConfig = (cardConfig: ICardConfig, guideKey: string): ICard => {
-  const cardGuideOverrides = cardConfig.guides.find((guide) => guide.guide === guideKey);
-
-  const number = cardConfig.number.padStart(3, "0");
-  const name = cardConfig.name;
-  const cost = cardGuideOverrides?.cost ?? cardConfig.cost;
-  const rarity = cardConfig.rarity;
-  const code = cardConfig.code ?? "exa";
-  let color: TColor = "c";
-  const colorsRequired: string[] = [];
-  let mv = 0;
-  const isFlippable = cardConfig.isFlippable;
-  const isFlipped = cardConfig.isFlipped;
-  const isRotatable = cardConfig.isRotatable;
-  const categories = cardGuideOverrides?.categories ?? [];
-
-  cost.forEach((costItem) => {
-    switch (costItem) {
-      case "wu":
-      case "uw":
-      case "wb":
-      case "bw":
-      case "wr":
-      case "rw":
-      case "wg":
-      case "gw":
-      case "ub":
-      case "bu":
-      case "ur":
-      case "ru":
-      case "ug":
-      case "gu":
-      case "br":
-      case "rb":
-      case "bg":
-      case "gb":
-      case "rg":
-      case "gr":
-        if (!colorsRequired.includes(costItem)) {
-          colorsRequired.push(costItem);
-        }
-        mv++;
-        break;
-      case "wp":
-      case "up":
-      case "bp":
-      case "rp":
-      case "gp":
-        break;
-      case "2w":
-      case "2u":
-      case "2b":
-      case "2r":
-      case "2g":
-        mv++;
-        break;
-      case "w":
-      case "u":
-      case "b":
-      case "r":
-      case "g":
-      case "c":
-        if (!colorsRequired.includes(costItem)) {
-          colorsRequired.push(costItem);
-        }
-        mv++;
-        break;
-      default:
-        if (parseInt(costItem) > 0) {
-          mv += parseInt(costItem);
-        }
-        break;
-    }
+  const _mergeCards = (cards: Partial<ICard>[]): ICard => ({
+    number: cards.find((card) => !!card.number)?.number ?? "000",
+    name: cards.find((card) => !!card.number)?.name ?? "Card Name",
+    cost: cards.find((card) => !!card.cost)?.cost ?? [],
+    rarity: cards.find((card) => !!card.rarity)?.rarity ?? "c",
+    code: cards.find((card) => !!card.code)?.code ?? "exa",
+    color: cards.find((card) => !!card.color)?.color ?? "c",
+    colorsRequired:
+      cards.find((card) => !!card.colorsRequired)?.colorsRequired ?? [],
+    mv: cards.find((card) => !!card.mv || card.mv === 0)?.mv ?? 0,
+    layout: cards.find((card) => !!card.layout)?.layout,
+    isTransformed: cards.find((card) => !!card.isTransformed)?.isTransformed,
+    // TODO: Add cost override
+    // isCostOverride: cards.filter((card) => !!card.cost)?.length > 1,
+    categories: cards.find((card) => !!card.categories)?.categories ?? [],
   });
 
-  if (!colorsRequired.length) {
-    color = "c";
-  } else if (colorsRequired.length === 1 && colorsRequired[0].length === 1) {
-    color = colorsRequired[0] as TColor;
-  } else {
-    color = "m";
-  }
+  const _parseCardConfig = (
+    cardName: string,
+    cardConfig?: Partial<ICardConfig>,
+  ): Partial<ICard> => {
+    const number = cardConfig?.number?.padStart(3, "0");
+    const name = cardName;
+    const cost = cardConfig?.cost;
+    const rarity = cardConfig?.rarity;
+    const code = cardConfig?.code;
+    let color: TColor | undefined;
+    let colorsRequired: string[] | undefined = undefined;
+    let mv: number | undefined;
+    const layout = cardConfig?.layout;
+    const isTransformed = cardConfig?.isTransformed;
+    const categories = cardConfig?.categories ?? [];
 
-  return {
-    number,
-    name,
-    cost,
-    rarity,
-    color,
-    code,
-    colorsRequired,
-    mv,
-    isFlippable,
-    isFlipped,
-    isRotatable,
-    categories,
+    if (cost) {
+      colorsRequired = [];
+      mv = 0;
+      cost.forEach((costItem) => {
+        if (!colorsRequired) {
+          colorsRequired = [];
+        }
+        if (!mv) {
+          mv = 0;
+        }
+        switch (costItem) {
+          case "wu":
+          case "uw":
+          case "wb":
+          case "bw":
+          case "wr":
+          case "rw":
+          case "wg":
+          case "gw":
+          case "ub":
+          case "bu":
+          case "ur":
+          case "ru":
+          case "ug":
+          case "gu":
+          case "br":
+          case "rb":
+          case "bg":
+          case "gb":
+          case "rg":
+          case "gr":
+            if (!colorsRequired.includes(costItem)) {
+              colorsRequired.push(costItem);
+            }
+            mv++;
+            break;
+          case "wp":
+          case "up":
+          case "bp":
+          case "rp":
+          case "gp":
+            break;
+          case "2w":
+          case "2u":
+          case "2b":
+          case "2r":
+          case "2g":
+            mv++;
+            break;
+          case "w":
+          case "u":
+          case "b":
+          case "r":
+          case "g":
+          case "c":
+            if (!colorsRequired.includes(costItem)) {
+              colorsRequired.push(costItem);
+            }
+            mv++;
+            break;
+          default:
+            if (parseInt(costItem) > 0) {
+              mv += parseInt(costItem);
+            }
+            break;
+        }
+      });
+
+      if (!colorsRequired.length) {
+        color = "c";
+      } else if (
+        colorsRequired.length === 1 &&
+        colorsRequired[0].length === 1
+      ) {
+        color = colorsRequired[0] as TColor;
+      } else {
+        color = "m";
+      }
+    }
+
+    return {
+      number,
+      name,
+      cost,
+      layout,
+      rarity,
+      color,
+      code,
+      colorsRequired,
+      mv,
+      isTransformed,
+      categories,
+    };
   };
+
+  return _start(pageConfig);
 };

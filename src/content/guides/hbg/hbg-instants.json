@@ -1,0 +1,187 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Arcane Archery": {
+      "categories": ["board"]
+    },
+    "Archivist of Oghma": {
+      "categories": ["board"]
+    },
+    "Armor of Shadows": {
+      "categories": ["board"]
+    },
+    "Band Together": {
+      "categories": ["board"]
+    },
+    "Banishing Coils": {
+      "categories": ["board"]
+    },
+    "Bathe in Gold": {
+      "categories": ["other"]
+    },
+    "Bind Spirit": {
+      "categories": ["other"]
+    },
+    "Blur": {
+      "categories": ["board"]
+    },
+    "Breath Weapon": {
+      "categories": ["board"]
+    },
+    "Capsizing Wave": {
+      "categories": ["board"]
+    },
+    "Cast Down": {
+      "categories": ["board"]
+    },
+    "Choose Your Weapon": {
+      "categories": ["board"]
+    },
+    "Contact Other Plane": {
+      "categories": ["other"]
+    },
+    "Deadly Dispute": {
+      "categories": ["board"]
+    },
+    "Dissonant Wave": {
+      "categories": ["board"]
+    },
+    "Draconic Lore": {
+      "categories": ["other"],
+      "cost": ["3", "u"]
+    },
+    "Dragon's Fire": {
+      "categories": ["board"]
+    },
+    "Dread Linnorm": {
+      "categories": ["board"]
+    },
+    "Dream Fracture": {
+      "categories": ["counterspell"]
+    },
+    "Dueling Rapier": {
+      "categories": ["board"]
+    },
+    "Eyes of the Beholder": {
+      "categories": ["board"]
+    },
+    "Farideh's Fireball": {
+      "categories": ["board"]
+    },
+    "Gale's Redirection": {
+      "categories": ["counterspell"]
+    },
+    "Grave Choice": {
+      "categories": ["board"]
+    },
+    "Grim Wanderer": {
+      "categories": ["board"]
+    },
+    "Guiding Bolt": {
+      "categories": ["board"]
+    },
+    "Hypnotic Pattern": {
+      "categories": ["board"]
+    },
+    "Lae'zel's Acrobatics": {
+      "categories": ["board"]
+    },
+    "Manticore": {
+      "categories": ["board"]
+    },
+    "Patriar's Humiliation": {
+      "categories": ["board"]
+    },
+    "Poison the Blade": {
+      "categories": ["board"]
+    },
+    "Rally Maneuver": {
+      "categories": ["board"]
+    },
+    "Ray of Frost": {
+      "categories": ["board"]
+    },
+    "Rescue the Foal": {
+      "categories": ["board"]
+    },
+    "Rescuer Chwinga": {
+      "categories": ["board"]
+    },
+    "Scale Deflection": {
+      "categories": ["board"]
+    },
+    "Seek New Knowledge": {
+      "categories": ["other"]
+    },
+    "Sewer Plague": {
+      "categories": ["board"]
+    },
+    "Shocking Grasp": {
+      "categories": ["board"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["board"]
+    },
+    "Storm King's Thunder": {
+      "categories": ["board"]
+    },
+    "Sune's Intervention": {
+      "categories": ["board"]
+    },
+    "Sweeping Cleave": {
+      "categories": ["board"]
+    },
+    "Tyr's Blessing": {
+      "categories": ["board"]
+    },
+    "Undersimplify": {
+      "categories": ["counterspell"]
+    },
+    "Unexpected Windfall": {
+      "categories": ["other"]
+    },
+    "Valiant Farewell": {
+      "categories": ["board"]
+    },
+    "Web Shot": {
+      "categories": ["board"]
+    },
+    "Wild Shape": {
+      "categories": ["board"]
+    },
+    "You Come to a River": {
+      "categories": ["board"]
+    },
+    "You Come to the Gnoll Camp": {
+      "categories": ["board"]
+    },
+    "You Find Some Prisoners": {
+      "categories": ["board"]
+    },
+    "You Find the Villains' Lair": {
+      "categories": ["counterspell", "other"]
+    },
+    "You Hear Something on Watch": {
+      "categories": ["board"]
+    },
+    "You Line Up the Shot": {
+      "categories": ["board"]
+    },
+    "You're Ambushed on the Road": {
+      "categories": ["board"]
+    },
+    "You're Confronted by Robbers": {
+      "categories": ["board"]
+    },
+    "Yuan-Ti Scaleshield": {
+      "categories": ["board"]
+    }
+  }
+}

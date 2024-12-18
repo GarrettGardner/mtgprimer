@@ -1,0 +1,20 @@
+{
+  "name": "Mechanic: Shield Counter",
+  "icon": "fas fa-shield-alt",
+  "cards": {
+    "Boon of Safety": {},
+    "Brokers Veteran": {},
+    "Dapper Shieldmate": {},
+    "Disciplined Duelist": {},
+    "Elspeth Resplendent": {},
+    "Falco Spara, Pactweaver": {},
+    "Rhox Pummeler": {},
+    "Rigo, Streetwise Mentor": {},
+    "Sanctuary Warden": {},
+    "Swooping Protector": {},
+    "Titan of Industry": {},
+    "Undercover Operative": {},
+    "Voice of the Vermin": {},
+    "Wingshield Agent": {}
+  }
+}

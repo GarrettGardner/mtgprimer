@@ -1,0 +1,120 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Adamant Will": {
+      "categories": ["board"]
+    },
+    "Alchemist's Retrieval": {
+      "categories": ["board"]
+    },
+    "Bleed Dry": {
+      "categories": ["board"]
+    },
+    "Cemetery Protector": {
+      "categories": ["board"]
+    },
+    "Chill of the Grave": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Cradle of Safety": {
+      "categories": ["board"]
+    },
+    "Crushing Canopy": {
+      "categories": ["board"]
+    },
+    "Fierce Retribution": {
+      "categories": ["board"]
+    },
+    "Flame-Blessed Bolt": {
+      "categories": ["board"]
+    },
+    "Geistlight Snare": {
+      "categories": ["counterspell"],
+      "cost": ["u"]
+    },
+    "Hero's Downfall": {
+      "categories": ["board"]
+    },
+    "Hullbreaker Horror": {
+      "categories": ["board", "counterspell"]
+    },
+    "Lantern Flare": {
+      "categories": ["board"]
+    },
+    "Lunar Rejection": {
+      "categories": ["board"]
+    },
+    "Massive Might": {
+      "categories": ["board"]
+    },
+    "Oakshade Stalker // Moonlit Ambusher": {
+      "categories": ["board"],
+      "cost": ["4", "g"]
+    },
+    "Overcharged Amalgam": {
+      "categories": ["board", "counterspell"]
+    },
+    "Parasitic Grasp": {
+      "categories": ["board"]
+    },
+    "Piercing Light": {
+      "categories": ["board"]
+    },
+    "Rending Flame": {
+      "categories": ["board"]
+    },
+    "Scattered Thoughts": {
+      "categories": ["other"]
+    },
+    "Serpentine Ambush": {
+      "categories": ["board"]
+    },
+    "Supernatural Rescue": {
+      "categories": ["board"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Syncopate": {
+      "categories": ["counterspell"]
+    },
+    "Syphon Essence": {
+      "categories": ["counterspell"]
+    },
+    "Thirst for Discovery": {
+      "categories": ["other"]
+    },
+    "Undying Malice": {
+      "categories": ["board"]
+    },
+    "Valorous Stance": {
+      "categories": ["board"]
+    },
+    "Vampires' Vengeance": {
+      "categories": ["board"]
+    },
+    "Wash Away": {
+      "categories": ["counterspell"]
+    },
+    "Winged Portent": {
+      "categories": ["other"]
+    },
+    "Witch's Web": {
+      "categories": ["board"]
+    },
+    "Wolf Strike": {
+      "categories": ["board"]
+    }
+  }
+}

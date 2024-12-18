@@ -1,0 +1,102 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Brute Force": {
+      "categories": ["board"]
+    },
+    "Cradle to Grave": {
+      "categories": ["board"]
+    },
+    "Dash Hopes": {
+      "categories": ["board"]
+    },
+    "Dawn Charm": {
+      "categories": ["board"]
+    },
+    "Dead // Gone": {
+      "categories": ["board"]
+    },
+    "Dismal Failure": {
+      "categories": ["board"]
+    },
+    "Dust Elemental": {
+      "categories": ["board"]
+    },
+    "Erratic Mutation": {
+      "categories": ["board"]
+    },
+    "Evolution Charm": {
+      "categories": ["board"]
+    },
+    "Extirpate": {
+      "categories": ["board"]
+    },
+    "Fatal Frenzy": {
+      "categories": ["board"]
+    },
+    "Fury Charm": {
+      "categories": ["board"]
+    },
+    "Healing Leaves": {
+      "categories": ["board"]
+    },
+    "Imp's Mischief": {
+      "categories": ["board"]
+    },
+    "Kor Dirge": {
+      "categories": ["board"]
+    },
+    "Mana Tithe": {
+      "categories": ["board"]
+    },
+    "Mantle of Leadership": {
+      "categories": ["board"]
+    },
+    "Midnight Charm": {
+      "categories": ["board"]
+    },
+    "Muck Drubb": {
+      "categories": ["board"]
+    },
+    "Ovinize": {
+      "categories": ["board"]
+    },
+    "Piracy Charm": {
+      "categories": ["board"]
+    },
+    "Pongify": {
+      "categories": ["board"]
+    },
+    "Rebuff the Wicked": {
+      "categories": ["board"]
+    },
+    "Spellshift": {
+      "categories": ["board"]
+    },
+    "Stonecloaker": {
+      "categories": ["board"]
+    },
+    "Sulfur Elemental": {
+      "categories": ["board"]
+    },
+    "Timecrafting": {
+      "categories": ["board"]
+    },
+    "Treacherous Urge": {
+      "categories": ["board"]
+    },
+    "Venarian Glimmer": {
+      "categories": ["board"]
+    },
+    "Whitemane Lion": {
+      "categories": ["board"]
+    }
+  }
+}

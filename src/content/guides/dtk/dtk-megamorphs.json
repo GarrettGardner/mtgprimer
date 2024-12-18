@@ -1,0 +1,98 @@
+{
+  "name": "Megamorphs",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {},
+  "cards": {
+    "Acid-Spewer Dragon": {
+      "cost": ["5", "b", "b"]
+    },
+    "Aerie Bowmasters": {
+      "cost": ["5", "g"]
+    },
+    "Ainok Survivalist": {
+      "cost": ["1", "g"]
+    },
+    "Atarka Efreet": {
+      "cost": ["2", "r"]
+    },
+    "Aven Sunstriker": {
+      "cost": ["4", "w"]
+    },
+    "Belltoll Dragon": {
+      "cost": ["5", "u", "u"]
+    },
+    "Deathmist Raptor": {
+      "cost": ["4", "g"]
+    },
+    "Den Protector": {
+      "cost": ["1", "g"]
+    },
+    "Dirgur Nemesis": {
+      "cost": ["6", "u"]
+    },
+    "Guardian Shield-Bearer": {
+      "cost": ["3", "g"]
+    },
+    "Gudul Lurker": {
+      "cost": ["u"]
+    },
+    "Herdchaser Dragon": {
+      "cost": ["5", "g", "g"]
+    },
+    "Hidden Dragonslayer": {
+      "cost": ["2", "w"]
+    },
+    "Ire Shaman": {
+      "cost": ["r"]
+    },
+    "Kolaghan Stormsinger": {
+      "cost": ["r"]
+    },
+    "Marang River Skeleton": {
+      "cost": ["3", "b"]
+    },
+    "Marsh Hulk": {
+      "cost": ["6", "b"]
+    },
+    "Misthoof Kirin": {
+      "cost": ["1", "w"]
+    },
+    "Monastery Loremaster": {
+      "cost": ["5", "u"]
+    },
+    "Ojutai Interceptor": {
+      "cost": ["3", "u"]
+    },
+    "Salt Road Ambushers": {
+      "cost": ["3", "g", "g"]
+    },
+    "Sandstorm Charger": {
+      "cost": ["4", "w"]
+    },
+    "Segmented Krotiq": {
+      "cost": ["6", "g"]
+    },
+    "Shieldhide Dragon": {
+      "cost": ["5", "w", "w"]
+    },
+    "Shorecrasher Elemental": {
+      "cost": ["4", "u"]
+    },
+    "Silumgar Assassin": {
+      "cost": ["2", "b"]
+    },
+    "Silumgar Spell-Eater": {
+      "cost": ["4", "u"]
+    },
+    "Stormcrag Elemental": {
+      "cost": ["4", "r", "r"]
+    },
+    "Stormwing Dragon": {
+      "cost": ["5", "r", "r"]
+    },
+    "Stratus Dancer": {
+      "cost": ["1", "u"]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mechanic: Enlist",
+  "icon": "fas fa-fist-raised",
+  "cards": {
+    "Argivian Cavalier": {},
+    "Balduvian Berserker": {},
+    "Barkweave Crusher": {},
+    "Benalish Faithbonder": {},
+    "Coalition Skyknight": {},
+    "Coalition Warbrute": {},
+    "Guardian of New Benalia": {},
+    "Hexbane Tortoise": {},
+    "Keldon Flamesage": {},
+    "Linebreaker Baloth": {},
+    "Yavimaya Steelcrusher": {}
+  }
+}

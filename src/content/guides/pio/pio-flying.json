@@ -1,0 +1,165 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Abhorrent Overlord": {
+      "categories": ["default"]
+    },
+    "Archangel of Thune": {
+      "categories": ["default"]
+    },
+    "Archway Angel": {
+      "categories": ["default"]
+    },
+    "Ardenvale Tactician (Ardenvale Tactician // Dizzying Swoop)": {
+      "categories": ["default"]
+    },
+    "Ashen Rider": {
+      "categories": ["default"]
+    },
+    "Basilica Screecher": {
+      "categories": ["default"]
+    },
+    "Blood Baron of Vizkopa": {
+      "categories": ["default"]
+    },
+    "Celestial Archon": {
+      "categories": ["default"]
+    },
+    "Chromanticore": {
+      "categories": ["default"]
+    },
+    "Cloudfin Raptor": {
+      "categories": ["default"]
+    },
+    "Dragonlord Atarka": {
+      "categories": ["default"]
+    },
+    "Dragonlord Dromoka": {
+      "categories": ["default"]
+    },
+    "Dragonlord Kolaghan": {
+      "categories": ["default"]
+    },
+    "Dragonlord Ojutai": {
+      "categories": ["default"]
+    },
+    "Dragonlord Silumgar": {
+      "categories": ["default"]
+    },
+    "Elspeth, Sun's Champion": {
+      "categories": ["granted"]
+    },
+    "Ghirapur Gearcrafter": {
+      "categories": ["default"]
+    },
+    "Gift of Orzhova": {
+      "categories": ["granted"]
+    },
+    "Hornet Nest": {
+      "categories": ["default"]
+    },
+    "Hushwing Gryff": {
+      "categories": ["default"]
+    },
+    "Illusory Angel": {
+      "categories": ["default"]
+    },
+    "Imperious Oligarch": {
+      "categories": ["default"]
+    },
+    "Kraul Harpooner": {
+      "categories": ["default"]
+    },
+    "Linvala, the Preserver": {
+      "categories": ["default"]
+    },
+    "Lyev Skyknight": {
+      "categories": ["default"]
+    },
+    "Medomai the Ageless": {
+      "categories": ["default"]
+    },
+    "Murmuring Mystic": {
+      "categories": ["default"]
+    },
+    "Niblis of Frost": {
+      "categories": ["default"]
+    },
+    "Nightveil Specter": {
+      "categories": ["default"]
+    },
+    "Nimbus Naiad": {
+      "categories": ["default"]
+    },
+    "Pia and Kiran Nalaar": {
+      "categories": ["default"]
+    },
+    "Pilgrim's Eye": {
+      "categories": ["default"]
+    },
+    "Priest of the Blood Rite": {
+      "categories": ["default"]
+    },
+    "Sarkhan Unbroken": {
+      "categories": ["granted"]
+    },
+    "Scion of Ugin": {
+      "categories": ["default"]
+    },
+    "Scourge of Valkas": {
+      "categories": ["default"]
+    },
+    "Silumgar Sorcerer": {
+      "categories": ["default"]
+    },
+    "Skyrider Elf": {
+      "categories": ["default"]
+    },
+    "Soulflayer": {
+      "categories": ["default"]
+    },
+    "Sphinx of Magosi": {
+      "categories": ["default"]
+    },
+    "Stormbreath Dragon": {
+      "categories": ["default"]
+    },
+    "Stormchaser Mage": {
+      "categories": ["default"]
+    },
+    "Stormtide Leviathan": {
+      "categories": ["default"]
+    },
+    "Sungrace Pegasus": {
+      "categories": ["default"]
+    },
+    "Swift Warkite": {
+      "categories": ["default"]
+    },
+    "Syndicate Messenger": {
+      "categories": ["default"]
+    },
+    "Thopter Engineer": {
+      "categories": ["default"]
+    },
+    "Thunderclap Wyvern": {
+      "categories": ["default"]
+    },
+    "Triplicate Spirits": {
+      "categories": ["granted"]
+    },
+    "Windrider Patrol": {
+      "categories": ["default"]
+    },
+    "Wingsteed Rider": {
+      "categories": ["default"]
+    },
+    "Zephyr Winder": {
+      "categories": ["default"]
+    }
+  }
+}

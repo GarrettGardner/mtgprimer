@@ -1,0 +1,91 @@
+{
+  "cards": {
+    "Anje, Maid of Dishonor": {
+      "categories": ["lifegain"]
+    },
+    "Bramble Wurm": {
+      "categories": ["lifegain"]
+    },
+    "Courier Bat": {
+      "categories": ["payoff"]
+    },
+    "Dawnhart Geist": {
+      "categories": ["lifegain"]
+    },
+    "Desperate Farmer // Depraved Harvester": {
+      "categories": ["lifegain"]
+    },
+    "Diregraf Scavenger": {
+      "categories": ["lifegain"]
+    },
+    "Edgar, Charmed Groom // Edgar Markov's Coffin": {
+      "categories": ["lifegain"]
+    },
+    "Flourishing Hunter": {
+      "categories": ["lifegain"]
+    },
+    "Glorious Sunrise": {
+      "categories": ["lifegain"]
+    },
+    "Gluttonous Guest": {
+      "categories": ["lifegain"]
+    },
+    "Heron of Hope": {
+      "categories": ["lifegain", "payoff"]
+    },
+    "Katilda, Dawnhart Martyr // Katilda's Rising Dawn": {
+      "categories": ["lifegain"]
+    },
+    "Kindly Ancestor // Ancestor's Embrace": {
+      "categories": ["lifegain"]
+    },
+    "Laid to Rest": {
+      "categories": ["lifegain"]
+    },
+    "Lantern Flare": {
+      "categories": ["lifegain"]
+    },
+    "Markov Purifier": {
+      "categories": ["lifegain", "payoff"]
+    },
+    "Ollenbock Escort": {
+      "categories": ["lifegain"]
+    },
+    "Packsong Pup": {
+      "categories": ["lifegain"]
+    },
+    "Panicked Bystander // Cackling Culprit": {
+      "categories": ["lifegain", "payoff"]
+    },
+    "Parasitic Grasp": {
+      "categories": ["lifegain"]
+    },
+    "Ragged Recluse // Odious Witch": {
+      "categories": ["lifegain"]
+    },
+    "Restless Bloodseeker // Bloodsoaked Reveler": {
+      "categories": ["lifegain", "payoff"]
+    },
+    "Sanctify": {
+      "categories": ["lifegain"]
+    },
+    "Sigardian Paladin": {
+      "categories": ["lifegain"]
+    },
+    "Sorin the Mirthless": {
+      "categories": ["lifegain"]
+    },
+    "Traveling Minister": {
+      "categories": ["lifegain"]
+    },
+    "Vampire's Kiss": {
+      "categories": ["lifegain"]
+    },
+    "Voice of the Blessed": {
+      "categories": ["payoff"]
+    },
+    "Wedding Invitation": {
+      "categories": ["lifegain"]
+    }
+  }
+}

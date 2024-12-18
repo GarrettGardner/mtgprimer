@@ -1,0 +1,84 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Alley Evasion": {
+      "categories": ["board"]
+    },
+    "Cruel Finality": {
+      "categories": ["board"]
+    },
+    "Decommission": {
+      "categories": ["board"]
+    },
+    "Deft Dismissal": {
+      "categories": ["board"]
+    },
+    "Disallow": {
+      "categories": ["counterspell"]
+    },
+    "Fatal Push": {
+      "categories": ["board"]
+    },
+    "Heroic Intervention": {
+      "categories": ["board"]
+    },
+    "Highspire Infusion": {
+      "categories": ["board"]
+    },
+    "Hungry Flames": {
+      "categories": ["board"]
+    },
+    "Illusionist's Stratagem": {
+      "categories": ["board"]
+    },
+    "Invigorated Rampage": {
+      "categories": ["board"]
+    },
+    "Leave in the Dust": {
+      "categories": ["board"]
+    },
+    "Lifecraft Awakening": {
+      "categories": ["board"]
+    },
+    "Lifecrafter's Gift": {
+      "categories": ["board"]
+    },
+    "Metallic Rebuke": {
+      "categories": ["counterspell"]
+    },
+    "Natural Obsolescence": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Perilous Predicament": {
+      "categories": ["board"]
+    },
+    "Precise Strike": {
+      "categories": ["board"]
+    },
+    "Renegade's Getaway": {
+      "categories": ["board"]
+    },
+    "Shielded Aether Thief": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Take into Custody": {
+      "categories": ["board"]
+    },
+    "Whir of Invention": {
+      "categories": ["board"]
+    }
+  }
+}

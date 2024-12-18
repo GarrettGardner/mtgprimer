@@ -1,0 +1,136 @@
+{
+  "name": "Theme: Card Draw",
+  "icon": "fas fa-sd-card",
+  "categories": {
+    "payoffs": "Card Draw Payoffs",
+    "enablers": "Card Draw Enablers"
+  },
+  "cards": {
+    "Bad Deal": {
+      "categories": ["enablers"]
+    },
+    "Barrin, Tolarian Archmage": {
+      "categories": ["enablers"]
+    },
+    "Burlfist Oak": {
+      "categories": ["payoffs"]
+    },
+    "Crash Through": {
+      "categories": ["enablers"]
+    },
+    "Crypt Lurker": {
+      "categories": ["enablers"]
+    },
+    "Defiant Strike": {
+      "categories": ["enablers"]
+    },
+    "Frantic Inventory": {
+      "categories": ["enablers"]
+    },
+    "Ghostly Pilferer": {
+      "categories": ["enablers"]
+    },
+    "Gnarled Sage": {
+      "categories": ["payoffs"]
+    },
+    "Jeskai Elder": {
+      "categories": ["enablers"]
+    },
+    "Jolrael, Mwonvuli Recluse": {
+      "categories": ["payoffs"]
+    },
+    "Kinetic Augur": {
+      "categories": ["enablers"]
+    },
+    "Library Larcenist": {
+      "categories": ["enablers"]
+    },
+    "Liliana's Standard Bearer": {
+      "categories": ["enablers"]
+    },
+    "Llanowar Visionary": {
+      "categories": ["enablers"]
+    },
+    "Lorescale Coatl": {
+      "categories": ["payoffs"]
+    },
+    "Mangara, the Diplomat": {
+      "categories": ["enablers"]
+    },
+    "Mazemind Tome": {
+      "categories": ["enablers"]
+    },
+    "Obsessive Stitcher": {
+      "categories": ["enablers"]
+    },
+    "Opt": {
+      "categories": ["enablers"]
+    },
+    "Portcullis Vine": {
+      "categories": ["enablers"]
+    },
+    "Rain of Revelation": {
+      "categories": ["enablers"]
+    },
+    "Read the Tides": {
+      "categories": ["enablers"]
+    },
+    "Revitalize": {
+      "categories": ["enablers"]
+    },
+    "Rousing Read": {
+      "categories": ["enablers"]
+    },
+    "Sanctum of Calm Waters": {
+      "categories": ["enablers"]
+    },
+    "Setessan Training": {
+      "categories": ["enablers"]
+    },
+    "Silversmote Ghoul": {
+      "categories": ["enablers"]
+    },
+    "Skyscanner": {
+      "categories": ["enablers"]
+    },
+    "Solemn Simulacrum": {
+      "categories": ["enablers"]
+    },
+    "Sublime Epiphany": {
+      "categories": ["enablers"]
+    },
+    "Teferi's Ageless Insight": {
+      "categories": ["payoffs"]
+    },
+    "Teferi's Protege": {
+      "categories": ["enablers"]
+    },
+    "Teferi's Tutelage": {
+      "categories": ["enablers", "payoffs"]
+    },
+    "Teferi, Master of Time": {
+      "categories": ["enablers"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["enablers"]
+    },
+    "Tide Skimmer": {
+      "categories": ["enablers"]
+    },
+    "Tolarian Kraken": {
+      "categories": ["payoffs"]
+    },
+    "Tome Anima": {
+      "categories": ["payoffs"]
+    },
+    "Track Down": {
+      "categories": ["enablers"]
+    },
+    "Village Rites": {
+      "categories": ["enablers"]
+    },
+    "Witch's Cauldron": {
+      "categories": ["enablers"]
+    }
+  }
+}

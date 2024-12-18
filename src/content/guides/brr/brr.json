@@ -1,0 +1,392 @@
+{
+  "code": "brr",
+  "formatName": "The Brothers' War Retro Artifacts",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Adaptive Automaton": {
+      "number": "1",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aetherflux Reservoir": {
+      "number": "2",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Altar of Dementia": {
+      "number": "3",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ashnod's Altar": {
+      "number": "4",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Astral Cornucopia": {
+      "number": "5",
+      "cost": ["x", "x", "x"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Blackblade Reforged": {
+      "number": "6",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bone Saw": {
+      "number": "7",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Burnished Hart": {
+      "number": "8",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Caged Sun": {
+      "number": "9",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Chromatic Lantern": {
+      "number": "10",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Chromatic Star": {
+      "number": "11",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cloud Key": {
+      "number": "12",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Defense Grid": {
+      "number": "13",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Door to Nothingness": {
+      "number": "14",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elsewhere Flask": {
+      "number": "15",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Foundry Inspector": {
+      "number": "16",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gilded Lotus": {
+      "number": "17",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Goblin Charbelcher": {
+      "number": "18",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Helm of the Host": {
+      "number": "19",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Howling Mine": {
+      "number": "20",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ichor Wellspring": {
+      "number": "21",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Inspiring Statuary": {
+      "number": "22",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ivory Tower": {
+      "number": "23",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Jalum Tome": {
+      "number": "24",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Journeyer's Kite": {
+      "number": "25",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Keening Stone": {
+      "number": "26",
+      "cost": ["6"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Key to the City": {
+      "number": "27",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Liquimetal Coating": {
+      "number": "28",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lodestone Golem": {
+      "number": "29",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mazemind Tome": {
+      "number": "30",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mesmeric Orb": {
+      "number": "31",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Millstone": {
+      "number": "32",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mind's Eye": {
+      "number": "33",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mishra's Bauble": {
+      "number": "34",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mox Amber": {
+      "number": "35",
+      "cost": ["0"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mystic Forge": {
+      "number": "36",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ornithopter": {
+      "number": "37",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Perilous Vault": {
+      "number": "38",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Phyrexian Processor": {
+      "number": "39",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Phyrexian Revoker": {
+      "number": "40",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Platinum Angel": {
+      "number": "41",
+      "cost": ["7"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Precursor Golem": {
+      "number": "42",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pristine Talisman": {
+      "number": "43",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Psychosis Crawler": {
+      "number": "44",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Quicksilver Amulet": {
+      "number": "45",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Quietus Spike": {
+      "number": "46",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ramos, Dragon Engine": {
+      "number": "47",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Runechanter's Pike": {
+      "number": "48",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Scrap Trawler": {
+      "number": "49",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sculpting Steel": {
+      "number": "50",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Self-Assembler": {
+      "number": "51",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Semblance Anvil": {
+      "number": "52",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sigil of Valor": {
+      "number": "53",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Soul-Guide Lantern": {
+      "number": "54",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Springleaf Drum": {
+      "number": "55",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Staff of Domination": {
+      "number": "56",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sundering Titan": {
+      "number": "57",
+      "cost": ["8"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Swiftfoot Boots": {
+      "number": "58",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sword of the Meek": {
+      "number": "59",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thorn of Amethyst": {
+      "number": "60",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Unwinding Clock": {
+      "number": "61",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Well of Lost Dreams": {
+      "number": "62",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Wurmcoil Engine": {
+      "number": "63",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["creature"]
+    }
+  }
+}

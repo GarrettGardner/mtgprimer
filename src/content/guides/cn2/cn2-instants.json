@@ -1,0 +1,132 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Affa Guard Hound": {
+      "categories": ["board"]
+    },
+    "Altar's Reap": {
+      "categories": ["other"]
+    },
+    "Beast Within": {
+      "categories": ["board"]
+    },
+    "Berserk": {
+      "categories": ["board"]
+    },
+    "Bonds of Quicksilver": {
+      "categories": ["board"]
+    },
+    "Burn Away": {
+      "categories": ["board"]
+    },
+    "Cloaked Siren": {
+      "categories": ["board"]
+    },
+    "Coordinated Assault": {
+      "categories": ["board"]
+    },
+    "Death Wind": {
+      "categories": ["board"]
+    },
+    "Deceiver Exarch": {
+      "categories": ["board"]
+    },
+    "Desertion": {
+      "categories": ["counterspell"]
+    },
+    "Disenchant": {
+      "categories": ["other"]
+    },
+    "Dismiss": {
+      "categories": ["counterspell"]
+    },
+    "Faith's Reward": {
+      "categories": ["board"]
+    },
+    "Fiery Fall": {
+      "categories": ["board"]
+    },
+    "Fleeting Distraction": {
+      "categories": ["board"]
+    },
+    "Garbage Fire": {
+      "categories": ["board"]
+    },
+    "Gleam of Resistance": {
+      "categories": ["board"]
+    },
+    "Gods Willing": {
+      "categories": ["board"]
+    },
+    "Hail of Arrows": {
+      "categories": ["board"]
+    },
+    "Hollowhenge Spirit": {
+      "categories": ["board"]
+    },
+    "Illusion of Choice": {
+      "categories": ["other"]
+    },
+    "Kill Shot": {
+      "categories": ["board"]
+    },
+    "Lace with Moonglove": {
+      "categories": ["board"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Public Execution": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Regicide": {
+      "categories": ["board"]
+    },
+    "Repulse": {
+      "categories": ["board"]
+    },
+    "Reviving Dose": {
+      "categories": ["other"]
+    },
+    "Strength in Numbers": {
+      "categories": ["board"]
+    },
+    "Stunt Double": {
+      "categories": ["board"]
+    },
+    "Sulfurous Blast": {
+      "categories": ["board"]
+    },
+    "Sylvan Bounty": {
+      "categories": ["other"]
+    },
+    "Traumatic Visions": {
+      "categories": ["counterspell"]
+    },
+    "Trumpet Blast": {
+      "categories": ["board"]
+    },
+    "Twin Bolt": {
+      "categories": ["board"]
+    },
+    "Zealous Strike": {
+      "categories": ["board"]
+    }
+  }
+}

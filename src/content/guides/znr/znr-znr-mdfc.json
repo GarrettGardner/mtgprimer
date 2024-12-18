@@ -1,0 +1,127 @@
+{
+  "name": "Mechanic: Modal Double-Faced Cards",
+  "icon": "fas fa-mountain",
+  "categories": {
+    "synergy": "Synergy Cards",
+    "all": "All MDFCs"
+  },
+  "cards": {
+    "Agadeem's Awakening // Agadeem, the Undercrypt": {
+      "categories": ["all"]
+    },
+    "Akoum Warrior // Akoum Teeth": {
+      "categories": ["all"]
+    },
+    "Bala Ged Recovery // Bala Ged Sanctuary": {
+      "categories": ["all"]
+    },
+    "Beyeen Veil // Beyeen Coast": {
+      "categories": ["all"]
+    },
+    "Blackbloom Rogue // Blackbloom Bog": {
+      "categories": ["all"]
+    },
+    "Branchloft Pathway // Boulderloft Pathway": {
+      "categories": ["all"]
+    },
+    "Brightclimb Pathway // Grimclimb Pathway": {
+      "categories": ["all"]
+    },
+    "Clearwater Pathway // Murkwater Pathway": {
+      "categories": ["all"]
+    },
+    "Cragcrown Pathway // Timbercrown Pathway": {
+      "categories": ["all"]
+    },
+    "Emeria's Call // Emeria, Shattered Skyclave": {
+      "categories": ["all"]
+    },
+    "Glasspool Mimic // Glasspool Shore": {
+      "categories": ["all"]
+    },
+    "Hagra Mauling // Hagra Broodpit": {
+      "categories": ["all"]
+    },
+    "Jwari Disruption // Jwari Ruins": {
+      "categories": ["all"]
+    },
+    "Kabira Takedown // Kabira Plateau": {
+      "categories": ["all"]
+    },
+    "Kazandu Mammoth // Kazandu Valley": {
+      "categories": ["all"]
+    },
+    "Kazandu Stomper": {
+      "categories": ["synergy"]
+    },
+    "Kazuul's Fury // Kazuul's Cliffs": {
+      "categories": ["all"]
+    },
+    "Khalni Ambush // Khalni Territory": {
+      "categories": ["all"]
+    },
+    "Makindi Stampede // Makindi Mesas": {
+      "categories": ["all"]
+    },
+    "Malakir Rebirth // Malakir Mire": {
+      "categories": ["all"]
+    },
+    "Needleverge Pathway // Pillarverge Pathway": {
+      "categories": ["all"]
+    },
+    "Ondu Inversion // Ondu Skyruins": {
+      "categories": ["all"]
+    },
+    "Pelakka Predation // Pelakka Caverns": {
+      "categories": ["all"]
+    },
+    "Pyroclastic Hellion": {
+      "categories": ["synergy"]
+    },
+    "Riverglide Pathway // Lavaglide Pathway": {
+      "categories": ["all"]
+    },
+    "Sea Gate Restoration // Sea Gate, Reborn": {
+      "categories": ["all"]
+    },
+    "Sejiri Shelter // Sejiri Glacier": {
+      "categories": ["all"]
+    },
+    "Shatterskull Smashing // Shatterskull, the Hammer Pass": {
+      "categories": ["all"]
+    },
+    "Silundi Vision // Silundi Isle": {
+      "categories": ["all"]
+    },
+    "Skyclave Cleric // Skyclave Basilica": {
+      "categories": ["all"]
+    },
+    "Song-Mad Treachery // Song-Mad Ruins": {
+      "categories": ["all"]
+    },
+    "Spikefield Hazard // Spikefield Cave": {
+      "categories": ["all"]
+    },
+    "Tangled Florahedron // Tangled Vale": {
+      "categories": ["all"]
+    },
+    "Tazeem Raptor": {
+      "categories": ["synergy"]
+    },
+    "Turntimber Symbiosis // Turntimber, Serpentine Wood": {
+      "categories": ["all"]
+    },
+    "Umara Wizard // Umara Skyfalls": {
+      "categories": ["all"]
+    },
+    "Valakut Awakening // Valakut Stoneforge": {
+      "categories": ["all"]
+    },
+    "Vastwood Fortification // Vastwood Thicket": {
+      "categories": ["all"]
+    },
+    "Zof Consumption // Zof Bloodbog": {
+      "categories": ["all"]
+    }
+  }
+}

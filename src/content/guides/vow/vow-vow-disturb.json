@@ -1,0 +1,71 @@
+{
+  "name": "Mechanic: Disturb",
+  "icon": "fas fa-ghost",
+  "categories": {
+    "disturb": "Disturb",
+    "payoff": "Payoffs/Similar Cards",
+    "hate": "Hate Cards"
+  },
+  "cards": {
+    "Binding Geist // Spectral Binding": {
+      "categories": ["disturb"]
+    },
+    "Brine Comber // Brinebound Gift": {
+      "categories": ["disturb"]
+    },
+    "Cemetery Desecrator": {
+      "categories": ["hate"]
+    },
+    "Cemetery Gatekeeper": {
+      "categories": ["hate"]
+    },
+    "Cemetery Illuminator": {
+      "categories": ["hate"]
+    },
+    "Cemetery Protector": {
+      "categories": ["hate"]
+    },
+    "Cemetery Prowler": {
+      "categories": ["hate"]
+    },
+    "Diregraf Scavenger": {
+      "categories": ["hate"]
+    },
+    "Distracting Geist // Clever Distraction": {
+      "categories": ["disturb"]
+    },
+    "Dorothea, Vengeful Victim // Dorothea's Retribution": {
+      "categories": ["disturb"]
+    },
+    "Drogskol Infantry // Drogskol Armaments": {
+      "categories": ["disturb"]
+    },
+    "Faithbound Judge // Sinner's Judgment": {
+      "categories": ["disturb"]
+    },
+    "Gutter Skulker // Gutter Shortcut": {
+      "categories": ["disturb"]
+    },
+    "Heron-Blessed Geist": {
+      "categories": ["payoff"]
+    },
+    "Katilda, Dawnhart Martyr // Katilda's Rising Dawn": {
+      "categories": ["disturb"]
+    },
+    "Kindly Ancestor // Ancestor's Embrace": {
+      "categories": ["disturb"]
+    },
+    "Lantern Bearer // Lanterns' Lift": {
+      "categories": ["disturb"]
+    },
+    "Mirrorhall Mimic // Ghastly Mimicry": {
+      "categories": ["disturb"]
+    },
+    "Mischievous Catgeist // Catlike Curiosity": {
+      "categories": ["disturb"]
+    },
+    "Twinblade Geist // Twinblade Invocation": {
+      "categories": ["disturb"]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Archive Trap": {
+      "categories": ["board"]
+    },
+    "Arrow Volley Trap": {
+      "categories": ["board"]
+    },
+    "Baloth Cage Trap": {
+      "categories": ["board"]
+    },
+    "Bold Defense": {
+      "categories": ["board"]
+    },
+    "Brave the Elements": {
+      "categories": ["board"]
+    },
+    "Burst Lightning": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["board"]
+    },
+    "Cobra Trap": {
+      "categories": ["board"]
+    },
+    "Disfigure": {
+      "categories": ["board"]
+    },
+    "Harrow": {
+      "categories": ["board"]
+    },
+    "Hideous End": {
+      "categories": ["board"]
+    },
+    "Inferno Trap": {
+      "categories": ["board"]
+    },
+    "Into the Roil": {
+      "categories": ["board"]
+    },
+    "Lavaball Trap": {
+      "categories": ["board"]
+    },
+    "Lethargy Trap": {
+      "categories": ["board"]
+    },
+    "Mindbreak Trap": {
+      "categories": ["board"]
+    },
+    "Narrow Escape": {
+      "categories": ["board"]
+    },
+    "Needlebite Trap": {
+      "categories": ["board"]
+    },
+    "Pitfall Trap": {
+      "categories": ["board"]
+    },
+    "Primal Bellow": {
+      "categories": ["board"]
+    },
+    "Punishing Fire": {
+      "categories": ["board"]
+    },
+    "Ravenous Trap": {
+      "categories": ["board"]
+    },
+    "Relic Crush": {
+      "categories": ["board"]
+    },
+    "Runeflare Trap": {
+      "categories": ["board"]
+    },
+    "Seismic Shudder": {
+      "categories": ["board"]
+    },
+    "Shieldmate's Blessing": {
+      "categories": ["board"]
+    },
+    "Slaughter Cry": {
+      "categories": ["board"]
+    },
+    "Spell Pierce": {
+      "categories": ["board"]
+    },
+    "Summoner's Bane": {
+      "categories": ["board"]
+    },
+    "Summoning Trap": {
+      "categories": ["board"]
+    },
+    "Tanglesap": {
+      "categories": ["board"]
+    },
+    "Trapmaker's Snare": {
+      "categories": ["board"]
+    },
+    "Unstable Footing": {
+      "categories": ["board"]
+    },
+    "Vampire's Bite": {
+      "categories": ["board"]
+    },
+    "Vines of Vastwood": {
+      "categories": ["board"]
+    },
+    "Whiplash Trap": {
+      "categories": ["board"]
+    }
+  }
+}

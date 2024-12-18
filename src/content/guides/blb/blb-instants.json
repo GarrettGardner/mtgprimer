@@ -1,0 +1,145 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blooming Blast": {
+      "categories": ["board"]
+    },
+    "Cache Grab": {
+      "categories": ["other"]
+    },
+    "Conduct Electricity": {
+      "categories": ["board"]
+    },
+    "Consumed by Greed": {
+      "categories": ["board"]
+    },
+    "Crumb and Get It": {
+      "categories": ["board"]
+    },
+    "Dawn's Truce": {
+      "categories": ["board"]
+    },
+    "Dazzling Denial": {
+      "categories": ["counterspell"]
+    },
+    "Dire Downdraft": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "Downwind Ambusher": {
+      "categories": ["board"]
+    },
+    "Early Winter": {
+      "categories": ["board"]
+    },
+    "Eddymurk Crab": {
+      "categories": ["board"],
+      "cost": ["u", "u"]
+    },
+    "Feather of Flight": {
+      "categories": ["board"]
+    },
+    "Feed the Cycle": {
+      "categories": ["board"]
+    },
+    "Galewind Moose": {
+      "categories": ["board"]
+    },
+    "Hazel's Nocturne": {
+      "categories": ["other"]
+    },
+    "High Stride": {
+      "categories": ["board"]
+    },
+    "Into the Flood Maw": {
+      "categories": ["board"]
+    },
+    "Long River's Pull": {
+      "categories": ["counterspell"]
+    },
+    "Mabel's Mettle": {
+      "categories": ["board"]
+    },
+    "Might of the Meek": {
+      "categories": ["board"]
+    },
+    "Mouse Trapper": {
+      "categories": ["board"]
+    },
+    "Nocturnal Hunger": {
+      "categories": ["board"]
+    },
+    "Overprotect": {
+      "categories": ["board"]
+    },
+    "Parting Gust": {
+      "categories": ["board"]
+    },
+    "Pawpatch Formation": {
+      "categories": ["board"]
+    },
+    "Peerless Recycling": {
+      "categories": ["other"]
+    },
+    "Plumecreed Escort": {
+      "categories": ["board"]
+    },
+    "Polliwallop": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Rabbit Response": {
+      "categories": ["board"]
+    },
+    "Rabid Gnaw": {
+      "categories": ["board"]
+    },
+    "Repel Calamity": {
+      "categories": ["board"]
+    },
+    "Run Away Together": {
+      "categories": ["board"]
+    },
+    "Salvation Swan": {
+      "categories": ["board"]
+    },
+    "Savor": {
+      "categories": ["board"]
+    },
+    "Sazacap's Brew": {
+      "categories": ["board"]
+    },
+    "Scales of Shale": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Shore Up": {
+      "categories": ["board"]
+    },
+    "Sonar Strike": {
+      "categories": ["board"]
+    },
+    "Spellgyre": {
+      "categories": ["counterspell", "other"]
+    },
+    "Sugar Coat": {
+      "categories": ["board"]
+    },
+    "Take Out the Trash": {
+      "categories": ["board"]
+    },
+    "Valley Floodcaller": {
+      "categories": ["board"]
+    },
+    "Valley Rally": {
+      "categories": ["board"]
+    }
+  }
+}

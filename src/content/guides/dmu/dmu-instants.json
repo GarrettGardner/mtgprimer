@@ -1,0 +1,144 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Artillery Blast": {
+      "categories": ["board"]
+    },
+    "Battle-Rage Blessing": {
+      "categories": ["board"]
+    },
+    "Bite Down": {
+      "categories": ["board"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Cleaving Skyrider": {
+      "categories": ["board"]
+    },
+    "Colossal Growth": {
+      "categories": ["board"]
+    },
+    "Cut Down": {
+      "categories": ["board"]
+    },
+    "Destroy Evil": {
+      "categories": ["board"]
+    },
+    "Ertai Resurrected": {
+      "categories": ["board", "counterspell"]
+    },
+    "Ertai's Scorn": {
+      "categories": ["counterspell"],
+      "cost": ["1", "u"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Extinguish the Light": {
+      "categories": ["board"]
+    },
+    "Fires of Victory": {
+      "categories": ["board"]
+    },
+    "Flowstone Infusion": {
+      "categories": ["board"]
+    },
+    "Furious Bellow": {
+      "categories": ["board"]
+    },
+    "Gaea's Might": {
+      "categories": ["board"]
+    },
+    "Herd Migration": {
+      "categories": ["other"],
+      "cost": ["1", "g"]
+    },
+    "Heroic Charge": {
+      "categories": ["board"]
+    },
+    "Hurloon Battle Hymn": {
+      "categories": ["board"]
+    },
+    "Impulse": {
+      "categories": ["other"]
+    },
+    "Join Forces": {
+      "categories": ["board"]
+    },
+    "Joint Exploration": {
+      "categories": ["other"]
+    },
+    "Leyline Binding": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Prayer of Binding": {
+      "categories": ["board"]
+    },
+    "Protect the Negotiators": {
+      "categories": ["board", "counterspell"]
+    },
+    "Resolute Reinforcements": {
+      "categories": ["board"]
+    },
+    "Rona's Vortex": {
+      "categories": ["board"]
+    },
+    "Shadow Prophecy": {
+      "categories": ["board"]
+    },
+    "Shore Up": {
+      "categories": ["board"]
+    },
+    "Silver Scrutiny": {
+      "categories": ["other"]
+    },
+    "Stall for Time": {
+      "categories": ["board"]
+    },
+    "Strength of the Coalition": {
+      "categories": ["board"]
+    },
+    "Tail Swipe": {
+      "categories": ["board"]
+    },
+    "Take Up the Shield": {
+      "categories": ["board"]
+    },
+    "Tear Asunder": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["board"]
+    },
+    "Timely Interference": {
+      "categories": ["board"]
+    },
+    "Tribute to Urborg": {
+      "categories": ["board"]
+    },
+    "Twinferno": {
+      "categories": ["board"]
+    },
+    "Vodalian Hexcatcher": {
+      "categories": ["board", "counterspell"]
+    },
+    "Warhost's Frenzy": {
+      "categories": ["board"]
+    }
+  }
+}

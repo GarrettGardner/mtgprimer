@@ -1,0 +1,70 @@
+{
+  "name": "Mechanic: Coven",
+  "icon": "fas fa-broom",
+  "categories": {
+    "coven": "Coven",
+    "enabler": "Enablers"
+  },
+  "cards": {
+    "Ambitious Farmhand // Seasoned Cathar": {
+      "categories": ["coven"]
+    },
+    "Augur of Autumn": {
+      "categories": ["coven"]
+    },
+    "Beloved Beggar // Generous Soul": {
+      "categories": ["enabler"]
+    },
+    "Candlegrove Witch": {
+      "categories": ["coven"]
+    },
+    "Candlelit Cavalry": {
+      "categories": ["coven"]
+    },
+    "Candletrap": {
+      "categories": ["coven"]
+    },
+    "Clarion Cathars": {
+      "categories": ["enabler"]
+    },
+    "Contortionist Troupe": {
+      "categories": ["coven", "enabler"]
+    },
+    "Dawnhart Mentor": {
+      "categories": ["coven", "enabler"]
+    },
+    "Dawnhart Wardens": {
+      "categories": ["coven"]
+    },
+    "Defend the Celestus": {
+      "categories": ["enabler"]
+    },
+    "Duel for Dominance": {
+      "categories": ["coven"]
+    },
+    "Duelcraft Trainer": {
+      "categories": ["coven"]
+    },
+    "Gavony Trapper": {
+      "categories": ["enabler"]
+    },
+    "Harvesttide Sentry": {
+      "categories": ["coven"]
+    },
+    "Might of the Old Ways": {
+      "categories": ["coven"]
+    },
+    "Ritual Guardian": {
+      "categories": ["coven"]
+    },
+    "Ritual of Hope": {
+      "categories": ["coven"]
+    },
+    "Sigarda, Champion of Light": {
+      "categories": ["coven"]
+    },
+    "Sungold Barrage": {
+      "categories": ["coven"]
+    }
+  }
+}

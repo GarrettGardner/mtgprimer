@@ -1,0 +1,135 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blinding Fog": {
+      "categories": ["board"]
+    },
+    "Bloodcrazed Paladin": {
+      "categories": ["board"]
+    },
+    "Bright Reprisal": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Costly Plunder": {
+      "categories": ["other"]
+    },
+    "Crash the Ramparts": {
+      "categories": ["board"]
+    },
+    "Crushing Canopy": {
+      "categories": ["board"]
+    },
+    "Dark Nourishment": {
+      "categories": ["board"]
+    },
+    "Demystify": {
+      "categories": ["other"]
+    },
+    "Depths of Desire": {
+      "categories": ["board"]
+    },
+    "Dinosaur Stampede": {
+      "categories": ["board"]
+    },
+    "Dive Down": {
+      "categories": ["board"]
+    },
+    "Dreamcaller Siren": {
+      "categories": ["board"]
+    },
+    "Dual Shot": {
+      "categories": ["board"]
+    },
+    "Fiery Cannonade": {
+      "categories": ["board"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Lookout's Dispersal": {
+      "categories": ["counterspell"]
+    },
+    "Opt": {
+      "categories": ["other"]
+    },
+    "Perilous Voyage": {
+      "categories": ["board"]
+    },
+    "Pounce": {
+      "categories": ["board"]
+    },
+    "Rallying Roar": {
+      "categories": ["board"]
+    },
+    "Ritual of Rejuvenation": {
+      "categories": ["other"]
+    },
+    "River Heralds' Boon": {
+      "categories": ["board"]
+    },
+    "Run Aground": {
+      "categories": ["board"]
+    },
+    "Sanguine Sacrament": {
+      "categories": ["other"]
+    },
+    "Settle the Wreckage": {
+      "categories": ["board"]
+    },
+    "Sheltering Light": {
+      "categories": ["board"]
+    },
+    "Siren's Ruse": {
+      "categories": ["board"]
+    },
+    "Skulduggery": {
+      "categories": ["board"]
+    },
+    "Slash of Talons": {
+      "categories": ["board"]
+    },
+    "Slice in Twain": {
+      "categories": ["board"]
+    },
+    "Snapping Sailback": {
+      "categories": ["board"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Spell Swindle": {
+      "categories": ["counterspell"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Unfriendly Fire": {
+      "categories": ["board"]
+    },
+    "Vampire's Zeal": {
+      "categories": ["board"]
+    },
+    "Vanquish the Weak": {
+      "categories": ["board"]
+    },
+    "Verdant Rebirth": {
+      "categories": ["board"]
+    },
+    "Vraska's Contempt": {
+      "categories": ["board"]
+    },
+    "Wind Strider": {
+      "categories": ["board"]
+    }
+  }
+}

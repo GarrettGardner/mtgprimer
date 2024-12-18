@@ -1,0 +1,187 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abzan Charm": {
+      "categories": ["board"]
+    },
+    "Aethermage's Touch": {
+      "categories": ["board"]
+    },
+    "Agony Warp": {
+      "categories": ["board"]
+    },
+    "Ambuscade": {
+      "categories": ["board"]
+    },
+    "Anguished Unmaking": {
+      "categories": ["board"]
+    },
+    "Assassin's Trophy": {
+      "categories": ["board"]
+    },
+    "Atarka's Command": {
+      "categories": ["board"]
+    },
+    "Auger Spree": {
+      "categories": ["board"]
+    },
+    "Backdraft Hellkite": {
+      "categories": ["board"]
+    },
+    "Bant Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Battlefield Promotion": {
+      "categories": ["board"]
+    },
+    "Capture Sphere": {
+      "categories": ["board"]
+    },
+    "Chaos Warp": {
+      "categories": ["board"]
+    },
+    "Crackling Doom": {
+      "categories": ["board"]
+    },
+    "Deep Analysis": {
+      "categories": ["other"]
+    },
+    "Disfigure": {
+      "categories": ["board"]
+    },
+    "Dromoka's Command": {
+      "categories": ["board"]
+    },
+    "Eel Umbra": {
+      "categories": ["board"]
+    },
+    "Elsha of the Infinite": {
+      "categories": ["board"]
+    },
+    "Eyeblight's Ending": {
+      "categories": ["board"]
+    },
+    "Fiery Fall": {
+      "categories": ["board"]
+    },
+    "Forbidden Alchemy": {
+      "categories": ["other"]
+    },
+    "Force of Negation": {
+      "categories": ["counterspell"]
+    },
+    "Gifts Ungiven": {
+      "categories": ["other"]
+    },
+    "Go for the Throat": {
+      "categories": ["board"]
+    },
+    "Gods Willing": {
+      "categories": ["board"]
+    },
+    "Grapple with the Past": {
+      "categories": ["board"]
+    },
+    "Izzet Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Jeskai Charm": {
+      "categories": ["board"]
+    },
+    "Kolaghan's Command": {
+      "categories": ["board"]
+    },
+    "Last Breath": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Lightning Helix": {
+      "categories": ["board"]
+    },
+    "Mana Drain": {
+      "categories": ["counterspell"]
+    },
+    "Mana Leak": {
+      "categories": ["counterspell"]
+    },
+    "Martial Glory": {
+      "categories": ["board"]
+    },
+    "Might of Old Krosa": {
+      "categories": ["board"]
+    },
+    "Momentary Blink": {
+      "categories": ["board"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Prophetic Bolt": {
+      "categories": ["board"]
+    },
+    "Pull from Tomorrow": {
+      "categories": ["other"]
+    },
+    "Restoration Angel": {
+      "categories": ["board"]
+    },
+    "Scale Blessing": {
+      "categories": ["board"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Spider Spawning": {
+      "categories": ["board"]
+    },
+    "Staggershock": {
+      "categories": ["board"]
+    },
+    "Supernatural Stamina": {
+      "categories": ["board"]
+    },
+    "Surgical Extraction": {
+      "categories": ["other"],
+      "cost": []
+    },
+    "Teferi's Protection": {
+      "categories": ["board"]
+    },
+    "Terminate": {
+      "categories": ["board"]
+    },
+    "Thistledown Liege": {
+      "categories": ["board"]
+    },
+    "Thought Scour": {
+      "categories": ["other"]
+    },
+    "Titan's Strength": {
+      "categories": ["board"]
+    },
+    "Travel Preparations": {
+      "categories": ["board"]
+    },
+    "Unburial Rites": {
+      "categories": ["board"]
+    },
+    "Vedalken Orrery": {
+      "categories": ["board"]
+    },
+    "Venser, Shaper Savant": {
+      "categories": ["board"]
+    },
+    "Winged Coatl": {
+      "categories": ["board"]
+    }
+  }
+}

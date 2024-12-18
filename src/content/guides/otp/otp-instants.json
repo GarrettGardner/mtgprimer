@@ -1,0 +1,118 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrupt Decay": {
+      "categories": ["board"]
+    },
+    "Anguished Unmaking": {
+      "categories": ["board"]
+    },
+    "Archive Trap": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Archmage's Charm": {
+      "categories": ["board"]
+    },
+    "Back for More": {
+      "categories": ["board"]
+    },
+    "Bedevil": {
+      "categories": ["board"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Commandeer": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Decisive Denial": {
+      "categories": ["board", "counterspell"]
+    },
+    "Electrodominance": {
+      "categories": ["board"]
+    },
+    "Endless Detour": {
+      "categories": ["counterspell"]
+    },
+    "Essence Capture": {
+      "categories": ["counterspell"]
+    },
+    "Fierce Retribution": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Force of Vigor": {
+      "categories": ["board"]
+    },
+    "Hindering Light": {
+      "categories": ["board"]
+    },
+    "Hypothesizzle": {
+      "categories": ["board"]
+    },
+    "Imp's Mischief": {
+      "categories": ["board", "counterspell"]
+    },
+    "Ionize": {
+      "categories": ["counterspell"]
+    },
+    "Leyline Binding": {
+      "categories": ["board"]
+    },
+    "Mana Drain": {
+      "categories": ["counterspell"]
+    },
+    "Mindbreak Trap": {
+      "categories": ["counterspell"],
+      "cost": ["0"]
+    },
+    "Murder": {
+      "categories": ["board"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Repulse": {
+      "categories": ["board"]
+    },
+    "Ride Down": {
+      "categories": ["board"]
+    },
+    "Siphon Insight": {
+      "categories": ["other"]
+    },
+    "Skullcrack": {
+      "categories": ["board"]
+    },
+    "Surgical Extraction": {
+      "categories": ["board"],
+      "cost": ["0"]
+    },
+    "Thornado": {
+      "categories": ["board"]
+    },
+    "Tyrant's Scorn": {
+      "categories": ["board"]
+    },
+    "Vanishing Verse": {
+      "categories": ["board"]
+    },
+    "Void Rend": {
+      "categories": ["board"]
+    },
+    "Voidslime": {
+      "categories": ["counterspell"]
+    }
+  }
+}

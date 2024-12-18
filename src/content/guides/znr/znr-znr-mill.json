@@ -1,0 +1,55 @@
+{
+  "name": "Theme: Mill (8 Cards)",
+  "icon": "fas fa-head-side-virus",
+  "categories": {
+    "payoffs": "Mill (8 Card) Payoffs",
+    "enablers": "Mill Enablers"
+  },
+  "cards": {
+    "Anticognition": {
+      "categories": ["payoffs"]
+    },
+    "Blackbloom Rogue // Blackbloom Bog": {
+      "categories": ["payoffs"]
+    },
+    "Glacial Grasp": {
+      "categories": ["enablers"]
+    },
+    "Lullmage's Domination": {
+      "categories": ["payoffs"]
+    },
+    "Maddening Cacophony": {
+      "categories": ["enablers"]
+    },
+    "Merfolk Windrobber": {
+      "categories": ["payoffs", "enablers"]
+    },
+    "Mind Carver": {
+      "categories": ["payoffs"]
+    },
+    "Mind Drain": {
+      "categories": ["enablers"]
+    },
+    "Nimana Skitter-Sneak": {
+      "categories": ["payoffs"]
+    },
+    "Nimana Skydancer": {
+      "categories": ["enablers"]
+    },
+    "Relic Golem": {
+      "categories": ["enablers"]
+    },
+    "Ruin Crab": {
+      "categories": ["enablers"]
+    },
+    "Shadow Stinger": {
+      "categories": ["enablers"]
+    },
+    "Soaring Thought-Thief": {
+      "categories": ["enablers"]
+    },
+    "Zulaport Duelist": {
+      "categories": ["enablers"]
+    }
+  }
+}

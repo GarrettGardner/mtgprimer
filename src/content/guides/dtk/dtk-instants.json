@@ -1,0 +1,174 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Anticipate": {
+      "categories": ["other"]
+    },
+    "Artful Maneuver": {
+      "categories": ["board"]
+    },
+    "Atarka's Command": {
+      "categories": ["board"]
+    },
+    "Blessed Reincarnation": {
+      "categories": ["board"]
+    },
+    "Butcher's Glee": {
+      "categories": ["board"]
+    },
+    "Center Soul": {
+      "categories": ["board"]
+    },
+    "Coat with Venom": {
+      "categories": ["board"]
+    },
+    "Collected Company": {
+      "categories": ["board"]
+    },
+    "Commune with Lava": {
+      "categories": ["other"]
+    },
+    "Contradict": {
+      "categories": ["counterspell"]
+    },
+    "Dance of the Skywise": {
+      "categories": ["board"]
+    },
+    "Death Wind": {
+      "categories": ["board"]
+    },
+    "Display of Dominance": {
+      "categories": ["board"]
+    },
+    "Draconic Roar": {
+      "categories": ["board"]
+    },
+    "Dragonlord's Prerogative": {
+      "categories": ["other"]
+    },
+    "Dromoka's Command": {
+      "categories": ["board"]
+    },
+    "Dromoka's Gift": {
+      "categories": ["board"]
+    },
+    "Encase in Ice": {
+      "categories": ["board"]
+    },
+    "Enduring Victory": {
+      "categories": ["board"]
+    },
+    "Fate Forgotten": {
+      "categories": ["other"]
+    },
+    "Flatten": {
+      "categories": ["board"]
+    },
+    "Foul Renewal": {
+      "categories": ["board"]
+    },
+    "Foul-Tongue Invocation": {
+      "categories": ["board"]
+    },
+    "Foul-Tongue Shriek": {
+      "categories": ["board"]
+    },
+    "Glint": {
+      "categories": ["board"]
+    },
+    "Gravepurge": {
+      "categories": ["other"]
+    },
+    "Inspiring Call": {
+      "categories": ["board"]
+    },
+    "Kindled Fury": {
+      "categories": ["board"]
+    },
+    "Kolaghan's Command": {
+      "categories": ["board"]
+    },
+    "Learn from the Past": {
+      "categories": ["other"]
+    },
+    "Naturalize": {
+      "categories": ["other"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Ojutai's Breath": {
+      "categories": ["board"]
+    },
+    "Ojutai's Command": {
+      "categories": ["board", "counterspell"]
+    },
+    "Pinion Feast": {
+      "categories": ["board"]
+    },
+    "Press the Advantage": {
+      "categories": ["board"]
+    },
+    "Radiant Purge": {
+      "categories": ["board"]
+    },
+    "Rending Volley": {
+      "categories": ["board"]
+    },
+    "Resupply": {
+      "categories": ["other"]
+    },
+    "Revealing Wind": {
+      "categories": ["board"]
+    },
+    "Sarkhan's Rage": {
+      "categories": ["board"]
+    },
+    "Sarkhan's Triumph": {
+      "categories": ["other"]
+    },
+    "Scale Blessing": {
+      "categories": ["board"]
+    },
+    "Secure the Wastes": {
+      "categories": ["board"]
+    },
+    "Shape the Sands": {
+      "categories": ["board"]
+    },
+    "Silumgar Sorcerer": {
+      "categories": ["board"]
+    },
+    "Silumgar's Command": {
+      "categories": ["board", "counterspell"]
+    },
+    "Silumgar's Scorn": {
+      "categories": ["counterspell"]
+    },
+    "Surge of Righteousness": {
+      "categories": ["board"]
+    },
+    "Tail Slash": {
+      "categories": ["board"]
+    },
+    "Tread Upon": {
+      "categories": ["board"]
+    },
+    "Twin Bolt": {
+      "categories": ["board"]
+    },
+    "Ultimate Price": {
+      "categories": ["board"]
+    },
+    "Volcanic Rush": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Adamant Will": {
+      "categories": ["board"]
+    },
+    "Ancient Animus": {
+      "categories": ["board"]
+    },
+    "Arbor Armament": {
+      "categories": ["board"]
+    },
+    "Befuddle": {
+      "categories": ["board"]
+    },
+    "Blessed Light": {
+      "categories": ["board"]
+    },
+    "Blessing of Belzenlok": {
+      "categories": ["board"]
+    },
+    "Blink of an Eye": {
+      "categories": ["board"]
+    },
+    "Cast Down": {
+      "categories": ["board"]
+    },
+    "Charge": {
+      "categories": ["board"]
+    },
+    "Dark Bargain": {
+      "categories": ["other"]
+    },
+    "Fervent Strike": {
+      "categories": ["board"]
+    },
+    "Fungal Infection": {
+      "categories": ["board"]
+    },
+    "Garna, the Bloodflame": {
+      "categories": ["board"]
+    },
+    "Gideon's Reproach": {
+      "categories": ["board"]
+    },
+    "Gift of Growth": {
+      "categories": ["board"]
+    },
+    "Healing Grace": {
+      "categories": ["board"]
+    },
+    "Invoke the Divine": {
+      "categories": ["other"]
+    },
+    "Merfolk Trickster": {
+      "categories": ["board"]
+    },
+    "Naru Meha, Master Wizard": {
+      "categories": ["board"]
+    },
+    "Opt": {
+      "categories": ["other"]
+    },
+    "Pierce the Sky": {
+      "categories": ["board"]
+    },
+    "Radiating Lightning": {
+      "categories": ["board"]
+    },
+    "Raff Capashen, Ship's Mage": {
+      "categories": ["board"]
+    },
+    "Rescue": {
+      "categories": ["board"]
+    },
+    "Run Amok": {
+      "categories": ["board"]
+    },
+    "Seal Away": {
+      "categories": ["board"]
+    },
+    "Sentinel of the Pearl Trident": {
+      "categories": ["board"]
+    },
+    "Shivan Fire": {
+      "categories": ["board"]
+    },
+    "Spore Swarm": {
+      "categories": ["board"]
+    },
+    "Syncopate": {
+      "categories": ["counterspell"]
+    },
+    "Unwind": {
+      "categories": ["counterspell"]
+    },
+    "Vicious Offering": {
+      "categories": ["board"]
+    },
+    "Wild Onslaught": {
+      "categories": ["board"]
+    },
+    "Wizard's Lightning": {
+      "categories": ["board"]
+    },
+    "Wizard's Retort": {
+      "categories": ["counterspell"]
+    }
+  }
+}

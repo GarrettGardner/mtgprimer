@@ -1,0 +1,102 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ad Nauseam": {
+      "categories": ["board"]
+    },
+    "Agony Warp": {
+      "categories": ["board"]
+    },
+    "Angelsong": {
+      "categories": ["board"]
+    },
+    "Bant Charm": {
+      "categories": ["board"]
+    },
+    "Branching Bolt": {
+      "categories": ["board"]
+    },
+    "Call to Heel": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["board"]
+    },
+    "Esper Charm": {
+      "categories": ["board"]
+    },
+    "Etherium Astrolabe": {
+      "categories": ["board"]
+    },
+    "Gather Specimens": {
+      "categories": ["board"]
+    },
+    "Grixis Charm": {
+      "categories": ["board"]
+    },
+    "Hindering Light": {
+      "categories": ["board"]
+    },
+    "Jund Charm": {
+      "categories": ["board"]
+    },
+    "Magma Spray": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["board"]
+    },
+    "Naya Charm": {
+      "categories": ["board"]
+    },
+    "Punish Ignorance": {
+      "categories": ["board"]
+    },
+    "Qasali Ambusher": {
+      "categories": ["board"]
+    },
+    "Resounding Roar": {
+      "categories": ["board"]
+    },
+    "Resounding Silence": {
+      "categories": ["board"]
+    },
+    "Resounding Thunder": {
+      "categories": ["board"]
+    },
+    "Resounding Wave": {
+      "categories": ["board"]
+    },
+    "Shadowfeed": {
+      "categories": ["board"]
+    },
+    "Sigil Blessing": {
+      "categories": ["board"]
+    },
+    "Skeletonize": {
+      "categories": ["board"]
+    },
+    "Soul's Fire": {
+      "categories": ["board"]
+    },
+    "Soul's Grace": {
+      "categories": ["board"]
+    },
+    "Spell Snip": {
+      "categories": ["board"]
+    },
+    "Swerve": {
+      "categories": ["board"]
+    },
+    "Tortoise Formation": {
+      "categories": ["board"]
+    }
+  }
+}

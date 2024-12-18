@@ -1,0 +1,123 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Blessed Reversal": {
+      "categories": ["other"]
+    },
+    "Boil": {
+      "categories": ["other"]
+    },
+    "Boomerang": {
+      "categories": ["board"]
+    },
+    "Catalog": {
+      "categories": ["other"]
+    },
+    "Chastise": {
+      "categories": ["board"]
+    },
+    "Dark Banishing": {
+      "categories": ["board"]
+    },
+    "Deflection": {
+      "categories": ["board"]
+    },
+    "Demystify": {
+      "categories": ["other"]
+    },
+    "Enrage": {
+      "categories": ["board"]
+    },
+    "Evacuation": {
+      "categories": ["board"]
+    },
+    "Execute": {
+      "categories": ["board"]
+    },
+    "Flash Counter": {
+      "categories": ["counterspell"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Guerrilla Tactics": {
+      "categories": ["board"]
+    },
+    "Healing Salve": {
+      "categories": ["board"]
+    },
+    "Hibernation": {
+      "categories": ["board"]
+    },
+    "Holy Day": {
+      "categories": ["board"]
+    },
+    "Inferno": {
+      "categories": ["board"]
+    },
+    "Inspiration": {
+      "categories": ["other"]
+    },
+    "Lightning Blast": {
+      "categories": ["board"]
+    },
+    "Mana Leak": {
+      "categories": ["counterspell"]
+    },
+    "Might of Oaks": {
+      "categories": ["board"]
+    },
+    "Mind Bend": {
+      "categories": ["other"]
+    },
+    "Natural Affinity": {
+      "categories": ["board"]
+    },
+    "Naturalize": {
+      "categories": ["other"]
+    },
+    "Rain of Blades": {
+      "categories": ["board"]
+    },
+    "Redeem": {
+      "categories": ["board"]
+    },
+    "Remove Soul": {
+      "categories": ["counterspell"]
+    },
+    "Rewind": {
+      "categories": ["counterspell"]
+    },
+    "Searing Wind": {
+      "categories": ["board"]
+    },
+    "Shatter": {
+      "categories": ["other"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Slay": {
+      "categories": ["board"]
+    },
+    "Solidarity": {
+      "categories": ["board"]
+    },
+    "Sudden Impact": {
+      "categories": ["board"]
+    },
+    "Twiddle": {
+      "categories": ["board"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    }
+  }
+}

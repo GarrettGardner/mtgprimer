@@ -1,19 +1,22 @@
 @use "../../../sass/mixins" as *;
 
 .header {
-  background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+  background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat
+    center center;
   border-bottom: 0 solid black;
   border-bottom-width: rem-convert(4px);
   color: white;
   display: flex;
   justify-content: flex-start;
   line-height: 1.1;
-  padding: rem-convert(16px) rem-convert(32px) rem-convert(16px) rem-convert(60px);
+  padding: rem-convert(16px) rem-convert(32px) rem-convert(16px)
+    rem-convert(60px);
   position: relative;
   width: 100%;
 
   @include breakpoint("desktop") {
-    padding: rem-convert(24px) rem-convert(32px) rem-convert(24px) rem-convert(96px);
+    padding: rem-convert(24px) rem-convert(32px) rem-convert(24px)
+      rem-convert(96px);
   }
 
   :global(.icon) {
@@ -73,7 +76,8 @@
 
 .subheader {
   align-items: center;
-  background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center center;
+  background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center
+    center;
   border-bottom: 0 solid black;
   border-bottom-width: rem-convert(4px);
   color: white;

@@ -1,0 +1,130 @@
+{
+  "name": "Removal Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Academy Journeymage": {
+      "categories": ["bounce"]
+    },
+    "Ancient Animus": {
+      "categories": ["removal"]
+    },
+    "Blessed Light": {
+      "categories": ["removal"]
+    },
+    "Blink of an Eye": {
+      "categories": ["bounce"]
+    },
+    "Bloodtallow Candle": {
+      "categories": ["removal"]
+    },
+    "Broken Bond": {
+      "categories": ["other"]
+    },
+    "Cast Down": {
+      "categories": ["removal"]
+    },
+    "Deep Freeze": {
+      "categories": ["other"]
+    },
+    "Eviscerate": {
+      "categories": ["removal"]
+    },
+    "Fiery Intervention": {
+      "categories": ["removal"]
+    },
+    "Fight with Fire": {
+      "categories": ["removal"]
+    },
+    "Firefist Adept": {
+      "categories": ["removal"]
+    },
+    "Fungal Infection": {
+      "categories": ["removal"]
+    },
+    "Gideon's Reproach": {
+      "categories": ["removal"]
+    },
+    "Goblin Barrage": {
+      "categories": ["removal"]
+    },
+    "Goblin Chainwhirler": {
+      "categories": ["boardwipe"]
+    },
+    "Haphazard Bombardment": {
+      "categories": ["removal"]
+    },
+    "Icy Manipulator": {
+      "categories": ["removal"]
+    },
+    "In Bolas's Clutches": {
+      "categories": ["removal"]
+    },
+    "Invoke the Divine": {
+      "categories": ["other"]
+    },
+    "Jaya's Immolating Inferno": {
+      "categories": ["removal"]
+    },
+    "Karn's Temporal Sundering": {
+      "categories": ["bounce"]
+    },
+    "Kazarov, Sengir Pureblood": {
+      "categories": ["removal"]
+    },
+    "Phyrexian Scriptures": {
+      "categories": ["boardwipe"]
+    },
+    "Pierce the Sky": {
+      "categories": ["removal"]
+    },
+    "Radiating Lightning": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Seal Away": {
+      "categories": ["removal"]
+    },
+    "Settle the Score": {
+      "categories": ["removal"]
+    },
+    "Shivan Fire": {
+      "categories": ["removal"]
+    },
+    "Siege-Gang Commander": {
+      "categories": ["removal"]
+    },
+    "Slinn Voda, the Rising Deep": {
+      "categories": ["bounce"]
+    },
+    "Teferi, Hero of Dominaria": {
+      "categories": ["removal"]
+    },
+    "Territorial Allosaurus": {
+      "categories": ["removal"]
+    },
+    "The Eldest Reborn": {
+      "categories": ["removal"]
+    },
+    "The First Eruption": {
+      "categories": ["boardwipe"]
+    },
+    "Urza's Ruinous Blast": {
+      "categories": ["boardwipe"]
+    },
+    "Vicious Offering": {
+      "categories": ["removal"]
+    },
+    "Wizard's Lightning": {
+      "categories": ["removal"]
+    },
+    "Yawgmoth's Vile Offering": {
+      "categories": ["removal"]
+    }
+  }
+}

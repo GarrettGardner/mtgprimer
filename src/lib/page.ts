@@ -4,21 +4,16 @@ import { generatePages } from "@/lib";
 
 let PAGES: TTemplate[] = [];
 
-export const loadPages = async () => {
-  if (PAGES.length < 1) {
-    PAGES = await generatePages(PAGES_CONFIG);
-  }
-  return PAGES;
-};
+export const loadPages = async () =>
+  PAGES.length < 1 ? await generatePages(PAGES_CONFIG) : PAGES;
 
 export const getPage = async (pathParts: string[]) => {
   const path = `/${pathParts.join("/")}`;
-  const page = (await loadPages()).find((page) => page.path === path);
-  return page;
+  return (await loadPages()).find((page) => page.path === path);
 };
 
-export const getPaths = async () => {
-  const list = (await loadPages())
+export const getPaths = async () =>
+  (await loadPages())
     .filter((page) => page.path !== "/")
     .map((page) => {
       const path = page.path.split("/");
@@ -27,5 +22,3 @@ export const getPaths = async () => {
         path,
       };
     });
-  return list;
-};

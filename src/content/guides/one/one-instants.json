@@ -1,0 +1,105 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Anoint with Affliction": {
+      "categories": ["board"]
+    },
+    "Aspirant's Ascent": {
+      "categories": ["board"]
+    },
+    "Black Sun's Twilight": {
+      "categories": ["board"]
+    },
+    "Blazing Crescendo": {
+      "categories": ["board"]
+    },
+    "Bring the Ending": {
+      "categories": ["counterspell"]
+    },
+    "Charge of the Mites": {
+      "categories": ["board"]
+    },
+    "Chrome Prowler": {
+      "categories": ["board"]
+    },
+    "Compleat Devotion": {
+      "categories": ["board"]
+    },
+    "Experimental Augury": {
+      "categories": ["other"]
+    },
+    "Free from Flesh": {
+      "categories": ["board"]
+    },
+    "Hexgold Slash": {
+      "categories": ["board"]
+    },
+    "Infectious Bite": {
+      "categories": ["board"]
+    },
+    "Maze's Mantle": {
+      "categories": ["board"]
+    },
+    "Mindsplice Apparatus": {
+      "categories": ["other"]
+    },
+    "Minor Misstep": {
+      "categories": ["counterspell"]
+    },
+    "Offer Immortality": {
+      "categories": ["board"]
+    },
+    "Plated Onslaught": {
+      "categories": ["board"]
+    },
+    "Prologue to Phyresis": {
+      "categories": ["other"]
+    },
+    "Rebel Salvo": {
+      "categories": ["board"]
+    },
+    "Reject Imperfection": {
+      "categories": ["counterspell"]
+    },
+    "Resistance Reunited": {
+      "categories": ["board"]
+    },
+    "Serum Snare": {
+      "categories": ["board"]
+    },
+    "Sheoldred's Edict": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Tyvar's Stand": {
+      "categories": ["board"]
+    },
+    "Vanish into Eternity": {
+      "categories": ["board"]
+    },
+    "Volt Charge": {
+      "categories": ["board"]
+    },
+    "Vraska's Fall": {
+      "categories": ["board"]
+    },
+    "Whisper of the Dross": {
+      "categories": ["board"]
+    },
+    "Zealot's Conviction": {
+      "categories": ["board"]
+    }
+  }
+}

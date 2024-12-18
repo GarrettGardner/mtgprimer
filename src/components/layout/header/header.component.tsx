@@ -8,7 +8,10 @@ import { useLocalToggle } from "@/hooks";
 import styles from "./header.module.scss";
 
 export const Header = () => {
-  const [isMenuMobileOpen, toggleIsMenuMobileOpen] = useLocalToggle("MENU_MOBILE_OPEN", "menuMobileOpen");
+  const [isMenuMobileOpen, toggleIsMenuMobileOpen] = useLocalToggle(
+    "MENU_MOBILE_OPEN",
+    "menuMobileOpen",
+  );
 
   return (
     <header className={styles.header}>
@@ -16,7 +19,11 @@ export const Header = () => {
         <Link href="/" title="MTG Primer">
           <Logo />
         </Link>
-        <button className="toggle" onClick={() => toggleIsMenuMobileOpen()} title="Toggle Menu">
+        <button
+          className="toggle"
+          onClick={() => toggleIsMenuMobileOpen()}
+          title="Toggle Menu"
+        >
           {isMenuMobileOpen ? (
             <span className="close">
               <Icon slug="fas fa-times" />

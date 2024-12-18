@@ -1,0 +1,108 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Anoint": {
+      "categories": ["board"]
+    },
+    "Bandage": {
+      "categories": ["board"]
+    },
+    "Capsize": {
+      "categories": ["board"]
+    },
+    "Corpse Dance": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Dark Banishing": {
+      "categories": ["board"]
+    },
+    "Dark Ritual": {
+      "categories": ["other"]
+    },
+    "Diabolic Edict": {
+      "categories": ["board"]
+    },
+    "Disenchant": {
+      "categories": ["other"]
+    },
+    "Dismiss": {
+      "categories": ["counterspell"]
+    },
+    "Elvish Fury": {
+      "categories": ["board"]
+    },
+    "Forbid": {
+      "categories": ["counterspell"]
+    },
+    "Gallantry": {
+      "categories": ["board"]
+    },
+    "Harrow": {
+      "categories": ["other"]
+    },
+    "Intuition": {
+      "categories": ["other"]
+    },
+    "Kindle": {
+      "categories": ["board"]
+    },
+    "Kor Chant": {
+      "categories": ["board"]
+    },
+    "Lightning Blast": {
+      "categories": ["board"]
+    },
+    "Mana Leak": {
+      "categories": ["counterspell"]
+    },
+    "Meditate": {
+      "categories": ["other"]
+    },
+    "Necrologia": {
+      "categories": ["other"]
+    },
+    "Provoke": {
+      "categories": ["board"]
+    },
+    "Reality Anchor": {
+      "categories": ["board"]
+    },
+    "Searing Touch": {
+      "categories": ["board"]
+    },
+    "Shadow Rift": {
+      "categories": ["board"]
+    },
+    "Shatter": {
+      "categories": ["other"]
+    },
+    "Smite": {
+      "categories": ["board"]
+    },
+    "Spell Blast": {
+      "categories": ["counterspell"]
+    },
+    "Stun": {
+      "categories": ["board"]
+    },
+    "Twitch": {
+      "categories": ["board"]
+    },
+    "Verdigris": {
+      "categories": ["board"]
+    },
+    "Whispers of the Muse": {
+      "categories": ["other"]
+    }
+  }
+}

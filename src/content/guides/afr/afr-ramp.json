@@ -1,0 +1,88 @@
+{
+  "cards": {
+    "Circle of Dreams Druid": {
+      "categories": ["traditional"]
+    },
+    "Deadly Dispute": {
+      "categories": ["treasure"]
+    },
+    "Druid Class": {
+      "categories": ["traditional"]
+    },
+    "Find the Path": {
+      "categories": ["traditional"]
+    },
+    "Forsworn Paladin": {
+      "categories": ["treasure"]
+    },
+    "Gretchen Titchwillow": {
+      "categories": ["traditional"]
+    },
+    "Grim Bounty": {
+      "categories": ["treasure"]
+    },
+    "Herald of Hadar": {
+      "categories": ["treasure"]
+    },
+    "Hoard Robber": {
+      "categories": ["treasure"]
+    },
+    "Hoarding Ogre": {
+      "categories": ["treasure"]
+    },
+    "Improvised Weaponry": {
+      "categories": ["treasure"]
+    },
+    "Instrument of the Bards": {
+      "categories": ["treasure"]
+    },
+    "Loyal Warhound": {
+      "categories": ["traditional"]
+    },
+    "Mimic": {
+      "categories": ["treasure"]
+    },
+    "Minimus Containment": {
+      "categories": ["treasure"]
+    },
+    "Neverwinter Dryad": {
+      "categories": ["traditional"]
+    },
+    "Old Gnawbone": {
+      "categories": ["treasure"]
+    },
+    "Plundering Barbarian": {
+      "categories": ["treasure"]
+    },
+    "Prosperous Innkeeper": {
+      "categories": ["treasure"]
+    },
+    "Scaled Herbalist": {
+      "categories": ["traditional"]
+    },
+    "Shambling Ghast": {
+      "categories": ["treasure"]
+    },
+    "Skullport Merchant": {
+      "categories": ["treasure"]
+    },
+    "Spiked Pit Trap": {
+      "categories": ["treasure"]
+    },
+    "Thieves' Tools": {
+      "categories": ["treasure"]
+    },
+    "Treasure Chest": {
+      "categories": ["treasure"]
+    },
+    "Treasure Vault": {
+      "categories": ["treasure"]
+    },
+    "Unexpected Windfall": {
+      "categories": ["treasure"]
+    },
+    "You Find a Cursed Idol": {
+      "categories": ["treasure"]
+    }
+  }
+}

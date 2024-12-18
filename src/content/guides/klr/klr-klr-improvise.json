@@ -1,0 +1,42 @@
+{
+  "name": "Mechanic: Improvise",
+  "icon": "fas fa-glasses",
+  "categories": {
+    "all": "All Improvise Cards"
+  },
+  "cards": {
+    "Barricade Breaker": {
+      "categories": ["all"]
+    },
+    "Enraged Giant": {
+      "categories": ["all"]
+    },
+    "Fen Hauler": {
+      "categories": ["all"]
+    },
+    "Freejam Regent": {
+      "categories": ["all"]
+    },
+    "Herald of Anguish": {
+      "categories": ["all"]
+    },
+    "Maverick Thopterist": {
+      "categories": ["all"]
+    },
+    "Metallic Rebuke": {
+      "categories": ["all"]
+    },
+    "Sly Requisitioner": {
+      "categories": ["all"]
+    },
+    "Sweatworks Brawler": {
+      "categories": ["all"]
+    },
+    "Whir of Invention": {
+      "categories": ["all"]
+    },
+    "Wind-Kin Raiders": {
+      "categories": ["all"]
+    }
+  }
+}

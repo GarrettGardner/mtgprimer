@@ -1,0 +1,48 @@
+{
+  "name": "Madness",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "creature": "Creature",
+    "board": "Board",
+    "other": "Other"
+  },
+  "cards": {
+    "Abandoned Reason": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Alchemist's Greeting": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Bloodhall Priest": {
+      "categories": ["creature"],
+      "cost": ["1", "b", "r"]
+    },
+    "Chilling Grasp": {
+      "categories": ["board"],
+      "cost": ["3", "u"]
+    },
+    "Distemper of the Blood": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Insatiable Gorgers": {
+      "categories": ["creature"],
+      "cost": ["3", "r"]
+    },
+    "Stromkirk Occultist": {
+      "categories": ["creature"],
+      "cost": ["1", "r"]
+    },
+    "Voldaren Pariah": {
+      "categories": ["creature"],
+      "cost": ["b", "b", "b"]
+    },
+    "Weirded Vampire": {
+      "categories": ["creature"],
+      "cost": ["2", "b"]
+    }
+  }
+}

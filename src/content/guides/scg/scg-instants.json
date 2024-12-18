@@ -1,0 +1,84 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Accelerated Mutation": {
+      "categories": ["board"]
+    },
+    "Astral Steel": {
+      "categories": ["board"]
+    },
+    "Brain Freeze": {
+      "categories": ["board"]
+    },
+    "Carbonize": {
+      "categories": ["board"]
+    },
+    "Chill Haunting": {
+      "categories": ["board"]
+    },
+    "Decree of Savagery": {
+      "categories": ["board"]
+    },
+    "Dispersal Shield": {
+      "categories": ["board"]
+    },
+    "Divergent Growth": {
+      "categories": ["board"]
+    },
+    "Enrage": {
+      "categories": ["board"]
+    },
+    "Gilded Light": {
+      "categories": ["board"]
+    },
+    "Hindering Touch": {
+      "categories": ["board"]
+    },
+    "Hunting Pack": {
+      "categories": ["board"]
+    },
+    "Long-Term Plans": {
+      "categories": ["board"]
+    },
+    "Metamorphose": {
+      "categories": ["board"]
+    },
+    "Rain of Blades": {
+      "categories": ["board"]
+    },
+    "Reaping the Graves": {
+      "categories": ["board"]
+    },
+    "Recuperate": {
+      "categories": ["board"]
+    },
+    "Reward the Faithful": {
+      "categories": ["board"]
+    },
+    "Scattershot": {
+      "categories": ["board"]
+    },
+    "Spark Spray": {
+      "categories": ["board"]
+    },
+    "Sprouting Vines": {
+      "categories": ["board"]
+    },
+    "Stifle": {
+      "categories": ["board"]
+    },
+    "Wing Shards": {
+      "categories": ["board"]
+    },
+    "Wipe Clean": {
+      "categories": ["board"]
+    }
+  }
+}

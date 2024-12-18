@@ -16,7 +16,12 @@ export const TemplateInfo = (props: { template: ITemplateInfo }) => {
       <ul>
         {props.template?.menu?.pages.map((page, key) => (
           <li key={key}>
-            <CircleLink href={page.path} title={page.title} iconSlug={page.icon} image={page.image} />
+            <CircleLink
+              href={page.path}
+              title={page.title}
+              iconSlug={page.icon}
+              image={page.image}
+            />
           </li>
         ))}
       </ul>

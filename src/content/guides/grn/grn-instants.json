@@ -1,0 +1,156 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Artful Takedown": {
+      "categories": ["board"]
+    },
+    "Assassin's Trophy": {
+      "categories": ["board"]
+    },
+    "Assemble (Assure // Assemble)": {
+      "categories": ["board"]
+    },
+    "Assure (Assure // Assemble)": {
+      "categories": ["board"]
+    },
+    "Bounty of Might": {
+      "categories": ["board"]
+    },
+    "Capture Sphere": {
+      "categories": ["board"]
+    },
+    "Chance for Glory": {
+      "categories": ["board"]
+    },
+    "Chemister's Insight": {
+      "categories": ["other"]
+    },
+    "Collar the Culprit": {
+      "categories": ["board"]
+    },
+    "Command the Storm": {
+      "categories": ["board"]
+    },
+    "Crush Contraband": {
+      "categories": ["board"]
+    },
+    "Crushing Canopy": {
+      "categories": ["board"]
+    },
+    "Dazzling Lights": {
+      "categories": ["board"]
+    },
+    "Devious Cover-Up": {
+      "categories": ["counterspell"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Dispersal (Discovery // Dispersal)": {
+      "categories": ["board"]
+    },
+    "Dream Eater": {
+      "categories": ["board"]
+    },
+    "Expansion (Expansion // Explosion)": {
+      "categories": ["board"]
+    },
+    "Explosion (Expansion // Explosion)": {
+      "categories": ["board"]
+    },
+    "Hypothesizzle": {
+      "categories": ["board"]
+    },
+    "Inescapable Blaze": {
+      "categories": ["board"]
+    },
+    "Integrity (Integrity // Intervention)": {
+      "categories": ["board"]
+    },
+    "Intervention (Integrity // Intervention)": {
+      "categories": ["board"]
+    },
+    "Invent (Invert // Invent)": {
+      "categories": ["other"]
+    },
+    "Invert (Invert // Invent)": {
+      "categories": ["board"]
+    },
+    "Ionize": {
+      "categories": ["counterspell"]
+    },
+    "Join Shields": {
+      "categories": ["board"]
+    },
+    "Justice Strike": {
+      "categories": ["board"]
+    },
+    "March of the Multitudes": {
+      "categories": ["board"]
+    },
+    "Mausoleum Secrets": {
+      "categories": ["other"]
+    },
+    "Might of the Masses": {
+      "categories": ["board"]
+    },
+    "Mission Briefing": {
+      "categories": ["board"]
+    },
+    "Necrotic Wound": {
+      "categories": ["board"]
+    },
+    "Pack's Favor": {
+      "categories": ["board"]
+    },
+    "Pause for Reflection": {
+      "categories": ["board"]
+    },
+    "Price of Fame": {
+      "categories": ["board"]
+    },
+    "Radical Idea": {
+      "categories": ["other"]
+    },
+    "Response (Response // Resurgence)": {
+      "categories": ["board"]
+    },
+    "Righteous Blow": {
+      "categories": ["board"]
+    },
+    "Risk Factor": {
+      "categories": ["other"]
+    },
+    "Sinister Sabotage": {
+      "categories": ["counterspell"]
+    },
+    "Sonic Assault": {
+      "categories": ["board"]
+    },
+    "Statue (Status // Statue)": {
+      "categories": ["board"]
+    },
+    "Status (Status // Statue)": {
+      "categories": ["board"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Take Heart": {
+      "categories": ["board"]
+    },
+    "Unexplained Disappearance": {
+      "categories": ["board"]
+    },
+    "Whisper Agent": {
+      "categories": ["board"]
+    }
+  }
+}

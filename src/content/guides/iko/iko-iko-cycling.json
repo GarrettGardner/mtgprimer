@@ -1,0 +1,166 @@
+{
+  "name": "Mechanic: Cycling",
+  "icon": "fas fa-random",
+  "categories": {
+    "cycling": "All Cycling Cards",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Avian Oddity": {
+      "categories": ["cycling"]
+    },
+    "Barrier Breach": {
+      "categories": ["cycling"]
+    },
+    "Boon of the Wish-Giver": {
+      "categories": ["cycling"]
+    },
+    "Coordinated Charge": {
+      "categories": ["cycling"]
+    },
+    "Drannith Healer": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Drannith Stinger": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Easy Prey": {
+      "categories": ["cycling"]
+    },
+    "Escape Protocol": {
+      "categories": ["payoff"]
+    },
+    "Flourishing Fox": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Footfall Crater": {
+      "categories": ["cycling"]
+    },
+    "Frostveil Ambush": {
+      "categories": ["cycling"]
+    },
+    "Go for Blood": {
+      "categories": ["cycling"]
+    },
+    "Greater Sandwurm": {
+      "categories": ["cycling"]
+    },
+    "Hampering Snare": {
+      "categories": ["cycling"]
+    },
+    "Imposing Vantasaur": {
+      "categories": ["cycling"]
+    },
+    "Indatha Crystal": {
+      "categories": ["cycling"]
+    },
+    "Indatha Triome": {
+      "categories": ["cycling"]
+    },
+    "Ketria Crystal": {
+      "categories": ["cycling"]
+    },
+    "Ketria Triome": {
+      "categories": ["cycling"]
+    },
+    "Lava Serpent": {
+      "categories": ["cycling"]
+    },
+    "Memory Leak": {
+      "categories": ["cycling"]
+    },
+    "Migration Path": {
+      "categories": ["cycling"]
+    },
+    "Monstrous Step": {
+      "categories": ["cycling"]
+    },
+    "Neutralize": {
+      "categories": ["cycling"]
+    },
+    "Ominous Seas": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Prickly Marmoset": {
+      "categories": ["payoff"]
+    },
+    "Raking Claws": {
+      "categories": ["cycling"]
+    },
+    "Raugrin Crystal": {
+      "categories": ["cycling"]
+    },
+    "Raugrin Triome": {
+      "categories": ["cycling"]
+    },
+    "Reconnaissance Mission": {
+      "categories": ["cycling"]
+    },
+    "Reptilian Reflection": {
+      "categories": ["payoff"]
+    },
+    "Rooting Moloch": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Sanctuary Smasher": {
+      "categories": ["cycling"]
+    },
+    "Savai Crystal": {
+      "categories": ["cycling"]
+    },
+    "Savai Thundermane": {
+      "categories": ["payoff"]
+    },
+    "Savai Triome": {
+      "categories": ["cycling"]
+    },
+    "Shark Typhoon": {
+      "categories": ["cycling"]
+    },
+    "Shredded Sails": {
+      "categories": ["cycling"]
+    },
+    "Snare Tactician": {
+      "categories": ["payoff"]
+    },
+    "Splendor Mare": {
+      "categories": ["cycling"]
+    },
+    "Startling Development": {
+      "categories": ["cycling"]
+    },
+    "Suffocating Fumes": {
+      "categories": ["cycling"]
+    },
+    "Titanoth Rex": {
+      "categories": ["cycling"]
+    },
+    "Unpredictable Cyclone": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Valiant Rescuer": {
+      "categories": ["cycling", "payoff"]
+    },
+    "Void Beckoner": {
+      "categories": ["cycling"]
+    },
+    "Will of the All-Hunter": {
+      "categories": ["cycling"]
+    },
+    "Wilt": {
+      "categories": ["cycling"]
+    },
+    "Yidaro, Wandering Monster": {
+      "categories": ["cycling"]
+    },
+    "Zagoth Crystal": {
+      "categories": ["cycling"]
+    },
+    "Zagoth Triome": {
+      "categories": ["cycling"]
+    },
+    "Zenith Flare": {
+      "categories": ["payoff"]
+    }
+  }
+}

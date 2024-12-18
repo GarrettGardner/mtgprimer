@@ -1,0 +1,13 @@
+{
+  "name": "Removal Guide",
+  "defaultGrouping": "color",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "wipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {}
+}

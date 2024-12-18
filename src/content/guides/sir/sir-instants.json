@@ -1,0 +1,144 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aim High": {
+      "categories": ["board"]
+    },
+    "Anguished Unmaking": {
+      "categories": ["board"]
+    },
+    "Blessed Alliance": {
+      "categories": ["board"]
+    },
+    "Borrowed Grace": {
+      "categories": ["board"]
+    },
+    "Borrowed Hostility": {
+      "categories": ["board"]
+    },
+    "Borrowed Malevolence": {
+      "categories": ["board"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Compelling Deterrence": {
+      "categories": ["board"]
+    },
+    "Confirm Suspicions": {
+      "categories": ["board"]
+    },
+    "Confront the Unknown": {
+      "categories": ["board"]
+    },
+    "Convolute": {
+      "categories": ["counterspell"]
+    },
+    "Deny Existence": {
+      "categories": ["counterspell"]
+    },
+    "Drogskol Shieldmate": {
+      "categories": ["board"]
+    },
+    "Drownyard Behemoth": {
+      "categories": ["board"]
+    },
+    "Elder Deep-Fiend": {
+      "categories": ["board"]
+    },
+    "Epiphany at the Drownyard": {
+      "categories": ["other"]
+    },
+    "Essence Flux": {
+      "categories": ["board"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"]
+    },
+    "Galvanic Bombardment": {
+      "categories": ["board"]
+    },
+    "Grapple with the Past": {
+      "categories": ["other"]
+    },
+    "Grotesque Mutation": {
+      "categories": ["board"]
+    },
+    "Heron's Grace Champion": {
+      "categories": ["board"]
+    },
+    "Howlpack Resurgence": {
+      "categories": ["board"]
+    },
+    "Humble the Brute": {
+      "categories": ["board"]
+    },
+    "Invasive Surgery": {
+      "categories": ["couterspell"]
+    },
+    "Jace's Scrutiny": {
+      "categories": ["board"]
+    },
+    "Lightning Axe": {
+      "categories": ["board"]
+    },
+    "Merciless Resolve": {
+      "categories": ["other"]
+    },
+    "Moonlight Hunt": {
+      "categories": ["board"]
+    },
+    "Nebelgast Herald": {
+      "categories": ["board"]
+    },
+    "Pack Guardian": {
+      "categories": ["board"]
+    },
+    "Puncturing Light": {
+      "categories": ["board"]
+    },
+    "Rattlechains": {
+      "categories": ["board"]
+    },
+    "Ride Down": {
+      "categories": ["board"]
+    },
+    "Rush of Adrenaline": {
+      "categories": ["board"]
+    },
+    "Second Harvest": {
+      "categories": ["board"]
+    },
+    "Spell Queller": {
+      "categories": ["board", "counterspell"]
+    },
+    "Spirit of the Hunt": {
+      "categories": ["board"]
+    },
+    "Spontaneous Mutation": {
+      "categories": ["board"]
+    },
+    "Stormrider Spirit": {
+      "categories": ["board"]
+    },
+    "Strength of Arms": {
+      "categories": ["board"]
+    },
+    "Summary Dismissal": {
+      "categories": ["counterspell"]
+    },
+    "Swift Spinner": {
+      "categories": ["board"]
+    },
+    "Uncaged Fury": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -8,50 +8,55 @@ import { Icon } from "@/components/common";
 import styles from "./card.module.scss";
 
 export const Card = (props: { card: ICard; stack: boolean }) => {
-  const [isFlipped, setIsFlipped] = useState(props.card.isFlipped);
+  const [isTransformed, setIsTransformed] = useState(props.card.isTransformed);
+
+  const imageUrl = `https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}.jpg`;
+  const imageTransformedUrl = `https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}b.jpg`;
+
+  const isTransformable =
+    ["transform", "modal_dfc"].findIndex(
+      (layout) => layout === props.card.layout,
+    ) > -1;
 
   return (
-    <div className={`${styles.card}${props.stack ? " isStack" : ""}${props.card.isRotatable ? " isRotated" : ""}`}>
+    <div className={`${styles.card}${props.stack ? " isStack" : ""}`}>
       <p>{props.card.name}</p>
       <div>
         <div
           style={{
-            backgroundImage: `url('https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}.jpg')`,
+            backgroundImage: `url('${imageUrl}')`,
           }}
         >
-          <img
-            src={`https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}.jpg`}
-            alt=""
-          />
+          <img src={imageUrl} alt="" />
         </div>
-        {props.card.isFlippable && (
+        {isTransformable && (
           <div
-            className={`flipFace${isFlipped ? " isFlipped" : ""}`}
+            className={`transformFace${isTransformed ? " isTransformed" : ""}`}
             style={{
-              backgroundImage: `url('https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}b.jpg')`,
+              backgroundImage: `url('${imageTransformedUrl}')`,
             }}
           >
-            <img
-              src={`https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}b.jpg`}
-              alt=""
-            />
+            <img src={imageTransformedUrl} alt="" />
           </div>
         )}
-        <button className="expandButton" title={`${props.card.number}: ${props.card.name}`}>
+        <button
+          className="expandButton"
+          title={`${props.card.number}: ${props.card.name}`}
+        >
           <span className="screen-reader-text">Expand</span>
         </button>
-        {props.card.isFlippable && (
+        {isTransformable && (
           <button
-            className={`flipButton${isFlipped ? " isFlipped" : ""}`}
-            title="Flip Card"
-            onClick={() => setIsFlipped(!isFlipped)}
+            className={`transformButton`}
+            title="Transform Card"
+            onClick={() => setIsTransformed(!isTransformed)}
           >
-            <span className="icon">
+            <span className={`icon${isTransformed ? " isTransformed" : ""}`}>
               <span>
                 <Icon slug="fas fa-sync-alt" />
               </span>
             </span>
-            <span className="screen-reader-text">Flip Card</span>
+            <span className="screen-reader-text">Transform Card</span>
           </button>
         )}
       </div>

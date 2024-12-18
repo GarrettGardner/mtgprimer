@@ -1,7 +1,12 @@
 import { Icon } from "@/components/common";
 import styles from "./page-header.module.scss";
 
-export const PageHeader = (props: { title: string; icon: string; formatName: string; description: string }) => {
+export const PageHeader = (props: {
+  title: string;
+  icon: string;
+  formatName: string;
+  description: string;
+}) => {
   return (
     <>
       <section className={styles.header}>
@@ -10,7 +15,9 @@ export const PageHeader = (props: { title: string; icon: string; formatName: str
         </div>
         <div>
           <h1 className="textheader--md margin--none">{props.title}</h1>
-          <h2 className="textheader--sm fontfamily--body fontweight--light">{props.formatName}</h2>
+          <h2 className="textheader--sm fontfamily--body fontweight--light">
+            {props.formatName}
+          </h2>
         </div>
       </section>
       <section className={styles.subheader}>

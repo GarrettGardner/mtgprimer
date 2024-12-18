@@ -1,0 +1,24 @@
+{
+  "name": "Theme: 4+ Power",
+  "icon": "fas fa-truck-monster",
+  "categories": {
+    "payoffs": "4+ Power Payoffs"
+  },
+  "cards": {
+    "Drowsing Tyrannodon": {
+      "categories": ["payoffs"]
+    },
+    "Furious Rise": {
+      "categories": ["payoffs"]
+    },
+    "Garruk's Uprising": {
+      "categories": ["payoffs"]
+    },
+    "Ornery Dilophosaur": {
+      "categories": ["payoffs"]
+    },
+    "Turret Ogre": {
+      "categories": ["payoffs"]
+    }
+  }
+}

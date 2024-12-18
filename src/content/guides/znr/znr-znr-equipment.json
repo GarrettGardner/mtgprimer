@@ -1,0 +1,49 @@
+{
+  "name": "Theme: Equipment",
+  "icon": "fas fa-shield-alt",
+  "categories": {
+    "payoffs": "Equipment Payoffs",
+    "all": "All Equipment"
+  },
+  "cards": {
+    "Akiri, Fearless Voyager": {
+      "categories": ["payoffs"]
+    },
+    "Cliffhaven Kitesail": {
+      "categories": ["equipment"]
+    },
+    "Fireblade Charger": {
+      "categories": ["payoffs"]
+    },
+    "Kor Blademaster": {
+      "categories": ["payoffs"]
+    },
+    "Maul of the Skyclaves": {
+      "categories": ["equipment"]
+    },
+    "Mind Carver": {
+      "categories": ["equipment"]
+    },
+    "Nahiri, Heir of the Ancients": {
+      "categories": ["payoffs"]
+    },
+    "Ravager's Mace": {
+      "categories": ["equipment"]
+    },
+    "Relic Axe": {
+      "categories": ["equipment"]
+    },
+    "Resolute Strike": {
+      "categories": ["payoffs"]
+    },
+    "Scavenged Blade": {
+      "categories": ["equipment"]
+    },
+    "Skyclave Pick-Axe": {
+      "categories": ["equipment"]
+    },
+    "Utility Knife": {
+      "categories": ["equipment"]
+    }
+  }
+}

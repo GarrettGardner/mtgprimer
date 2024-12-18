@@ -1,0 +1,153 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Archmage's Charm": {
+      "categories": ["board"]
+    },
+    "Awaken the Bear": {
+      "categories": ["board"]
+    },
+    "Baffling Defenses": {
+      "categories": ["board"]
+    },
+    "Battle Screech": {
+      "categories": ["board"]
+    },
+    "Breaching Hippocamp": {
+      "categories": ["board"]
+    },
+    "Chatter of the Squirrel": {
+      "categories": ["board"]
+    },
+    "Choking Tethers": {
+      "categories": ["board"]
+    },
+    "Dark Ritual": {
+      "categories": ["board"]
+    },
+    "Davriel's Withering": {
+      "categories": ["board"]
+    },
+    "Death Wind": {
+      "categories": ["board"]
+    },
+    "Devouring Light": {
+      "categories": ["board"]
+    },
+    "Dismiss": {
+      "categories": ["board"]
+    },
+    "Djeru's Renunciation": {
+      "categories": ["board"]
+    },
+    "Ethereal Grasp": {
+      "categories": ["board"]
+    },
+    "Faithless Salvaging": {
+      "categories": ["board"]
+    },
+    "Fast // Furious": {
+      "categories": ["board"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"]
+    },
+    "Fists of Flame": {
+      "categories": ["board"]
+    },
+    "Fog": {
+      "categories": ["board"]
+    },
+    "Force Spike": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Gilded Light": {
+      "categories": ["board"]
+    },
+    "Harrow": {
+      "categories": ["board"]
+    },
+    "Hunting Pack": {
+      "categories": ["board"]
+    },
+    "Just the Wind": {
+      "categories": ["board"]
+    },
+    "Light of Hope": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Mob": {
+      "categories": ["board"]
+    },
+    "Munitions Expert": {
+      "categories": ["board"]
+    },
+    "Phantasmal Form": {
+      "categories": ["board"]
+    },
+    "Prey's Vengeance": {
+      "categories": ["board"]
+    },
+    "Radiant's Judgment": {
+      "categories": ["board"]
+    },
+    "Recalibrate": {
+      "categories": ["board"]
+    },
+    "Reckless Charge": {
+      "categories": ["board"]
+    },
+    "Restoration Angel": {
+      "categories": ["board"]
+    },
+    "Sarkhan's Scorn": {
+      "categories": ["board"]
+    },
+    "Scour All Possibilities": {
+      "categories": ["board"]
+    },
+    "Scour the Laboratory": {
+      "categories": ["board"]
+    },
+    "Shambleshark": {
+      "categories": ["board"]
+    },
+    "Shelter": {
+      "categories": ["board"]
+    },
+    "Skyshroud Ambush": {
+      "categories": ["board"]
+    },
+    "Stirring Address": {
+      "categories": ["board"]
+    },
+    "Strike It Rich": {
+      "categories": ["board"]
+    },
+    "Sudden Edict": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["board"]
+    },
+    "Unholy Heat": {
+      "categories": ["board"]
+    },
+    "Verdant Command": {
+      "categories": ["board"]
+    }
+  }
+}

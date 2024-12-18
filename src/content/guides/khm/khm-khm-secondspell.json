@@ -1,0 +1,27 @@
+{
+  "name": "Theme: Second Spell",
+  "icon": "fas fa-angle-double-up",
+  "categories": {
+    "payoffs": "Second Spell Payoffs"
+  },
+  "cards": {
+    "Bloodsky Berserker": {
+      "categories": ["payoffs"]
+    },
+    "Clarion Spirit": {
+      "categories": ["payoffs"]
+    },
+    "Codespell Cleric": {
+      "categories": ["payoffs"]
+    },
+    "Doomskar Oracle": {
+      "categories": ["payoffs"]
+    },
+    "Firja, Judge of Valor": {
+      "categories": ["payoffs"]
+    },
+    "Infernal Pet": {
+      "categories": ["payoffs"]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Madness",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "creature": "Creature",
+    "board": "Board",
+    "other": "Other"
+  },
+  "cards": {
+    "Alchemist's Greeting": {
+      "categories": ["board"]
+    },
+    "Alms of the Vein": {
+      "categories": ["other"]
+    },
+    "Avacyn's Judgment": {
+      "categories": ["board"]
+    },
+    "Biting Rain": {
+      "categories": ["board"]
+    },
+    "Bloodhall Priest": {
+      "categories": ["creature"]
+    },
+    "Bloodmad Vampire": {
+      "categories": ["creature"]
+    },
+    "Falkenrath Gorger": {
+      "categories": ["creature"]
+    },
+    "Fiery Temper": {
+      "categories": ["board"]
+    },
+    "Gisa's Bidding": {
+      "categories": ["board"]
+    },
+    "Insatiable Gorgers": {
+      "categories": ["creature"]
+    },
+    "Stensia Masquerade": {
+      "categories": ["board"]
+    },
+    "Stromkirk Occultist": {
+      "categories": ["creature"]
+    },
+    "Voldaren Pariah // Abolisher of Bloodlines": {
+      "categories": ["creature"]
+    },
+    "Weirded Vampire": {
+      "categories": ["creature"]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aerial Volley": {
+      "categories": ["board"]
+    },
+    "Artificer's Epiphany": {
+      "categories": ["other"]
+    },
+    "Bone to Ash": {
+      "categories": ["counterspell"]
+    },
+    "Bounding Krasis": {
+      "categories": ["board"]
+    },
+    "Calculated Dismissal": {
+      "categories": ["counterspell"]
+    },
+    "Celestial Flare": {
+      "categories": ["board"]
+    },
+    "Chandra's Fury": {
+      "categories": ["board"]
+    },
+    "Clash of Wills": {
+      "categories": ["counterspell"]
+    },
+    "Cruel Revival": {
+      "categories": ["board"]
+    },
+    "Dark Dabbling": {
+      "categories": ["board"]
+    },
+    "Disperse": {
+      "categories": ["board"]
+    },
+    "Enshrouding Mist": {
+      "categories": ["board"]
+    },
+    "Fiery Conclusion": {
+      "categories": ["board"]
+    },
+    "Fiery Impulse": {
+      "categories": ["board"]
+    },
+    "Gideon's Phalanx": {
+      "categories": ["board"]
+    },
+    "Hallowed Moonlight": {
+      "categories": ["other"]
+    },
+    "Harbinger of the Tides": {
+      "categories": ["board"],
+      "cost": ["2", "u", "u"]
+    },
+    "Hixus, Prison Warden": {
+      "categories": ["board"]
+    },
+    "Hydrolash": {
+      "categories": ["board"]
+    },
+    "Might of the Masses": {
+      "categories": ["board"]
+    },
+    "Mighty Leap": {
+      "categories": ["board"]
+    },
+    "Mizzium Meddler": {
+      "categories": ["board"]
+    },
+    "Negate": {
+      "categories": ["counterspell"]
+    },
+    "Nivix Barrier": {
+      "categories": ["board"]
+    },
+    "Psychic Rebuttal": {
+      "categories": ["counterspell"]
+    },
+    "Ravaging Blaze": {
+      "categories": ["board"]
+    },
+    "Reclaim": {
+      "categories": ["other"]
+    },
+    "Send to Sleep": {
+      "categories": ["board"]
+    },
+    "Smash to Smithereens": {
+      "categories": ["board"]
+    },
+    "Swift Reckoning": {
+      "categories": ["board"]
+    },
+    "Thunderclap Wyvern": {
+      "categories": ["board"]
+    },
+    "Titan's Strength": {
+      "categories": ["board"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Touch of Moonglove": {
+      "categories": ["board"]
+    },
+    "Turn to Frog": {
+      "categories": ["board"]
+    },
+    "Unholy Hunger": {
+      "categories": ["board"]
+    },
+    "Vine Snare": {
+      "categories": ["board"]
+    }
+  }
+}

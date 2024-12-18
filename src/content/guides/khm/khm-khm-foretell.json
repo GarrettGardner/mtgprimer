@@ -1,0 +1,162 @@
+{
+  "name": "Mechanic: Foretell",
+  "icon": "fas fa-eye",
+  "categories": {
+    "payoffs": "Foretell Payoffs",
+    "all": "All Foretell Cards"
+  },
+  "cards": {
+    "Alrund's Epiphany": {
+      "categories": ["all"],
+      "cost": ["4", "u", "u"]
+    },
+    "Augury Raven": {
+      "categories": ["all"],
+      "cost": ["1", "u"]
+    },
+    "Battle Mammoth": {
+      "categories": ["all"],
+      "cost": ["2", "g", "g"]
+    },
+    "Behold the Multiverse": {
+      "categories": ["all"],
+      "cost": ["1", "u"]
+    },
+    "Cosmos Charger": {
+      "categories": ["payoffs"]
+    },
+    "Crush the Weak": {
+      "categories": ["all"],
+      "cost": ["r"]
+    },
+    "Demon Bolt": {
+      "categories": ["all"],
+      "cost": ["r"]
+    },
+    "Depart the Realm": {
+      "categories": ["all"],
+      "cost": ["u"]
+    },
+    "Doomskar": {
+      "categories": ["all"],
+      "cost": ["1", "w", "w"]
+    },
+    "Doomskar Oracle": {
+      "categories": ["all"],
+      "cost": ["w"]
+    },
+    "Doomskar Titan": {
+      "categories": ["all"],
+      "cost": ["4", "r"]
+    },
+    "Dream Devourer": {
+      "categories": ["payoffs"]
+    },
+    "Dual Strike": {
+      "categories": ["all"],
+      "cost": ["r"]
+    },
+    "Dwarven Reinforcements": {
+      "categories": ["all"],
+      "cost": ["1", "r"]
+    },
+    "Glorious Protector": {
+      "categories": ["all"],
+      "cost": ["2", "w"]
+    },
+    "Gods' Hall Guardian": {
+      "categories": ["all"],
+      "cost": ["3", "w"]
+    },
+    "Haunting Voyage": {
+      "categories": ["all"],
+      "cost": ["5", "b", "b"]
+    },
+    "Iron Verdict": {
+      "categories": ["all"],
+      "cost": ["w"]
+    },
+    "Jarl of the Forsaken": {
+      "categories": ["all"],
+      "cost": ["1", "b"]
+    },
+    "Karfell Harbinger": {
+      "categories": ["payoffs"]
+    },
+    "Kaya's Onslaught": {
+      "categories": ["all"],
+      "cost": ["w"]
+    },
+    "Mammoth Growth": {
+      "categories": ["all"],
+      "cost": ["g"]
+    },
+    "Mystic Reflection": {
+      "categories": ["all"],
+      "cost": ["u"]
+    },
+    "Poison the Cup": {
+      "categories": ["all"],
+      "cost": ["1", "b"]
+    },
+    "Quakebringer": {
+      "categories": ["all"],
+      "cost": ["2", "r", "r"]
+    },
+    "Ravenform": {
+      "categories": ["all"],
+      "cost": ["u"]
+    },
+    "Return Upon the Tide": {
+      "categories": ["all"],
+      "cost": ["3", "b"]
+    },
+    "Rise of the Dread Marn": {
+      "categories": ["all"],
+      "cost": ["b"]
+    },
+    "Sarulf's Packmate": {
+      "categories": ["all"],
+      "cost": ["1", "g"]
+    },
+    "Saw It Coming": {
+      "categories": ["all"],
+      "cost": ["1", "u"]
+    },
+    "Scorn Effigy": {
+      "categories": ["all"],
+      "cost": ["0"]
+    },
+    "Shepherd of the Cosmos": {
+      "categories": ["all"],
+      "cost": ["3", "w"]
+    },
+    "Skull Raid": {
+      "categories": ["all"],
+      "cost": ["1", "b"]
+    },
+    "Starnheim Unleashed": {
+      "categories": ["all"],
+      "cost": ["x", "x", "w"]
+    },
+    "Struggle for Skemfar": {
+      "categories": ["all"],
+      "cost": ["g"]
+    },
+    "Tergrid's Shadow": {
+      "categories": ["all"],
+      "cost": ["2", "b", "b"]
+    },
+    "Vega, the Watcher": {
+      "categories": ["payoffs"]
+    },
+    "Vengeful Reaper": {
+      "categories": ["all"],
+      "cost": ["1", "b"]
+    },
+    "Warhorn Blast": {
+      "categories": ["all"],
+      "cost": ["2", "w"]
+    }
+  }
+}

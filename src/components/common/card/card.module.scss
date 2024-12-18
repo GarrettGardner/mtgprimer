@@ -50,9 +50,12 @@
     font-size: rem-convert(12px);
     font-weight: 700;
     left: 8%;
+    overflow: hidden;
     position: absolute;
     pointer-events: none;
     top: 5%;
+    width: 92%;
+    white-space: nowrap;
     z-index: 999;
   }
 
@@ -69,7 +72,8 @@
     width: 100%;
 
     > div {
-      background: transparent url("/images/card-back.jpg") no-repeat center center;
+      background: transparent url("/images/card-back.jpg") no-repeat center
+        center;
       background-size: contain;
       height: 100%;
       left: 0;
@@ -80,11 +84,11 @@
       top: 0;
       width: 100%;
 
-      &:global(.flipFace) {
+      &:global(.transformFace) {
         opacity: 0;
         transition: opacity 0.35s ease;
 
-        &:global(.isFlipped) {
+        &:global(.isTransformed) {
           opacity: 1;
         }
       }
@@ -103,7 +107,7 @@
       display: block;
       position: absolute;
 
-      &:global(.flipButton) {
+      &:global(.transformButton) {
         position: absolute;
         right: 12%;
         top: 40%;
@@ -120,12 +124,25 @@
           line-height: 1;
           padding-top: 100%;
           position: relative;
-          transition: background 0.35s ease;
+          transition:
+            background 0.35s ease,
+            transform 0.35s ease;
           width: 100%;
+
+          &:global(.isTransformed) {
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            opacity: 1;
+            transform: rotate(90deg);
+          }
 
           &:focus,
           &:hover {
             background: white;
+
+            &:global(.isTransformed) {
+              background: black;
+            }
           }
 
           > span {
@@ -173,7 +190,7 @@
     }
   }
 
-  /*&.op--expand {
+  /*&.op--expand { 
       .card__face {
         display: block;
         left: 50%;

@@ -20,7 +20,11 @@
       position: relative;
 
       &::before {
-        background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4));
+        background: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.8),
+          rgba(0, 0, 0, 0.4)
+        );
         bottom: 0;
         content: "";
         display: block;
@@ -236,7 +240,8 @@
           padding: rem-convert(8px);
 
           @include breakpoint("desktop") {
-            padding: rem-convert(8px) rem-convert(32px) rem-convert(8px) rem-convert(16px);
+            padding: rem-convert(8px) rem-convert(32px) rem-convert(8px)
+              rem-convert(16px);
           }
 
           > li {

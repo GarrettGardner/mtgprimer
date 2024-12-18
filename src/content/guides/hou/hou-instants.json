@@ -1,0 +1,102 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Act of Heroism": {
+      "categories": ["board"]
+    },
+    "Ambuscade": {
+      "categories": ["board"]
+    },
+    "Aven Reedstalker": {
+      "categories": ["board"]
+    },
+    "Blur of Blades": {
+      "categories": ["board"]
+    },
+    "Chandra's Defeat": {
+      "categories": ["board"]
+    },
+    "Consign (Consign / Oblivion)": {
+      "categories": ["board"]
+    },
+    "Cooperate (Refuse / Cooperate)": {
+      "categories": ["other"]
+    },
+    "Countervailing Winds": {
+      "categories": ["counterspell"]
+    },
+    "Djeru's Renunciation": {
+      "categories": ["board"]
+    },
+    "Farm (Farm / Market)": {
+      "categories": ["board"]
+    },
+    "Gideon's Defeat": {
+      "categories": ["board"]
+    },
+    "Gift of Strength": {
+      "categories": ["board"]
+    },
+    "Hour of Glory": {
+      "categories": ["board"]
+    },
+    "Imaginary Threats": {
+      "categories": ["board"]
+    },
+    "Jace's Defeat": {
+      "categories": ["counterspell"]
+    },
+    "Kindled Fury": {
+      "categories": ["board"]
+    },
+    "Leave (Leave / Chance)": {
+      "categories": ["board"]
+    },
+    "Life Goes On": {
+      "categories": ["other"]
+    },
+    "Nimble Obstructionist": {
+      "categories": ["board", "counterspell"]
+    },
+    "Open Fire": {
+      "categories": ["board"]
+    },
+    "Refuse (Refuse / Cooperate)": {
+      "categories": ["other"]
+    },
+    "Sandblast": {
+      "categories": ["board"]
+    },
+    "Saving Grace": {
+      "categories": ["board"]
+    },
+    "Struggle (Struggle / Survive)": {
+      "categories": ["board"]
+    },
+    "Supreme Will": {
+      "categories": ["counterspell"]
+    },
+    "Torment of Venom": {
+      "categories": ["board"]
+    },
+    "Tragic Lesson": {
+      "categories": ["other"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    },
+    "Without Weakness": {
+      "categories": ["board"]
+    }
+  }
+}

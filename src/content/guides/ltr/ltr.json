@@ -1,0 +1,1580 @@
+{
+  "code": "ltr",
+  "formatName": "The Lord of the Rings: Tales of Middle-earth",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Banish from Edoras": {
+      "number": "1",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Battle of Bywater": {
+      "number": "2",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bill the Pony": {
+      "number": "3",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Boromir, Warden of the Tower": {
+      "number": "4",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dawn of a New Age": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dúnedain Blade": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Eagles of the North": {
+      "number": "7",
+      "cost": ["5", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Eastfarthing Farmer": {
+      "number": "8",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "East-Mark Cavalier": {
+      "number": "9",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Éowyn, Lady of Rohan": {
+      "number": "10",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Errand-Rider of Gondor": {
+      "number": "11",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Escape from Orthanc": {
+      "number": "12",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Esquire of the King": {
+      "number": "13",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Faramir, Field Commander": {
+      "number": "14",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Flowering of the White Tree": {
+      "number": "15",
+      "cost": ["w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fog on the Barrow-Downs": {
+      "number": "16",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Forge Anew": {
+      "number": "17",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Frodo, Sauron's Bane": {
+      "number": "18",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gandalf the White": {
+      "number": "19",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Hobbit's Sting": {
+      "number": "20",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Landroval, Horizon Witness": {
+      "number": "21",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lost to Legend": {
+      "number": "22",
+      "cost": ["w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Nimble Hobbit": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Now for Wrath, Now for Ruin!": {
+      "number": "24",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Protector of Gondor": {
+      "number": "25",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Reprieve": {
+      "number": "26",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rosie Cotton of South Lane": {
+      "number": "27",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Samwise the Stouthearted": {
+      "number": "28",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Second Breakfast": {
+      "number": "29",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shire Shirriff": {
+      "number": "30",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Slip On the Ring": {
+      "number": "31",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Soldier of the Grey Host": {
+      "number": "32",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Stalwarts of Osgiliath": {
+      "number": "33",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tale of Tinúviel": {
+      "number": "34",
+      "cost": ["3", "w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Took Reaper": {
+      "number": "35",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "War of the Last Alliance": {
+      "number": "36",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Westfold Rider": {
+      "number": "37",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "You Cannot Pass!": {
+      "number": "38",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Arwen's Gift": {
+      "number": "39",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Bath Song": {
+      "number": "40",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bewitching Leechcraft": {
+      "number": "41",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bill Ferny, Bree Swindler": {
+      "number": "42",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Birthday Escape": {
+      "number": "43",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Borne Upon a Wind": {
+      "number": "44",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Captain of Umbar": {
+      "number": "45",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Council's Deliberation": {
+      "number": "46",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Deceive the Messenger": {
+      "number": "47",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dreadful as the Storm": {
+      "number": "48",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Elrond, Lord of Rivendell": {
+      "number": "49",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gandalf, Friend of the Shire": {
+      "number": "50",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Glorious Gale": {
+      "number": "51",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Goldberry, River-Daughter": {
+      "number": "52",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Grey Havens Navigator": {
+      "number": "53",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hithlain Knots": {
+      "number": "54",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Horses of the Bruinen": {
+      "number": "55",
+      "cost": ["3", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ioreth of the Healing House": {
+      "number": "56",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Isolation at Orthanc": {
+      "number": "57",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ithilien Kingfisher": {
+      "number": "58",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Knights of Dol Amroth": {
+      "number": "59",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lórien Revealed": {
+      "number": "60",
+      "cost": ["3", "u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lost Isle Calling": {
+      "number": "61",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Meneldor, Swift Savior": {
+      "number": "62",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nimrodel Watcher": {
+      "number": "63",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pelargir Survivor": {
+      "number": "64",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Press the Enemy": {
+      "number": "65",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rangers of Ithilien": {
+      "number": "66",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Saruman the White": {
+      "number": "67",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Saruman's Trickery": {
+      "number": "68",
+      "cost": ["1", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Scroll of Isildur": {
+      "number": "69",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Soothing of Sméagol": {
+      "number": "70",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Stern Scolding": {
+      "number": "71",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Storm of Saruman": {
+      "number": "72",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Surrounded by Orcs": {
+      "number": "73",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Treason of Isengard": {
+      "number": "74",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Watcher in the Water": {
+      "number": "75",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Willow-Wind": {
+      "number": "76",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bitter Downfall": {
+      "number": "77",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Black Breath": {
+      "number": "78",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Call of the Ring": {
+      "number": "79",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cirith Ungol Patrol": {
+      "number": "80",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Claim the Precious": {
+      "number": "81",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dunland Crebain": {
+      "number": "82",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Easterling Vanguard": {
+      "number": "83",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gollum, Patient Plotter": {
+      "number": "84",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gollum's Bite": {
+      "number": "85",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gorbag of Minas Morgul": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gothmog, Morgul Lieutenant": {
+      "number": "87",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gríma Wormtongue": {
+      "number": "88",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Grond, the Gatebreaker": {
+      "number": "89",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Haunt of the Dead Marshes": {
+      "number": "90",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Isildur's Fateful Strike": {
+      "number": "91",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Lash of the Balrog": {
+      "number": "92",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lobelia Sackville-Baggins": {
+      "number": "93",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "March from the Black Gate": {
+      "number": "94",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mirkwood Bats": {
+      "number": "95",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mordor Muster": {
+      "number": "96",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mordor Trebuchet": {
+      "number": "97",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Morgul-Knife Wound": {
+      "number": "98",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Nasty End": {
+      "number": "99",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Nazgûl": {
+      "number": "100",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Oath of the Grey Host": {
+      "number": "101",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "One Ring to Rule Them All": {
+      "number": "102",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Orcish Bowmasters": {
+      "number": "103",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Orcish Medicine": {
+      "number": "104",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sam's Desperate Rescue": {
+      "number": "105",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sauron, the Necromancer": {
+      "number": "106",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Shadow of the Enemy": {
+      "number": "107",
+      "cost": ["3", "b", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shelob's Ambush": {
+      "number": "108",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Snarling Warg": {
+      "number": "109",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "The Torment of Gollum": {
+      "number": "110",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Troll of Khazad-dûm": {
+      "number": "111",
+      "cost": ["5", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Uruk-hai Berserker": {
+      "number": "112",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Voracious Fell Beast": {
+      "number": "113",
+      "cost": ["4", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Witch-king of Angmar": {
+      "number": "114",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Battle-Scarred Goblin": {
+      "number": "115",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Book of Mazarbul": {
+      "number": "116",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Breaking of the Fellowship": {
+      "number": "117",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cast into the Fire": {
+      "number": "118",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Display of Power": {
+      "number": "119",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Éomer, Marshal of Rohan": {
+      "number": "120",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Éomer of the Riddermark": {
+      "number": "121",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Erebor Flamesmith": {
+      "number": "122",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Erkenbrand, Lord of Westfold": {
+      "number": "123",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fall of Cair Andros": {
+      "number": "124",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fear, Fire, Foes!": {
+      "number": "125",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fiery Inscription": {
+      "number": "126",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fire of Orthanc": {
+      "number": "127",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Foray of Orcs": {
+      "number": "128",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gimli, Counter of Kills": {
+      "number": "129",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gimli's Axe": {
+      "number": "130",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gimli's Fury": {
+      "number": "131",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Glóin, Dwarf Emissary": {
+      "number": "132",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Goblin Fireleaper": {
+      "number": "133",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Grishnákh, Brash Instigator": {
+      "number": "134",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Haradrim Spearmaster": {
+      "number": "135",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hew the Entwood": {
+      "number": "136",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Improvised Club": {
+      "number": "137",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Moria Marauder": {
+      "number": "138",
+      "cost": ["r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Oliphaunt": {
+      "number": "139",
+      "cost": ["5", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Olog-hai Crusher": {
+      "number": "140",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Quarrel's End": {
+      "number": "141",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rally at the Hornburg": {
+      "number": "142",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ranger's Firebrand": {
+      "number": "143",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Relentless Rohirrim": {
+      "number": "144",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rising of the Day": {
+      "number": "145",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rohirrim Lancer": {
+      "number": "146",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rush the Room": {
+      "number": "147",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Smite the Deathless": {
+      "number": "148",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Spiteful Banditry": {
+      "number": "149",
+      "cost": ["x", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Swarming of Moria": {
+      "number": "150",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "There and Back Again": {
+      "number": "151",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Warbeast of Gorgoroth": {
+      "number": "152",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bag End Porter": {
+      "number": "153",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bombadil's Song": {
+      "number": "154",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Brandywine Farmer": {
+      "number": "155",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Celeborn the Wise": {
+      "number": "156",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Chance-Met Elves": {
+      "number": "157",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Delighted Halfling": {
+      "number": "158",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dúnedain Rangers": {
+      "number": "159",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Elven Chorus": {
+      "number": "160",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elven Farsight": {
+      "number": "161",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Enraged Huorn": {
+      "number": "162",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Entish Restoration": {
+      "number": "163",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ent's Fury": {
+      "number": "164",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fall of Gil-galad": {
+      "number": "165",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fangorn, Tree Shepherd": {
+      "number": "166",
+      "cost": ["4", "g", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Galadhrim Bow": {
+      "number": "167",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Galadhrim Guide": {
+      "number": "168",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Generous Ent": {
+      "number": "169",
+      "cost": ["5", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gift of Strands": {
+      "number": "170",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Glorfindel, Dauntless Rescuer": {
+      "number": "171",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Last March of the Ents": {
+      "number": "172",
+      "cost": ["6", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Legolas, Master Archer": {
+      "number": "173",
+      "cost": ["1", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Long List of the Ents": {
+      "number": "174",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lothlórien Lookout": {
+      "number": "175",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Many Partings": {
+      "number": "176",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Meriadoc Brandybuck": {
+      "number": "177",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Mirkwood Spider": {
+      "number": "178",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mirrormere Guardian": {
+      "number": "179",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mushroom Watchdogs": {
+      "number": "180",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Peregrin Took": {
+      "number": "181",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pippin's Bravery": {
+      "number": "182",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quickbeam, Upstart Ent": {
+      "number": "183",
+      "cost": ["4", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Radagast the Brown": {
+      "number": "184",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Revive the Shire": {
+      "number": "185",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Ring Goes South": {
+      "number": "186",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shortcut to Mushrooms": {
+      "number": "187",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Shower of Arrows": {
+      "number": "188",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Stew the Coneys": {
+      "number": "189",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wose Pathfinder": {
+      "number": "190",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aragorn, Company Leader": {
+      "number": "191",
+      "cost": ["1", "g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aragorn, the Uniter": {
+      "number": "192",
+      "cost": ["r", "g", "w", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Arwen, Mortal Queen": {
+      "number": "193",
+      "cost": ["1", "g", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Arwen Undómiel": {
+      "number": "194",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Balrog, Durin's Bane": {
+      "number": "195",
+      "cost": ["5", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bilbo, Retired Burglar": {
+      "number": "196",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Butterbur, Bree Innkeeper": {
+      "number": "197",
+      "cost": ["2", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Denethor, Ruling Steward": {
+      "number": "198",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Doors of Durin": {
+      "number": "199",
+      "cost": ["3", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elrond, Master of Healing": {
+      "number": "200",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Éowyn, Fearless Knight": {
+      "number": "201",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Faramir, Prince of Ithilien": {
+      "number": "202",
+      "cost": ["2", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Flame of Anor": {
+      "number": "203",
+      "cost": ["1", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Friendly Rivalry": {
+      "number": "204",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Frodo Baggins": {
+      "number": "205",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Galadriel of Lothlórien": {
+      "number": "206",
+      "cost": ["1", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gandalf the Grey": {
+      "number": "207",
+      "cost": ["3", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gandalf's Sanction": {
+      "number": "208",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gimli, Mournful Avenger": {
+      "number": "209",
+      "cost": ["1", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gwaihir the Windlord": {
+      "number": "210",
+      "cost": ["4", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "King of the Oathbreakers": {
+      "number": "211",
+      "cost": ["2", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Legolas, Counter of Kills": {
+      "number": "212",
+      "cost": ["2", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lotho, Corrupt Shirriff": {
+      "number": "213",
+      "cost": ["w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mauhúr, Uruk-hai Captain": {
+      "number": "214",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Merry, Esquire of Rohan": {
+      "number": "215",
+      "cost": ["r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Mouth of Sauron": {
+      "number": "216",
+      "cost": ["3", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Old Man Willow": {
+      "number": "217",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pippin, Guard of the Citadel": {
+      "number": "218",
+      "cost": ["w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Prince Imrahil the Fair": {
+      "number": "219",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ringsight": {
+      "number": "220",
+      "cost": ["1", "u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rise of the Witch-king": {
+      "number": "221",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Samwise Gamgee": {
+      "number": "222",
+      "cost": ["g", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Saruman of Many Colors": {
+      "number": "223",
+      "cost": ["3", "w", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sauron, the Dark Lord": {
+      "number": "224",
+      "cost": ["3", "u", "b", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sauron's Ransom": {
+      "number": "225",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shadow Summoning": {
+      "number": "226",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Shadowfax, Lord of Horses": {
+      "number": "227",
+      "cost": ["3", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Shagrat, Loot Bearer": {
+      "number": "228",
+      "cost": ["2", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sharkey, Tyrant of the Shire": {
+      "number": "229",
+      "cost": ["2", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Shelob, Child of Ungoliant": {
+      "number": "230",
+      "cost": ["4", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sméagol, Helpful Guide": {
+      "number": "231",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Strider, Ranger of the North": {
+      "number": "232",
+      "cost": ["2", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Théoden, King of Rohan": {
+      "number": "233",
+      "cost": ["1", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tom Bombadil": {
+      "number": "234",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Uglúk of the White Hand": {
+      "number": "235",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Andúril, Flame of the West": {
+      "number": "236",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Barrow-Blade": {
+      "number": "237",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ent-Draught Basin": {
+      "number": "238",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Glamdring": {
+      "number": "239",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Horn of Gondor": {
+      "number": "240",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Horn of the Mark": {
+      "number": "241",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Inherited Envelope": {
+      "number": "242",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lembas": {
+      "number": "243",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mirror of Galadriel": {
+      "number": "244",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mithril Coat": {
+      "number": "245",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The One Ring": {
+      "number": "246",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Palantír of Orthanc": {
+      "number": "247",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Phial of Galadriel": {
+      "number": "248",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shire Scarecrow": {
+      "number": "249",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sting, the Glinting Dagger": {
+      "number": "250",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Stone of Erech": {
+      "number": "251",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wizard's Rockets": {
+      "number": "252",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Barad-dûr": {
+      "number": "253",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Great Hall of the Citadel": {
+      "number": "254",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "The Grey Havens": {
+      "number": "255",
+      "cost": ["0"],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Minas Tirith": {
+      "number": "256",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Mines of Moria": {
+      "number": "257",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Mount Doom": {
+      "number": "258",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Rivendell": {
+      "number": "259",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "The Shire": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Shire Terrace": {
+      "number": "261",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    }
+  }
+}

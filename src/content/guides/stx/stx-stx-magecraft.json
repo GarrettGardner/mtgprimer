@@ -1,0 +1,30 @@
+{
+  "name": "Mechanic: Magecraft",
+  "icon": "fas fa-magic",
+  "cards": {
+    "Archmage Emeritus": {},
+    "Clever Lumimancer": {},
+    "Dragonsguard Elite": {},
+    "Eager First-Year": {},
+    "Elemental Expressionist": {},
+    "Extus, Oriq Overlord (Extus, Oriq Overlord // Awaken the Blood Avatar)": {},
+    "Jadzi, Oracle of Arcavios (Jadzi, Oracle of Arcavios // Journey to the Oracle)": {},
+    "Karok Wrangler": {},
+    "Leonin Lightscribe": {},
+    "Lorehold Apprentice": {},
+    "Lorehold Pledgemage": {},
+    "Prismari Apprentice": {},
+    "Prismari Pledgemage": {},
+    "Professor Onyx": {},
+    "Quandrix Apprentice": {},
+    "Quandrix Pledgemage": {},
+    "Sedgemoor Witch": {},
+    "Silverquill Apprentice": {},
+    "Silverquill Pledgemage": {},
+    "Spell Satchel": {},
+    "Storm-Kiln Artist": {},
+    "Symmetry Sage": {},
+    "Witherbloom Apprentice": {},
+    "Witherbloom Pledgemage": {}
+  }
+}

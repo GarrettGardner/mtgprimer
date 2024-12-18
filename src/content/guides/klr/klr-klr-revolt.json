@@ -1,0 +1,70 @@
+{
+  "name": "Mechanic: Revolt",
+  "icon": "fas fa-fist-raised",
+  "categories": {
+    "all": "All Revolt Cards",
+    "sacrifice": "Cheap Sacrifice Abilities (1 mana or less)"
+  },
+  "cards": {
+    "Airdrop Aeronauts": {
+      "categories": ["all"]
+    },
+    "Bomat Courier": {
+      "categories": ["sacrifice"]
+    },
+    "Countless Gears Renegade": {
+      "categories": ["all"]
+    },
+    "Fatal Push": {
+      "categories": ["all"]
+    },
+    "Hidden Stockpile": {
+      "categories": ["all", "sacrifice"]
+    },
+    "Hope of Ghirapur": {
+      "categories": ["sacrifice"]
+    },
+    "Implement of Examination": {
+      "categories": ["sacrifice"]
+    },
+    "Implement of Malice": {
+      "categories": ["sacrifice"]
+    },
+    "Lifecraft Cavalry": {
+      "categories": ["all"]
+    },
+    "Metalwork Colossus": {
+      "categories": ["sacrifice"]
+    },
+    "Narnam Renegade": {
+      "categories": ["all"]
+    },
+    "Night Market Aeronaut": {
+      "categories": ["all"]
+    },
+    "Pia Nalaar": {
+      "categories": ["sacrifice"]
+    },
+    "Ravenous Intruder": {
+      "categories": ["sacrifice"]
+    },
+    "Renegade Map": {
+      "categories": ["sacrifice"]
+    },
+    "Renegade Rallier": {
+      "categories": ["all"]
+    },
+    "Restoration Specialist": {
+      "categories": ["sacrifice"]
+    },
+    "Unbridled Growth": {
+      "categories": ["sacrifice"]
+    },
+    "Vengeful Rebel": {
+      "categories": ["all"]
+    },
+    "Yahenni, Undying Partisan": {
+      "categories": ["sacrifice"]
+    }
+  }
+}

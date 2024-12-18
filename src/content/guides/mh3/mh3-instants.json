@@ -1,0 +1,167 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abstruse Appropriation": {
+      "categories": ["board"]
+    },
+    "Aether Spike": {
+      "categories": ["counterspell"]
+    },
+    "Amphibian Downpour": {
+      "categories": ["board"]
+    },
+    "Brainsurge": {
+      "categories": ["other"]
+    },
+    "Breathe Your Last": {
+      "categories": ["board"]
+    },
+    "Collective Resistance": {
+      "categories": ["board"]
+    },
+    "Consign to Memory": {
+      "categories": ["board"]
+    },
+    "Consuming Corruption": {
+      "categories": ["board"]
+    },
+    "Deep Analysis": {
+      "categories": ["other"]
+    },
+    "Disruptor Flute": {
+      "categories": ["board"]
+    },
+    "Dog Umbra": {
+      "categories": ["board"]
+    },
+    "Electrozoa": {
+      "categories": ["board"]
+    },
+    "Eviscerator's Insight": {
+      "categories": ["other"]
+    },
+    "Fell the Profane // Fell Mire (Fell the Profane)": {
+      "categories": ["board"]
+    },
+    "Flare of Denial": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Flare of Duplication": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Flare of Fortitude": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Flare of Malice": {
+      "categories": ["board"],
+      "cost": []
+    },
+    "Fowl Strike": {
+      "categories": ["board"]
+    },
+    "Galvanic Discharge": {
+      "categories": ["board"]
+    },
+    "Ghostfire Slice": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Gift of the Viper": {
+      "categories": ["board"]
+    },
+    "Hope-Ender Coatl": {
+      "categories": ["board"]
+    },
+    "Hydroelectric Specimen // Hydroelectric Laboratory (Hydroelectric Specimen)": {
+      "categories": ["board"]
+    },
+    "Inventor's Axe": {
+      "categories": ["board"]
+    },
+    "Invert Polarity": {
+      "categories": ["counterspell"]
+    },
+    "Kozilek's Command": {
+      "categories": ["board"]
+    },
+    "Legion Leadership // Legion Stronghold (Legion Leadership)": {
+      "categories": ["board"]
+    },
+    "Null Elemental Blast": {
+      "categories": ["board"]
+    },
+    "Orim's Chant": {
+      "categories": ["board"]
+    },
+    "Phelia, Exuberant Shepherd": {
+      "categories": ["board"]
+    },
+    "Planar Genesis": {
+      "categories": ["other"]
+    },
+    "Primal Prayers": {
+      "categories": ["board"]
+    },
+    "Pyretic Rebirth": {
+      "categories": ["board"]
+    },
+    "Razorgrass Ambush // Razorgrass Field (Razorgrass Ambush)": {
+      "categories": ["board"]
+    },
+    "Revitalizing Repast // Old-Growth Grove (Revitalizing Repast)": {
+      "categories": ["board"]
+    },
+    "Rush of Inspiration // Crackling Falls (Rush of Inspiration)": {
+      "categories": ["board"]
+    },
+    "Sevinne's Reclamation": {
+      "categories": ["board"]
+    },
+    "Siege Smash": {
+      "categories": ["board"]
+    },
+    "Signature Slam": {
+      "categories": ["board"]
+    },
+    "Sink into Stupor // Soporific Springs (Sink into Stupor)": {
+      "categories": ["counterspell"]
+    },
+    "Strix Serenade": {
+      "categories": ["board"]
+    },
+    "Thraben Charm": {
+      "categories": ["board"]
+    },
+    "Tune the Narrative": {
+      "categories": ["board"]
+    },
+    "Ugin's Binding": {
+      "categories": ["board"]
+    },
+    "Unfathomable Truths": {
+      "categories": ["board"]
+    },
+    "Utter Insignificance": {
+      "categories": ["board"]
+    },
+    "Waterlogged Teachings // Inundated Archive (Waterlogged Teachings)": {
+      "categories": ["other"]
+    },
+    "Wing It": {
+      "categories": ["board"]
+    },
+    "Wither and Bloom": {
+      "categories": ["board"]
+    }
+  }
+}

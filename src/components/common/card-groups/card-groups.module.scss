@@ -3,6 +3,26 @@
 .guide {
   flex: 1 1 auto;
   height: 100%;
+  position: relative;
+
+  &::before {
+    background: rgba(128, 128, 128, 0.5);
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    width: rem-convert(48px);
+
+    @include breakpoint("desktop") {
+      width: rem-convert(80px);
+    }
+  }
+
+  &:global(.isViewStacked) {
+    &::before {
+      display: none;
+    }
+  }
 
   ul {
     margin: 0;
@@ -20,19 +40,27 @@
       display: block;
 
       :global(.headerText) {
-        background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) 75%, rgba(0, 0, 0, 0) 95%);
+        background: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.6),
+          rgba(0, 0, 0, 0.6) 75%,
+          rgba(0, 0, 0, 0) 95%
+        );
         font-weight: 600;
         font-size: rem-convert(16px);
         letter-spacing: rem-convert(1px);
         line-height: 1.25;
         left: 0;
-        padding: rem-convert(4px) rem-convert(16px) rem-convert(4px) rem-convert(60px);
+        padding: rem-convert(4px) rem-convert(16px) rem-convert(4px)
+          rem-convert(60px);
+        position: relative;
         text-shadow: 0 0 rem-convert(2px) black;
         width: 100%;
 
         @include breakpoint("desktop") {
           font-size: rem-convert(20px);
-          padding: rem-convert(8px) rem-convert(16px) rem-convert(8px) rem-convert(96px);
+          padding: rem-convert(8px) rem-convert(16px) rem-convert(8px)
+            rem-convert(96px);
         }
       }
 
@@ -43,7 +71,6 @@
 
         > :global(.headerIcon) {
           align-items: flex-start;
-          background: rgba(128, 128, 128, 0.5);
           color: white;
           display: flex;
           flex: 0 0 auto;
@@ -135,12 +162,14 @@
           flex: 1 1 auto;
           flex-wrap: wrap;
           margin: 0;
-          padding: rem-convert(4px) rem-convert(24px) rem-convert(4px) rem-convert(4px);
+          padding: rem-convert(4px) rem-convert(24px) rem-convert(4px)
+            rem-convert(4px);
           max-width: rem-convert(1920px);
           width: 100%;
 
           @include breakpoint("desktop") {
-            padding: rem-convert(6px) rem-convert(48px) rem-convert(6px) rem-convert(6px);
+            padding: rem-convert(6px) rem-convert(48px) rem-convert(6px)
+              rem-convert(6px);
           }
 
           > li {
@@ -200,7 +229,7 @@
 
       > li {
         border-right: 0 solid rgba(0, 0, 0, 0.6);
-        border-right-width: rem-convert(8px);
+        border-right-width: rem-convert(6px);
         display: block;
         flex: 1 1 auto;
         max-width: rem-convert(240px);
@@ -211,7 +240,7 @@
         width: 100%;
 
         @include breakpoint("desktop") {
-          border-right-width: rem-convert(24px);
+          border-right-width: rem-convert(12px);
         }
 
         > :global(.headerText) {
@@ -222,6 +251,7 @@
           display: block;
 
           > :global(.headerIcon) {
+            background: rgba(128, 128, 128, 0.5);
             padding: rem-convert(8px) rem-convert(4px);
             white-space: nowrap;
             width: 100%;
@@ -260,7 +290,8 @@
             padding: rem-convert(8px);
 
             @include breakpoint("desktop") {
-              padding: rem-convert(8px) rem-convert(32px) rem-convert(8px) rem-convert(16px);
+              padding: rem-convert(8px) rem-convert(32px) rem-convert(8px)
+                rem-convert(16px);
             }
 
             > li {

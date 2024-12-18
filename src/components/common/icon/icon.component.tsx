@@ -1,6 +1,10 @@
 import styles from "./icon.module.scss";
 
-export const Icon = (props: { type?: string; slug?: string; slugSecondary?: string }) => {
+export const Icon = (props: {
+  type?: string;
+  slug?: string;
+  slugSecondary?: string;
+}) => {
   let className = props.slug ?? "";
   switch (props.type) {
     case "mana":

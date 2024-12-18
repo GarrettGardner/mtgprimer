@@ -1,0 +1,28 @@
+{
+  "name": "Bargain",
+  "categories": {
+    "default": ""
+  },
+  "cards": {
+    "Agatha's Champion": {},
+    "Archon's Glory": {},
+    "Back for Seconds": {},
+    "Beseech the Mirror": {},
+    "Brave the Wilds": {},
+    "Candy Grapple": {},
+    "Diminisher Witch": {},
+    "Farsight Ritual": {},
+    "Hamlet Glutton": {},
+    "High Fae Negotiator": {},
+    "Ice Out": {},
+    "Johann's Stopgap": {},
+    "Kellan's Lightblades": {},
+    "Realm-Scorcher Hellkite": {},
+    "Rowan's Grim Search": {},
+    "Stonesplitter Bolt": {},
+    "Tenacious Tomeseeker": {},
+    "Thunderous Debut": {},
+    "Torch the Tower": {},
+    "Troublemaker Ouphe": {}
+  }
+}

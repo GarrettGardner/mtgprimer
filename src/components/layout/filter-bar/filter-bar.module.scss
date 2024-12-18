@@ -44,14 +44,16 @@
       rgba(0, 0, 0, 1) 80%,
       rgba(0, 0, 0, 1) 100%
     );
-    padding: rem-convert(32px) rem-convert(16px) rem-convert(32px) rem-convert(16px);
+    padding: rem-convert(32px) rem-convert(16px) rem-convert(32px)
+      rem-convert(16px);
     position: sticky;
     transform: translate3D(0, 0, 0);
   }
 
   :global(.bar) {
     align-items: stretch;
-    background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+    background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat
+      center center;
     border-top: 1px solid rgba(255, 255, 255, 0.3);
     color: white;
     display: flex;
@@ -77,7 +79,10 @@
     }
 
     &::before {
-      background: linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04));
+      background: linear-gradient(
+        rgba(255, 255, 255, 0.12),
+        rgba(255, 255, 255, 0.04)
+      );
       content: "";
       height: 100%;
       left: 0;
@@ -100,7 +105,8 @@
 
       > button {
         appearance: none;
-        background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+        background: black url("/images/bg/pattern-stressed-linen-light.jpg")
+          repeat center center;
         border: 0 none;
         border-right: 1px solid rgba(255, 255, 255, 0.3);
         border-top: 1px solid rgba(255, 255, 255, 0.3);
@@ -439,7 +445,8 @@
             border-radius: rem-convert(4px);
             font-size: rem-convert(12px);
             line-height: 1;
-            padding: rem-convert(4px) rem-convert(12px) rem-convert(4px) rem-convert(8px);
+            padding: rem-convert(4px) rem-convert(12px) rem-convert(4px)
+              rem-convert(8px);
             margin-bottom: rem-convert(4px);
           }
         }

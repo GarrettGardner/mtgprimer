@@ -2,57 +2,82 @@
 
 import { ChangeEvent, useEffect, useState } from "react";
 
-import type { IFilterOptions, IFilters, TColor, TGrouping, TOrdering, TRarity, TView } from "@/models";
+import type {
+  IFilter,
+  TColor,
+  TGrouping,
+  TOrdering,
+  TRarity,
+  TView,
+} from "@/models";
 import { Icon } from "@/components/common";
 import { decodeHash, encodeHash } from "@/lib";
 import { useLocalToggle } from "@/hooks";
 
 import styles from "./filter-bar.module.scss";
 
-export const FilterBar = (props: { code: string; defaultFilters: IFilters; options: IFilterOptions }) => {
-  const [isFilterMobileOpen, toggleIsFilterMobileOpen] = useLocalToggle("FILTER_MOBILE_OPEN", "isFilterMobileOpen");
-  const [filters, setFilters] = useState(structuredClone(props.defaultFilters));
+export const FilterBar = (props: {
+  filter: IFilter;
+  hideCategories?: boolean;
+}) => {
+  const [isFilterMobileOpen, toggleIsFilterMobileOpen] = useLocalToggle(
+    "FILTER_MOBILE_OPEN",
+    "isFilterMobileOpen",
+  );
+  const [filterSelections, setFilterSelections] = useState(
+    structuredClone(props.filter.defaultSelections),
+  );
+  const options = props.filter.options;
+  const code = Object.keys(props.filter.options.sets)?.[0] ?? "mtg";
 
   useEffect(() => {
-    setFilters(decodeHash(props.defaultFilters, window.location.hash));
-  }, [props.defaultFilters]);
+    setFilterSelections(
+      decodeHash(props.filter.defaultSelections, window.location.hash),
+    );
+  }, [props.filter.defaultSelections]);
 
   useEffect(() => {
-    window.location.hash = encodeHash(props.defaultFilters, filters);
-  }, [props.defaultFilters, filters]);
+    window.location.hash = encodeHash(
+      props.filter.defaultSelections,
+      filterSelections,
+    );
+  }, [props.filter.defaultSelections, filterSelections]);
 
   const changeFilterCheckbox = (
     e: ChangeEvent<HTMLInputElement>,
     filterKey: "colors" | "rarities" | "sets" | "categories",
   ) => {
     const checked = e.target.checked;
-    const filter = filters[filterKey];
+    const filterSelection = filterSelections[filterKey];
     const value = e.target.value;
-    if (Array.isArray(filter)) {
+    if (Array.isArray(filterSelection)) {
       if (checked) {
         // @ts-expect-error TODO: Fix keying
-        filter.push(value);
+        filterSelection.push(value);
       } else {
         // @ts-expect-error TODO: Fix keying
-        filter.splice(filter.indexOf(value), 1);
+        filterSelection.splice(filterSelection.indexOf(value), 1);
       }
     }
 
-    setFilters({
-      ...filters,
-      [filterKey]: filter,
+    setFilterSelections({
+      ...filterSelections,
+      [filterKey]: filterSelection,
     });
   };
 
-  const changeFilterSelect = (e: ChangeEvent<HTMLSelectElement>, filterKey: "grouping" | "ordering" | "view") => {
-    setFilters({
-      ...filters,
+  const changeFilterSelect = (
+    e: ChangeEvent<HTMLSelectElement>,
+    filterKey: "grouping" | "ordering" | "view",
+  ) => {
+    setFilterSelections({
+      ...filterSelections,
       [filterKey]: e.target.value,
     });
   };
 
   const resetFilters = () => {
-    setFilters(structuredClone(props.defaultFilters));
+    setFilterSelections(structuredClone(props.filter.defaultSelections));
   };
 
   return (
@@ -62,7 +87,8 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
         <div className="bar">
           <div className="toggleMobile">
             <button onClick={() => toggleIsFilterMobileOpen()}>
-              <Icon slug="fas fa-sliders" /> {isFilterMobileOpen ? "Close" : "Open"} Filters
+              <Icon slug="fas fa-sliders" />{" "}
+              {isFilterMobileOpen ? "Close" : "Open"} Filters
             </button>
           </div>
           <div className="title">
@@ -72,7 +98,7 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
           </div>
           <div className="col isLeftmost">
             <div className="filter colors">
-              {Object.keys(props.options.colors)
+              {Object.keys(options.colors)
                 .filter((slug) => slug !== "m")
                 .map((slug, key) => (
                   <div className={`checkbox color color-${slug}`} key={key}>
@@ -81,15 +107,19 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
                       value={slug}
                       id={`color-${slug}`}
                       onChange={(e) => changeFilterCheckbox(e, "colors")}
-                      checked={filters.colors.includes(slug as TColor)}
+                      checked={filterSelections.colors.includes(slug as TColor)}
                     />
-                    <label htmlFor={`color-${slug}`} title={props.options.colors[slug as TColor]}>
+                    <label
+                      htmlFor={`color-${slug}`}
+                      title={options.colors[slug as TColor]}
+                    >
                       <Icon type="mana" slug={slug} />
-                      {filters.colors.length > 0 && !filters.colors.includes(slug as TColor) && (
-                        <span>
-                          <Icon slug="fas fa-xmark" />
-                        </span>
-                      )}
+                      {filterSelections.colors.length > 0 &&
+                        !filterSelections.colors.includes(slug as TColor) && (
+                          <span>
+                            <Icon slug="fas fa-xmark" />
+                          </span>
+                        )}
                     </label>
                   </div>
                 ))}
@@ -98,22 +128,28 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
           </div>
           <div className="col">
             <div className="filter rarities">
-              {Object.keys(props.options.rarities).map((slug, key) => (
+              {Object.keys(options.rarities).map((slug, key) => (
                 <div className="checkbox rarity" key={key}>
                   <input
                     type="checkbox"
                     id={`rarity-${slug}`}
                     value={slug}
                     onChange={(e) => changeFilterCheckbox(e, "rarities")}
-                    checked={filters.rarities.includes(slug as TRarity)}
-                  />
-                  <label htmlFor={`rarity-${slug}`} title={props.options.rarities[slug as TRarity]}>
-                    <Icon type="set" slug={props.code} slugSecondary={slug} />
-                    {filters.rarities.length > 0 && !filters.rarities.includes(slug as TRarity) && (
-                      <span>
-                        <Icon slug="fas fa-xmark" />
-                      </span>
+                    checked={filterSelections.rarities.includes(
+                      slug as TRarity,
                     )}
+                  />
+                  <label
+                    htmlFor={`rarity-${slug}`}
+                    title={options.rarities[slug as TRarity]}
+                  >
+                    <Icon type="set" slug={code} slugSecondary={slug} />
+                    {filterSelections.rarities.length > 0 &&
+                      !filterSelections.rarities.includes(slug as TRarity) && (
+                        <span>
+                          <Icon slug="fas fa-xmark" />
+                        </span>
+                      )}
                   </label>
                 </div>
               ))}
@@ -123,16 +159,19 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
           <div className="col">
             <div className="dropdownTall">
               <div className="dropdown">
-                <select value={filters.view} onChange={(e) => changeFilterSelect(e, "view")}>
-                  {Object.keys(props.options.views).map((slug, key) => (
+                <select
+                  value={filterSelections.view}
+                  onChange={(e) => changeFilterSelect(e, "view")}
+                >
+                  {Object.keys(options.views).map((slug, key) => (
                     <option key={key} value={slug}>
-                      {props.options.views[slug as TView]}
+                      {options.views[slug as TView]}
                     </option>
                   ))}
                 </select>
                 <div className="selected">
-                  <Icon type="view" slug={filters.view} />
-                  {props.options.views[filters.view]}
+                  <Icon type="view" slug={filterSelections.view} />
+                  {options.views[filterSelections.view]}
                 </div>
               </div>
             </div>
@@ -141,50 +180,61 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
           <div className="col hasRows">
             <div className="row">
               <div className="dropdown">
-                <select value={filters.grouping} onChange={(e) => changeFilterSelect(e, "grouping")}>
-                  {Object.keys(props.options.groupings).map((slug, key) => (
+                <select
+                  value={filterSelections.grouping}
+                  onChange={(e) => changeFilterSelect(e, "grouping")}
+                >
+                  {Object.keys(options.groupings).map((slug, key) => (
                     <option key={key} value={slug}>
-                      {props.options.groupings[slug as TGrouping]}
+                      {options.groupings[slug as TGrouping]}
                     </option>
                   ))}
                 </select>
-                <div className="selected">{props.options.groupings[filters.grouping]}</div>
+                <div className="selected">
+                  {options.groupings[filterSelections.grouping]}
+                </div>
               </div>
               <p>Grouping</p>
             </div>
             <div className="row">
               <div className="dropdown">
-                <select value={filters.ordering} onChange={(e) => changeFilterSelect(e, "ordering")}>
-                  {Object.keys(props.options.orderings).map((slug, key) => (
+                <select
+                  value={filterSelections.ordering}
+                  onChange={(e) => changeFilterSelect(e, "ordering")}
+                >
+                  {Object.keys(options.orderings).map((slug, key) => (
                     <option key={key} value={slug}>
-                      {props.options.orderings[slug as TOrdering]}
+                      {options.orderings[slug as TOrdering]}
                     </option>
                   ))}
                 </select>
-                <div className="selected">{props.options.orderings[filters.ordering]}</div>
+                <div className="selected">
+                  {options.orderings[filterSelections.ordering]}
+                </div>
               </div>
               <p>Ordering</p>
             </div>
           </div>
-          {Object.keys(props.options.sets).length > 1 && (
+          {Object.keys(options.sets).length > 1 && (
             <div className="col">
               <div className="filter sets">
-                {Object.keys(props.options.sets).map((slug, key) => (
+                {Object.keys(options.sets).map((slug, key) => (
                   <div className="checkbox set" key={key}>
                     <input
                       type="checkbox"
                       id={`set-${slug}`}
                       value={slug}
                       onChange={(e) => changeFilterCheckbox(e, "sets")}
-                      checked={filters.sets.includes(slug)}
+                      checked={filterSelections.sets.includes(slug)}
                     />
-                    <label htmlFor={`set-${slug}`} title={props.options.sets[slug]}>
+                    <label htmlFor={`set-${slug}`} title={options.sets[slug]}>
                       <Icon type="set" slug={slug} slugSecondary="c" />
-                      {filters.sets.length > 0 && !filters.sets.includes(slug) && (
-                        <span>
-                          <Icon slug="fas fa-xmark" />
-                        </span>
-                      )}
+                      {filterSelections.sets.length > 0 &&
+                        !filterSelections.sets.includes(slug) && (
+                          <span>
+                            <Icon slug="fas fa-xmark" />
+                          </span>
+                        )}
                     </label>
                   </div>
                 ))}
@@ -192,27 +242,32 @@ export const FilterBar = (props: { code: string; defaultFilters: IFilters; optio
               <p>Set</p>
             </div>
           )}
-          {Object.keys(props.options.categories).length > 1 && (
-            <div className="col isSkinny">
-              <div className="filter categories">
-                {Object.keys(props.options.categories).map((slug, key) => (
-                  <div className="checkbox category" key={key}>
-                    <input
-                      type="checkbox"
-                      id={`category-${slug}`}
-                      value={slug}
-                      onChange={(e) => changeFilterCheckbox(e, "categories")}
-                      checked={filters.categories.includes(slug)}
-                    />
-                    <label htmlFor={`category-${slug}`} title={props.options.categories[slug]}>
-                      {props.options.categories[slug]}
-                    </label>
-                  </div>
-                ))}
+          {!props.hideCategories &&
+            Object.keys(options.categories).length > 1 &&
+            Object.keys(options.categories).length < 4 && (
+              <div className="col isSkinny">
+                <div className="filter categories">
+                  {Object.keys(options.categories).map((slug, key) => (
+                    <div className="checkbox category" key={key}>
+                      <input
+                        type="checkbox"
+                        id={`category-${slug}`}
+                        value={slug}
+                        onChange={(e) => changeFilterCheckbox(e, "categories")}
+                        checked={filterSelections.categories.includes(slug)}
+                      />
+                      <label
+                        htmlFor={`category-${slug}`}
+                        title={options.categories[slug]}
+                      >
+                        {options.categories[slug]}
+                      </label>
+                    </div>
+                  ))}
+                </div>
+                <p>Category</p>
               </div>
-              <p>Category</p>
-            </div>
-          )}
+            )}
           <div className="actions">
             {/*<button onClick={() => minimize()}>
             <Icon slug="fas fa-minimize" /> Minimize

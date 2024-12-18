@@ -1,47 +1,36 @@
-import type { TRarity, TGrouping, TOrdering } from "@/models";
-
-export interface IFormatConfig {
-  code: string;
-  name: string;
-  includeFormats?: string[];
-  guides?: Record<string, IGuideConfig>;
-  guideGroups?: Record<string, IGuideGroupConfig>;
-  cards: ICardConfig[];
-  sets?: Record<string, string>;
-}
+import type { TRarity, TGrouping, TOrdering, TLayout } from "@/models";
 
 export interface IGuideConfig {
+  code?: string;
+  formatName?: string;
+  includeFormats?: (string | { code: string; min: number; max: number })[];
   name?: string;
   description?: string;
   icon?: string;
+  sets?: Record<string, string>;
   defaultGrouping?: TGrouping;
   defaultOrdering?: TOrdering;
   categories?: Record<string, string>;
-}
-
-export interface IGuideGroupConfig extends IGuideConfig {
-  guides: string[];
+  cards: Record<string, Partial<ICardConfig>>;
 }
 
 export interface ICardConfig {
   number: string;
-  name: string;
   code?: string;
   cost: string[];
   rarity: TRarity;
-  isFlippable?: boolean;
-  isFlipped?: boolean;
-  isRotatable?: boolean;
-  guides: {
-    guide: string;
-    cost?: string[];
-    categories?: string[];
-  }[];
-
-  // TODO: guides: Record<string, {cost?: string[]; categories?: string[]}>;
+  layout: TLayout;
+  isTransformed?: boolean;
+  categories?: string[];
 }
 
-export type TPageConfigTemplate = "home" | "not-found" | "directory" | "info" | "guide" | "guide-group";
+export type TPageConfigTemplate =
+  | "home"
+  | "not-found"
+  | "directory"
+  | "info"
+  | "guide"
+  | "guide-group";
 
 export interface IPageConfig {
   slug: string;
@@ -72,7 +61,13 @@ export interface IPageConfigGuide extends IPageConfig {
 
 export interface IPageConfigGuideGroup extends IPageConfig {
   template: "guide-group";
-  guideGroup: string;
+  defaultGrouping?: TGrouping;
+  defaultOrdering?: TOrdering;
+  guides: string[];
 }
 
-export type TPageConfig = IPageConfigStatic | IPageConfigInfo | IPageConfigGuide | IPageConfigGuideGroup;
+export type TPageConfig =
+  | IPageConfigStatic
+  | IPageConfigInfo
+  | IPageConfigGuide
+  | IPageConfigGuideGroup;

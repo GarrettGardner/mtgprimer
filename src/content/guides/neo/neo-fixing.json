@@ -1,0 +1,79 @@
+{
+  "cards": {
+    "Atsushi, the Blazing Sky": {
+      "categories": ["extra"]
+    },
+    "Bloodfell Caves": {
+      "categories": ["fixing"]
+    },
+    "Blossoming Sands": {
+      "categories": ["fixing"]
+    },
+    "Dismal Backwater": {
+      "categories": ["fixing"]
+    },
+    "Ecologist's Terrarium": {
+      "categories": ["fixing"]
+    },
+    "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki": {
+      "categories": ["extra"]
+    },
+    "Grafted Growth": {
+      "categories": ["fixing"]
+    },
+    "Greater Tanuki": {
+      "categories": ["fixing"]
+    },
+    "Jungle Hollow": {
+      "categories": ["fixing"]
+    },
+    "Kodama of the West Tree": {
+      "categories": ["extra"]
+    },
+    "Kura, the Boundless Sky": {
+      "categories": ["extra"]
+    },
+    "Mech Hangar": {
+      "categories": ["fixing"]
+    },
+    "Network Terminal": {
+      "categories": ["fixing"]
+    },
+    "Prosperous Thief": {
+      "categories": ["extra"]
+    },
+    "Reckoner Bankbuster": {
+      "categories": ["extra"]
+    },
+    "Rugged Highlands": {
+      "categories": ["fixing"]
+    },
+    "Scoured Barrens": {
+      "categories": ["fixing"]
+    },
+    "Secluded Courtyard": {
+      "categories": ["fixing"]
+    },
+    "Sunblade Samurai": {
+      "categories": ["fixing"]
+    },
+    "Swiftwater Cliffs": {
+      "categories": ["fixing"]
+    },
+    "Thornwood Falls": {
+      "categories": ["fixing"]
+    },
+    "Tranquil Cove": {
+      "categories": ["fixing"]
+    },
+    "Uncharted Haven": {
+      "categories": ["fixing"]
+    },
+    "Undercity Scrounger": {
+      "categories": ["extra"]
+    },
+    "Wind-Scarred Crag": {
+      "categories": ["fixing"]
+    }
+  }
+}

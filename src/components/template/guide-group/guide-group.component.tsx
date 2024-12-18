@@ -7,9 +7,12 @@ import { CardGroups, Icon } from "@/components/common";
 
 import styles from "./guide-group.module.scss";
 
-export const TemplateGuideGroup = (props: { template: ITemplateGuideGroup }) => {
+export const TemplateGuideGroup = (props: {
+  template: ITemplateGuideGroup;
+}) => {
   return (
     <>
+      {/*<pre>{JSON.stringify(props.template.filter, null, 2)}</pre>*/}
       <PageHeader
         title={props.template.title}
         icon={props.template.icon}
@@ -24,17 +27,15 @@ export const TemplateGuideGroup = (props: { template: ITemplateGuideGroup }) => 
             </span>
             <span className="text">
               <span className="name">{guide.name}</span>
-              {guide.description && <span className="description">{guide.description}</span>}
+              {guide.description && (
+                <span className="description">{guide.description}</span>
+              )}
             </span>
           </h3>
-          <CardGroups guide={guide} defaultFilters={props.template.defaultFilters} options={props.template.options} />
+          <CardGroups guide={guide} filter={props.template.filter} />
         </div>
       ))}
-      <FilterBar
-        code={props.template.formatCode}
-        defaultFilters={props.template.defaultFilters}
-        options={props.template.options}
-      />
+      <FilterBar filter={props.template.filter} hideCategories={true} />
     </>
   );
 };

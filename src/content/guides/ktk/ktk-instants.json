@@ -1,0 +1,153 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abzan Charm": {
+      "categories": ["board"]
+    },
+    "Awaken the Bear": {
+      "categories": ["board"]
+    },
+    "Become Immense": {
+      "categories": ["board"],
+      "cost": ["g"]
+    },
+    "Blinding Spray": {
+      "categories": ["board"]
+    },
+    "Bring Low": {
+      "categories": ["board"]
+    },
+    "Burn Away": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Crackling Doom": {
+      "categories": ["board"]
+    },
+    "Crippling Chill": {
+      "categories": ["board"]
+    },
+    "Defiant Strike": {
+      "categories": ["board"]
+    },
+    "Deflecting Palm": {
+      "categories": ["board"]
+    },
+    "Dig Through Time": {
+      "categories": ["other"],
+      "cost": ["u", "u"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Dragon Grip": {
+      "categories": ["board"]
+    },
+    "Dragonscale Boon": {
+      "categories": ["board"]
+    },
+    "Empty the Pits": {
+      "categories": ["other"]
+    },
+    "Erase": {
+      "categories": ["other"]
+    },
+    "Feat of Resistance": {
+      "categories": ["board"]
+    },
+    "Feed the Clan": {
+      "categories": ["other"]
+    },
+    "Flying Crane Technique": {
+      "categories": ["board"]
+    },
+    "Force Away": {
+      "categories": ["board"]
+    },
+    "Icy Blast": {
+      "categories": ["board"]
+    },
+    "Jeskai Charm": {
+      "categories": ["board"]
+    },
+    "Kill Shot": {
+      "categories": ["board"]
+    },
+    "Mardu Charm": {
+      "categories": ["board"]
+    },
+    "Mindswipe": {
+      "categories": ["counterspell"]
+    },
+    "Murderous Cut": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Naturalize": {
+      "categories": ["other"]
+    },
+    "Pearl Lake Ancient": {
+      "categories": ["board"]
+    },
+    "Ride Down": {
+      "categories": ["board"]
+    },
+    "Shatter": {
+      "categories": ["other"]
+    },
+    "Smite the Monstrous": {
+      "categories": ["board"]
+    },
+    "Stubborn Denial": {
+      "categories": ["counterspell"]
+    },
+    "Sultai Charm": {
+      "categories": ["board"]
+    },
+    "Surrak Dragonclaw": {
+      "categories": ["board"]
+    },
+    "Swift Kick": {
+      "categories": ["board"]
+    },
+    "Take Up Arms": {
+      "categories": ["board"]
+    },
+    "Temur Charm": {
+      "categories": ["board"]
+    },
+    "Throttle": {
+      "categories": ["board"]
+    },
+    "Trap Essence": {
+      "categories": ["counterspell"]
+    },
+    "Trumpet Blast": {
+      "categories": ["board"]
+    },
+    "Utter End": {
+      "categories": ["board"]
+    },
+    "Waterwhirl": {
+      "categories": ["board"]
+    },
+    "Weave Fate": {
+      "categories": ["other"]
+    },
+    "Windstorm": {
+      "categories": ["board"]
+    },
+    "Winterflame": {
+      "categories": ["board"]
+    }
+  }
+}

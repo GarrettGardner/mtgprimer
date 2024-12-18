@@ -19,7 +19,10 @@ export const CircleLink = (props: {
       className={`${styles.circleLink}${props.additionalClasses ? ` ${props.additionalClasses}` : ""}`}
     >
       <div className="image">
-        <div className="img" style={{ backgroundImage: `url('${props.image}')` }}>
+        <div
+          className="img"
+          style={{ backgroundImage: `url('${props.image}')` }}
+        >
           <img src={props.image} alt={props.title} />
         </div>
         <div className="format">

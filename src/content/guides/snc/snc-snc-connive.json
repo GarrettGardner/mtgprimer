@@ -1,0 +1,58 @@
+{
+  "name": "Mechanic: Connive",
+  "icon": "fas fa-map",
+  "categories": {
+    "connive": "",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "All-Seeing Arbiter": {
+      "categories": ["payoff"]
+    },
+    "Body Launderer": {
+      "categories": ["connive"]
+    },
+    "Echo Inspector": {
+      "categories": ["connive"]
+    },
+    "Faerie Vandal": {
+      "categories": ["payoff"]
+    },
+    "Hypnotic Grifter": {
+      "categories": ["connive"]
+    },
+    "Illuminator Virtuoso": {
+      "categories": ["connive"]
+    },
+    "Ledger Shredder": {
+      "categories": ["connive"]
+    },
+    "Obscura Interceptor": {
+      "categories": ["connive"]
+    },
+    "Psionic Snoop": {
+      "categories": ["connive"]
+    },
+    "Psychic Pickpocket": {
+      "categories": ["connive"]
+    },
+    "Raffine's Informant": {
+      "categories": ["connive"]
+    },
+    "Raffine's Silencer": {
+      "categories": ["connive"]
+    },
+    "Raffine, Scheming Seer": {
+      "categories": ["connive"]
+    },
+    "Revel Ruiner": {
+      "categories": ["connive"]
+    },
+    "Security Bypass": {
+      "categories": ["connive"]
+    },
+    "Toluz, Clever Conductor": {
+      "categories": ["connive", "payoff"]
+    }
+  }
+}

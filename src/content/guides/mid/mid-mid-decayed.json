@@ -1,0 +1,95 @@
+{
+  "name": "Mechanic: Decayed/Zombies",
+  "icon": "fas fa-book-dead",
+  "categories": {
+    "decayed": "Decayed",
+    "payoff": "Zombie/Decayed Payoffs",
+    "sacrifice": "Sacrifice Outlets"
+  },
+  "cards": {
+    "Bladestitched Skaab": {
+      "categories": ["payoff"]
+    },
+    "Champion of the Perished": {
+      "categories": ["payoff"]
+    },
+    "Corpse Cobble": {
+      "categories": ["sacrifice"]
+    },
+    "Crawl from the Cellar": {
+      "categories": ["payoff"]
+    },
+    "Eaten Alive": {
+      "categories": ["sacrifice"]
+    },
+    "Ecstatic Awakener // Awoken Demon": {
+      "categories": ["sacrifice"]
+    },
+    "Falcon Abomination": {
+      "categories": ["decayed"]
+    },
+    "Fleshtaker": {
+      "categories": ["sacrifice"]
+    },
+    "Flip the Switch": {
+      "categories": ["decayed"]
+    },
+    "Ghoulcaller's Harvest": {
+      "categories": ["decayed"]
+    },
+    "Ghoulish Procession": {
+      "categories": ["decayed"]
+    },
+    "Gisa, Glorious Resurrector": {
+      "categories": ["decayed"]
+    },
+    "Grafted Identity": {
+      "categories": ["sacrifice"]
+    },
+    "Hobbling Zombie": {
+      "categories": ["decayed"]
+    },
+    "Jadar, Ghoulcaller of Nephalia": {
+      "categories": ["decayed"]
+    },
+    "Larder Zombie": {
+      "categories": ["payoff"]
+    },
+    "Lord of the Forsaken": {
+      "categories": ["sacrifice"]
+    },
+    "Morkrut Behemoth": {
+      "categories": ["sacrifice"]
+    },
+    "No Way Out": {
+      "categories": ["decayed"]
+    },
+    "Poppet Stitcher // Poppet Factory": {
+      "categories": ["decayed"]
+    },
+    "Revenge of the Drowned": {
+      "categories": ["decayed"]
+    },
+    "Rite of Oblivion": {
+      "categories": ["sacrifice"]
+    },
+    "Rotten Reunion": {
+      "categories": ["decayed"]
+    },
+    "Siege Zombie": {
+      "categories": ["payoff"]
+    },
+    "Skaab Wrangler": {
+      "categories": ["payoff"]
+    },
+    "Startle": {
+      "categories": ["decayed"]
+    },
+    "Tainted Adversary": {
+      "categories": ["decayed"]
+    },
+    "Vivisection": {
+      "categories": ["sacrifice"]
+    }
+  }
+}

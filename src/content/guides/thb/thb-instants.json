@@ -1,0 +1,138 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "color",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ashiok's Erasure": {
+      "categories": ["counterspell"]
+    },
+    "Aspect of Manticore": {
+      "categories": ["board"]
+    },
+    "Chain to Memory": {
+      "categories": ["board"]
+    },
+    "Cling to Dust": {
+      "categories": ["other"]
+    },
+    "Deny the Divine": {
+      "categories": ["counterspell"]
+    },
+    "Drag to the Underworld": {
+      "categories": ["board"]
+    },
+    "Eat to Extinction": {
+      "categories": ["board"]
+    },
+    "Erebos's Intervention": {
+      "categories": ["board"]
+    },
+    "Fateful End": {
+      "categories": ["board"]
+    },
+    "Final Death": {
+      "categories": ["board"]
+    },
+    "Final Flare": {
+      "categories": ["board"]
+    },
+    "Flicker of Fate": {
+      "categories": ["board"]
+    },
+    "Gift of Strength": {
+      "categories": ["board"]
+    },
+    "Glimpse of Freedom": {
+      "categories": ["other"]
+    },
+    "Heliod's Intervention": {
+      "categories": ["board"]
+    },
+    "Indomitable Will": {
+      "categories": ["board"]
+    },
+    "Infuriate": {
+      "categories": ["board"]
+    },
+    "Inspire Awe": {
+      "categories": ["board"]
+    },
+    "Karametra's Blessing": {
+      "categories": ["board"]
+    },
+    "Memory Drain": {
+      "categories": ["counterspell"]
+    },
+    "Minion's Return": {
+      "categories": ["other"]
+    },
+    "Mystic Repeal": {
+      "categories": ["board"]
+    },
+    "Omen of the Dead": {
+      "categories": ["other"]
+    },
+    "Omen of the Forge": {
+      "categories": ["board"]
+    },
+    "Omen of the Hunt": {
+      "categories": ["other"]
+    },
+    "Omen of the Sea": {
+      "categories": ["other"]
+    },
+    "Omen of the Sun": {
+      "categories": ["board"]
+    },
+    "Phalanx Tactics": {
+      "categories": ["board"]
+    },
+    "Pharika's Libation": {
+      "categories": ["board"]
+    },
+    "Plummet": {
+      "categories": ["board"]
+    },
+    "Return to Nature": {
+      "categories": ["board"]
+    },
+    "Riptide Turtle": {
+      "categories": ["board"]
+    },
+    "Starlit Mantle": {
+      "categories": ["board"]
+    },
+    "Stern Dismissal": {
+      "categories": ["board"]
+    },
+    "Thassa's Intervention": {
+      "categories": ["counterspell"]
+    },
+    "Thirst for Meaning": {
+      "categories": ["other"]
+    },
+    "Threnody Singer": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "Thryx, the Sudden Storm": {
+      "categories": ["board"]
+    },
+    "Triumphant Surge": {
+      "categories": ["board"]
+    },
+    "Vexing Gull": {
+      "categories": ["board"]
+    },
+    "Whirlwind Denial": {
+      "categories": ["counterspell"]
+    }
+  }
+}

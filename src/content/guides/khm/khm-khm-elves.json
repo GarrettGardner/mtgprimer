@@ -1,0 +1,70 @@
+{
+  "name": "Theme: Elves",
+  "icon": "fas fa-moon",
+  "categories": {
+    "payoffs": "Elf Payoffs",
+    "all": "All Elves"
+  },
+  "cards": {
+    "Battle for Bretagard": {
+      "categories": ["all"]
+    },
+    "Boreal Outrider": {
+      "categories": ["all"]
+    },
+    "Deathknell Berserker": {
+      "categories": ["all"]
+    },
+    "Duskwielder": {
+      "categories": ["all"]
+    },
+    "Elderfang Disciple": {
+      "categories": ["all"]
+    },
+    "Elderleaf Mentor": {
+      "categories": ["all"]
+    },
+    "Elven Bow": {
+      "categories": ["all"]
+    },
+    "Elvish Warmaster": {
+      "categories": ["payoffs", "all"]
+    },
+    "Grizzled Outrider": {
+      "categories": ["all"]
+    },
+    "Harald Unites the Elves": {
+      "categories": ["payoffs"]
+    },
+    "Harald, King of Skemfar": {
+      "categories": ["payoffs", "all"]
+    },
+    "Jaspera Sentinel": {
+      "categories": ["all"]
+    },
+    "Koma's Faithful": {
+      "categories": ["all"]
+    },
+    "Return Upon the Tide": {
+      "categories": ["payoffs"]
+    },
+    "Roots of Wisdom": {
+      "categories": ["payoffs"]
+    },
+    "Sculptor of Winter": {
+      "categories": ["all"]
+    },
+    "Skemfar Avenger": {
+      "categories": ["payoffs", "all"]
+    },
+    "Skemfar Elderhall": {
+      "categories": ["all"]
+    },
+    "Skemfar Shadowsage": {
+      "categories": ["all"]
+    },
+    "Tyvar Kell": {
+      "categories": ["payoffs"]
+    }
+  }
+}

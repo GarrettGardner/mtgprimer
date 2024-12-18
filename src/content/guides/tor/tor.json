@@ -1,0 +1,872 @@
+{
+  "code": "tor",
+  "formatName": "Torment",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Angel of Retribution": {
+      "number": "1",
+      "cost": ["6", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aven Trooper": {
+      "number": "2",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cleansing Meditation": {
+      "number": "3",
+      "cost": ["1", "w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Equal Treatment": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Floating Shield": {
+      "number": "5",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Frantic Purification": {
+      "number": "6",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hypochondria": {
+      "number": "7",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Major Teroh": {
+      "number": "8",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Militant Monk": {
+      "number": "9",
+      "cost": ["1", "w", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Morningtide": {
+      "number": "10",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mystic Familiar": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pay No Heed": {
+      "number": "12",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Possessed Nomad": {
+      "number": "13",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Reborn Hero": {
+      "number": "14",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Spirit Flare": {
+      "number": "15",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Stern Judge": {
+      "number": "16",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Strength of Isolation": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Teroh's Faithful": {
+      "number": "18",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Teroh's Vanguard": {
+      "number": "19",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Transcendence": {
+      "number": "20",
+      "cost": ["3", "w", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Vengeful Dreams": {
+      "number": "21",
+      "cost": ["w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Alter Reality": {
+      "number": "22",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ambassador Laquatus": {
+      "number": "23",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aquamoeba": {
+      "number": "24",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Balshan Collaborator": {
+      "number": "25",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Breakthrough": {
+      "number": "26",
+      "cost": ["x", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cephalid Aristocrat": {
+      "number": "27",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cephalid Illusionist": {
+      "number": "28",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cephalid Sage": {
+      "number": "29",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cephalid Snitch": {
+      "number": "30",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cephalid Vandal": {
+      "number": "31",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Churning Eddy": {
+      "number": "32",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Circular Logic": {
+      "number": "33",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Compulsion": {
+      "number": "34",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Coral Net": {
+      "number": "35",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Deep Analysis": {
+      "number": "36",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "False Memories": {
+      "number": "37",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ghostly Wings": {
+      "number": "38",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hydromorph Guardian": {
+      "number": "39",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hydromorph Gull": {
+      "number": "40",
+      "cost": ["3", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Liquify": {
+      "number": "41",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Llawan, Cephalid Empress": {
+      "number": "42",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Obsessive Search": {
+      "number": "43",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Plagiarize": {
+      "number": "44",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Possessed Aven": {
+      "number": "45",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Retraced Image": {
+      "number": "46",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Skywing Aven": {
+      "number": "47",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Stupefying Touch": {
+      "number": "48",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Turbulent Dreams": {
+      "number": "49",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Boneshard Slasher": {
+      "number": "50",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cabal Ritual": {
+      "number": "51",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cabal Surgeon": {
+      "number": "52",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cabal Torturer": {
+      "number": "53",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Carrion Rats": {
+      "number": "54",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Carrion Wurm": {
+      "number": "55",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Chainer, Dementia Master": {
+      "number": "56",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Chainer's Edict": {
+      "number": "57",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crippling Fatigue": {
+      "number": "58",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dawn of the Dead": {
+      "number": "59",
+      "cost": ["2", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Faceless Butcher": {
+      "number": "60",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gloomdrifter": {
+      "number": "61",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gravegouger": {
+      "number": "62",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Grotesque Hybrid": {
+      "number": "63",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hypnox": {
+      "number": "64",
+      "cost": ["8", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ichorid": {
+      "number": "65",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Insidious Dreams": {
+      "number": "66",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Laquatus's Champion": {
+      "number": "67",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Last Laugh": {
+      "number": "68",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mesmeric Fiend": {
+      "number": "69",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mind Sludge": {
+      "number": "70",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mortal Combat": {
+      "number": "71",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mortiphobia": {
+      "number": "72",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mutilate": {
+      "number": "73",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nantuko Shade": {
+      "number": "74",
+      "cost": ["b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Organ Grinder": {
+      "number": "75",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Psychotic Haze": {
+      "number": "76",
+      "cost": ["2", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Putrid Imp": {
+      "number": "77",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rancid Earth": {
+      "number": "78",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Restless Dreams": {
+      "number": "79",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sengir Vampire": {
+      "number": "80",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Shade's Form": {
+      "number": "81",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shambling Swarm": {
+      "number": "82",
+      "cost": ["1", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sickening Dreams": {
+      "number": "83",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Slithery Stalker": {
+      "number": "84",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Soul Scourge": {
+      "number": "85",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Strength of Lunacy": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Unhinge": {
+      "number": "87",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Waste Away": {
+      "number": "88",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zombie Trailblazer": {
+      "number": "89",
+      "cost": ["b", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Accelerate": {
+      "number": "90",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Balthor the Stout": {
+      "number": "91",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Barbarian Outcast": {
+      "number": "92",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Crackling Club": {
+      "number": "93",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Crazed Firecat": {
+      "number": "94",
+      "cost": ["5", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Devastating Dreams": {
+      "number": "95",
+      "cost": ["r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Enslaved Dwarf": {
+      "number": "96",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fiery Temper": {
+      "number": "97",
+      "cost": ["1", "r", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Flaming Gambit": {
+      "number": "98",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Flash of Defiance": {
+      "number": "99",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Grim Lavamancer": {
+      "number": "100",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hell-Bent Raider": {
+      "number": "101",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kamahl's Sledge": {
+      "number": "102",
+      "cost": ["5", "r", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Longhorn Firebeast": {
+      "number": "103",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Overmaster": {
+      "number": "104",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pardic Arsonist": {
+      "number": "105",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pardic Collaborator": {
+      "number": "106",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pardic Lancer": {
+      "number": "107",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Petradon": {
+      "number": "108",
+      "cost": ["6", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Petravark": {
+      "number": "109",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pitchstone Wall": {
+      "number": "110",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Possessed Barbarian": {
+      "number": "111",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pyromania": {
+      "number": "112",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Radiate": {
+      "number": "113",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Skullscorch": {
+      "number": "114",
+      "cost": ["r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sonic Seizure": {
+      "number": "115",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Temporary Insanity": {
+      "number": "116",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Violent Eruption": {
+      "number": "117",
+      "cost": ["1", "r", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Acorn Harvest": {
+      "number": "118",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Anurid Scavenger": {
+      "number": "119",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Arrogant Wurm": {
+      "number": "120",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Basking Rootwalla": {
+      "number": "121",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Centaur Chieftain": {
+      "number": "122",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Centaur Veteran": {
+      "number": "123",
+      "cost": ["5", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dwell on the Past": {
+      "number": "124",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Far Wanderings": {
+      "number": "125",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gurzigost": {
+      "number": "126",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Insist": {
+      "number": "127",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Invigorating Falls": {
+      "number": "128",
+      "cost": ["2", "g", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Krosan Constrictor": {
+      "number": "129",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Krosan Restorer": {
+      "number": "130",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Nantuko Blightcutter": {
+      "number": "131",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Nantuko Calmer": {
+      "number": "132",
+      "cost": ["2", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Nantuko Cultivator": {
+      "number": "133",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Narcissism": {
+      "number": "134",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Nostalgic Dreams": {
+      "number": "135",
+      "cost": ["g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Parallel Evolution": {
+      "number": "136",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Possessed Centaur": {
+      "number": "137",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Seton's Scout": {
+      "number": "138",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cabal Coffers": {
+      "number": "139",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Tainted Field": {
+      "number": "140",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Tainted Isle": {
+      "number": "141",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Tainted Peak": {
+      "number": "142",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Tainted Wood": {
+      "number": "143",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    }
+  }
+}

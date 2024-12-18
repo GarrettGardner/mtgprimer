@@ -1,0 +1,148 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Alchemist's Gift": {
+      "categories": ["board"]
+    },
+    "Angelic Ascension": {
+      "categories": ["board"]
+    },
+    "Burn Bright": {
+      "categories": ["board"]
+    },
+    "Cancel": {
+      "categories": ["counterspell"]
+    },
+    "Capture Sphere": {
+      "categories": ["board"]
+    },
+    "Containment Priest": {
+      "categories": ["board"]
+    },
+    "Defiant Strike": {
+      "categories": ["board"]
+    },
+    "Discontinuity": {
+      "categories": ["board", "counterspell"],
+      "cost": ["1", "u"]
+    },
+    "Eliminate": {
+      "categories": ["board"]
+    },
+    "Feat of Resistance": {
+      "categories": ["board"]
+    },
+    "Finishing Blow": {
+      "categories": ["board"]
+    },
+    "Frantic Inventory": {
+      "categories": ["other"]
+    },
+    "Frost Breath": {
+      "categories": ["board"]
+    },
+    "Fungal Rebirth": {
+      "categories": ["board"]
+    },
+    "Goblin Wizardry": {
+      "categories": ["board"]
+    },
+    "Grasp of Darkness": {
+      "categories": ["board"]
+    },
+    "Heroic Intervention": {
+      "categories": ["board"]
+    },
+    "Invigorating Surge": {
+      "categories": ["board"]
+    },
+    "Life Goes On": {
+      "categories": ["other"]
+    },
+    "Liliana's Standard Bearer": {
+      "categories": ["board"]
+    },
+    "Lofty Denial": {
+      "categories": ["counterspell"]
+    },
+    "Masked Blackguard": {
+      "categories": ["board"]
+    },
+    "Miscast": {
+      "categories": ["counterspell"]
+    },
+    "Niambi, Esteemed Speaker": {
+      "categories": ["board"]
+    },
+    "Opt": {
+      "categories": ["other"]
+    },
+    "Rain of Revelation": {
+      "categories": ["other"]
+    },
+    "Ranger's Guile": {
+      "categories": ["board"]
+    },
+    "Return to Nature": {
+      "categories": ["board"]
+    },
+    "Revitalize": {
+      "categories": ["other"]
+    },
+    "Rewind": {
+      "categories": ["counterspell"]
+    },
+    "Rookie Mistake": {
+      "categories": ["board"]
+    },
+    "Run Afoul": {
+      "categories": ["board"]
+    },
+    "Scorching Dragonfire": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Soul Sear": {
+      "categories": ["board"]
+    },
+    "Sublime Epiphany": {
+      "categories": ["board", "counterspell"]
+    },
+    "Sure Strike": {
+      "categories": ["board"]
+    },
+    "Swift Response": {
+      "categories": ["board"]
+    },
+    "Thieves' Guild Enforcer": {
+      "categories": ["board"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["other"]
+    },
+    "Titanic Growth": {
+      "categories": ["board"]
+    },
+    "Unleash Fury": {
+      "categories": ["board"]
+    },
+    "Unsubstantiate": {
+      "categories": ["board", "counterspell"]
+    },
+    "Village Rites": {
+      "categories": ["other"]
+    },
+    "Volcanic Geyser": {
+      "categories": ["board"]
+    }
+  }
+}

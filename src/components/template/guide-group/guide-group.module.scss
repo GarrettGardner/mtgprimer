@@ -3,7 +3,8 @@
 .guideGroup {
   > h3 {
     align-items: stretch;
-    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center center;
+    background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center
+      center;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     border-top: 1px solid rgba(255, 255, 255, 0.3);
     display: flex;
@@ -42,11 +43,13 @@
       align-items: flex-start;
       flex: 1 1 auto;
       flex-direction: column;
-      padding: rem-convert(8px) rem-convert(12px) rem-convert(8px) rem-convert(12px);
+      padding: rem-convert(8px) rem-convert(12px) rem-convert(8px)
+        rem-convert(12px);
       justify-content: flex-start;
 
       @include breakpoint("desktop") {
-        padding: rem-convert(12px) rem-convert(16px) rem-convert(12px) rem-convert(16px);
+        padding: rem-convert(12px) rem-convert(16px) rem-convert(12px)
+          rem-convert(16px);
       }
 
       :global(.name) {

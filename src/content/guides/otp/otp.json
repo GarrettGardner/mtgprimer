@@ -1,0 +1,410 @@
+{
+  "code": "otp",
+  "formatName": "Breaking News",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Fell the Mighty": {
+      "number": "1",
+      "cost": ["4", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fierce Retribution": {
+      "number": "2",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Journey to Nowhere": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Leyline Binding": {
+      "number": "4",
+      "cost": ["5", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Pariah": {
+      "number": "5",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Path to Exile": {
+      "number": "6",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Archive Trap": {
+      "number": "7",
+      "cost": ["3", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Archmage's Charm": {
+      "number": "8",
+      "cost": ["u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Commandeer": {
+      "number": "9",
+      "cost": ["5", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Essence Capture": {
+      "number": "10",
+      "cost": ["u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mana Drain": {
+      "number": "11",
+      "cost": ["u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mindbreak Trap": {
+      "number": "12",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Repulse": {
+      "number": "13",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Heartless Pillage": {
+      "number": "14",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Imp's Mischief": {
+      "number": "15",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Murder": {
+      "number": "16",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Overwhelming Forces": {
+      "number": "17",
+      "cost": ["6", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Reanimate": {
+      "number": "18",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Surgical Extraction": {
+      "number": "19",
+      "cost": ["bp"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thoughtseize": {
+      "number": "20",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Collective Defiance": {
+      "number": "21",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Crackle with Power": {
+      "number": "22",
+      "cost": ["x", "x", "x", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Electrodominance": {
+      "number": "23",
+      "cost": ["x", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fling": {
+      "number": "24",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Indomitable Creativity": {
+      "number": "25",
+      "cost": ["x", "r", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Skewer the Critics": {
+      "number": "26",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Skullcrack": {
+      "number": "27",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Clear Shot": {
+      "number": "28",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Force of Vigor": {
+      "number": "29",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Pest Infestation": {
+      "number": "30",
+      "cost": ["x", "x", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Primal Command": {
+      "number": "31",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Primal Might": {
+      "number": "32",
+      "cost": ["x", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thornado": {
+      "number": "33",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Abrupt Decay": {
+      "number": "34",
+      "cost": ["b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Anguished Unmaking": {
+      "number": "35",
+      "cost": ["1", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Back for More": {
+      "number": "36",
+      "cost": ["4", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Bedevil": {
+      "number": "37",
+      "cost": ["b", "b", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Buried in the Garden": {
+      "number": "38",
+      "cost": ["2", "g", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crime // Punishment (Crime)": {
+      "number": "39",
+      "cost": ["3", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Crime // Punishment (Punishment)": {
+      "number": "39",
+      "cost": ["x", "b", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Cruel Ultimatum": {
+      "number": "40",
+      "cost": ["u", "u", "b", "b", "b", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Decimate": {
+      "number": "41",
+      "cost": ["2", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Decisive Denial": {
+      "number": "42",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Detention Sphere": {
+      "number": "43",
+      "cost": ["1", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Endless Detour": {
+      "number": "44",
+      "cost": ["g", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fractured Identity": {
+      "number": "45",
+      "cost": ["3", "w", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Hindering Light": {
+      "number": "46",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Humiliate": {
+      "number": "47",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hypothesizzle": {
+      "number": "48",
+      "cost": ["3", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ionize": {
+      "number": "49",
+      "cost": ["1", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Oko, Thief of Crowns": {
+      "number": "50",
+      "cost": ["1", "g", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Outlaws' Merriment": {
+      "number": "51",
+      "cost": ["1", "r", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ride Down": {
+      "number": "52",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Savage Smash": {
+      "number": "53",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Siphon Insight": {
+      "number": "54",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Terminal Agony": {
+      "number": "55",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tyrant's Scorn": {
+      "number": "56",
+      "cost": ["u", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vanishing Verse": {
+      "number": "57",
+      "cost": ["w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Villainous Wealth": {
+      "number": "58",
+      "cost": ["x", "b", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Void Rend": {
+      "number": "59",
+      "cost": ["w", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Voidslime": {
+      "number": "60",
+      "cost": ["g", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Contagion Engine": {
+      "number": "61",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Grindstone": {
+      "number": "62",
+      "cost": ["1"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mindslaver": {
+      "number": "63",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Unlicensed Hearse": {
+      "number": "64",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dust Bowl": {
+      "number": "65",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

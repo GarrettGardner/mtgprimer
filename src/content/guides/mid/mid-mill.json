@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "both": "Both Players",
+    "self": "Self Only"
+  },
+  "cards": {
+    "Consider": {
+      "categories": ["self"]
+    },
+    "Covetous Castaway // Ghostly Castigator": {
+      "categories": ["self"]
+    },
+    "Deathbonnet Sprout // Deathbonnet Hulk": {
+      "categories": ["self"]
+    },
+    "Devoted Grafkeeper // Departed Soulkeeper": {
+      "categories": ["self"]
+    },
+    "Dreadhound": {
+      "categories": ["self"]
+    },
+    "Drownyard Amalgam": {
+      "categories": ["both"]
+    },
+    "Eccentric Farmer": {
+      "categories": ["self"]
+    },
+    "Heirloom Mirror // Inherited Fiend": {
+      "categories": ["self"]
+    },
+    "Larder Zombie": {
+      "categories": ["self"]
+    },
+    "Lord of the Forsaken": {
+      "categories": ["both"]
+    },
+    "Ludevic, Necrogenius // Olag, Ludevic's Hubris": {
+      "categories": ["self"]
+    },
+    "Organ Hoarder": {
+      "categories": ["self"]
+    },
+    "Otherworldly Gaze": {
+      "categories": ["self"]
+    },
+    "Phantom Carriage": {
+      "categories": ["self"]
+    },
+    "Tapping at the Window": {
+      "categories": ["self"]
+    }
+  }
+}

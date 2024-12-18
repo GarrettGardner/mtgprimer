@@ -1,0 +1,40 @@
+{
+  "name": "Food",
+  "categories": {
+    "default": ""
+  },
+  "cards": {
+    "Bakery Raid (Hollow Scavenger // Bakery Raid)": {},
+    "Candy Trail": {},
+    "Eriette's Tempting Apple": {},
+    "Feed the Cauldron": {},
+    "Food Fight": {
+      "categories": ["payoff"]
+    },
+    "Gingerbread Hunter (Gingerbread Hunter // Puny Snack)": {},
+    "Gingerbrute": {},
+    "Greta, Sweettooth Scourge": {
+      "categories": ["default", "payoff"]
+    },
+    "Have for Dinner (Devouring Sugarmaw // Have for Dinner)": {},
+    "Mintstrosity": {},
+    "Night of the Sweets' Revenge": {},
+    "Restless Cottage": {},
+    "Return from the Wilds": {},
+    "Scream Puff": {},
+    "Skybeast Tracker": {},
+    "Spider Food": {},
+    "Sweettooth Witch": {},
+    "Syr Ginger, the Meal Ender": {},
+    "Tempt with Treats (Gumdrop Poisoner // Tempt with Treats)": {},
+    "The Goose Mother": {
+      "categories": ["default", "payoff"]
+    },
+    "The Witch's Vanity": {},
+    "Three Bowls of Porridge": {},
+    "Tough Cookie": {
+      "categories": ["default", "payoff"]
+    },
+    "Welcome to Sweettooth": {}
+  }
+}

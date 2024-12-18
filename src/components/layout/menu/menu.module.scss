@@ -1,7 +1,8 @@
 @use "../../../sass/mixins" as *;
 
 .menu {
-  background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat center center;
+  background: black url("/images/bg/pattern-stressed-linen-light.jpg") repeat
+    center center;
   border-right: 0 solid black;
   border-right-width: rem-convert(4px);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);

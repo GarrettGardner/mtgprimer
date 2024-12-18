@@ -1,0 +1,171 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ambush Gigapede": {
+      "categories": ["board"]
+    },
+    "Annie Flash, the Veteran": {
+      "categories": ["board"]
+    },
+    "Aven Interrupter": {
+      "categories": ["board"]
+    },
+    "Betrayal at the Vault": {
+      "categories": ["board"]
+    },
+    "Bovine Intervention": {
+      "categories": ["board"]
+    },
+    "Caught in the Crossfire": {
+      "categories": ["board"],
+      "cost": ["1", "r", "r"]
+    },
+    "Colossal Rattlewurm": {
+      "categories": ["board"]
+    },
+    "Consuming Ashes": {
+      "categories": ["board"]
+    },
+    "Corrupted Conviction": {
+      "categories": ["other"]
+    },
+    "Daring Thunder-Thief": {
+      "categories": ["board"]
+    },
+    "Desert's Due": {
+      "categories": ["board"]
+    },
+    "Explosive Derailment": {
+      "categories": ["board"],
+      "cost": ["2", "r"]
+    },
+    "Failed Fording": {
+      "categories": ["board"]
+    },
+    "Fake Your Own Death": {
+      "categories": ["board"]
+    },
+    "Final Showdown": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Fleeting Reflection": {
+      "categories": ["board"]
+    },
+    "Getaway Glamer": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Gold Rush": {
+      "categories": ["board"]
+    },
+    "Great Train Heist": {
+      "categories": ["board"],
+      "cost": ["r", "r"]
+    },
+    "Holy Cow": {
+      "categories": ["board"]
+    },
+    "Metamorphic Blast": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Mystical Tether": {
+      "categories": ["board"],
+      "cost": ["4", "w"]
+    },
+    "Neutralize the Guards": {
+      "categories": ["board"]
+    },
+    "Outlaws' Fury": {
+      "categories": ["board"]
+    },
+    "Phantom Interference": {
+      "categories": ["board", "counterspell"],
+      "cost": ["1", "u"]
+    },
+    "Quick Draw": {
+      "categories": ["board"]
+    },
+    "Reach for the Sky": {
+      "categories": ["board"]
+    },
+    "Return the Favor": {
+      "categories": ["board", "counterspell"],
+      "cost": ["1", "r", "r"]
+    },
+    "Rooftop Assassin": {
+      "categories": ["board"]
+    },
+    "Rustler Rampage": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Shoot the Sheriff": {
+      "categories": ["board"]
+    },
+    "Skulduggery": {
+      "categories": ["board"]
+    },
+    "Slick Sequence": {
+      "categories": ["board"]
+    },
+    "Smuggler's Surprise": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Snakeskin Veil": {
+      "categories": ["board"]
+    },
+    "Steer Clear": {
+      "categories": ["board"]
+    },
+    "Stoic Sphinx": {
+      "categories": ["board"]
+    },
+    "Stop Cold": {
+      "categories": ["board"]
+    },
+    "Take Up the Shield": {
+      "categories": ["board"]
+    },
+    "Take for a Ride": {
+      "categories": ["board"]
+    },
+    "Take the Fall": {
+      "categories": ["board"]
+    },
+    "This Town Ain't Big Enough": {
+      "categories": ["board"],
+      "cost": ["1", "u"]
+    },
+    "Three Steps Ahead": {
+      "categories": ["board", "counterspell"],
+      "cost": ["1", "u"]
+    },
+    "Thunder Salvo": {
+      "categories": ["board"]
+    },
+    "Trash the Town": {
+      "categories": ["board"],
+      "cost": ["1", "g"]
+    },
+    "Trick Shot": {
+      "categories": ["board"]
+    },
+    "Unfortunate Accident": {
+      "categories": ["board"],
+      "cost": ["1", "b"]
+    },
+    "Wrangler of the Damned": {
+      "categories": ["board"]
+    }
+  }
+}

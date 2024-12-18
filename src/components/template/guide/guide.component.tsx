@@ -7,22 +7,15 @@ import { FilterBar, PageHeader } from "@/components/layout";
 export const TemplateGuide = (props: { template: ITemplateGuide }) => {
   return (
     <>
+      {/*<pre>{JSON.stringify(props.template, null, 2)}</pre>*/}
       <PageHeader
         title={props.template.title}
         icon={props.template.icon}
         formatName={props.template.formatName}
         description={props.template.description}
       />
-      <CardGroups
-        guide={props.template.guide}
-        defaultFilters={props.template.defaultFilters}
-        options={props.template.options}
-      />
-      <FilterBar
-        code={props.template.formatCode}
-        defaultFilters={props.template.defaultFilters}
-        options={props.template.options}
-      />
+      <CardGroups guide={props.template.guide} filter={props.template.filter} />
+      <FilterBar filter={props.template.filter} />
     </>
   );
 };

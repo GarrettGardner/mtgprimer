@@ -1,0 +1,145 @@
+{
+  "name": "Mechanic: Kicker",
+  "icon": "fas fa-search-plus",
+  "categories": {
+    "payoffs": "Kicker Payoffs",
+    "all": "All Kicker Cards"
+  },
+  "cards": {
+    "Blood Beckoning": {
+      "categories": ["all"]
+    },
+    "Bloodchief's Thirst": {
+      "categories": ["all"]
+    },
+    "Bubble Snare": {
+      "categories": ["all"]
+    },
+    "Cinderclasm": {
+      "categories": ["all"]
+    },
+    "Coralhelm Chronicler": {
+      "categories": ["all"]
+    },
+    "Cragplate Baloth": {
+      "categories": ["all"]
+    },
+    "Cunning Geysermage": {
+      "categories": ["all"]
+    },
+    "Dauntless Unity": {
+      "categories": ["all"]
+    },
+    "Field Research": {
+      "categories": ["all"]
+    },
+    "Ghastly Gloomhunter": {
+      "categories": ["all"]
+    },
+    "Gnarlid Colony": {
+      "categories": ["all"]
+    },
+    "Inscription of Abundance": {
+      "categories": ["all"]
+    },
+    "Inscription of Insight": {
+      "categories": ["all"]
+    },
+    "Inscription of Ruin": {
+      "categories": ["all"]
+    },
+    "Into the Roil": {
+      "categories": ["all"]
+    },
+    "Jace, Mirror Mage": {
+      "categories": ["all"]
+    },
+    "Kitesail Cleric": {
+      "categories": ["all"]
+    },
+    "Lullmage's Familiar": {
+      "categories": ["payoffs"]
+    },
+    "Maddening Cacophony": {
+      "categories": ["all"]
+    },
+    "Merfolk Falconer": {
+      "categories": ["payoffs"]
+    },
+    "Might of Murasa": {
+      "categories": ["all"]
+    },
+    "Moss-Pit Skeleton": {
+      "categories": ["all"]
+    },
+    "Murasa Sproutling": {
+      "categories": ["all"]
+    },
+    "Myriad Construct": {
+      "categories": ["all"]
+    },
+    "Nullpriest of Oblivion": {
+      "categories": ["all"]
+    },
+    "Reclaim the Wastes": {
+      "categories": ["all"]
+    },
+    "Risen Riptide": {
+      "categories": ["payoffs"]
+    },
+    "Roil Eruption": {
+      "categories": ["all"]
+    },
+    "Roost of Drakes": {
+      "categories": ["all"]
+    },
+    "Scorch Rider": {
+      "categories": ["all"]
+    },
+    "Scourge of the Skyclaves": {
+      "categories": ["all"]
+    },
+    "Sea Gate Stormcaller": {
+      "categories": ["all"]
+    },
+    "Shatterskull Charger": {
+      "categories": ["all"]
+    },
+    "Shell Shield": {
+      "categories": ["all"]
+    },
+    "Skyclave Relic": {
+      "categories": ["all"]
+    },
+    "Skyclave Sentinel": {
+      "categories": ["all"]
+    },
+    "Skyclave Shade": {
+      "categories": ["all"]
+    },
+    "Tajuru Paragon": {
+      "categories": ["all"]
+    },
+    "Taunting Arbormage": {
+      "categories": ["all"]
+    },
+    "Tazeem Roilmage": {
+      "categories": ["all"]
+    },
+    "Thieving Skydiver": {
+      "categories": ["all"]
+    },
+    "Throne of Makindi": {
+      "categories": ["payoffs"]
+    },
+    "Vastwood Surge": {
+      "categories": ["all"]
+    },
+    "Verazol, the Split Current": {
+      "categories": ["payoffs"]
+    },
+    "Vine Gecko": {
+      "categories": ["payoffs"]
+    }
+  }
+}

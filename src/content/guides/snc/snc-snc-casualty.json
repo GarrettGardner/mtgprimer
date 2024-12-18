@@ -1,0 +1,55 @@
+{
+  "name": "Mechanic: Casualty",
+  "icon": "fas fa-dizzy",
+  "categories": {
+    "casualty": "",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "A Little Chat": {
+      "categories": ["casualty"]
+    },
+    "Body Dropper": {
+      "categories": ["payoff"]
+    },
+    "Cut Your Losses": {
+      "categories": ["casualty"]
+    },
+    "Cut of the Profits": {
+      "categories": ["casualty"]
+    },
+    "Dig Up the Body": {
+      "categories": ["casualty"]
+    },
+    "Forge Boss": {
+      "categories": ["payoff"]
+    },
+    "Grisly Sigil": {
+      "categories": ["casualty"]
+    },
+    "Illicit Shipment": {
+      "categories": ["casualty"]
+    },
+    "Join the Maestros": {
+      "categories": ["casualty"]
+    },
+    "Light 'Em Up": {
+      "categories": ["casualty"]
+    },
+    "Make Disappear": {
+      "categories": ["casualty"]
+    },
+    "Ob Nixilis, the Adversary": {
+      "categories": ["casualty"]
+    },
+    "Riveteers Ascendancy": {
+      "categories": ["payoff"]
+    },
+    "Rob the Archives": {
+      "categories": ["casualty"]
+    },
+    "Rooftop Nuisance": {
+      "categories": ["casualty"]
+    }
+  }
+}

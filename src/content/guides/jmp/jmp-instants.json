@@ -1,0 +1,219 @@
+{
+  "name": "Instants Guide",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aegis of the Heavens": {
+      "categories": ["board"]
+    },
+    "Affa Guard Hound": {
+      "categories": ["board"]
+    },
+    "Aggressive Urge": {
+      "categories": ["board"]
+    },
+    "Angel of the Dire Hour": {
+      "categories": ["board"]
+    },
+    "Arbor Armament": {
+      "categories": ["board"]
+    },
+    "Auger Spree": {
+      "categories": ["board"]
+    },
+    "Bake into a Pie": {
+      "categories": ["board"]
+    },
+    "Battlefield Promotion": {
+      "categories": ["board"]
+    },
+    "Befuddle": {
+      "categories": ["board"]
+    },
+    "Blindblast": {
+      "categories": ["board"]
+    },
+    "Cloudshift": {
+      "categories": ["board"]
+    },
+    "Collateral Damage": {
+      "categories": ["board"]
+    },
+    "Crookclaw Transmuter": {
+      "categories": ["board"]
+    },
+    "Crushing Canopy": {
+      "categories": ["board"]
+    },
+    "Dance with Devils": {
+      "categories": ["board"]
+    },
+    "Dauntless Onslaught": {
+      "categories": ["board"]
+    },
+    "Divine Arrow": {
+      "categories": ["board"]
+    },
+    "Douse in Gloom": {
+      "categories": ["board"]
+    },
+    "Draconic Roar": {
+      "categories": ["board"]
+    },
+    "Dualcaster Mage": {
+      "categories": ["board"]
+    },
+    "Elemental Uprising": {
+      "categories": ["board"]
+    },
+    "Essence Flux": {
+      "categories": ["board"]
+    },
+    "Exclude": {
+      "categories": ["board"]
+    },
+    "Feral Invocation": {
+      "categories": ["board"]
+    },
+    "Flame Lash": {
+      "categories": ["board"]
+    },
+    "Flames of the Raze-Boar": {
+      "categories": ["board"]
+    },
+    "Fling": {
+      "categories": ["board"]
+    },
+    "Fortify": {
+      "categories": ["board"]
+    },
+    "Heartfire": {
+      "categories": ["board"]
+    },
+    "Homing Lightning": {
+      "categories": ["board"]
+    },
+    "Hungry Flames": {
+      "categories": ["board"]
+    },
+    "Hunter's Insight": {
+      "categories": ["board"]
+    },
+    "Indomitable Will": {
+      "categories": ["board"]
+    },
+    "Inspired Charge": {
+      "categories": ["board"]
+    },
+    "Inspiring Call": {
+      "categories": ["board"]
+    },
+    "Last Gasp": {
+      "categories": ["board"]
+    },
+    "Launch Party": {
+      "categories": ["board"]
+    },
+    "Lawmage's Binding": {
+      "categories": ["board"]
+    },
+    "Leave in the Dust": {
+      "categories": ["board"]
+    },
+    "Lifecrafter's Gift": {
+      "categories": ["board"]
+    },
+    "Lightning Axe": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Long Road Home": {
+      "categories": ["board"]
+    },
+    "Magma Jet": {
+      "categories": ["board"]
+    },
+    "Magmaquake": {
+      "categories": ["board"]
+    },
+    "Moment of Heroism": {
+      "categories": ["board"]
+    },
+    "Momentous Fall": {
+      "categories": ["board"]
+    },
+    "Nebelgast Herald": {
+      "categories": ["board"]
+    },
+    "Outnumber": {
+      "categories": ["board"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Peel from Reality": {
+      "categories": ["board"]
+    },
+    "Pouncing Cheetah": {
+      "categories": ["board"]
+    },
+    "Raise the Alarm": {
+      "categories": ["board"]
+    },
+    "Rattlechains": {
+      "categories": ["board"]
+    },
+    "Read the Runes": {
+      "categories": ["board"]
+    },
+    "Riddle of Lightning": {
+      "categories": ["board"]
+    },
+    "Sarkhan's Rage": {
+      "categories": ["board"]
+    },
+    "Spectral Sailor": {
+      "categories": ["board"]
+    },
+    "Sweep Away": {
+      "categories": ["board"]
+    },
+    "Take Heart": {
+      "categories": ["board"]
+    },
+    "Tandem Tactics": {
+      "categories": ["board"]
+    },
+    "Thirst for Knowledge": {
+      "categories": ["board"]
+    },
+    "Thought Collapse": {
+      "categories": ["board"]
+    },
+    "Thought Scour": {
+      "categories": ["board"]
+    },
+    "Valorous Stance": {
+      "categories": ["board"]
+    },
+    "Volcanic Fallout": {
+      "categories": ["board"]
+    },
+    "Voyage's End": {
+      "categories": ["board"]
+    },
+    "Wildsize": {
+      "categories": ["board"]
+    },
+    "Wizard's Retort": {
+      "categories": ["board"]
+    }
+  }
+}
