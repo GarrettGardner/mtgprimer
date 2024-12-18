@@ -7,8 +7,8 @@ export const generateMetadata = async ({ params }: { params: Promise<{ path: str
   return createMetadata(template);
 };
 
-export const generateStaticParams = () => {
-  return getPaths();
+export const generateStaticParams = async () => {
+  return await getPaths();
 };
 
 const InnerPage = async ({ params }: { params: Promise<{ path: string[] }> }) => {

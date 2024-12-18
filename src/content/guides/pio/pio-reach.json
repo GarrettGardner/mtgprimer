@@ -1,0 +1,42 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Avatar of the Resolute": {
+      "categories": ["default"]
+    },
+    "Bassara Tower Archer": {
+      "categories": ["default"]
+    },
+    "Kraul Harpooner": {
+      "categories": ["default"]
+    },
+    "Leafcrown Dryad": {
+      "categories": ["default"]
+    },
+    "Nessian Asp": {
+      "categories": ["default"]
+    },
+    "Nyx Weaver": {
+      "categories": ["default"]
+    },
+    "Ruric Thar, the Unbowed": {
+      "categories": ["default"]
+    },
+    "Seed Guardian": {
+      "categories": ["default"]
+    },
+    "Skylasher": {
+      "categories": ["default"]
+    },
+    "Soulflayer": {
+      "categories": ["default"]
+    },
+    "Sylvan Primordial": {
+      "categories": ["default"]
+    }
+  }
+}

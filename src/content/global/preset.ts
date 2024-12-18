@@ -1,4 +1,4 @@
-export const PRESET: Record<string, { NAME?: string; ICON?: string; DESCRIPTION?: string }> = {
+export const PRESET: Record<string, { NAME: string; ICON: string; DESCRIPTION: string }> = {
   info: {
     NAME: "Format Information",
     ICON: "fas fa-sitemap",
@@ -70,12 +70,6 @@ export const PRESET: Record<string, { NAME?: string; ICON?: string; DESCRIPTION?
     ICON: "fas fa-shield-heart",
     DESCRIPTION: "Equipment card types, and effects that synergize with equipment, such as Short Sword.",
   },
-  "guide-evasion": {
-    NAME: "Evasion",
-    ICON: "fas fa-eye-slash",
-    DESCRIPTION:
-      "Abilities which circumvent some or all blocks, or effects which grant those abilities, such as Phantom Warrior.",
-  },
   "guide-falter": {
     NAME: "Falter",
     ICON: "fas fa-dizzy",
@@ -133,11 +127,6 @@ export const PRESET: Record<string, { NAME?: string; ICON?: string; DESCRIPTION?
     ICON: "fas fa-times",
     DESCRIPTION: "Effects which destroy creatures with 1 toughness, such as Prodigal Sorcerer or Goblin Bombardment.",
   },
-  // "guide-protection": {
-  //   NAME: "Protection",
-  //   ICON: "fas fa-shield-halved",
-  //   DESCRIPTION: "Abilities or effects which protect creatures, such as Snakeskil Veil or Paradise Druid.",
-  // },
   "guide-ramp": {
     NAME: "Mana Ramp",
     ICON: "fas fa-seedling",

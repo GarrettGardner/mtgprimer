@@ -1,0 +1,67 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Brazen Borrower (Brazen Borrower // Petty Theft)": {
+      "categories": ["board"]
+    },
+    "Collected Company": {
+      "categories": ["board"]
+    },
+    "Condemn": {
+      "categories": ["board"]
+    },
+    "Desertion": {
+      "categories": ["counterspell"]
+    },
+    "Dismember": {
+      "categories": ["board"]
+    },
+    "Drown in the Loch": {
+      "categories": ["counterspell"]
+    },
+    "Embercleave": {
+      "categories": ["board"],
+      "cost": ["r", "r"]
+    },
+    "Endurance": {
+      "categories": ["board"]
+    },
+    "Mystic Snake": {
+      "categories": ["counterspell", "board"]
+    },
+    "Notion Thief": {
+      "categories": ["board"]
+    },
+    "Noxious Revival": {
+      "categories": ["board"]
+    },
+    "Petty Theft (Brazen Borrower // Petty Theft)": {
+      "categories": ["board"]
+    },
+    "Sacrifice": {
+      "categories": ["other"]
+    },
+    "Solitude": {
+      "categories": ["board"]
+    },
+    "Subtlety": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["board"]
+    },
+    "Tragic Slip": {
+      "categories": ["board"]
+    },
+    "Unholy Heat": {
+      "categories": ["board"]
+    }
+  }
+}

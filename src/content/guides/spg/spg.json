@@ -1,0 +1,490 @@
+{
+  "code": "spg",
+  "formatName": "Special Guests",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Lord of Atlantis": {
+      "number": "1",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Malcolm, Keen-Eyed Navigator": {
+      "number": "2",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bridge from Below": {
+      "number": "3",
+      "cost": ["b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mephidross Vampire": {
+      "number": "4",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pitiless Plunderer": {
+      "number": "5",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Breeches, Brazen Plunderer": {
+      "number": "6",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dargo, the Shipwrecker": {
+      "number": "7",
+      "cost": ["6", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rampaging Ferocidon": {
+      "number": "8",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Underworld Breach": {
+      "number": "9",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Carnage Tyrant": {
+      "number": "10",
+      "cost": ["4", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ghalta, Primal Hunger": {
+      "number": "11",
+      "cost": ["10", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Polyraptor": {
+      "number": "12",
+      "cost": ["6", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kalamax, the Stormsire": {
+      "number": "13",
+      "cost": ["1", "g", "u", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lord Windgrace": {
+      "number": "14",
+      "cost": ["2", "b", "r", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mirri, Weatherlight Duelist": {
+      "number": "15",
+      "cost": ["1", "g", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Thrasios, Triton Hero": {
+      "number": "16",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mana Crypt": {
+      "number": "17",
+      "cost": ["0"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Star Compass": {
+      "number": "18",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ghostly Prison": {
+      "number": "19",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fabricate": {
+      "number": "20",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Show and Tell": {
+      "number": "21",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tragic Slip": {
+      "number": "22",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Victimize": {
+      "number": "23",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Gamble": {
+      "number": "24",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Crashing Footfalls": {
+      "number": "25",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tireless Tracker": {
+      "number": "26",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Drown in the Loch": {
+      "number": "27",
+      "cost": ["u", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Field of the Dead": {
+      "number": "28",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Stoneforge Mystic": {
+      "number": "29",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Brazen Borrower (Brazen Borrower // Petty Theft)": {
+      "number": "30",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Petty Theft (Brazen Borrower // Petty Theft)": {
+      "number": "30",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Desertion": {
+      "number": "31",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Morbid Opportunist": {
+      "number": "32",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Port Razer": {
+      "number": "33",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Scapeshift": {
+      "number": "34",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mystic Snake": {
+      "number": "35",
+      "cost": ["1", "g", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Notion Thief": {
+      "number": "36",
+      "cost": ["2", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Desert": {
+      "number": "37",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Prismatic Vista": {
+      "number": "38",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Thought-Knot Seer": {
+      "number": "39",
+      "cost": ["3", "c"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Prismatic Ending": {
+      "number": "40",
+      "cost": ["x", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dismember": {
+      "number": "41",
+      "cost": ["1", "bp", "bp"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Persist": {
+      "number": "42",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Expressive Iteration": {
+      "number": "43",
+      "cost": ["u", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Solitude": {
+      "number": "44",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Subtlety": {
+      "number": "45",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Grief": {
+      "number": "46",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Fury": {
+      "number": "47",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Endurance": {
+      "number": "48",
+      "cost": ["1", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Swords to Plowshares": {
+      "number": "54",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ledger Shredder": {
+      "number": "55",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rat Colony": {
+      "number": "56",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Relentless Rats": {
+      "number": "57",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kindred Charge": {
+      "number": "58",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sylvan Tutor": {
+      "number": "59",
+      "cost": ["g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Toski, Bearer of Secrets": {
+      "number": "60",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Frogmite": {
+      "number": "61",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sword of Fire and Ice": {
+      "number": "62",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Secluded Courtyard": {
+      "number": "63",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Hallowed Haunting": {
+      "number": "64",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Soul Warden": {
+      "number": "65",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Expropriate": {
+      "number": "66",
+      "cost": ["7", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Phantasmal Image": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Damnation": {
+      "number": "68",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sacrifice": {
+      "number": "69",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Maddening Hex": {
+      "number": "70",
+      "cost": ["1", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Unholy Heat": {
+      "number": "71",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Collected Company": {
+      "number": "72",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Noxious Revival": {
+      "number": "73",
+      "cost": ["gp"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Condemn": {
+      "number": "74",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sphinx's Tutelage": {
+      "number": "75",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Grim Tutor": {
+      "number": "76",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Embercleave": {
+      "number": "77",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Goblin Bushwhacker": {
+      "number": "78",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bloom Tender": {
+      "number": "79",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Paradise Druid": {
+      "number": "80",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Akroma's Memorial": {
+      "number": "81",
+      "cost": ["7"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Temporal Manipulation": {
+      "number": "82",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fiend Artisan": {
+      "number": "83",
+      "cost": ["bg", "bg"],
+      "rarity": "m",
+      "categories": ["creature"]
+    }
+  }
+}

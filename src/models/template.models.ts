@@ -1,4 +1,4 @@
-import type { IFilterOptions, IFilters, IGuide, TPageConfigTemplate } from "@/models";
+import type { IFilterOptions, IFilter, IGuide, TPageConfigTemplate } from "@/models";
 
 export interface ITemplateMenuPage {
   path: string;
@@ -50,9 +50,8 @@ export interface ITemplateGuide extends ITemplate {
   type: "guide";
   formatCode: string;
   formatName: string;
-  defaultFilters: IFilters;
-  options: IFilterOptions;
   guide: IGuide;
+  filter: IFilter;
   menu?: ITemplateMenu;
 }
 
@@ -60,9 +59,8 @@ export interface ITemplateGuideGroup extends ITemplate {
   type: "guide-group";
   formatCode: string;
   formatName: string;
-  defaultFilters: IFilters;
-  options: IFilterOptions;
   guides: IGuide[];
+  filter: IFilter;
   menu?: ITemplateMenu;
 }
 

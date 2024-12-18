@@ -1,0 +1,14 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Open the Armory": {
+      "categories": [
+        "synergy"
+      ]
+    }
+  }
+}

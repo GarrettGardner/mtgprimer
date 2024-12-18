@@ -1,0 +1,111 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Ajani Steadfast": {
+      "categories": ["default"]
+    },
+    "Ajani, Mentor of Heroes": {
+      "categories": ["default"]
+    },
+    "Archangel of Thune": {
+      "categories": ["default"]
+    },
+    "Archway Angel": {
+      "categories": ["default"]
+    },
+    "Azorius Charm": {
+      "categories": ["default"]
+    },
+    "Basilica Screecher": {
+      "categories": ["default"]
+    },
+    "Blood Baron of Vizkopa": {
+      "categories": ["default"]
+    },
+    "Chromanticore": {
+      "categories": ["default"]
+    },
+    "Compulsory Rest": {
+      "categories": ["default"]
+    },
+    "Crypt Incursion": {
+      "categories": ["default"]
+    },
+    "Devour Flesh": {
+      "categories": ["default"]
+    },
+    "Dragonlord Dromoka": {
+      "categories": ["default"]
+    },
+    "Erebos, God of the Dead": {
+      "categories": ["default"]
+    },
+    "Fiendslayer Paladin": {
+      "categories": ["default"]
+    },
+    "Garruk, Apex Predator": {
+      "categories": ["default"]
+    },
+    "Gift of Orzhova": {
+      "categories": ["default"]
+    },
+    "Hopeful Eidolon": {
+      "categories": ["default"]
+    },
+    "Liliana, Heretical Healer (Liliana, Heretical Healer // Liliana, Defiant Necromancer)": {
+      "categories": ["default"]
+    },
+    "Linvala, the Preserver": {
+      "categories": ["default"]
+    },
+    "Nissa, Voice of Zendikar": {
+      "categories": ["default"]
+    },
+    "Nylea's Disciple": {
+      "categories": ["default"]
+    },
+    "Pulse of Murasa": {
+      "categories": ["default"]
+    },
+    "Shamanic Revelation": {
+      "categories": ["default"]
+    },
+    "Shambling Vent": {
+      "categories": ["default"]
+    },
+    "Soulflayer": {
+      "categories": ["default"]
+    },
+    "Sungrace Pegasus": {
+      "categories": ["default"]
+    },
+    "Tomebound Lich": {
+      "categories": ["default"]
+    },
+    "Tormented Hero": {
+      "categories": ["default"]
+    },
+    "Touch of Moonglove": {
+      "categories": ["default"]
+    },
+    "Unflinching Courage": {
+      "categories": ["default"]
+    },
+    "War Oracle": {
+      "categories": ["default"]
+    },
+    "Well (Alive // Well)": {
+      "categories": ["default"]
+    },
+    "Whip of Erebos": {
+      "categories": ["default"]
+    },
+    "Zulaport Cutthroat": {
+      "categories": ["default"]
+    }
+  }
+}

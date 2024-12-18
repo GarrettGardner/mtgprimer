@@ -1,0 +1,240 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Artful Maneuver": {
+      "categories": ["board"]
+    },
+    "Aspect of Hydra": {
+      "categories": ["board"]
+    },
+    "Aurelia's Fury": {
+      "categories": ["board"]
+    },
+    "Away (Far // Away)": {
+      "categories": ["board"]
+    },
+    "Azorius Charm": {
+      "categories": ["board"]
+    },
+    "Bile Blight": {
+      "categories": ["board"]
+    },
+    "Boon Satyr": {
+      "categories": ["board"]
+    },
+    "Boulder Rush (Rimrock Knight // Boulder Rush)": {
+      "categories": ["board"]
+    },
+    "Bounding Krasis": {
+      "categories": ["board"]
+    },
+    "Brineborn Cutthroat": {
+      "categories": ["board"]
+    },
+    "Burn (Turn // Burn)": {
+      "categories": ["board"]
+    },
+    "Clear Shot": {
+      "categories": ["board"]
+    },
+    "Consider": {
+      "categories": ["other"]
+    },
+    "Coordinated Assault": {
+      "categories": ["board"]
+    },
+    "Counterflux": {
+      "categories": ["counterspell"]
+    },
+    "Cruel Revival": {
+      "categories": ["board"]
+    },
+    "Crypt Incursion": {
+      "categories": ["board"]
+    },
+    "Dark Betrayal": {
+      "categories": ["board"]
+    },
+    "Destructive Revelry": {
+      "categories": ["board"]
+    },
+    "Devour Flesh": {
+      "categories": ["board"]
+    },
+    "Dictate of Erebos": {
+      "categories": ["board"]
+    },
+    "Dictate of Heliod": {
+      "categories": ["board"]
+    },
+    "Dizzying Swoop (Ardenvale Tactician // Dizzying Swoop)": {
+      "categories": ["board"]
+    },
+    "Draconic Roar": {
+      "categories": ["board"]
+    },
+    "Dramatic Reversal": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Expedite": {
+      "categories": ["board"]
+    },
+    "Fall of the Hammer": {
+      "categories": ["board"]
+    },
+    "Far (Far // Away)": {
+      "categories": ["board"]
+    },
+    "Fog": {
+      "categories": ["board"]
+    },
+    "Hallowed Moonlight": {
+      "categories": ["board"]
+    },
+    "Hushwing Gryff": {
+      "categories": ["board"]
+    },
+    "Jwari Disruption (Jwari Disruption // Jwari Ruins)": {
+      "categories": ["board"]
+    },
+    "Kabira Takedown (Kabira Takedown // Kabira Plateau)": {
+      "categories": ["board"]
+    },
+    "Khalni Ambush (Khalni Ambush // Khalni Territory)": {
+      "categories": ["board"]
+    },
+    "Kozilek's Return": {
+      "categories": ["board"]
+    },
+    "Loss (Profit // Loss)": {
+      "categories": ["board"]
+    },
+    "Martial Glory": {
+      "categories": ["board"]
+    },
+    "Mizzium Skin": {
+      "categories": ["board"]
+    },
+    "Natural State": {
+      "categories": ["board"]
+    },
+    "Notion Thief": {
+      "categories": ["board"]
+    },
+    "Ob Nixilis's Cruelty": {
+      "categories": ["board"]
+    },
+    "Phalanx Tactics": {
+      "categories": ["board"]
+    },
+    "Profit (Profit // Loss)": {
+      "categories": ["board"]
+    },
+    "Protect (Protect // Serve)": {
+      "categories": ["board"]
+    },
+    "Pulse of Murasa": {
+      "categories": ["board"]
+    },
+    "Quicken": {
+      "categories": ["board"]
+    },
+    "Rapid Hybridization": {
+      "categories": ["board"]
+    },
+    "Render Silent": {
+      "categories": ["counterspell"]
+    },
+    "Reprisal": {
+      "categories": ["board"]
+    },
+    "Rescue from the Underworld": {
+      "categories": ["board"]
+    },
+    "Retraction Helix": {
+      "categories": ["board"]
+    },
+    "Scatter to the Winds": {
+      "categories": ["counterspell"]
+    },
+    "Secure the Wastes": {
+      "categories": ["board"]
+    },
+    "Sejiri Shelter (Sejiri Shelter // Sejiri Glacier)": {
+      "categories": ["board"]
+    },
+    "Selesnya Charm": {
+      "categories": ["board"]
+    },
+    "Serve (Protect // Serve)": {
+      "categories": ["board"]
+    },
+    "Silence": {
+      "categories": ["board"]
+    },
+    "Silumgar Sorcerer": {
+      "categories": ["counterspell", "board"]
+    },
+    "Silundi Vision (Silundi Vision // Silundi Isle)": {
+      "categories": ["board"]
+    },
+    "Skylasher": {
+      "categories": ["board"]
+    },
+    "Smash to Smithereens": {
+      "categories": ["board"]
+    },
+    "Stasis Snare": {
+      "categories": ["board"]
+    },
+    "Steam Augury": {
+      "categories": ["other"]
+    },
+    "Supernatural Stamina": {
+      "categories": ["board"]
+    },
+    "Swift Reckoning": {
+      "categories": ["board"]
+    },
+    "Tear (Wear // Tear)": {
+      "categories": ["board"]
+    },
+    "Thunderclap Wyvern": {
+      "categories": ["board"]
+    },
+    "Touch of Moonglove": {
+      "categories": ["board"]
+    },
+    "Turn (Turn // Burn)": {
+      "categories": ["board"]
+    },
+    "Ultimate Price": {
+      "categories": ["board"]
+    },
+    "Unravel the Aether": {
+      "categories": ["board"]
+    },
+    "Valakut Awakening (Valakut Awakening // Valakut Stoneforge)": {
+      "categories": ["board"]
+    },
+    "Void Shatter": {
+      "categories": ["counterspell"]
+    },
+    "Wear (Wear // Tear)": {
+      "categories": ["board"]
+    },
+    "Wild Slash": {
+      "categories": ["board"]
+    }
+  }
+}
