@@ -1,10 +1,11 @@
 {
   "name": "Removal",
-  "defaultGrouping": "mv",
-  "defaultOrdering": "color",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
   "categories": {
     "removal": "Removal",
     "bounce": "Bounce",
+    "temporary": "Temporary",
     "boardwipe": "Board Wipe",
     "other": "Other"
   },

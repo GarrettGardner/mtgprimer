@@ -1,0 +1,110 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Ajani Unyielding": {
+      "categories": ["board"]
+    },
+    "Baral's Expertise": {
+      "categories": ["bounce"]
+    },
+    "Battle at the Bridge": {
+      "categories": ["board"]
+    },
+    "Caught in the Brights": {
+      "categories": ["removal"]
+    },
+    "Chandra's Revolution": {
+      "categories": ["board"]
+    },
+    "Consulate Crackdown": {
+      "categories": ["board"]
+    },
+    "Cruel Finality": {
+      "categories": ["board"]
+    },
+    "Daring Demolition": {
+      "categories": ["board"]
+    },
+    "Dark Intimations": {
+      "categories": ["board"]
+    },
+    "Deadeye Harpooner": {
+      "categories": ["board"]
+    },
+    "Decommission": {
+      "categories": ["board"]
+    },
+    "Deft Dismissal": {
+      "categories": ["board"]
+    },
+    "Destructive Tampering": {
+      "categories": ["board"]
+    },
+    "Dispersal Technician": {
+      "categories": ["bounce"]
+    },
+    "Fatal Push": {
+      "categories": ["board"]
+    },
+    "Foundry Hornet": {
+      "categories": ["board"]
+    },
+    "Fourth Bridge Prowler": {
+      "categories": ["board"]
+    },
+    "Herald of Anguish": {
+      "categories": ["board"]
+    },
+    "Hungry Flames": {
+      "categories": ["board"]
+    },
+    "Ice Over": {
+      "categories": ["board"]
+    },
+    "Indomitable Creativity": {
+      "categories": ["board"]
+    },
+    "Monstrous Onslaught": {
+      "categories": ["board"]
+    },
+    "Natural Obsolescence": {
+      "categories": ["board"]
+    },
+    "Perilous Predicament": {
+      "categories": ["board"]
+    },
+    "Prey Upon": {
+      "categories": ["board"]
+    },
+    "Quicksmith Rebel": {
+      "categories": ["board"]
+    },
+    "Release the Gremlins": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Tezzeret the Schemer": {
+      "categories": ["board"]
+    },
+    "Thopter Arrest": {
+      "categories": ["board"]
+    },
+    "Universal Solvent": {
+      "categories": ["board"]
+    },
+    "Yahenni's Expertise": {
+      "categories": ["boardwipe"]
+    }
+  }
+}

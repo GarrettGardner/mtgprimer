@@ -1,6 +1,6 @@
 {
   "code": "lci",
-  "formatName": "Lost Caverns of Ixalan",
+  "formatName": "The Lost Caverns of Ixalan",
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
@@ -40,18 +40,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Clay-Fired Bricks // Cosmium Kiln (Clay-Fired Bricks)": {
+    "Clay-Fired Bricks (Clay-Fired Bricks // Cosmium Kiln)": {
       "number": "6",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Clay-Fired Bricks // Cosmium Kiln (Cosmium Kiln)": {
+    "Cosmium Kiln (Clay-Fired Bricks // Cosmium Kiln)": {
       "number": "6",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Cosmium Blast": {
       "number": "7",
@@ -167,18 +169,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Ojer Taq, Deepest Foundation // Temple of Civilization (Ojer Taq, Deepest Foundation)": {
+    "Ojer Taq, Deepest Foundation (Ojer Taq, Deepest Foundation // Temple of Civilization)": {
       "number": "26",
       "cost": ["4", "w", "w"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ojer Taq, Deepest Foundation // Temple of Civilization (Temple of Civilization)": {
+    "Temple of Civilization (Ojer Taq, Deepest Foundation // Temple of Civilization)": {
       "number": "26",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Oltec Archaeologists": {
       "number": "27",
@@ -192,18 +196,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Oteclan Landmark // Oteclan Levitator (Oteclan Landmark)": {
+    "Oteclan Landmark (Oteclan Landmark // Oteclan Levitator)": {
       "number": "29",
       "cost": ["w"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Oteclan Landmark // Oteclan Levitator (Oteclan Levitator)": {
+    "Oteclan Levitator (Oteclan Landmark // Oteclan Levitator)": {
       "number": "29",
       "cost": [],
       "rarity": "c",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Petrify": {
       "number": "30",
@@ -241,18 +247,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Spring-Loaded Sawblades // Bladewheel Chariot (Spring-Loaded Sawblades)": {
+    "Spring-Loaded Sawblades (Spring-Loaded Sawblades // Bladewheel Chariot)": {
       "number": "36",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Spring-Loaded Sawblades // Bladewheel Chariot (Bladewheel Chariot)": {
+    "Bladewheel Chariot (Spring-Loaded Sawblades // Bladewheel Chariot)": {
       "number": "36",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Thousand Moons Crackshot": {
       "number": "37",
@@ -266,18 +274,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Thousand Moons Smithy // Barracks of the Thousand (Thousand Moons Smithy)": {
+    "Thousand Moons Smithy (Thousand Moons Smithy // Barracks of the Thousand)": {
       "number": "39",
       "cost": ["2", "w", "w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Thousand Moons Smithy // Barracks of the Thousand (Barracks of the Thousand)": {
+    "Barracks of the Thousand (Thousand Moons Smithy // Barracks of the Thousand)": {
       "number": "39",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Tinker's Tote": {
       "number": "40",
@@ -285,18 +295,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Unstable Glyphbridge // Sandswirl Wanderglyph (Unstable Glyphbridge)": {
+    "Unstable Glyphbridge (Unstable Glyphbridge // Sandswirl Wanderglyph)": {
       "number": "41",
       "cost": ["3", "w", "w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Unstable Glyphbridge // Sandswirl Wanderglyph (Sandswirl Wanderglyph)": {
+    "Sandswirl Wanderglyph (Unstable Glyphbridge // Sandswirl Wanderglyph)": {
       "number": "41",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Vanguard of the Rose": {
       "number": "42",
@@ -328,18 +340,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Braided Net // Braided Quipu (Braided Net)": {
+    "Braided Net (Braided Net // Braided Quipu)": {
       "number": "47",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Braided Net // Braided Quipu (Braided Quipu)": {
+    "Braided Quipu (Braided Net // Braided Quipu)": {
       "number": "47",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Chart a Course": {
       "number": "48",
@@ -383,31 +397,35 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "The Enigma Jewel // Locus of Enlightenment (The Enigma Jewel)": {
+    "The Enigma Jewel (The Enigma Jewel // Locus of Enlightenment)": {
       "number": "55",
       "cost": ["u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "The Enigma Jewel // Locus of Enlightenment (Locus of Enlightenment)": {
+    "Locus of Enlightenment (The Enigma Jewel // Locus of Enlightenment)": {
       "number": "55",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "The Everflowing Well // The Myriad Pools (The Everflowing Well)": {
+    "The Everflowing Well (The Everflowing Well // The Myriad Pools)": {
       "number": "56",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "The Everflowing Well // The Myriad Pools (The Myriad Pools)": {
+    "The Myriad Pools (The Everflowing Well // The Myriad Pools)": {
       "number": "56",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Frilled Cave-Wurm": {
       "number": "57",
@@ -427,18 +445,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Inverted Iceberg // Iceberg Titan (Inverted Iceberg)": {
+    "Inverted Iceberg (Inverted Iceberg // Iceberg Titan)": {
       "number": "60",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Inverted Iceberg // Iceberg Titan (Iceberg Titan)": {
+    "Iceberg Titan (Inverted Iceberg // Iceberg Titan)": {
       "number": "60",
       "cost": [],
       "rarity": "c",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Kitesail Larcenist": {
       "number": "61",
@@ -446,18 +466,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Lodestone Needle // Guidestone Compass (Lodestone Needle)": {
+    "Lodestone Needle (Lodestone Needle // Guidestone Compass)": {
       "number": "62",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Lodestone Needle // Guidestone Compass (Guidestone Compass)": {
+    "Guidestone Compass (Lodestone Needle // Guidestone Compass)": {
       "number": "62",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Malcolm, Alluring Scoundrel": {
       "number": "63",
@@ -483,18 +505,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (Ojer Pakpatiq, Deepest Epoch)": {
+    "Ojer Pakpatiq, Deepest Epoch (Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time)": {
       "number": "67",
       "cost": ["2", "u", "u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (Temple of Cyclical Time)": {
+    "Temple of Cyclical Time (Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time)": {
       "number": "67",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Orazca Puzzle-Door": {
       "number": "68",
@@ -586,18 +610,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Waterlogged Hulk // Watertight Gondola (Waterlogged Hulk)": {
+    "Waterlogged Hulk (Waterlogged Hulk // Watertight Gondola)": {
       "number": "83",
       "cost": ["u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Waterlogged Hulk // Watertight Gondola (Watertight Gondola)": {
+    "Watertight Gondola (Waterlogged Hulk // Watertight Gondola)": {
       "number": "83",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Waterwind Scout": {
       "number": "84",
@@ -623,18 +649,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Aclazotz, Deepest Betrayal // Temple of the Dead (Aclazotz, Deepest Betrayal)": {
+    "Aclazotz, Deepest Betrayal (Aclazotz, Deepest Betrayal // Temple of the Dead)": {
       "number": "88",
       "cost": ["3", "b", "b"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Aclazotz, Deepest Betrayal // Temple of the Dead (Temple of the Dead)": {
+    "Temple of the Dead (Aclazotz, Deepest Betrayal // Temple of the Dead)": {
       "number": "88",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Acolyte of Aclazotz": {
       "number": "89",
@@ -750,18 +778,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Grasping Shadows // Shadows' Lair (Grasping Shadows)": {
+    "Grasping Shadows (Grasping Shadows // Shadows' Lair)": {
       "number": "108",
       "cost": ["3", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Grasping Shadows // Shadows' Lair (Shadows' Lair)": {
+    "Shadows' Lair (Grasping Shadows // Shadows' Lair)": {
       "number": "108",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Greedy Freebooter": {
       "number": "109",
@@ -865,18 +895,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Tarrian's Journal // The Tomb of Aclazotz (Tarrian's Journal)": {
+    "Tarrian's Journal (Tarrian's Journal // The Tomb of Aclazotz)": {
       "number": "126",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Tarrian's Journal // The Tomb of Aclazotz (The Tomb of Aclazotz)": {
+    "The Tomb of Aclazotz (Tarrian's Journal // The Tomb of Aclazotz)": {
       "number": "126",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Terror Tide": {
       "number": "127",
@@ -884,31 +916,35 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Tithing Blade // Consuming Sepulcher (Tithing Blade)": {
+    "Tithing Blade (Tithing Blade // Consuming Sepulcher)": {
       "number": "128",
       "cost": ["1", "b"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Tithing Blade // Consuming Sepulcher (Consuming Sepulcher)": {
+    "Consuming Sepulcher (Tithing Blade // Consuming Sepulcher)": {
       "number": "128",
       "cost": [],
       "rarity": "c",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Visage of Dread // Dread Osseosaur (Visage of Dread)": {
+    "Visage of Dread (Visage of Dread // Dread Osseosaur)": {
       "number": "129",
       "cost": ["1", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Visage of Dread // Dread Osseosaur (Dread Osseosaur)": {
+    "Dread Osseosaur (Visage of Dread // Dread Osseosaur)": {
       "number": "129",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Vito's Inquisitor": {
       "number": "130",
@@ -940,18 +976,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (Brass's Tunnel-Grinder)": {
+    "Brass's Tunnel-Grinder (Brass's Tunnel-Grinder // Tecutlan, the Searing Rift)": {
       "number": "135",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (Tecutlan, the Searing Rift)": {
+    "Tecutlan, the Searing Rift (Brass's Tunnel-Grinder // Tecutlan, the Searing Rift)": {
       "number": "135",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Brazen Blademaster": {
       "number": "136",
@@ -1007,31 +1045,35 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Dire Flail // Dire Blunderbuss (Dire Flail)": {
+    "Dire Flail (Dire Flail // Dire Blunderbuss)": {
       "number": "145",
       "cost": ["r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Dire Flail // Dire Blunderbuss (Dire Blunderbuss)": {
+    "Dire Blunderbuss (Dire Flail // Dire Blunderbuss)": {
       "number": "145",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Dowsing Device // Geode Grotto (Dowsing Device)": {
+    "Dowsing Device (Dowsing Device // Geode Grotto)": {
       "number": "146",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Dowsing Device // Geode Grotto (Geode Grotto)": {
+    "Geode Grotto (Dowsing Device // Geode Grotto)": {
       "number": "146",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Dreadmaw's Ire": {
       "number": "147",
@@ -1081,18 +1123,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Idol of the Deep King // Sovereign's Macuahuitl (Idol of the Deep King)": {
+    "Idol of the Deep King (Idol of the Deep King // Sovereign's Macuahuitl)": {
       "number": "155",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Idol of the Deep King // Sovereign's Macuahuitl (Sovereign's Macuahuitl)": {
+    "Sovereign's Macuahuitl (Idol of the Deep King // Sovereign's Macuahuitl)": {
       "number": "155",
       "cost": [],
       "rarity": "c",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Inti, Seneschal of the Sun": {
       "number": "156",
@@ -1106,18 +1150,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Ojer Axonil, Deepest Might // Temple of Power (Ojer Axonil, Deepest Might)": {
+    "Ojer Axonil, Deepest Might (Ojer Axonil, Deepest Might // Temple of Power)": {
       "number": "158",
       "cost": ["2", "r", "r"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ojer Axonil, Deepest Might // Temple of Power (Temple of Power)": {
+    "Temple of Power (Ojer Axonil, Deepest Might // Temple of Power)": {
       "number": "158",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Panicked Altisaur": {
       "number": "159",
@@ -1149,18 +1195,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Saheeli's Lattice // Mastercraft Raptor (Saheeli's Lattice)": {
+    "Saheeli's Lattice (Saheeli's Lattice // Mastercraft Raptor)": {
       "number": "164",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Saheeli's Lattice // Mastercraft Raptor (Mastercraft Raptor)": {
+    "Mastercraft Raptor (Saheeli's Lattice // Mastercraft Raptor)": {
       "number": "164",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Scytheclaw Raptor": {
       "number": "165",
@@ -1300,31 +1348,35 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (Growing Rites of Itlimoc)": {
+    "Growing Rites of Itlimoc (Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun)": {
       "number": "188",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (Itlimoc, Cradle of the Sun)": {
+    "Itlimoc, Cradle of the Sun (Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun)": {
       "number": "188",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Huatli, Poet of Unity // Roar of the Fifth People (Huatli, Poet of Unity)": {
+    "Huatli, Poet of Unity (Huatli, Poet of Unity // Roar of the Fifth People)": {
       "number": "189",
       "cost": ["2", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Huatli, Poet of Unity // Roar of the Fifth People (Roar of the Fifth People)": {
+    "Roar of the Fifth People (Huatli, Poet of Unity // Roar of the Fifth People)": {
       "number": "189",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Huatli's Final Strike": {
       "number": "190",
@@ -1356,18 +1408,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Jade Seedstones // Jadeheart Attendant (Jade Seedstones)": {
+    "Jade Seedstones (Jade Seedstones // Jadeheart Attendant)": {
       "number": "195",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Jade Seedstones // Jadeheart Attendant (Jadeheart Attendant)": {
+    "Jadeheart Attendant (Jade Seedstones // Jadeheart Attendant)": {
       "number": "195",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Jadelight Spelunker": {
       "number": "196",
@@ -1375,18 +1429,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Kaslem's Stonetree // Kaslem's Strider (Kaslem's Stonetree)": {
+    "Kaslem's Stonetree (Kaslem's Stonetree // Kaslem's Strider)": {
       "number": "197",
       "cost": ["2", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Kaslem's Stonetree // Kaslem's Strider (Kaslem's Strider)": {
+    "Kaslem's Strider (Kaslem's Stonetree // Kaslem's Strider)": {
       "number": "197",
       "cost": [],
       "rarity": "c",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Malamet Battle Glyph": {
       "number": "198",
@@ -1424,18 +1480,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Ojer Kaslem, Deepest Growth // Temple of Cultivation (Ojer Kaslem, Deepest Growth)": {
+    "Ojer Kaslem, Deepest Growth (Ojer Kaslem, Deepest Growth // Temple of Cultivation)": {
       "number": "204",
       "cost": ["3", "g", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ojer Kaslem, Deepest Growth // Temple of Cultivation (Temple of Cultivation)": {
+    "Temple of Cultivation (Ojer Kaslem, Deepest Growth // Temple of Cultivation)": {
       "number": "204",
       "cost": [],
       "rarity": "m",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Over the Edge": {
       "number": "205",
@@ -1509,18 +1567,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Twists and Turns // Mycoid Maze (Twists and Turns)": {
+    "Twists and Turns (Twists and Turns // Mycoid Maze)": {
       "number": "217",
       "cost": ["g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Twists and Turns // Mycoid Maze (Mycoid Maze)": {
+    "Mycoid Maze (Twists and Turns // Mycoid Maze)": {
       "number": "217",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Walk with the Ancestors": {
       "number": "218",
@@ -1600,17 +1660,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Kellan, Daring Traveler // Journey On (Kellan, Daring Traveler)": {
+    "Kellan, Daring Traveler (Kellan, Daring Traveler // Journey On)": {
       "number": "231",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Kellan, Daring Traveler // Journey On (Journey On)": {
+    "Journey On (Kellan, Daring Traveler // Journey On)": {
       "number": "231",
       "cost": ["g"],
       "rarity": "r",
-      "isFlipped": true,
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Kutzil, Malamet Exemplar": {
@@ -1619,18 +1680,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Master's Guide-Mural // Master's Manufactory (Master's Guide-Mural)": {
+    "Master's Guide-Mural (Master's Guide-Mural // Master's Manufactory)": {
       "number": "233",
       "cost": ["3", "w", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Master's Guide-Mural // Master's Manufactory (Master's Manufactory)": {
+    "Master's Manufactory (Master's Guide-Mural // Master's Manufactory)": {
       "number": "233",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Molten Collapse": {
       "number": "234",
@@ -1764,18 +1827,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Matzalantli, the Great Door // The Core (Matzalantli, the Great Door)": {
+    "Matzalantli, the Great Door (Matzalantli, the Great Door // The Core)": {
       "number": "256",
       "cost": ["3"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Matzalantli, the Great Door // The Core (The Core)": {
+    "The Core (Matzalantli, the Great Door // The Core)": {
       "number": "256",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "The Millennium Calendar": {
       "number": "257",
@@ -1807,18 +1872,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Sunbird Standard // Sunbird Effigy (Sunbird Standard)": {
+    "Sunbird Standard (Sunbird Standard // Sunbird Effigy)": {
       "number": "262",
       "cost": ["3"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Sunbird Standard // Sunbird Effigy (Sunbird Effigy)": {
+    "Sunbird Effigy (Sunbird Standard // Sunbird Effigy)": {
       "number": "262",
       "cost": [],
       "rarity": "u",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Swashbuckler's Whip": {
       "number": "263",
@@ -1838,31 +1905,35 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Throne of the Grim Captain // The Grim Captain (Throne of the Grim Captain)": {
+    "Throne of the Grim Captain (Throne of the Grim Captain // The Grim Captain)": {
       "number": "266",
       "cost": ["2"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Throne of the Grim Captain // The Grim Captain (The Grim Captain)": {
+    "The Grim Captain (Throne of the Grim Captain // The Grim Captain)": {
       "number": "266",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
-    "Treasure Map // Treasure Cove (Treasure Map)": {
+    "Treasure Map (Treasure Map // Treasure Cove)": {
       "number": "267",
       "cost": ["2"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Treasure Map // Treasure Cove (Treasure Cove)": {
+    "Treasure Cove (Treasure Map // Treasure Cove)": {
       "number": "267",
       "cost": [],
       "rarity": "r",
-      "isFlipped": true,
-      "categories": ["land"]
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Captivating Cave": {
       "number": "268",

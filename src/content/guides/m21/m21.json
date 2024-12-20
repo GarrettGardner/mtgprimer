@@ -122,7 +122,7 @@
       "number": "19",
       "cost": ["1", "w"],
       "rarity": "c",
-      "categories": ["creature"]
+      "categories": ["spell"]
     },
     "Gale Swooper": {
       "number": "20",
@@ -662,7 +662,7 @@
       "number": "109",
       "cost": ["2", "b"],
       "rarity": "u",
-      "categories": ["spell"]
+      "categories": ["creature"]
     },
     "Liliana's Standard Bearer": {
       "number": "110",
@@ -878,7 +878,7 @@
       "number": "145",
       "cost": ["r"],
       "rarity": "c",
-      "categories": ["creature"]
+      "categories": ["spell"]
     },
     "Gadrak, the Crown-Scourge": {
       "number": "146",

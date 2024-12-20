@@ -1114,6 +1114,66 @@
       "cost": [],
       "rarity": "r",
       "categories": ["land"]
+    },
+    "Ajani, Valiant Protector": {
+      "number": "185",
+      "cost": ["4", "g", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Inspiring Roar": {
+      "number": "186",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ajani's Comrade": {
+      "number": "187",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ajani's Aid": {
+      "number": "188",
+      "cost": ["2", "g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tranquil Expanse": {
+      "number": "189",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Tezzeret, Master of Metal": {
+      "number": "190",
+      "cost": ["4", "u", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tezzeret's Betrayal": {
+      "number": "191",
+      "cost": ["3", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pendulum of Patterns": {
+      "number": "192",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tezzeret's Simulacrum": {
+      "number": "193",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Submerged Boneyard": {
+      "number": "194",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
     }
   }
 }

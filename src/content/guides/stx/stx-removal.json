@@ -1,0 +1,162 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Helix": {
+      "categories": ["bounce"]
+    },
+    "Awaken the Blood Avatar (Extus, Oriq Overlord // Awaken the Blood Avatar)": {
+      "categories": ["removal"]
+    },
+    "Baleful Mastery": {
+      "categories": ["removal"]
+    },
+    "Blot Out the Sky": {
+      "categories": ["other"]
+    },
+    "Bury in Books": {
+      "categories": ["removal"]
+    },
+    "Closing Statement": {
+      "categories": ["removal"]
+    },
+    "Containment Breach": {
+      "categories": ["other"]
+    },
+    "Crackle with Power": {
+      "categories": ["removal"]
+    },
+    "Creative Outburst": {
+      "categories": ["removal"]
+    },
+    "Culling Ritual": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Deadly Brew": {
+      "categories": ["removal"]
+    },
+    "Deadly Vanity (Selfless Glyphweaver // Deadly Vanity)": {
+      "categories": ["boardwipe"]
+    },
+    "Decisive Denial": {
+      "categories": ["removal"]
+    },
+    "Defend the Campus": {
+      "categories": ["removal"]
+    },
+    "Detention Vortex": {
+      "categories": ["removal"]
+    },
+    "Devastating Mastery": {
+      "categories": ["boardwipe"],
+      "cost": ["2", "w", "w"]
+    },
+    "Devouring Tendrils": {
+      "categories": ["removal"]
+    },
+    "Divide by Zero": {
+      "categories": ["bounce"]
+    },
+    "Draconic Intervention": {
+      "categories": ["boardwipe"]
+    },
+    "Expel": {
+      "categories": ["removal"]
+    },
+    "Explosive Welcome": {
+      "categories": ["removal"]
+    },
+    "Flamethrower Sonata (Torrent Sculptor // Flamethrower Sonata)": {
+      "categories": ["removal"]
+    },
+    "Flunk": {
+      "categories": ["removal"]
+    },
+    "Fracture": {
+      "categories": ["other"]
+    },
+    "Frost Trickster": {
+      "categories": ["temporary"]
+    },
+    "Heated Debate": {
+      "categories": ["removal"]
+    },
+    "Igneous Inspiration": {
+      "categories": ["removal"]
+    },
+    "Introduction to Annihilation": {
+      "categories": ["removal"]
+    },
+    "Lash of Malice": {
+      "categories": ["removal"]
+    },
+    "Lorehold Apprentice": {
+      "categories": ["removal"]
+    },
+    "Mage Duel": {
+      "categories": ["removal"]
+    },
+    "Mage Hunter's Onslaught": {
+      "categories": ["removal"]
+    },
+    "Magma Opus": {
+      "categories": ["removal"]
+    },
+    "Mortality Spear": {
+      "categories": ["removal"]
+    },
+    "Multiple Choice": {
+      "categories": ["bounce"]
+    },
+    "Pigment Storm": {
+      "categories": ["removal"]
+    },
+    "Prismari Command": {
+      "categories": ["removal"]
+    },
+    "Professor Onyx": {
+      "categories": ["removal"]
+    },
+    "Quandrix Command": {
+      "categories": ["bounce"]
+    },
+    "Reduce to Memory": {
+      "categories": ["removal"]
+    },
+    "Resculpt": {
+      "categories": ["removal"]
+    },
+    "Rip Apart": {
+      "categories": ["removal"]
+    },
+    "Rise of Extus": {
+      "categories": ["removal"]
+    },
+    "Silverquill Command": {
+      "categories": ["removal"]
+    },
+    "Start from Scratch": {
+      "categories": ["removal"]
+    },
+    "Tangletrap": {
+      "categories": ["removal"]
+    },
+    "Umbral Juke": {
+      "categories": ["removal"]
+    },
+    "Vanishing Verse": {
+      "categories": ["removal"]
+    },
+    "Witherbloom Command": {
+      "categories": ["removal"]
+    }
+  }
+}

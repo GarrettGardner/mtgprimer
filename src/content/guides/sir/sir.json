@@ -1,6 +1,6 @@
 {
   "code": "sir",
-  "formatName": "Shadows Over Innistrad Remastered",
+  "formatName": "Shadows over Innistrad Remastered",
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
@@ -82,11 +82,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Archangel Avacyn // Avacyn, the Purifier": {
+    "Archangel Avacyn (Archangel Avacyn // Avacyn, the Purifier)": {
       "number": "13",
       "cost": ["3", "w", "w"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Avacyn, the Purifier (Archangel Avacyn // Avacyn, the Purifier)": {
+      "number": "13",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Blessed Alliance": {
       "number": "14",
@@ -110,6 +119,14 @@
       "number": "17",
       "cost": ["5", "w", "w"],
       "rarity": "r",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Brisela, Voice of Nightmares": {
+      "number": "17",
+      "cost": [],
+      "rarity": "m",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Bygone Bishop": {
@@ -188,6 +205,7 @@
       "number": "30",
       "cost": ["2", "w", "w"],
       "rarity": "m",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Gryff's Boon": {
@@ -220,11 +238,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Lone Rider // It That Rides as One": {
+    "Lone Rider (Lone Rider // It That Rides as One)": {
       "number": "36",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "It That Rides as One (Lone Rider // It That Rides as One)": {
+      "number": "36",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Lunarch Mantle": {
       "number": "37",
@@ -322,11 +349,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Town Gossipmonger // Incited Rabble": {
+    "Town Gossipmonger (Town Gossipmonger // Incited Rabble)": {
       "number": "53",
       "cost": ["w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Incited Rabble (Town Gossipmonger // Incited Rabble)": {
+      "number": "53",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Advanced Stitchwing": {
       "number": "54",
@@ -352,17 +388,35 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Curious Homunculus // Voracious Reader": {
+    "Curious Homunculus (Curious Homunculus // Voracious Reader)": {
       "number": "58",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Daring Sleuth // Bearer of Overwhelming Truths": {
+    "Voracious Reader (Curious Homunculus // Voracious Reader)": {
+      "number": "58",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Daring Sleuth (Daring Sleuth // Bearer of Overwhelming Truths)": {
       "number": "59",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Bearer of Overwhelming Truths (Daring Sleuth // Bearer of Overwhelming Truths)": {
+      "number": "59",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Deny Existence": {
       "number": "60",
@@ -370,11 +424,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Docent of Perfection // Final Iteration": {
+    "Docent of Perfection (Docent of Perfection // Final Iteration)": {
       "number": "61",
       "cost": ["3", "u", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Final Iteration (Docent of Perfection // Final Iteration)": {
+      "number": "61",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Drag Under": {
       "number": "62",
@@ -544,11 +607,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Startled Awake // Persistent Nightmare": {
+    "Startled Awake (Startled Awake // Persistent Nightmare)": {
       "number": "90",
       "cost": ["2", "u", "u"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Persistent Nightmare (Startled Awake // Persistent Nightmare)": {
+      "number": "90",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Stormrider Spirit": {
       "number": "91",
@@ -574,11 +646,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Thing in the Ice // Awoken Horror": {
+    "Thing in the Ice (Thing in the Ice // Awoken Horror)": {
       "number": "95",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Awoken Horror (Thing in the Ice // Awoken Horror)": {
+      "number": "95",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Wharf Infiltrator": {
       "number": "96",
@@ -586,11 +667,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Accursed Witch // Infectious Curse": {
+    "Accursed Witch (Accursed Witch // Infectious Curse)": {
       "number": "97",
       "cost": ["3", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Infectious Curse (Accursed Witch // Infectious Curse)": {
+      "number": "97",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Alms of the Vein": {
       "number": "98",
@@ -646,11 +736,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Kindly Stranger // Demon-Possessed Witch": {
+    "Kindly Stranger (Kindly Stranger // Demon-Possessed Witch)": {
       "number": "107",
       "cost": ["2", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Demon-Possessed Witch (Kindly Stranger // Demon-Possessed Witch)": {
+      "number": "107",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Diregraf Colossus": {
       "number": "108",
@@ -698,6 +797,14 @@
       "number": "115",
       "cost": ["1", "b"],
       "rarity": "c",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Chittering Host": {
+      "number": "115",
+      "cost": [],
+      "rarity": "c",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Grotesque Mutation": {
@@ -746,6 +853,7 @@
       "number": "123",
       "cost": ["4", "b"],
       "rarity": "u",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Mindwrack Demon": {
@@ -832,11 +940,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Voldaren Pariah // Abolisher of Bloodlines": {
+    "Voldaren Pariah (Voldaren Pariah // Abolisher of Bloodlines)": {
       "number": "138",
       "cost": ["3", "b", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Abolisher of Bloodlines (Voldaren Pariah // Abolisher of Bloodlines)": {
+      "number": "138",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Weirded Vampire": {
       "number": "139",
@@ -898,11 +1015,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Conduit of Storms // Conduit of Emrakul": {
+    "Conduit of Storms (Conduit of Storms // Conduit of Emrakul)": {
       "number": "149",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Conduit of Emrakul (Conduit of Storms // Conduit of Emrakul)": {
+      "number": "149",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Deranged Whelp": {
       "number": "150",
@@ -952,17 +1078,35 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Gatstaf Arsonists // Gatstaf Ravagers": {
+    "Gatstaf Arsonists (Gatstaf Arsonists // Gatstaf Ravagers)": {
       "number": "158",
       "cost": ["4", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Geier Reach Bandit // Vildin-Pack Alpha": {
+    "Gatstaf Ravagers (Gatstaf Arsonists // Gatstaf Ravagers)": {
+      "number": "158",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Geier Reach Bandit (Geier Reach Bandit // Vildin-Pack Alpha)": {
       "number": "159",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Vildin-Pack Alpha (Geier Reach Bandit // Vildin-Pack Alpha)": {
+      "number": "159",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Goldnight Castigator": {
       "number": "160",
@@ -974,6 +1118,14 @@
       "number": "161",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Hanweir, the Writhing Township": {
+      "number": "161",
+      "cost": [],
+      "rarity": "r",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Howlpack Wolf": {
@@ -1108,11 +1260,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Village Messenger // Moonrise Intruder": {
+    "Village Messenger (Village Messenger // Moonrise Intruder)": {
       "number": "184",
       "cost": ["r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Moonrise Intruder (Village Messenger // Moonrise Intruder)": {
+      "number": "184",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Aim High": {
       "number": "185",
@@ -1168,11 +1329,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Duskwatch Recruiter // Krallenhorde Howler": {
+    "Duskwatch Recruiter (Duskwatch Recruiter // Krallenhorde Howler)": {
       "number": "194",
       "cost": ["1", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Krallenhorde Howler (Duskwatch Recruiter // Krallenhorde Howler)": {
+      "number": "194",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Eldritch Evolution": {
       "number": "195",
@@ -1210,11 +1380,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Hinterland Logger // Timber Shredder": {
+    "Hinterland Logger (Hinterland Logger // Timber Shredder)": {
       "number": "201",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Timber Shredder (Hinterland Logger // Timber Shredder)": {
+      "number": "201",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Howlpack Resurgence": {
       "number": "202",
@@ -1270,11 +1449,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Sage of Ancient Lore // Werewolf of Ancient Hunger": {
+    "Sage of Ancient Lore (Sage of Ancient Lore // Werewolf of Ancient Hunger)": {
       "number": "211",
       "cost": ["4", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Werewolf of Ancient Hunger (Sage of Ancient Lore // Werewolf of Ancient Hunger)": {
+      "number": "211",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Seasons Past": {
       "number": "212",
@@ -1288,11 +1476,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Shrill Howler // Howling Chorus": {
+    "Shrill Howler (Shrill Howler // Howling Chorus)": {
       "number": "214",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Howling Chorus (Shrill Howler // Howling Chorus)": {
+      "number": "214",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Spirit of the Hunt": {
       "number": "215",
@@ -1330,11 +1527,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Ulvenwald Captive // Ulvenwald Abomination": {
+    "Ulvenwald Captive (Ulvenwald Captive // Ulvenwald Abomination)": {
       "number": "221",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ulvenwald Abomination (Ulvenwald Captive // Ulvenwald Abomination)": {
+      "number": "221",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Ulvenwald Hydra": {
       "number": "222",
@@ -1384,11 +1590,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Arlinn Kord // Arlinn, Embraced by the Moon": {
+    "Arlinn Kord (Arlinn Kord // Arlinn, Embraced by the Moon)": {
       "number": "230",
       "cost": ["2", "r", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Arlinn, Embraced by the Moon (Arlinn Kord // Arlinn, Embraced by the Moon)": {
+      "number": "230",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Bloodhall Priest": {
       "number": "231",
@@ -1480,11 +1695,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha": {
+    "Ulrich of the Krallenhorde (Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha)": {
       "number": "246",
       "cost": ["3", "r", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ulrich, Uncontested Alpha (Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha)": {
+      "number": "246",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Brain in a Jar": {
       "number": "247",
@@ -1492,11 +1716,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Cryptolith Fragment // Aurora of Emrakul": {
+    "Cryptolith Fragment (Cryptolith Fragment // Aurora of Emrakul)": {
       "number": "248",
       "cost": ["3"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Aurora of Emrakul (Cryptolith Fragment // Aurora of Emrakul)": {
+      "number": "248",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Epitaph Golem": {
       "number": "249",
@@ -1516,11 +1749,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Harvest Hand // Scrounged Scythe": {
+    "Harvest Hand (Harvest Hand // Scrounged Scythe)": {
       "number": "252",
       "cost": ["3"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Scrounged Scythe (Harvest Hand // Scrounged Scythe)": {
+      "number": "252",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Lupine Prototype": {
       "number": "253",
@@ -1540,11 +1782,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Neglected Heirloom // Ashmouth Blade": {
+    "Neglected Heirloom (Neglected Heirloom // Ashmouth Blade)": {
       "number": "256",
       "cost": ["1"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Ashmouth Blade (Neglected Heirloom // Ashmouth Blade)": {
+      "number": "256",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Slayer's Plate": {
       "number": "257",
@@ -1634,6 +1885,7 @@
       "number": "271",
       "cost": [],
       "rarity": "r",
+      "layout": "meld",
       "categories": ["land"]
     },
     "Highland Lake": {
@@ -1654,11 +1906,20 @@
       "rarity": "u",
       "categories": ["land"]
     },
-    "Westvale Abbey // Ormendahl, Profane Prince": {
+    "Westvale Abbey (Westvale Abbey // Ormendahl, Profane Prince)": {
       "number": "275",
       "cost": [],
       "rarity": "r",
-      "categories": ["creature", "land"]
+      "layout": "transform",
+      "categories": ["land"]
+    },
+    "Ormendahl, Profane Prince (Westvale Abbey // Ormendahl, Profane Prince)": {
+      "number": "275",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Woodland Stream": {
       "number": "276",

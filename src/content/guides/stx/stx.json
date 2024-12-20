@@ -1,6 +1,6 @@
 {
   "code": "stx",
-  "formatName": "Strixhaven",
+  "formatName": "Strixhaven: School of Mages",
   "name": "Full Card Gallery",
   "includeFormats": ["sta"],
   "defaultGrouping": "none",
@@ -45,15 +45,16 @@
       "number": "6",
       "cost": ["5"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Explore the Vastlands (Wandering Archaic // Explore the Vastlands)": {
       "number": "6",
       "cost": ["3"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Academic Probation": {
       "number": "7",
@@ -475,7 +476,7 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Mage Hunter's Onslaught": {
+    "Mage Hunters' Onslaught": {
       "number": "77",
       "cost": ["2", "b", "b"],
       "rarity": "c",
@@ -899,211 +900,226 @@
       "number": "147",
       "cost": ["1", "g", "g"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Echoing Equation (Augmenter Pugilist // Echoing Equation)": {
       "number": "147",
       "cost": ["3", "u", "u"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Blex, Vexing Pest (Blex, Vexing Pest // Search for Blex)": {
       "number": "148",
       "cost": ["2", "g"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Search for Blex (Blex, Vexing Pest // Search for Blex)": {
       "number": "148",
       "cost": ["2", "b", "b"],
       "rarity": "m",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Extus, Oriq Overlord (Extus, Oriq Overlord // Awaken the Blood Avatar)": {
       "number": "149",
       "cost": ["1", "w", "b", "b"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Awaken the Blood Avatar (Extus, Oriq Overlord // Awaken the Blood Avatar)": {
       "number": "149",
       "cost": ["6", "b", "r"],
       "rarity": "m",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Flamescroll Celebrant (Flamescroll Celebrant // Revel in Silence)": {
       "number": "150",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Revel in Silence (Flamescroll Celebrant // Revel in Silence)": {
       "number": "150",
       "cost": ["w", "w"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Jadzi, Oracle of Arcavios (Jadzi, Oracle of Arcavios // Journey to the Oracle)": {
       "number": "151",
       "cost": ["6", "u", "u"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Journey to the Oracle (Jadzi, Oracle of Arcavios // Journey to the Oracle)": {
       "number": "151",
       "cost": ["2", "g", "g"],
       "rarity": "m",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Kianne, Dean of Substance (Kianne, Dean of Substance // Imbraham, Dean of Theory)": {
       "number": "152",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Imbraham, Dean of Theory (Kianne, Dean of Substance // Imbraham, Dean of Theory)": {
       "number": "152",
       "cost": ["2", "u", "u"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Mila, Crafty Companion (Mila, Crafty Companion // Lukka, Wayward Bonder)": {
       "number": "153",
       "cost": ["1", "w", "w"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Lukka, Wayward Bonder (Mila, Crafty Companion // Lukka, Wayward Bonder)": {
       "number": "153",
       "cost": ["4", "r", "r"],
       "rarity": "m",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Pestilent Cauldron (Pestilent Cauldron // Restorative Burst)": {
       "number": "154",
       "cost": ["2", "b"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
     "Restorative Burst (Pestilent Cauldron // Restorative Burst)": {
       "number": "154",
       "cost": ["3", "g", "g"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Plargg, Dean of Chaos (Plargg, Dean of Chaos // Augusta, Dean of Order)": {
       "number": "155",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Augusta, Dean of Order (Plargg, Dean of Chaos // Augusta, Dean of Order)": {
       "number": "155",
       "cost": ["2", "w"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Rowan, Scholar of Sparks (Rowan, Scholar of Sparks // Will, Scholar of Frost)": {
       "number": "156",
       "cost": ["2", "r"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
     "Will, Scholar of Frost (Rowan, Scholar of Sparks // Will, Scholar of Frost)": {
       "number": "156",
       "cost": ["4", "u"],
       "rarity": "m",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Selfless Glyphweaver (Selfless Glyphweaver // Deadly Vanity)": {
       "number": "157",
       "cost": ["2", "w"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Deadly Vanity (Selfless Glyphweaver // Deadly Vanity)": {
       "number": "157",
       "cost": ["5", "b", "b", "b"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Shaile, Dean of Radiance (Shaile, Dean of Radiance // Embrose, Dean of Shadow)": {
       "number": "158",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Embrose, Dean of Shadow (Shaile, Dean of Radiance // Embrose, Dean of Shadow)": {
       "number": "158",
       "cost": ["2", "b", "b"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Torrent Sculptor (Torrent Sculptor // Flamethrower Sonata)": {
       "number": "159",
       "cost": ["2", "u", "u"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Flamethrower Sonata (Torrent Sculptor // Flamethrower Sonata)": {
       "number": "159",
       "cost": ["1", "r"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["spell"]
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Uvilda, Dean of Perfection (Uvilda, Dean of Perfection // Nassari, Dean of Expression)": {
       "number": "160",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Nassari, Dean of Expression (Uvilda, Dean of Perfection // Nassari, Dean of Expression)": {
       "number": "160",
       "cost": ["3", "r", "r"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Valentin, Dean of the Vein (Valentin, Dean of the Vein // Lisette, Dean of the Root)": {
       "number": "161",
       "cost": ["b"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
     "Lisette, Dean of the Root (Valentin, Dean of the Vein // Lisette, Dean of the Root)": {
       "number": "161",
       "cost": ["2", "g", "g"],
       "rarity": "r",
-      "isFlippable": true,
-      "isFlipped": true,
-      "categories": ["creature"]
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Aether Helix": {
       "number": "162",

@@ -1180,16 +1180,18 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Ondu Knotmaster // Throw a Line (Ondu Knotmaster)": {
+    "Ondu Knotmaster (Ondu Knotmaster // Throw a Line)": {
       "number": "196",
       "cost": ["2", "w", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Ondu Knotmaster // Throw a Line (Throw a Line)": {
+    "Throw a Line (Ondu Knotmaster // Throw a Line)": {
       "number": "196",
       "cost": ["w", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Phlage, Titan of Fire's Fury": {
@@ -1432,305 +1434,380 @@
       "rarity": "r",
       "categories": ["land"]
     },
-    "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (Ajani, Nacatl Pariah)": {
+    "Ajani, Nacatl Pariah (Ajani, Nacatl Pariah // Ajani, Nacatl Avenger)": {
       "number": "237",
       "cost": ["1", "w"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (Ajani, Nacatl Avenger)": {
+    "Ajani, Nacatl Avenger (Ajani, Nacatl Pariah // Ajani, Nacatl Avenger)": {
       "number": "237",
       "cost": [],
       "rarity": "m",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Razorgrass Ambush // Razorgrass Field (Razorgrass Ambush)": {
+    "Razorgrass Ambush (Razorgrass Ambush // Razorgrass Field)": {
       "number": "238",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Razorgrass Ambush // Razorgrass Field (Razorgrass Field)": {
+    "Razorgrass Field (Razorgrass Ambush // Razorgrass Field)": {
       "number": "238",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Witch Enchanter // Witch-Blessed Meadow (Witch Enchanter)": {
+    "Witch Enchanter (Witch Enchanter // Witch-Blessed Meadow)": {
       "number": "239",
       "cost": ["3", "w"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Witch Enchanter // Witch-Blessed Meadow (Witch-Blessed Meadow)": {
+    "Witch-Blessed Meadow (Witch Enchanter // Witch-Blessed Meadow)": {
       "number": "239",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Hydroelectric Specimen // Hydroelectric Laboratory (Hydroelectric Specimen)": {
+    "Hydroelectric Specimen (Hydroelectric Specimen // Hydroelectric Laboratory)": {
       "number": "240",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Hydroelectric Specimen // Hydroelectric Laboratory (Hydroelectric Laboratory)": {
+    "Hydroelectric Laboratory (Hydroelectric Specimen // Hydroelectric Laboratory)": {
       "number": "240",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Sink into Stupor // Soporific Springs (Sink into Stupor)": {
+    "Sink into Stupor (Sink into Stupor // Soporific Springs)": {
       "number": "241",
       "cost": ["1", "u", "u"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Sink into Stupor // Soporific Springs (Soporific Springs)": {
+    "Soporific Springs (Sink into Stupor // Soporific Springs)": {
       "number": "241",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (Tamiyo, Inquisitive Student)": {
+    "Tamiyo, Inquisitive Student (Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar)": {
       "number": "242",
       "cost": ["u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (Tamiyo, Seasoned Scholar)": {
+    "Tamiyo, Seasoned Scholar (Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar)": {
       "number": "242",
       "cost": [],
       "rarity": "m",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Boggart Trawler // Boggart Bog (Boggart Trawler)": {
+    "Boggart Trawler (Boggart Trawler // Boggart Bog)": {
       "number": "243",
       "cost": ["2", "b"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Boggart Trawler // Boggart Bog (Boggart Bog)": {
+    "Boggart Bog (Boggart Trawler // Boggart Bog)": {
       "number": "243",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Fell the Profane // Fell Mire (Fell the Profane)": {
+    "Fell the Profane (Fell the Profane // Fell Mire)": {
       "number": "244",
       "cost": ["2", "b", "b"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Fell the Profane // Fell Mire (Fell Mire)": {
+    "Fell Mire (Fell the Profane // Fell Mire)": {
       "number": "244",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Sorin of House Markov // Sorin, Ravenous Neonate (Sorin of House Markov)": {
+    "Sorin of House Markov (Sorin of House Markov // Sorin, Ravenous Neonate)": {
       "number": "245",
       "cost": ["1", "b"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Sorin of House Markov // Sorin, Ravenous Neonate (Sorin, Ravenous Neonate)": {
+    "Sorin, Ravenous Neonate (Sorin of House Markov // Sorin, Ravenous Neonate)": {
       "number": "245",
       "cost": [],
       "rarity": "m",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Pinnacle Monk // Mystic Peak (Pinnacle Monk)": {
+    "Pinnacle Monk (Pinnacle Monk // Mystic Peak)": {
       "number": "246",
       "cost": ["3", "r", "r"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Pinnacle Monk // Mystic Peak (Mystic Peak)": {
+    "Mystic Peak (Pinnacle Monk // Mystic Peak)": {
       "number": "246",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Ral, Monsoon Mage // Ral, Leyline Prodigy (Ral, Monsoon Mage)": {
+    "Ral, Monsoon Mage (Ral, Monsoon Mage // Ral, Leyline Prodigy)": {
       "number": "247",
       "cost": ["1", "r"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ral, Monsoon Mage // Ral, Leyline Prodigy (Ral, Leyline Prodigy)": {
+    "Ral, Leyline Prodigy (Ral, Monsoon Mage // Ral, Leyline Prodigy)": {
       "number": "247",
       "cost": [],
       "rarity": "m",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Sundering Eruption // Volcanic Fissure (Sundering Eruption)": {
+    "Sundering Eruption (Sundering Eruption // Volcanic Fissure)": {
       "number": "248",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Sundering Eruption // Volcanic Fissure (Volcanic Fissure)": {
+    "Volcanic Fissure (Sundering Eruption // Volcanic Fissure)": {
       "number": "248",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Bridgeworks Battle // Tanglespan Bridgeworks (Bridgeworks Battle)": {
+    "Bridgeworks Battle (Bridgeworks Battle // Tanglespan Bridgeworks)": {
       "number": "249",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Bridgeworks Battle // Tanglespan Bridgeworks (Tanglespan Bridgeworks)": {
+    "Tanglespan Bridgeworks (Bridgeworks Battle // Tanglespan Bridgeworks)": {
       "number": "249",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Disciple of Freyalise // Garden of Freyalise (Disciple of Freyalise)": {
+    "Disciple of Freyalise (Disciple of Freyalise // Garden of Freyalise)": {
       "number": "250",
       "cost": ["3", "g", "g", "g"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Disciple of Freyalise // Garden of Freyalise (Garden of Freyalise)": {
+    "Garden of Freyalise (Disciple of Freyalise // Garden of Freyalise)": {
       "number": "250",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Grist, Voracious Larva // Grist, the Plague Swarm (Grist, Voracious Larva)": {
+    "Grist, Voracious Larva (Grist, Voracious Larva // Grist, the Plague Swarm)": {
       "number": "251",
       "cost": ["g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Grist, Voracious Larva // Grist, the Plague Swarm (Grist, the Plague Swarm)": {
+    "Grist, the Plague Swarm (Grist, Voracious Larva // Grist, the Plague Swarm)": {
       "number": "251",
       "cost": [],
       "rarity": "m",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
-    "Bloodsoaked Insight // Sanguine Morass (Bloodsoaked Insight)": {
+    "Bloodsoaked Insight (Bloodsoaked Insight // Sanguine Morass)": {
       "number": "252",
       "cost": ["5", "br", "br"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Bloodsoaked Insight // Sanguine Morass (Sanguine Morass)": {
+    "Sanguine Morass (Bloodsoaked Insight // Sanguine Morass)": {
       "number": "252",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Drowner of Truth // Drowned Jungle (Drowner of Truth)": {
+    "Drowner of Truth (Drowner of Truth // Drowned Jungle)": {
       "number": "253",
       "cost": ["5", "gu", "gu"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["creature"]
     },
-    "Drowner of Truth // Drowned Jungle (Drowned Jungle)": {
+    "Drowned Jungle (Drowner of Truth // Drowned Jungle)": {
       "number": "253",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Glasswing Grace // Age-Graced Chapel (Glasswing Grace)": {
+    "Glasswing Grace (Glasswing Grace // Age-Graced Chapel)": {
       "number": "254",
       "cost": ["3", "wb", "wb"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Glasswing Grace // Age-Graced Chapel (Age-Graced Chapel)": {
+    "Age-Graced Chapel (Glasswing Grace // Age-Graced Chapel)": {
       "number": "254",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Legion Leadership // Legion Stronghold (Legion Leadership)": {
+    "Legion Leadership (Legion Leadership // Legion Stronghold)": {
       "number": "255",
       "cost": ["1", "rw"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Legion Leadership // Legion Stronghold (Legion Stronghold)": {
+    "Legion Stronghold (Legion Leadership // Legion Stronghold)": {
       "number": "255",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Revitalizing Repast // Old-Growth Grove (Revitalizing Repast)": {
+    "Revitalizing Repast (Revitalizing Repast // Old-Growth Grove)": {
       "number": "256",
       "cost": ["bg"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Revitalizing Repast // Old-Growth Grove (Old-Growth Grove)": {
+    "Old-Growth Grove (Revitalizing Repast // Old-Growth Grove)": {
       "number": "256",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Rush of Inspiration // Crackling Falls (Rush of Inspiration)": {
+    "Rush of Inspiration (Rush of Inspiration // Crackling Falls)": {
       "number": "257",
       "cost": ["1", "ur", "ur"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Rush of Inspiration // Crackling Falls (Crackling Falls)": {
+    "Crackling Falls (Rush of Inspiration // Crackling Falls)": {
       "number": "257",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Strength of the Harvest // Haven of the Harvest (Strength of the Harvest)": {
+    "Strength of the Harvest (Strength of the Harvest // Haven of the Harvest)": {
       "number": "258",
       "cost": ["2", "gw"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Strength of the Harvest // Haven of the Harvest (Haven of the Harvest)": {
+    "Haven of the Harvest (Strength of the Harvest // Haven of the Harvest)": {
       "number": "258",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Stump Stomp // Burnwillow Clearing (Stump Stomp)": {
+    "Stump Stomp (Stump Stomp // Burnwillow Clearing)": {
       "number": "259",
       "cost": ["1", "rg"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Stump Stomp // Burnwillow Clearing (Burnwillow Clearing)": {
+    "Burnwillow Clearing (Stump Stomp // Burnwillow Clearing)": {
       "number": "259",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Suppression Ray // Orderly Plaza (Suppression Ray)": {
+    "Suppression Ray (Suppression Ray // Orderly Plaza)": {
       "number": "260",
       "cost": ["3", "wu", "wu"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Suppression Ray // Orderly Plaza (Orderly Plaza)": {
+    "Orderly Plaza (Suppression Ray // Orderly Plaza)": {
       "number": "260",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
-    "Waterlogged Teachings // Inundated Archive (Waterlogged Teachings)": {
+    "Waterlogged Teachings (Waterlogged Teachings // Inundated Archive)": {
       "number": "261",
       "cost": ["3", "ub"],
       "rarity": "u",
+      "layout": "modal_dfc",
       "categories": ["spell"]
     },
-    "Waterlogged Teachings // Inundated Archive (Inundated Archive)": {
+    "Inundated Archive (Waterlogged Teachings // Inundated Archive)": {
       "number": "261",
       "cost": [],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Angel of the Ruins": {
       "number": "262",

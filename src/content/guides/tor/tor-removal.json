@@ -1,7 +1,7 @@
 {
-  "name": "Removal Guide",
-  "defaultGrouping": "color",
-  "defaultOrdering": "rarity",
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
   "categories": {
     "removal": "Removal",
     "bounce": "Bounce",

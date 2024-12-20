@@ -1,6 +1,6 @@
 {
   "code": "m15",
-  "formatName": "Magic 2015 Core Set",
+  "formatName": "Magic 2015",
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
@@ -1503,96 +1503,6 @@
       "cost": [],
       "rarity": "r",
       "categories": ["land"]
-    },
-    "Aegis Angel": {
-      "number": "270",
-      "cost": ["4", "w", "w"],
-      "rarity": "r",
-      "categories": ["creature"]
-    },
-    "Divine Verdict": {
-      "number": "271",
-      "cost": ["3", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Inspired Charge": {
-      "number": "272",
-      "cost": ["2", "w", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Serra Angel": {
-      "number": "273",
-      "cost": ["3", "w", "w"],
-      "rarity": "u",
-      "categories": ["creature"]
-    },
-    "Cancel": {
-      "number": "274",
-      "cost": ["1", "u", "u"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Mahamoti Djinn": {
-      "number": "275",
-      "cost": ["4", "u", "u"],
-      "rarity": "r",
-      "categories": ["creature"]
-    },
-    "Nightmare": {
-      "number": "276",
-      "cost": ["5", "b"],
-      "rarity": "r",
-      "categories": ["creature"]
-    },
-    "Sengir Vampire": {
-      "number": "277",
-      "cost": ["3", "b", "b"],
-      "rarity": "u",
-      "categories": ["creature"]
-    },
-    "Walking Corpse": {
-      "number": "278",
-      "cost": ["1", "b"],
-      "rarity": "c",
-      "categories": ["creature"]
-    },
-    "Furnace Whelp": {
-      "number": "279",
-      "cost": ["2", "r", "r"],
-      "rarity": "u",
-      "categories": ["creature"]
-    },
-    "Seismic Strike": {
-      "number": "280",
-      "cost": ["2", "r"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Shivan Dragon": {
-      "number": "281",
-      "cost": ["4", "r", "r"],
-      "rarity": "r",
-      "categories": ["creature"]
-    },
-    "Centaur Courser": {
-      "number": "282",
-      "cost": ["2", "g"],
-      "rarity": "c",
-      "categories": ["creature"]
-    },
-    "Garruk's Packleader": {
-      "number": "283",
-      "cost": ["4", "g"],
-      "rarity": "u",
-      "categories": ["creature"]
-    },
-    "Terra Stomper": {
-      "number": "284",
-      "cost": ["3", "g", "g", "g"],
-      "rarity": "r",
-      "categories": ["creature"]
     }
   }
 }

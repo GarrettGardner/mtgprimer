@@ -10,11 +10,20 @@
     "land": "Land"
   },
   "cards": {
-    "Invasion of Ravnica // Guildpact Paragon": {
+    "Invasion of Ravnica (Invasion of Ravnica // Guildpact Paragon)": {
       "number": "1",
       "cost": ["5"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Guildpact Paragon (Invasion of Ravnica // Guildpact Paragon)": {
+      "number": "1",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Aerial Boost": {
       "number": "2",
@@ -76,11 +85,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Elesh Norn // The Argent Etchings": {
+    "Elesh Norn (Elesh Norn // The Argent Etchings)": {
       "number": "12",
       "cost": ["2", "w", "w"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "The Argent Etchings (Elesh Norn // The Argent Etchings)": {
+      "number": "12",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Elspeth's Smite": {
       "number": "13",
@@ -106,11 +124,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse": {
+    "Heliod, the Radiant Dawn (Heliod, the Radiant Dawn // Heliod, the Warped Eclipse)": {
       "number": "17",
       "cost": ["2", "w", "w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Heliod, the Warped Eclipse (Heliod, the Radiant Dawn // Heliod, the Warped Eclipse)": {
+      "number": "17",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Infected Defector": {
       "number": "18",
@@ -124,29 +151,65 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Invasion of Belenon // Belenon War Anthem": {
+    "Invasion of Belenon (Invasion of Belenon // Belenon War Anthem)": {
       "number": "20",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Dominaria // Serra Faithkeeper": {
+    "Belenon War Anthem (Invasion of Belenon // Belenon War Anthem)": {
+      "number": "20",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Dominaria (Invasion of Dominaria // Serra Faithkeeper)": {
       "number": "21",
       "cost": ["2", "w"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Gobakhan // Lightshield Array": {
+    "Serra Faithkeeper (Invasion of Dominaria // Serra Faithkeeper)": {
+      "number": "21",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Gobakhan (Invasion of Gobakhan // Lightshield Array)": {
       "number": "22",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Theros // Ephara, Ever-Sheltering": {
+    "Lightshield Array (Invasion of Gobakhan // Lightshield Array)": {
+      "number": "22",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Theros (Invasion of Theros // Ephara, Ever-Sheltering)": {
       "number": "23",
       "cost": ["2", "w"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Ephara, Ever-Sheltering (Invasion of Theros // Ephara, Ever-Sheltering)": {
+      "number": "23",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Kithkin Billyrider": {
       "number": "24",
@@ -220,11 +283,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Seraph of New Capenna // Seraph of New Phyrexia": {
+    "Seraph of New Capenna (Seraph of New Capenna // Seraph of New Phyrexia)": {
       "number": "36",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Seraph of New Phyrexia (Seraph of New Capenna // Seraph of New Phyrexia)": {
+      "number": "36",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Sigiled Sentinel": {
       "number": "37",
@@ -232,11 +304,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Sun-Blessed Guardian // Furnace-Blessed Conqueror": {
+    "Sun-Blessed Guardian (Sun-Blessed Guardian // Furnace-Blessed Conqueror)": {
       "number": "38",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Furnace-Blessed Conqueror (Sun-Blessed Guardian // Furnace-Blessed Conqueror)": {
+      "number": "38",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Sunder the Gateway": {
       "number": "39",
@@ -262,11 +343,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Tarkir Duneshaper // Burnished Dunestomper": {
+    "Tarkir Duneshaper (Tarkir Duneshaper // Burnished Dunestomper)": {
       "number": "43",
       "cost": ["w"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Burnished Dunestomper (Tarkir Duneshaper // Burnished Dunestomper)": {
+      "number": "43",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Tiller of Flesh": {
       "number": "44",
@@ -298,11 +388,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Captive Weird // Compleated Conjurer": {
+    "Captive Weird (Captive Weird // Compleated Conjurer)": {
       "number": "49",
       "cost": ["u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Compleated Conjurer (Captive Weird // Compleated Conjurer)": {
+      "number": "49",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Change the Equation": {
       "number": "50",
@@ -370,35 +469,80 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Invasion of Arcavios // Invocation of the Founders": {
+    "Invasion of Arcavios (Invasion of Arcavios // Invocation of the Founders)": {
       "number": "61",
       "cost": ["3", "u", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Kamigawa // Rooftop Saboteurs": {
+    "Invocation of the Founders (Invasion of Arcavios // Invocation of the Founders)": {
+      "number": "61",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Kamigawa (Invasion of Kamigawa // Rooftop Saboteurs)": {
       "number": "62",
       "cost": ["3", "u"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Segovia // Caetus, Sea Tyrant of Segovia": {
+    "Rooftop Saboteurs (Invasion of Kamigawa // Rooftop Saboteurs)": {
+      "number": "62",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Segovia (Invasion of Segovia // Caetus, Sea Tyrant of Segovia)": {
       "number": "63",
       "cost": ["2", "u"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Vryn // Overloaded Mage-Ring": {
+    "Caetus, Sea Tyrant of Segovia (Invasion of Segovia // Caetus, Sea Tyrant of Segovia)": {
+      "number": "63",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Vryn (Invasion of Vryn // Overloaded Mage-Ring)": {
       "number": "64",
       "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Jin-Gitaxias // The Great Synthesis": {
+    "Overloaded Mage-Ring (Invasion of Vryn // Overloaded Mage-Ring)": {
+      "number": "64",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Jin-Gitaxias (Jin-Gitaxias // The Great Synthesis)": {
       "number": "65",
       "cost": ["3", "u", "u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "The Great Synthesis (Jin-Gitaxias // The Great Synthesis)": {
+      "number": "65",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Meeting of Minds": {
       "number": "66",
@@ -436,11 +580,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Order of the Mirror // Order of the Alabaster Host": {
+    "Order of the Mirror (Order of the Mirror // Order of the Alabaster Host)": {
       "number": "72",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Order of the Alabaster Host (Order of the Mirror // Order of the Alabaster Host)": {
+      "number": "72",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Preening Champion": {
       "number": "73",
@@ -454,11 +607,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Rona, Herald of Invasion // Rona, Tolarian Obliterator": {
+    "Rona, Herald of Invasion (Rona, Herald of Invasion // Rona, Tolarian Obliterator)": {
       "number": "75",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Rona, Tolarian Obliterator (Rona, Herald of Invasion // Rona, Tolarian Obliterator)": {
+      "number": "75",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Saiba Cryptomancer": {
       "number": "76",
@@ -472,11 +634,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Skyclave Aerialist // Skyclave Invader": {
+    "Skyclave Aerialist (Skyclave Aerialist // Skyclave Invader)": {
       "number": "78",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Skyclave Invader (Skyclave Aerialist // Skyclave Invader)": {
+      "number": "78",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Stasis Field": {
       "number": "79",
@@ -532,11 +703,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Aetherblade Agent // Gitaxian Mindstinger": {
+    "Aetherblade Agent (Aetherblade Agent // Gitaxian Mindstinger)": {
       "number": "88",
       "cost": ["1", "b"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Gitaxian Mindstinger (Aetherblade Agent // Gitaxian Mindstinger)": {
+      "number": "88",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Archpriest of Shadows": {
       "number": "89",
@@ -544,11 +724,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Ayara, Widow of the Realm // Ayara, Furnace Queen": {
+    "Ayara, Widow of the Realm (Ayara, Widow of the Realm // Ayara, Furnace Queen)": {
       "number": "90",
       "cost": ["1", "b", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ayara, Furnace Queen (Ayara, Widow of the Realm // Ayara, Furnace Queen)": {
+      "number": "90",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Bladed Battle-Fan": {
       "number": "91",
@@ -556,11 +745,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Blightreaper Thallid // Blightsower Thallid": {
+    "Blightreaper Thallid (Blightreaper Thallid // Blightsower Thallid)": {
       "number": "92",
       "cost": ["1", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Blightsower Thallid (Blightreaper Thallid // Blightsower Thallid)": {
+      "number": "92",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Bloated Processor": {
       "number": "93",
@@ -682,29 +880,65 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Invasion of Eldraine // Prickle Faeries": {
+    "Invasion of Eldraine (Invasion of Eldraine // Prickle Faeries)": {
       "number": "113",
       "cost": ["3", "b"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Fiora // Marchesa, Resolute Monarch": {
+    "Prickle Faeries (Invasion of Eldraine // Prickle Faeries)": {
+      "number": "113",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Fiora (Invasion of Fiora // Marchesa, Resolute Monarch)": {
       "number": "114",
       "cost": ["4", "b", "b"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Innistrad // Deluge of the Dead": {
+    "Marchesa, Resolute Monarch (Invasion of Fiora // Marchesa, Resolute Monarch)": {
+      "number": "114",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Innistrad (Invasion of Innistrad // Deluge of the Dead)": {
       "number": "115",
       "cost": ["2", "b", "b"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Ulgrotha // Grandmother Ravi Sengir": {
+    "Deluge of the Dead (Invasion of Innistrad // Deluge of the Dead)": {
+      "number": "115",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Ulgrotha (Invasion of Ulgrotha // Grandmother Ravi Sengir)": {
       "number": "116",
       "cost": ["4", "b"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Grandmother Ravi Sengir (Invasion of Ulgrotha // Grandmother Ravi Sengir)": {
+      "number": "116",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Merciless Repurposing": {
       "number": "117",
@@ -718,11 +952,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Nezumi Freewheeler // Hideous Fleshwheeler": {
+    "Nezumi Freewheeler (Nezumi Freewheeler // Hideous Fleshwheeler)": {
       "number": "119",
       "cost": ["3", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Hideous Fleshwheeler (Nezumi Freewheeler // Hideous Fleshwheeler)": {
+      "number": "119",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Nezumi Informant": {
       "number": "120",
@@ -754,11 +997,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Sheoldred // The True Scriptures": {
+    "Sheoldred (Sheoldred // The True Scriptures)": {
       "number": "125",
       "cost": ["3", "b", "b"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "The True Scriptures (Sheoldred // The True Scriptures)": {
+      "number": "125",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Tenured Oilcaster": {
       "number": "126",
@@ -826,11 +1078,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Etali, Primal Conqueror // Etali, Primal Sickness": {
+    "Etali, Primal Conqueror (Etali, Primal Conqueror // Etali, Primal Sickness)": {
       "number": "137",
       "cost": ["5", "r", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Etali, Primal Sickness (Etali, Primal Conqueror // Etali, Primal Sickness)": {
+      "number": "137",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Fearless Skald": {
       "number": "138",
@@ -862,11 +1123,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Harried Artisan // Phyrexian Skyflayer": {
+    "Harried Artisan (Harried Artisan // Phyrexian Skyflayer)": {
       "number": "143",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Phyrexian Skyflayer (Harried Artisan // Phyrexian Skyflayer)": {
+      "number": "143",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Into the Fire": {
       "number": "144",
@@ -874,35 +1144,80 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Invasion of Kaldheim // Pyre of the World Tree": {
+    "Invasion of Kaldheim (Invasion of Kaldheim // Pyre of the World Tree)": {
       "number": "145",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Karsus // Refraction Elemental": {
+    "Pyre of the World Tree (Invasion of Kaldheim // Pyre of the World Tree)": {
+      "number": "145",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Karsus (Invasion of Karsus // Refraction Elemental)": {
       "number": "146",
       "cost": ["2", "r", "r"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Mercadia // Kyren Flamewright": {
+    "Refraction Elemental (Invasion of Karsus // Refraction Elemental)": {
+      "number": "146",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Mercadia (Invasion of Mercadia // Kyren Flamewright)": {
       "number": "147",
       "cost": ["1", "r"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Regatha // Disciples of the Inferno": {
+    "Kyren Flamewright (Invasion of Mercadia // Kyren Flamewright)": {
+      "number": "147",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Regatha (Invasion of Regatha // Disciples of the Inferno)": {
       "number": "148",
       "cost": ["2", "r"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Tarkir // Defiant Thundermaw": {
+    "Disciples of the Inferno (Invasion of Regatha // Disciples of the Inferno)": {
+      "number": "148",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Tarkir (Invasion of Tarkir // Defiant Thundermaw)": {
       "number": "149",
       "cost": ["1", "r"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Defiant Thundermaw (Invasion of Tarkir // Defiant Thundermaw)": {
+      "number": "149",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Karsus Depthguard": {
       "number": "150",
@@ -910,11 +1225,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Khenra Spellspear // Gitaxian Spellstalker": {
+    "Khenra Spellspear (Khenra Spellspear // Gitaxian Spellstalker)": {
       "number": "151",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Gitaxian Spellstalker (Khenra Spellspear // Gitaxian Spellstalker)": {
+      "number": "151",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Lithomantic Barrage": {
       "number": "152",
@@ -946,11 +1270,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Pyretic Prankster // Glistening Goremonger": {
+    "Pyretic Prankster (Pyretic Prankster // Glistening Goremonger)": {
       "number": "157",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Glistening Goremonger (Pyretic Prankster // Glistening Goremonger)": {
+      "number": "157",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Ral's Reinforcements": {
       "number": "158",
@@ -1018,11 +1351,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Urabrask // The Great Work": {
+    "Urabrask (Urabrask // The Great Work)": {
       "number": "169",
       "cost": ["2", "r", "r"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "The Great Work (Urabrask // The Great Work)": {
+      "number": "169",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Volcanic Spite": {
       "number": "170",
@@ -1072,11 +1414,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Bonded Herdbeast // Plated Kilnbeast": {
+    "Bonded Herdbeast (Bonded Herdbeast // Plated Kilnbeast)": {
       "number": "178",
       "cost": ["4", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Plated Kilnbeast (Bonded Herdbeast // Plated Kilnbeast)": {
+      "number": "178",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Chomping Kavu": {
       "number": "179",
@@ -1132,47 +1483,110 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Gnottvold Hermit // Chrome Host Hulk": {
+    "Gnottvold Hermit (Gnottvold Hermit // Chrome Host Hulk)": {
       "number": "188",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Herbology Instructor // Malady Invoker": {
+    "Chrome Host Hulk (Gnottvold Hermit // Chrome Host Hulk)": {
+      "number": "188",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Herbology Instructor (Herbology Instructor // Malady Invoker)": {
       "number": "189",
       "cost": ["1", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Invasion of Ikoria // Zilortha, Apex of Ikoria": {
+    "Malady Invoker (Herbology Instructor // Malady Invoker)": {
+      "number": "189",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Ikoria (Invasion of Ikoria // Zilortha, Apex of Ikoria)": {
       "number": "190",
       "cost": ["x", "g", "g"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Ixalan // Belligerent Regisaur": {
+    "Zilortha, Apex of Ikoria (Invasion of Ikoria // Zilortha, Apex of Ikoria)": {
+      "number": "190",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Ixalan (Invasion of Ixalan // Belligerent Regisaur)": {
       "number": "191",
       "cost": ["1", "g"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Muraganda // Primordial Plasm": {
+    "Belligerent Regisaur (Invasion of Ixalan // Belligerent Regisaur)": {
+      "number": "191",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Muraganda (Invasion of Muraganda // Primordial Plasm)": {
       "number": "192",
       "cost": ["4", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Shandalar // Leyline Surge": {
+    "Primordial Plasm (Invasion of Muraganda // Primordial Plasm)": {
+      "number": "192",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Shandalar (Invasion of Shandalar // Leyline Surge)": {
       "number": "193",
       "cost": ["3", "g", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Zendikar // Awakened Skyclave": {
+    "Leyline Surge (Invasion of Shandalar // Leyline Surge)": {
+      "number": "193",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Zendikar (Invasion of Zendikar // Awakened Skyclave)": {
       "number": "194",
       "cost": ["3", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Awakened Skyclave (Invasion of Zendikar // Awakened Skyclave)": {
+      "number": "194",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Iridescent Blademaster": {
       "number": "195",
@@ -1204,11 +1618,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Polukranos Reborn // Polukranos, Engine of Ruin": {
+    "Polukranos Reborn (Polukranos Reborn // Polukranos, Engine of Ruin)": {
       "number": "200",
       "cost": ["g", "g", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Polukranos, Engine of Ruin (Polukranos Reborn // Polukranos, Engine of Ruin)": {
+      "number": "200",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Portent Tracker": {
       "number": "201",
@@ -1282,11 +1705,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Vorinclex // The Grand Evolution": {
+    "Vorinclex (Vorinclex // The Grand Evolution)": {
       "number": "213",
       "cost": ["3", "g", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "The Grand Evolution (Vorinclex // The Grand Evolution)": {
+      "number": "213",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "War Historian": {
       "number": "214",
@@ -1384,83 +1816,200 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Invasion of Alara // Awaken the Maelstrom": {
+    "Invasion of Alara (Invasion of Alara // Awaken the Maelstrom)": {
       "number": "230",
       "cost": ["w", "u", "b", "r", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Amonkhet // Lazotep Convert": {
+    "Awaken the Maelstrom (Invasion of Alara // Awaken the Maelstrom)": {
+      "number": "230",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Amonkhet (Invasion of Amonkhet // Lazotep Convert)": {
       "number": "231",
       "cost": ["1", "u", "b"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Azgol // Ashen Reaper": {
+    "Lazotep Convert (Invasion of Amonkhet // Lazotep Convert)": {
+      "number": "231",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Azgol (Invasion of Azgol // Ashen Reaper)": {
       "number": "232",
       "cost": ["b", "r"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Ergamon // Truga Cliffcharger": {
+    "Ashen Reaper (Invasion of Azgol // Ashen Reaper)": {
+      "number": "232",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Ergamon (Invasion of Ergamon // Truga Cliffcharger)": {
       "number": "233",
       "cost": ["r", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship": {
+    "Truga Cliffcharger (Invasion of Ergamon // Truga Cliffcharger)": {
+      "number": "233",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Kaladesh (Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship)": {
       "number": "234",
       "cost": ["u", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Kylem // Valor's Reach Tag Team": {
+    "Aetherwing, Golden-Scale Flagship (Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship)": {
+      "number": "234",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Kylem (Invasion of Kylem // Valor's Reach Tag Team)": {
       "number": "235",
       "cost": ["2", "r", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Lorwyn // Winnowing Forces": {
+    "Valor's Reach Tag Team (Invasion of Kylem // Valor's Reach Tag Team)": {
+      "number": "235",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Lorwyn (Invasion of Lorwyn // Winnowing Forces)": {
       "number": "236",
       "cost": ["4", "b", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Moag // Bloomwielder Dryads": {
+    "Winnowing Forces (Invasion of Lorwyn // Winnowing Forces)": {
+      "number": "236",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Moag (Invasion of Moag // Bloomwielder Dryads)": {
       "number": "237",
       "cost": ["2", "g", "w"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of New Capenna // Holy Frazzle-Cannon": {
+    "Bloomwielder Dryads (Invasion of Moag // Bloomwielder Dryads)": {
+      "number": "237",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of New Capenna (Invasion of New Capenna // Holy Frazzle-Cannon)": {
       "number": "238",
       "cost": ["w", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of New Phyrexia // Teferi Akosa of Zhalfir": {
+    "Holy Frazzle-Cannon (Invasion of New Capenna // Holy Frazzle-Cannon)": {
+      "number": "238",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of New Phyrexia (Invasion of New Phyrexia // Teferi Akosa of Zhalfir)": {
       "number": "239",
       "cost": ["x", "w", "u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Pyrulea // Gargantuan Slabhorn": {
+    "Teferi Akosa of Zhalfir (Invasion of New Phyrexia // Teferi Akosa of Zhalfir)": {
+      "number": "239",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Pyrulea (Invasion of Pyrulea // Gargantuan Slabhorn)": {
       "number": "240",
       "cost": ["g", "u"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "Invasion of Tolvada // The Broken Sky": {
+    "Gargantuan Slabhorn (Invasion of Pyrulea // Gargantuan Slabhorn)": {
+      "number": "240",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Invasion of Tolvada (Invasion of Tolvada // The Broken Sky)": {
       "number": "241",
       "cost": ["3", "w", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Invasion of Xerex // Vertex Paladin": {
+    "The Broken Sky (Invasion of Tolvada // The Broken Sky)": {
+      "number": "241",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Invasion of Xerex (Invasion of Xerex // Vertex Paladin)": {
       "number": "242",
       "cost": ["2", "w", "u"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vertex Paladin (Invasion of Xerex // Vertex Paladin)": {
+      "number": "242",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Joyful Stormsculptor": {
       "number": "243",

@@ -10,134 +10,128 @@
     "other": "Other"
   },
   "cards": {
-    "Angelic Purge": {
+    "Arni Slays the Troll": {
       "categories": ["removal"]
     },
-    "Anguished Unmaking": {
+    "Basalt Ravager": {
       "categories": ["removal"]
     },
-    "Archangel Avacyn": {
-      "categories": ["removal", "boardwipe"]
-    },
-    "Arlinn Kord": {
-      "categories": ["removal"]
-    },
-    "Avacyn's Judgement": {
-      "categories": ["removal"]
-    },
-    "Avacynian Missionaries": {
-      "categories": ["removal"]
-    },
-    "Biting Rain": {
+    "Battle of Frost and Fire": {
       "categories": ["boardwipe"]
     },
-    "Bound by Moonsilver": {
+    "Bind the Monster": {
       "categories": ["removal"]
     },
-    "Burn from Within": {
+    "Binding the Old Gods": {
       "categories": ["removal"]
     },
-    "Clip Wings": {
+    "Blizzard Brawl": {
       "categories": ["removal"]
     },
-    "Compelling Deterrence": {
-      "categories": ["bounce"]
-    },
-    "Dead Weight": {
-      "categories": ["removal"]
-    },
-    "Declaration in Stone": {
-      "categories": ["removal"]
-    },
-    "Descend upon the Sinful": {
+    "Blood on the Snow": {
       "categories": ["boardwipe"]
     },
-    "Dissension in the Ranks": {
+    "Bound in Gold": {
       "categories": ["removal"]
     },
-    "Dual Shot": {
+    "Broken Wings": {
       "categories": ["removal"]
     },
-    "Engulf the Shore": {
+    "Cinderheart Giant": {
+      "categories": ["removal"]
+    },
+    "Crippling Fear": {
       "categories": ["boardwipe"]
     },
-    "Explosive Apparatus": {
+    "Crush the Weak": {
+      "categories": ["boardwipe"]
+    },
+    "Cyclone Summoner": {
+      "categories": ["bounce", "boardwipe"]
+    },
+    "Demon Bolt": {
       "categories": ["removal"]
     },
-    "Fiery Temper": {
+    "Divine Gambit": {
       "categories": ["removal"]
     },
-    "Geistblast": {
+    "Doomskar": {
+      "categories": ["boardwipe"]
+    },
+    "Feed the Serpent": {
       "categories": ["removal"]
     },
-    "Gone Missing": {
-      "categories": ["bounce"]
-    },
-    "Humble the Brute": {
+    "Frost Bite": {
       "categories": ["removal"]
     },
-    "Inner Struggle": {
+    "Hagi Mob": {
       "categories": ["removal"]
     },
-    "Just the Wind": {
-      "categories": ["bounce"]
+    "Icebind Pillar": {
+      "categories": ["temporary"]
     },
-    "Kindly Stranger": {
+    "Iron Verdict": {
       "categories": ["removal"]
     },
-    "Lightning Axe": {
+    "Jarl of the Forsaken": {
       "categories": ["removal"]
     },
-    "Moonlight Hunt": {
+    "Kardur's Vicious Return": {
       "categories": ["removal"]
     },
-    "Murderous Compulsion": {
+    "Kaya the Inexorable": {
       "categories": ["removal"]
     },
-    "Nahiri, the Harbinger": {
-      "categories": ["removal"]
-    },
-    "Puncturing Light": {
-      "categories": ["removal"]
-    },
-    "Rabid Bite": {
-      "categories": ["removal"]
-    },
-    "Reduce to Ashes": {
-      "categories": ["removal"]
-    },
-    "Root Out": {
+    "Masked Vandal": {
       "categories": ["other"]
     },
-    "Silverstrike": {
-      "categories": ["removal"]
-    },
-    "Sinister Concoction": {
-      "categories": ["removal"]
-    },
-    "Sleep Paralysis": {
-      "categories": ["removal"]
-    },
-    "Sorin, Grim Nemesis": {
-      "categories": ["removal"]
-    },
-    "Structural Distortion": {
+    "Mists of Littjara": {
       "categories": ["other"]
     },
-    "Throttle": {
+    "Niko Aris": {
       "categories": ["removal"]
     },
-    "To the Slaughter": {
+    "Poison the Cup": {
       "categories": ["removal"]
     },
-    "Tooth Collector": {
+    "Priest of the Haunted Edge": {
       "categories": ["removal"]
     },
-    "Welcome to the Fold": {
+    "Provoke the Trolls": {
       "categories": ["removal"]
     },
-    "Wolf of Devil's Breach": {
+    "Ravenform": {
       "categories": ["removal"]
+    },
+    "Run Ashore": {
+      "categories": ["bounce"]
+    },
+    "Sigrid, God-Favored": {
+      "categories": ["removal"]
+    },
+    "Squash": {
+      "categories": ["removal"]
+    },
+    "Struggle for Skemfar": {
+      "categories": ["removal"]
+    },
+    "Surtland Frostpyre": {
+      "categories": ["boardwipe"]
+    },
+    "Tergrid's Shadow": {
+      "categories": ["removal"]
+    },
+    "Toralf, God of Fury // Toralf's Hammer": {
+      "categories": ["removal"]
+    },
+    "Tundra Fumarole": {
+      "categories": ["removal"]
+    },
+    "Weigh Down": {
+      "categories": ["removal"]
+    },
+    "Withercrown": {
+      "categories": ["other"]
     }
   }
 }

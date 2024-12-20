@@ -10,112 +10,121 @@
     "other": "Other"
   },
   "cards": {
-    "Alchemist's Greeting": {
+    "Acererak the Archlich": {
       "categories": ["removal"]
     },
-    "Blessed Alliance": {
-      "categories": ["removal"]
-    },
-    "Bloodhall Priest": {
-      "categories": ["removal"]
-    },
-    "Boon of Emrakul": {
-      "categories": ["removal"]
-    },
-    "Borrowed Malevolence": {
-      "categories": ["removal"]
-    },
-    "Certain Death": {
-      "categories": ["removal"]
-    },
-    "Choking Restraints": {
-      "categories": ["removal"]
-    },
-    "Clear Shot": {
-      "categories": ["removal"]
-    },
-    "Collective Brutality": {
-      "categories": ["removal"]
-    },
-    "Collective Defiance": {
-      "categories": ["removal"]
-    },
-    "Collective Effort": {
-      "categories": ["removal"]
-    },
-    "Dark Salvation": {
-      "categories": ["removal"]
-    },
-    "Drag Under": {
+    "Air-Cult Elemental": {
       "categories": ["bounce"]
     },
-    "Faith Unbroken": {
+    "Black Dragon": {
       "categories": ["removal"]
     },
-    "Galvanic Bombardment": {
+    "Burning Hands": {
       "categories": ["removal"]
     },
-    "Imprisoned in the Moon": {
+    "Charmed Sleep": {
       "categories": ["removal"]
     },
-    "Incendiary Flow": {
+    "Choose Your Weapon": {
       "categories": ["removal"]
     },
-    "Ironwright's Cleansing": {
-      "categories": ["other"]
+    "Divine Smite": {
+      "categories": ["temporary"]
     },
-    "Lashweed Lurker": {
+    "Dragon Turtle": {
+      "categories": ["temporary"]
+    },
+    "Dragon's Fire": {
+      "categories": ["removal"]
+    },
+    "Eyes of the Beholder": {
+      "categories": ["removal"]
+    },
+    "Farideh's Fireball": {
+      "categories": ["removal"]
+    },
+    "Gelatinous Cube": {
+      "categories": ["removal"]
+    },
+    "Grim Bounty": {
+      "categories": ["removal"]
+    },
+    "Hobgoblin Bandit Lord": {
+      "categories": ["removal"]
+    },
+    "Hunter's Mark": {
+      "categories": ["removal"]
+    },
+    "Improvised Weaponry": {
+      "categories": ["removal"]
+    },
+    "Magic Missile": {
+      "categories": ["removal"]
+    },
+    "Manticore": {
+      "categories": ["removal"]
+    },
+    "Meteor Swarm": {
+      "categories": ["removal"]
+    },
+    "Minimus Containment": {
+      "categories": ["removal"]
+    },
+    "Orcus, Prince of Undeath": {
+      "categories": ["boardwipe"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Portable Hole": {
+      "categories": ["removal"]
+    },
+    "Power Word Kill": {
+      "categories": ["removal"]
+    },
+    "Power of Persuasion": {
       "categories": ["bounce"]
     },
-    "Liliana, the Last Hope": {
+    "Precipitous Drop": {
       "categories": ["removal"]
     },
-    "Make Mischief": {
+    "Ray of Enfeeblement": {
       "categories": ["removal"]
     },
-    "Mockery of Nature": {
-      "categories": ["other"]
-    },
-    "Murder": {
+    "Ray of Frost": {
       "categories": ["removal"]
     },
-    "Nahiri's Wrath": {
+    "Scion of Stygia": {
+      "categories": ["temporary"]
+    },
+    "Spare Dagger": {
       "categories": ["removal"]
     },
-    "Oath of Liliana": {
+    "Sphere of Annihilation": {
+      "categories": ["boardwipe"]
+    },
+    "Spiked Pit Trap": {
       "categories": ["removal"]
     },
-    "Prey Upon": {
-      "categories": ["removal"]
-    },
-    "Ride Down": {
-      "categories": ["removal"]
-    },
-    "Ruthless Disposal": {
-      "categories": ["removal"]
-    },
-    "Savage Alliance": {
-      "categories": ["removal"]
-    },
-    "Smoldering Werewolf": {
-      "categories": ["removal"]
-    },
-    "Somberwald Stag": {
-      "categories": ["removal"]
-    },
-    "Spreading Flames": {
-      "categories": ["removal"]
-    },
-    "Springsage Ritual": {
-      "categories": ["other"]
-    },
-    "Ulrich of the Krallenhorde": {
-      "categories": ["removal"]
-    },
-    "Unsubstantiate": {
+    "Split the Party": {
       "categories": ["bounce"]
     },
-    "Voldaren Pariah": {
+    "Spoils of the Hunt": {
+      "categories": ["removal"]
+    },
+    "The Tarrasque": {
+      "categories": ["removal"]
+    },
+    "Tiger-Tribe Hunter": {
+      "categories": ["removal"]
+    },
+    "White Dragon": {
+      "categories": ["temporary"]
+    },
+    "You Come to a River": {
+      "categories": ["bounce"]
+    },
+    "You Hear Something on Watch": {
       "categories": ["removal"]
     }
   }

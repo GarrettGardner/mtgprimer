@@ -10,134 +10,131 @@
     "other": "Other"
   },
   "cards": {
-    "Angelic Purge": {
+    "Bloodline Culling": {
       "categories": ["removal"]
     },
-    "Anguished Unmaking": {
+    "Borrowed Time": {
       "categories": ["removal"]
     },
-    "Archangel Avacyn": {
-      "categories": ["removal", "boardwipe"]
-    },
-    "Arlinn Kord": {
+    "Brutal Cathar // Moonrage Brute": {
       "categories": ["removal"]
     },
-    "Avacyn's Judgement": {
-      "categories": ["removal"]
-    },
-    "Avacynian Missionaries": {
-      "categories": ["removal"]
-    },
-    "Biting Rain": {
+    "Burn Down the House": {
       "categories": ["boardwipe"]
     },
-    "Bound by Moonsilver": {
+    "Burn the Accursed": {
       "categories": ["removal"]
     },
-    "Burn from Within": {
+    "Candletrap": {
       "categories": ["removal"]
     },
-    "Clip Wings": {
+    "Cathartic Pyre": {
       "categories": ["removal"]
     },
-    "Compelling Deterrence": {
+    "Clear Shot": {
+      "categories": ["removal"]
+    },
+    "Covert Cutpurse // Covetous Geist": {
+      "categories": ["removal"]
+    },
+    "Defenestrate": {
+      "categories": ["removal"]
+    },
+    "Devoted Grafkeeper // Departed Soulkeeper": {
+      "categories": ["tap"]
+    },
+    "Duel for Dominance": {
+      "categories": ["removal"]
+    },
+    "Eaten Alive": {
+      "categories": ["removal"]
+    },
+    "Fading Hope": {
       "categories": ["bounce"]
     },
-    "Dead Weight": {
+    "Fateful Absence": {
       "categories": ["removal"]
     },
-    "Declaration in Stone": {
+    "Foul Play": {
       "categories": ["removal"]
     },
-    "Descend upon the Sinful": {
+    "Gavony Trapper": {
+      "categories": ["tap"]
+    },
+    "Geistflame Reservoir": {
+      "categories": ["removal"]
+    },
+    "Geistwave": {
+      "categories": ["bounce"]
+    },
+    "Hallowed Respite": {
+      "categories": ["tap"]
+    },
+    "Immolation": {
+      "categories": ["removal"]
+    },
+    "Infernal Grasp": {
+      "categories": ["removal"]
+    },
+    "Light Up the Night": {
+      "categories": ["removal"]
+    },
+    "Locked in the Cemetery": {
+      "categories": ["removal"]
+    },
+    "Moonrager's Slash": {
+      "categories": ["removal"]
+    },
+    "Mysterious Tome // Chilling Chronicle": {
+      "categories": ["tap"]
+    },
+    "Neonate's Rush": {
+      "categories": ["removal"]
+    },
+    "Olivia's Midnight Ambush": {
+      "categories": ["removal"]
+    },
+    "Pack's Betrayal": {
+      "categories": ["removal"]
+    },
+    "Play with Fire": {
+      "categories": ["removal"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Purifying Dragon": {
+      "categories": ["removal"]
+    },
+    "Revenge of the Drowned": {
+      "categories": ["removal"]
+    },
+    "Sacred Fire": {
+      "categories": ["removal"]
+    },
+    "Silver Bolt": {
+      "categories": ["removal"]
+    },
+    "Skaab Wrangler": {
+      "categories": ["tap"]
+    },
+    "Sungold Barrage": {
+      "categories": ["removal"]
+    },
+    "The Meathook Massacre": {
       "categories": ["boardwipe"]
     },
-    "Dissension in the Ranks": {
+    "Thraben Exorcism": {
       "categories": ["removal"]
     },
-    "Dual Shot": {
-      "categories": ["removal"]
-    },
-    "Engulf the Shore": {
+    "Vanquish the Horde": {
       "categories": ["boardwipe"]
     },
-    "Explosive Apparatus": {
+    "Voldaren Ambusher": {
       "categories": ["removal"]
     },
-    "Fiery Temper": {
-      "categories": ["removal"]
-    },
-    "Geistblast": {
-      "categories": ["removal"]
-    },
-    "Gone Missing": {
-      "categories": ["bounce"]
-    },
-    "Humble the Brute": {
-      "categories": ["removal"]
-    },
-    "Inner Struggle": {
-      "categories": ["removal"]
-    },
-    "Just the Wind": {
-      "categories": ["bounce"]
-    },
-    "Kindly Stranger": {
-      "categories": ["removal"]
-    },
-    "Lightning Axe": {
-      "categories": ["removal"]
-    },
-    "Moonlight Hunt": {
-      "categories": ["removal"]
-    },
-    "Murderous Compulsion": {
-      "categories": ["removal"]
-    },
-    "Nahiri, the Harbinger": {
-      "categories": ["removal"]
-    },
-    "Puncturing Light": {
-      "categories": ["removal"]
-    },
-    "Rabid Bite": {
-      "categories": ["removal"]
-    },
-    "Reduce to Ashes": {
-      "categories": ["removal"]
-    },
-    "Root Out": {
-      "categories": ["other"]
-    },
-    "Silverstrike": {
-      "categories": ["removal"]
-    },
-    "Sinister Concoction": {
-      "categories": ["removal"]
-    },
-    "Sleep Paralysis": {
-      "categories": ["removal"]
-    },
-    "Sorin, Grim Nemesis": {
-      "categories": ["removal"]
-    },
-    "Structural Distortion": {
-      "categories": ["other"]
-    },
-    "Throttle": {
-      "categories": ["removal"]
-    },
-    "To the Slaughter": {
-      "categories": ["removal"]
-    },
-    "Tooth Collector": {
-      "categories": ["removal"]
-    },
-    "Welcome to the Fold": {
-      "categories": ["removal"]
-    },
-    "Wolf of Devil's Breach": {
-      "categories": ["removal"]
+    "Winterthorn Blessing": {
+      "categories": ["tap"]
     }
   }
 }

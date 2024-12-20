@@ -1,0 +1,164 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Angelic Ascension": {
+      "categories": ["removal"]
+    },
+    "Capture Sphere": {
+      "categories": ["removal"]
+    },
+    "Celestial Enforcer": {
+      "categories": ["temporary"]
+    },
+    "Chandra, Heart of Fire": {
+      "categories": ["removal"]
+    },
+    "Destructive Tampering": {
+      "categories": ["removal"]
+    },
+    "Eliminate": {
+      "categories": ["removal"]
+    },
+    "Enthralling Hold": {
+      "categories": ["removal"]
+    },
+    "Faith's Fetters": {
+      "categories": ["removal"]
+    },
+    "Feline Sovereign": {
+      "categories": ["removal"]
+    },
+    "Finishing Blow": {
+      "categories": ["removal"]
+    },
+    "Frost Breath": {
+      "categories": ["temporary"]
+    },
+    "Goblin Arsonist": {
+      "categories": ["removal"]
+    },
+    "Goremand": {
+      "categories": ["removal"]
+    },
+    "Grasp of Darkness": {
+      "categories": ["removal"]
+    },
+    "Havoc Jester": {
+      "categories": ["removal"]
+    },
+    "Hunter's Edge": {
+      "categories": ["removal"]
+    },
+    "Kaervek, the Spiteful": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Legion's Judgment": {
+      "categories": ["removal"]
+    },
+    "Liliana, Waker of the Dead": {
+      "categories": ["removal"]
+    },
+    "Massacre Wurm": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Meteorite": {
+      "categories": ["removal"]
+    },
+    "Pestilent Haze": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Primal Might": {
+      "categories": ["removal"]
+    },
+    "Rambunctious Mutt": {
+      "categories": ["removal"]
+    },
+    "Read the Tides": {
+      "categories": ["bounce"]
+    },
+    "Return to Nature": {
+      "categories": ["removal"]
+    },
+    "Roaming Ghostlight": {
+      "categories": ["bounce"]
+    },
+    "Run Afoul": {
+      "categories": ["removal"]
+    },
+    "Runed Halo": {
+      "categories": ["other"]
+    },
+    "Sanctum of Shattered Heights": {
+      "categories": ["removal"]
+    },
+    "Sanctum of Tranquil Light": {
+      "categories": ["temporary"]
+    },
+    "Scorching Dragonfire": {
+      "categories": ["removal"]
+    },
+    "Secure the Scene": {
+      "categories": ["removal"]
+    },
+    "Shacklegeist": {
+      "categories": ["temporary"]
+    },
+    "Shock": {
+      "categories": ["removal"]
+    },
+    "Silent Dart": {
+      "categories": ["removal"]
+    },
+    "Skeleton Archer": {
+      "categories": ["removal"]
+    },
+    "Skyway Sniper": {
+      "categories": ["removal"]
+    },
+    "Sparkhunter Masticore": {
+      "categories": ["removal"]
+    },
+    "Sublime Epiphany": {
+      "categories": ["bounce"]
+    },
+    "Swift Response": {
+      "categories": ["removal"]
+    },
+    "Teferi, Master of Time": {
+      "categories": ["temporary"]
+    },
+    "Terror of the Peaks": {
+      "categories": ["removal"]
+    },
+    "Thrashing Brontodon": {
+      "categories": ["removal"]
+    },
+    "Transmogrify": {
+      "categories": ["removal"]
+    },
+    "Turn to Slag": {
+      "categories": ["removal"]
+    },
+    "Ugin, the Spirit Dragon": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Unsubstantiate": {
+      "categories": ["bounce"]
+    },
+    "Volcanic Geyser": {
+      "categories": ["removal"]
+    },
+    "Volcanic Salvo": {
+      "categories": ["removal"]
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Meltdown": {
+      "categories": ["other"]
+    },
+    "Aether Tradewinds": {
+      "categories": ["bounce"]
+    },
+    "Aethertorch Renegade": {
+      "categories": ["removal"]
+    },
+    "Ajani Unyielding": {
+      "categories": ["removal"]
+    },
+    "Appetite for the Unnatural": {
+      "categories": ["removal"]
+    },
+    "Ballista Charger": {
+      "categories": ["removal"]
+    },
+    "Baral's Expertise": {
+      "categories": ["bounce"]
+    },
+    "Cataclysmic Gearhulk": {
+      "categories": ["boardwipe"]
+    },
+    "Chandra's Pyrohelix": {
+      "categories": ["removal"]
+    },
+    "Chandra, Torch of Defiance": {
+      "categories": ["removal"]
+    },
+    "Confiscation Coup": {
+      "categories": ["removal"]
+    },
+    "Creeping Mold": {
+      "categories": ["removal"]
+    },
+    "Daring Demolition": {
+      "categories": ["removal"]
+    },
+    "Dark Intimations": {
+      "categories": ["removal"]
+    },
+    "Demon of Dark Schemes": {
+      "categories": ["boardwipe"]
+    },
+    "Destructive Tampering": {
+      "categories": ["removal"]
+    },
+    "Die Young": {
+      "categories": ["removal"]
+    },
+    "Dovin Baan": {
+      "categories": ["temporary"]
+    },
+    "Dynavolt Tower": {
+      "categories": ["removal"]
+    },
+    "Essence Extraction": {
+      "categories": ["removal"]
+    },
+    "Fairgrounds Warden": {
+      "categories": ["removal"]
+    },
+    "Fatal Push": {
+      "categories": ["removal"]
+    },
+    "Fateful Showdown": {
+      "categories": ["removal"]
+    },
+    "Fireforger's Puzzleknot": {
+      "categories": ["removal"]
+    },
+    "Foundry Hornet": {
+      "categories": ["boardwipe"]
+    },
+    "Fourth Bridge Prowler": {
+      "categories": ["removal"]
+    },
+    "Fragmentize": {
+      "categories": ["removal"]
+    },
+    "Fumigate": {
+      "categories": ["boardwipe"]
+    },
+    "Furious Reprisal": {
+      "categories": ["removal"]
+    },
+    "Harnessed Lightning": {
+      "categories": ["removal"]
+    },
+    "Hazardous Conditions": {
+      "categories": ["boardwipe"]
+    },
+    "Herald of Anguish": {
+      "categories": ["removal"]
+    },
+    "Hungry Flames": {
+      "categories": ["removal"]
+    },
+    "Hunt the Weak": {
+      "categories": ["removal"]
+    },
+    "Ice Over": {
+      "categories": ["removal"]
+    },
+    "Impeccable Timing": {
+      "categories": ["removal"]
+    },
+    "Indomitable Creativity": {
+      "categories": ["removal"]
+    },
+    "Leave in the Dust": {
+      "categories": ["bounce"]
+    },
+    "Make Obsolete": {
+      "categories": ["boardwipe"]
+    },
+    "Malfunction": {
+      "categories": ["removal"]
+    },
+    "Monstrous Onslaught": {
+      "categories": ["removal"]
+    },
+    "Nature's Way": {
+      "categories": ["removal"]
+    },
+    "Noxious Gearhulk": {
+      "categories": ["removal"]
+    },
+    "Pacification Array": {
+      "categories": ["temporary"]
+    },
+    "Quicksmith Rebel": {
+      "categories": ["removal"]
+    },
+    "Revoke Privileges": {
+      "categories": ["removal"]
+    },
+    "Ruinous Gremlin": {
+      "categories": ["removal"]
+    },
+    "Select for Inspection": {
+      "categories": ["bounce"]
+    },
+    "Shrewd Negotiation": {
+      "categories": ["removal"]
+    },
+    "Skywhaler's Shot": {
+      "categories": ["removal"]
+    },
+    "Subtle Strike": {
+      "categories": ["removal"]
+    },
+    "Tezzeret the Schemer": {
+      "categories": ["removal"]
+    },
+    "Thopter Arrest": {
+      "categories": ["removal"]
+    },
+    "Underhanded Designs": {
+      "categories": ["removal"]
+    },
+    "Universal Solvent": {
+      "categories": ["removal"]
+    },
+    "Unlicensed Disintegration": {
+      "categories": ["removal"]
+    },
+    "Vengeful Rebel": {
+      "categories": ["removal"]
+    },
+    "Welding Sparks": {
+      "categories": ["removal"]
+    },
+    "Yahenni's Expertise": {
+      "categories": ["boardwipe"]
+    }
+  }
+}

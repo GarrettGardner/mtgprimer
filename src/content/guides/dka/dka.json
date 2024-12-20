@@ -82,11 +82,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Loyal Cathar // Unhallowed Cathar": {
+    "Loyal Cathar (Loyal Cathar // Unhallowed Cathar)": {
       "number": "13",
       "cost": ["w", "w"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Unhallowed Cathar (Loyal Cathar // Unhallowed Cathar)": {
+      "number": "13",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Midnight Guard": {
       "number": "14",
@@ -304,11 +313,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Soul Seizer // Ghastly Haunting": {
+    "Soul Seizer (Soul Seizer // Ghastly Haunting)": {
       "number": "50",
       "cost": ["3", "u", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ghastly Haunting (Soul Seizer // Ghastly Haunting)": {
+      "number": "50",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Stormbound Geist": {
       "number": "51",
@@ -334,11 +352,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Chosen of Markov // Markov's Servant": {
+    "Chosen of Markov (Chosen of Markov // Markov's Servant)": {
       "number": "55",
       "cost": ["2", "b"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Markov's Servant (Chosen of Markov // Markov's Servant)": {
+      "number": "55",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Curse of Misfortunes": {
       "number": "56",
@@ -430,11 +457,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Ravenous Demon // Archdemon of Greed": {
+    "Ravenous Demon (Ravenous Demon // Archdemon of Greed)": {
       "number": "71",
       "cost": ["3", "b", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Archdemon of Greed (Ravenous Demon // Archdemon of Greed)": {
+      "number": "71",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Reap the Seagraf": {
       "number": "72",
@@ -490,11 +526,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Afflicted Deserter // Werewolf Ransacker": {
+    "Afflicted Deserter (Afflicted Deserter // Werewolf Ransacker)": {
       "number": "81",
       "cost": ["3", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Werewolf Ransacker (Afflicted Deserter // Werewolf Ransacker)": {
+      "number": "81",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Alpha Brawl": {
       "number": "82",
@@ -568,11 +613,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Hinterland Hermit // Hinterland Scourge": {
+    "Hinterland Hermit (Hinterland Hermit // Hinterland Scourge)": {
       "number": "94",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Hinterland Scourge (Hinterland Hermit // Hinterland Scourge)": {
+      "number": "94",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Increasing Vengeance": {
       "number": "95",
@@ -592,11 +646,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Mondronen Shaman // Tovolar's Magehunter": {
+    "Mondronen Shaman (Mondronen Shaman // Tovolar's Magehunter)": {
       "number": "98",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Tovolar's Magehunter (Mondronen Shaman // Tovolar's Magehunter)": {
+      "number": "98",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Moonveil Dragon": {
       "number": "99",
@@ -736,11 +799,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Lambholt Elder // Silverpelt Werewolf": {
+    "Lambholt Elder (Lambholt Elder // Silverpelt Werewolf)": {
       "number": "122",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Silverpelt Werewolf (Lambholt Elder // Silverpelt Werewolf)": {
+      "number": "122",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Lost in the Woods": {
       "number": "123",
@@ -754,11 +826,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Scorned Villager // Moonscarred Werewolf": {
+    "Scorned Villager (Scorned Villager // Moonscarred Werewolf)": {
       "number": "125",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Moonscarred Werewolf (Scorned Villager // Moonscarred Werewolf)": {
+      "number": "125",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Somberwald Dryad": {
       "number": "126",
@@ -802,11 +883,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Wolfbitten Captive // Krallenhorde Killer": {
+    "Wolfbitten Captive (Wolfbitten Captive // Krallenhorde Killer)": {
       "number": "133",
       "cost": ["g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Krallenhorde Killer (Wolfbitten Captive // Krallenhorde Killer)": {
+      "number": "133",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Young Wolf": {
       "number": "134",
@@ -844,11 +934,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Huntmaster of the Fells // Ravager of the Fells": {
+    "Huntmaster of the Fells (Huntmaster of the Fells // Ravager of the Fells)": {
       "number": "140",
       "cost": ["2", "r", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ravager of the Fells (Huntmaster of the Fells // Ravager of the Fells)": {
+      "number": "140",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Immerwolf": {
       "number": "141",
@@ -880,17 +979,35 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Chalice of Life // Chalice of Death": {
+    "Chalice of Life (Chalice of Life // Chalice of Death)": {
       "number": "146",
       "cost": ["3"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Elbrus, the Binding Blade // Withengar Unbound": {
+    "Chalice of Death (Chalice of Life // Chalice of Death)": {
+      "number": "146",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Elbrus, the Binding Blade (Elbrus, the Binding Blade // Withengar Unbound)": {
       "number": "147",
       "cost": ["7"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Withengar Unbound (Elbrus, the Binding Blade // Withengar Unbound)": {
+      "number": "147",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Executioner's Hood": {
       "number": "148",

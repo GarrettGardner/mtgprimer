@@ -229,6 +229,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
     const icon = guideConfig.icon ?? preset?.ICON;
     let sets = {
       [formatCode]: formatName,
+      ...guideConfigGallery?.sets,
       ...guideConfig.sets,
     };
     let cards = Object.keys(guideConfig.cards).map((cardName) =>
@@ -236,8 +237,8 @@ export const generatePages = async (pageConfig: TPageConfig) => {
         {
           code:
             guideConfig.cards[cardName]?.code ??
+            guideConfigGallery?.cards?.[cardName]?.code ??
             guideConfig.code ??
-            guideConfigGallery?.code ??
             formatCode,
         },
         _parseCardConfig(cardName, guideConfig.cards[cardName]),
@@ -398,61 +399,51 @@ export const generatePages = async (pageConfig: TPageConfig) => {
         if (!mv) {
           mv = 0;
         }
-        switch (costItem) {
-          case "wu":
-          case "uw":
-          case "wb":
-          case "bw":
-          case "wr":
-          case "rw":
-          case "wg":
-          case "gw":
-          case "ub":
-          case "bu":
-          case "ur":
-          case "ru":
-          case "ug":
-          case "gu":
-          case "br":
-          case "rb":
-          case "bg":
-          case "gb":
-          case "rg":
-          case "gr":
-            if (!colorsRequired.includes(costItem)) {
-              colorsRequired.push(costItem);
-            }
-            mv++;
-            break;
-          case "wp":
-          case "up":
-          case "bp":
-          case "rp":
-          case "gp":
-            break;
-          case "2w":
-          case "2u":
-          case "2b":
-          case "2r":
-          case "2g":
-            mv++;
-            break;
-          case "w":
-          case "u":
-          case "b":
-          case "r":
-          case "g":
-          case "c":
-            if (!colorsRequired.includes(costItem)) {
-              colorsRequired.push(costItem);
-            }
-            mv++;
-            break;
-          default:
-            if (parseInt(costItem) > 0) {
-              mv += parseInt(costItem);
-            }
-            break;
+        if (
+          [
+            "wu",
+            "uw",
+            "wb",
+            "bw",
+            "wr",
+            "rw",
+            "wg",
+            "gw",
+            "ub",
+            "bu",
+            "ur",
+            "ru",
+            "ug",
+            "gu",
+            "br",
+            "rb",
+            "bg",
+            "gb",
+            "rg",
+            "gr",
+          ].find((symbol) => symbol === costItem)
+        ) {
+          if (!colorsRequired.includes(costItem)) {
+            colorsRequired.push(costItem);
+          }
+          mv++;
+        } else if (costItem.search(/p/g) > -1) {
+          // Do nothing
+        } else if (
+          ["2w", "2u", "2b", "2r", "2g"].find((symbol) => symbol === costItem)
+        ) {
+          mv++;
+        } else if (
+          ["w", "u", "b", "r", "g", "c"].find((symbol) => symbol === costItem)
+        ) {
+          if (!colorsRequired.includes(costItem)) {
+            colorsRequired.push(costItem);
+          }
+          mv++;
+        } else {
+          if (parseInt(costItem) > 0) {
+            mv += parseInt(costItem);
+          }
         }
       });
 

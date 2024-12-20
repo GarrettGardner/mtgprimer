@@ -787,7 +787,7 @@
     },
     "Ghalta, Primal Hunger": {
       "number": "130",
-      "cost": ["1", "0", "g", "g"],
+      "cost": ["10", "g", "g"],
       "rarity": "r",
       "categories": ["creature"]
     },
@@ -953,11 +953,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Hadana's Climb // Winged Temp...": {
+    "Hadana's Climb (Hadana's Climb // Winged Temple of Orazca)": {
       "number": "158",
       "cost": ["1", "g", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Winged Temple of Orazca (Hadana's Climb // Winged Temple of Orazca)": {
+      "number": "158",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Huatli, Radiant Champion": {
       "number": "159",
@@ -965,11 +974,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Journey to Eternity // Atzal,...": {
+    "Journey to Eternity (Journey to Eternity // Atzal, Cave of Eternity)": {
       "number": "160",
       "cost": ["1", "b", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Atzal, Cave of Eternity (Journey to Eternity // Atzal, Cave of Eternity)": {
+      "number": "160",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Jungle Creeper": {
       "number": "161",
@@ -995,17 +1013,35 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Path of Mettle // Metzali, To...": {
+    "Path of Mettle (Path of Mettle // Metzali, Tower of Triumph)": {
       "number": "165",
       "cost": ["r", "w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Profane Procession // Tomb of...": {
+    "Metzali, Tower of Triumph (Path of Mettle // Metzali, Tower of Triumph)": {
+      "number": "165",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Profane Procession (Profane Procession // Tomb of the Dusk Rose)": {
       "number": "166",
       "cost": ["1", "w", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Tomb of the Dusk Rose (Profane Procession // Tomb of the Dusk Rose)": {
+      "number": "166",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Protean Raider": {
       "number": "167",
@@ -1043,11 +1079,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Storm the Vault // Vault of C...": {
+    "Storm the Vault (Storm the Vault // Vault of Catlacan)": {
       "number": "173",
       "cost": ["2", "u", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Vault of Catlacan (Storm the Vault // Vault of Catlacan)": {
+      "number": "173",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Zacama, Primal Calamity": {
       "number": "174",
@@ -1061,11 +1106,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Azor's Gateway // Sanctum of ...": {
+    "Azor's Gateway (Azor's Gateway // Sanctum of the Sun)": {
       "number": "176",
       "cost": ["2"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Sanctum of the Sun (Azor's Gateway // Sanctum of the Sun)": {
+      "number": "176",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Captain's Hook": {
       "number": "177",
@@ -1079,11 +1133,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Golden Guardian // Gold-Forge...": {
+    "Golden Guardian (Golden Guardian // Gold-Forge Garrison)": {
       "number": "179",
       "cost": ["4"],
       "rarity": "r",
-      "categories": ["spell"]
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Gold-Forge Garrison (Golden Guardian // Gold-Forge Garrison)": {
+      "number": "179",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "The Immortal Sun": {
       "number": "180",

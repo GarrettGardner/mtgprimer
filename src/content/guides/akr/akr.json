@@ -100,18 +100,18 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Dusk": {
+    "Dusk (Dusk // Dawn)": {
       "number": "16",
       "cost": ["2", "w", "w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dawn": {
+    "Dawn (Dusk // Dawn)": {
       "number": "16",
       "cost": ["3", "w", "w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Fan Bearer": {
@@ -336,16 +336,18 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Commit (Commit / Memory)": {
+    "Commit (Commit // Memory)": {
       "number": "54",
       "cost": ["3", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Memory": {
+    "Memory (Commit // Memory)": {
       "number": "54",
       "cost": ["4", "u", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Compelling Argument": {
@@ -726,18 +728,18 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Never": {
+    "Never (Never // Return)": {
       "number": "118",
       "cost": ["1", "b", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Return": {
+    "Return (Never // Return)": {
       "number": "118",
       "cost": ["3", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Pitiless Vizier": {
@@ -998,18 +1000,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Insult": {
+    "Insult (Insult // Injury)": {
       "number": "162",
       "cost": ["2", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Injury": {
+    "Injury (Insult // Injury)": {
       "number": "162",
       "cost": ["2", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Khenra Scrapper": {
@@ -1246,18 +1248,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Mouth": {
+    "Mouth (Mouth // Feed)": {
       "number": "202",
       "cost": ["2", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Feed": {
+    "Feed (Mouth // Feed)": {
       "number": "202",
       "cost": ["3", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Naga Vitalist": {
@@ -1404,18 +1406,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Appeal": {
+    "Appeal (Appeal // Authority)": {
       "number": "227",
       "cost": ["g"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Authority": {
+    "Authority (Appeal // Authority)": {
       "number": "227",
       "cost": ["1", "w"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Aven Wind Guide": {
@@ -1424,74 +1426,74 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Claim": {
+    "Claim (Claim // Fame)": {
       "number": "229",
       "cost": ["b"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fame": {
+    "Fame (Claim // Fame)": {
       "number": "229",
       "cost": ["1", "r"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Consign": {
+    "Consign (Consign // Oblivion)": {
       "number": "230",
       "cost": ["1", "u"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Oblivion": {
+    "Oblivion (Consign // Oblivion)": {
       "number": "230",
       "cost": ["4", "b"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Cut": {
+    "Cut (Cut // Ribbons)": {
       "number": "231",
       "cost": ["1", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Ribbons": {
+    "Ribbons (Cut // Ribbons)": {
       "number": "231",
       "cost": ["x", "b", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Destined": {
+    "Destined (Destined // Lead)": {
       "number": "232",
       "cost": ["1", "b"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Lead": {
+    "Lead (Destined // Lead)": {
       "number": "232",
       "cost": ["3", "g"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Driven": {
+    "Driven (Driven // Despair)": {
       "number": "233",
       "cost": ["1", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Despair": {
+    "Despair (Driven // Despair)": {
       "number": "233",
       "cost": ["1", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Enigma Drake": {
@@ -1500,46 +1502,46 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Failure": {
+    "Failure (Failure // Comply)": {
       "number": "235",
       "cost": ["1", "u"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Comply": {
+    "Comply (Failure // Comply)": {
       "number": "235",
       "cost": ["w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Farm": {
+    "Farm (Farm // Market)": {
       "number": "236",
       "cost": ["2", "w"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Market": {
+    "Market (Farm // Market)": {
       "number": "236",
       "cost": ["2", "u"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Grind": {
+    "Grind (Grind // Dust)": {
       "number": "237",
       "cost": ["1", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dust": {
+    "Dust (Grind // Dust)": {
       "number": "237",
       "cost": ["3", "w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Hapatra, Vizier of Poisons": {
@@ -1548,18 +1550,18 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Heaven": {
+    "Heaven (Heaven // Earth)": {
       "number": "239",
       "cost": ["x", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Earth": {
+    "Earth (Heaven // Earth)": {
       "number": "239",
       "cost": ["x", "r", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Honored Crop-Captain": {
@@ -1574,18 +1576,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Leave": {
+    "Leave (Leave // Chance)": {
       "number": "242",
       "cost": ["1", "w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Chance": {
+    "Chance (Leave // Chance)": {
       "number": "242",
       "cost": ["3", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "The Locust God": {
@@ -1630,88 +1632,88 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Onward": {
+    "Onward (Onward // Victory)": {
       "number": "250",
       "cost": ["2", "r"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Victory": {
+    "Victory (Onward // Victory)": {
       "number": "250",
       "cost": ["2", "w"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Prepare": {
+    "Prepare (Prepare // Fight)": {
       "number": "251",
       "cost": ["1", "w"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fight": {
+    "Fight (Prepare // Fight)": {
       "number": "251",
       "cost": ["3", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Rags": {
+    "Rags (Rags // Riches)": {
       "number": "252",
       "cost": ["2", "b", "b"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Riches": {
+    "Riches (Rags // Riches)": {
       "number": "252",
       "cost": ["5", "u", "u"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Reason": {
+    "Reason (Reason // Believe)": {
       "number": "253",
       "cost": ["u"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Believe": {
+    "Believe (Reason // Believe)": {
       "number": "253",
       "cost": ["4", "g"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Reduce": {
+    "Reduce (Reduce // Rubble)": {
       "number": "254",
       "cost": ["2", "u"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Rubble": {
+    "Rubble (Reduce // Rubble)": {
       "number": "254",
-      "cost": ["2", "u"],
+      "cost": ["2", "r"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Refuse": {
+    "Refuse (Refuse // Cooperate)": {
       "number": "255",
       "cost": ["3", "r"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Cooperate": {
+    "Cooperate (Refuse // Cooperate)": {
       "number": "255",
       "cost": ["2", "u"],
       "rarity": "r",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "River Hoopoe": {
@@ -1756,44 +1758,46 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Spring": {
+    "Spring (Spring // Mind)": {
       "number": "263",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Mind": {
+    "Mind (Spring // Mind)": {
       "number": "263",
       "cost": ["4", "u", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Start": {
+    "Start (Start // Finish)": {
       "number": "264",
       "cost": ["2", "w"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Finish": {
+    "Finish (Start // Finish)": {
       "number": "264",
       "cost": ["2", "b"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Struggle": {
+    "Struggle (Struggle // Survive)": {
       "number": "265",
       "cost": ["2", "r"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Survive": {
+    "Survive (Struggle // Survive)": {
       "number": "265",
       "cost": ["1", "g"],
       "rarity": "u",
-      "isRotatable": true,
+      "layout": "split",
       "categories": ["spell"]
     },
     "Temmet, Vizier of Naktamun": {
@@ -1964,6 +1968,12 @@
       "rarity": "r",
       "categories": ["land"]
     },
+    "Forest": {
+      "number": "294",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
     "Hashep Oasis": {
       "number": "301",
       "cost": [],
@@ -1988,47 +1998,17 @@
       "rarity": "r",
       "categories": ["land"]
     },
-    "Ramunap Ruins": {
-      "number": "326",
-      "cost": [],
-      "rarity": "u",
-      "categories": ["land"]
-    },
-    "Scattered Groves": {
-      "number": "327",
-      "cost": [],
-      "rarity": "r",
-      "categories": ["land"]
-    },
-    "Scavenger Grounds": {
-      "number": "328",
-      "cost": [],
-      "rarity": "r",
-      "categories": ["land"]
-    },
-    "Shefet Dunes": {
-      "number": "329",
-      "cost": [],
-      "rarity": "u",
-      "categories": ["land"]
-    },
-    "Sheltered Thicket": {
-      "number": "330",
-      "cost": [],
-      "rarity": "r",
-      "categories": ["land"]
-    },
-    "Sunscorched Desert": {
-      "number": "331",
+    "Island": {
+      "number": "305",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
     },
-    "Regal Caracal": {
-      "number": "339",
-      "cost": ["3", "w", "w"],
-      "rarity": "r",
-      "categories": ["creature"]
+    "Mountain": {
+      "number": "312",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
     }
   }
 }

@@ -368,12 +368,14 @@
       "number": "60",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Done (Said // Done)": {
       "number": "60",
       "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Scuttletide": {
@@ -752,12 +754,14 @@
       "number": "123",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Furious (Fast // Furious)": {
       "number": "123",
       "cost": ["3", "r", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Flame Blitz": {
@@ -1292,12 +1296,14 @@
       "number": "212",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Ruin (Road // Ruin)": {
       "number": "212",
       "cost": ["1", "r", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Storm God's Oracle": {
@@ -1766,12 +1772,14 @@
       "number": "290",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Ice (Fire // Ice)": {
       "number": "290",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Mirari's Wake": {
@@ -1851,12 +1859,6 @@
       "cost": [],
       "rarity": "r",
       "categories": ["land"]
-    },
-    "Sanctum Prelate": {
-      "number": "491",
-      "cost": ["1", "w", "w"],
-      "rarity": "m",
-      "categories": ["creature"]
     }
   }
 }

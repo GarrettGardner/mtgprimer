@@ -1264,184 +1264,214 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Dusk (Dusk / Dawn)": {
+    "Dusk (Dusk // Dawn)": {
       "number": "210",
       "cost": ["2", "w", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dawn (Dusk / Dawn)": {
+    "Dawn (Dusk // Dawn)": {
       "number": "210",
       "cost": ["3", "w", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Commit (Commit / Memory)": {
+    "Commit (Commit // Memory)": {
       "number": "211",
       "cost": ["3", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Memory (Commit / Memory)": {
+    "Memory (Commit // Memory)": {
       "number": "211",
       "cost": ["4", "u", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Never (Never / Return)": {
+    "Never (Never // Return)": {
       "number": "212",
       "cost": ["1", "b", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Return (Never / Return)": {
+    "Return (Never // Return)": {
       "number": "212",
       "cost": ["3", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Insult (Insult / Injury)": {
+    "Insult (Insult // Injury)": {
       "number": "213",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Injury (Insult / Injury)": {
+    "Injury (Insult // Injury)": {
       "number": "213",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Mouth (Mouth / Feed)": {
+    "Mouth (Mouth // Feed)": {
       "number": "214",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Feed (Mouth / Feed)": {
+    "Feed (Mouth // Feed)": {
       "number": "214",
       "cost": ["3", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Start (Start / Finish)": {
+    "Start (Start // Finish)": {
       "number": "215",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Finish (Start / Finish)": {
+    "Finish (Start // Finish)": {
       "number": "215",
       "cost": ["2", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Reduce (Reduce / Rubble)": {
+    "Reduce (Reduce // Rubble)": {
       "number": "216",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Rubble (Reduce / Rubble)": {
+    "Rubble (Reduce // Rubble)": {
       "number": "216",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Destined (Destined / Lead)": {
+    "Destined (Destined // Lead)": {
       "number": "217",
       "cost": ["1", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Lead (Destined / Lead)": {
+    "Lead (Destined // Lead)": {
       "number": "217",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Onward (Onward / Victory)": {
+    "Onward (Onward // Victory)": {
       "number": "218",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Victory (Onward / Victory)": {
+    "Victory (Onward // Victory)": {
       "number": "218",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Spring (Spring / Mind)": {
+    "Spring (Spring // Mind)": {
       "number": "219",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Mind (Spring / Mind)": {
+    "Mind (Spring // Mind)": {
       "number": "219",
       "cost": ["4", "u", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Prepare (Prepare / Fight)": {
+    "Prepare (Prepare // Fight)": {
       "number": "220",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fight (Prepare / Fight)": {
+    "Fight (Prepare // Fight)": {
       "number": "220",
       "cost": ["3", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Failure (Failure / Comply)": {
+    "Failure (Failure // Comply)": {
       "number": "221",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Comply (Failure / Comply)": {
+    "Comply (Failure // Comply)": {
       "number": "221",
       "cost": ["w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Rags (Rags / Riches)": {
+    "Rags (Rags // Riches)": {
       "number": "222",
       "cost": ["2", "b", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Riches (Rags / Riches)": {
+    "Riches (Rags // Riches)": {
       "number": "222",
       "cost": ["5", "u", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Cut (Cut / Ribbons)": {
+    "Cut (Cut // Ribbons)": {
       "number": "223",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Ribbons (Cut / Ribbons)": {
+    "Ribbons (Cut // Ribbons)": {
       "number": "223",
       "cost": ["x", "b", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Heaven (Heaven / Earth)": {
+    "Heaven (Heaven // Earth)": {
       "number": "224",
       "cost": ["x", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Earth (Heaven / Earth)": {
+    "Earth (Heaven // Earth)": {
       "number": "224",
       "cost": ["x", "r", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Bontu's Monument": {

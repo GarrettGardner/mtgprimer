@@ -1194,7 +1194,7 @@
     },
     "Brago, King Eternal": {
       "number": "198",
-      "cost": ["2", "w", "b"],
+      "cost": ["2", "w", "u"],
       "rarity": "r",
       "categories": ["creature"]
     },
@@ -1230,7 +1230,7 @@
     },
     "Maelstrom Wanderer": {
       "number": "204",
-      "cost": ["5", "u", "r", "g"],
+      "cost": ["5", "g", "u", "r"],
       "rarity": "m",
       "categories": ["creature"]
     },
@@ -1308,7 +1308,7 @@
     },
     "Torrent of Souls": {
       "number": "217",
-      "cost": ["4", "rg"],
+      "cost": ["4", "br"],
       "rarity": "u",
       "categories": ["spell"]
     },

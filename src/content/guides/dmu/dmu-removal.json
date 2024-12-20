@@ -1,0 +1,152 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Aether Channeler": {
+      "categories": ["bounce"]
+    },
+    "Archangel of Wrath": {
+      "categories": ["boardwipe"]
+    },
+    "Artillery Blast": {
+      "categories": ["removal"]
+    },
+    "Balduvian Berserker": {
+      "categories": ["removal"]
+    },
+    "Benalish Sleeper": {
+      "categories": ["removal"]
+    },
+    "Bite Down": {
+      "categories": ["removal"]
+    },
+    "Bone Splinters": {
+      "categories": ["removal"]
+    },
+    "Broken Wings": {
+      "categories": ["removal"]
+    },
+    "Chaotic Transformation": {
+      "categories": ["removal"]
+    },
+    "Choking Miasma": {
+      "categories": ["boardwipe"]
+    },
+    "Citizen's Arrest": {
+      "categories": ["removal"]
+    },
+    "Cleaving Skyrider": {
+      "categories": ["removal"]
+    },
+    "Cut Down": {
+      "categories": ["removal"]
+    },
+    "Defiler of Instinct": {
+      "categories": ["removal"]
+    },
+    "Destroy Evil": {
+      "categories": ["removal"]
+    },
+    "Drag to the Bottom": {
+      "categories": ["boardwipe"]
+    },
+    "Ertai Resurrected": {
+      "categories": ["removal"]
+    },
+    "Extinguish the Light": {
+      "categories": ["boardwipe"]
+    },
+    "Fires of Victory": {
+      "categories": ["removal"]
+    },
+    "Flowstone Infusion": {
+      "categories": ["removal"]
+    },
+    "Frostfist Strider": {
+      "categories": ["temporary"]
+    },
+    "Ghitu Amplifier": {
+      "categories": ["bounce"]
+    },
+    "Hurler Cyclops": {
+      "categories": ["removal"]
+    },
+    "Hurloon Battle Hymn": {
+      "categories": ["removal"]
+    },
+    "In Thrall to the Pit": {
+      "categories": ["removal"]
+    },
+    "Jaya's Firenado": {
+      "categories": ["removal"]
+    },
+    "Jaya, Fiery Negotiator": {
+      "categories": ["removal"]
+    },
+    "Karn's Sylex": {
+      "categories": ["boardwipe"]
+    },
+    "Leyline Binding": {
+      "categories": ["removal"]
+    },
+    "Lightning Strike": {
+      "categories": ["removal"]
+    },
+    "Liliana of the Veil": {
+      "categories": ["removal"]
+    },
+    "Meteorite": {
+      "categories": ["removal"]
+    },
+    "Prayer of Binding": {
+      "categories": ["removal"]
+    },
+    "Rona's Vortex": {
+      "categories": ["removal", "bounce"]
+    },
+    "Runic Shot": {
+      "categories": ["removal"]
+    },
+    "Smash to Dust": {
+      "categories": ["boardwipe"]
+    },
+    "Sol'Kanar the Tainted": {
+      "categories": ["removal"]
+    },
+    "Tail Swipe": {
+      "categories": ["removal"]
+    },
+    "Tear Asunder": {
+      "categories": ["removal"]
+    },
+    "Temporal Firestorm": {
+      "categories": ["boardwipe"]
+    },
+    "Temporary Lockdown": {
+      "categories": ["removal"]
+    },
+    "The Elder Dragon War": {
+      "categories": ["boardwipe"]
+    },
+    "The Phasing of Zhalfir": {
+      "categories": ["boardwipe"]
+    },
+    "Tolarian Geyser": {
+      "categories": ["bounce"]
+    },
+    "Tribute to Urborg": {
+      "categories": ["removal"]
+    },
+    "Yotia Declares War": {
+      "categories": ["removal"]
+    }
+  }
+}

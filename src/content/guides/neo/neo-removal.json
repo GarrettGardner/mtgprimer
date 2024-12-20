@@ -1,0 +1,194 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Assassin's Ink": {
+      "categories": ["removal"]
+    },
+    "Awakened Awareness": {
+      "categories": ["other"]
+    },
+    "Bamboo Grove Archer": {
+      "categories": ["removal"]
+    },
+    "Banishing Slash": {
+      "categories": ["removal"]
+    },
+    "Boseiju, Who Endures": {
+      "categories": ["removal"]
+    },
+    "Clawing Torment": {
+      "categories": ["removal"]
+    },
+    "Colossal Skyturtle": {
+      "categories": ["bounce"]
+    },
+    "Debt to the Kami": {
+      "categories": ["removal"]
+    },
+    "Dokuchi Silencer": {
+      "categories": ["removal"]
+    },
+    "Dragonspark Reactor": {
+      "categories": ["removal"]
+    },
+    "Eiganjo, Seat of the Empire": {
+      "categories": ["removal"]
+    },
+    "Explosive Entry": {
+      "categories": ["removal"]
+    },
+    "Explosive Singularity": {
+      "categories": ["removal"]
+    },
+    "Fade into Antiquity": {
+      "categories": ["removal"]
+    },
+    "Farewell": {
+      "categories": ["boardwipe"]
+    },
+    "Flame Discharge": {
+      "categories": ["removal"]
+    },
+    "Go-Shintai of Hidden Cruelty": {
+      "categories": ["removal"]
+    },
+    "Gravelighter": {
+      "categories": ["removal"]
+    },
+    "Hidetsugu Consumes All // Vessel of the All-Consuming": {
+      "categories": ["boardwipe"]
+    },
+    "Hidetsugu, Devouring Chaos": {
+      "categories": ["removal"]
+    },
+    "High-Speed Hoverbike": {
+      "categories": ["temporary"]
+    },
+    "Intercessor's Arrest": {
+      "categories": ["removal"]
+    },
+    "Inventive Iteration // Living Breakthrough": {
+      "categories": ["bounce"]
+    },
+    "Invoke Despair": {
+      "categories": ["removal"]
+    },
+    "Invoke the Winds": {
+      "categories": ["removal"]
+    },
+    "Kami's Flare": {
+      "categories": ["removal"]
+    },
+    "Kappa Tech-Wrecker": {
+      "categories": ["removal"]
+    },
+    "Lethal Exploit": {
+      "categories": ["removal"]
+    },
+    "Life of Toshiro Umezawa // Memory of Toshiro": {
+      "categories": ["removal"]
+    },
+    "Lucky Offering": {
+      "categories": ["removal"]
+    },
+    "Malicious Malfunction": {
+      "categories": ["boardwipe"]
+    },
+    "March of Otherworldly Light": {
+      "categories": ["removal"]
+    },
+    "March of Swirling Mist": {
+      "categories": ["temporary"]
+    },
+    "March of Wretched Sorrow": {
+      "categories": ["removal"]
+    },
+    "Master's Rebuke": {
+      "categories": ["removal"]
+    },
+    "Moonsnare Prototype": {
+      "categories": ["removal"]
+    },
+    "Moonsnare Specialist": {
+      "categories": ["bounce"]
+    },
+    "Mothrider Patrol": {
+      "categories": ["temporary"]
+    },
+    "Network Disruptor": {
+      "categories": ["temporary"]
+    },
+    "Ninja's Kunai": {
+      "categories": ["removal"]
+    },
+    "Planar Incision": {
+      "categories": ["temporary"]
+    },
+    "Repel the Vile": {
+      "categories": ["removal"]
+    },
+    "Saiba Trespassers": {
+      "categories": ["temporary"]
+    },
+    "Seismic Wave": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Short Circuit": {
+      "categories": ["other"]
+    },
+    "Soul Transfer": {
+      "categories": ["removal"]
+    },
+    "Spinning Wheel Kick": {
+      "categories": ["removal"]
+    },
+    "Surgehacker Mech": {
+      "categories": ["removal"]
+    },
+    "Tamiyo's Compleation": {
+      "categories": ["removal"]
+    },
+    "Tamiyo, Compleated Sage": {
+      "categories": ["temporary"]
+    },
+    "The Fall of Lord Konda // Fragment of Konda": {
+      "categories": ["removal"]
+    },
+    "The Kami War // O-Kagachi Made Manifest": {
+      "categories": ["removal"]
+    },
+    "The Long Reach of Night // Animus of Night's Reach": {
+      "categories": ["removal"]
+    },
+    "The Wandering Emperor": {
+      "categories": ["removal"]
+    },
+    "Touch the Spirit Realm": {
+      "categories": ["removal"]
+    },
+    "Twinshot Sniper": {
+      "categories": ["removal"]
+    },
+    "Twisted Embrace": {
+      "categories": ["removal"]
+    },
+    "Voltage Surge": {
+      "categories": ["removal"]
+    },
+    "Wanderer's Intervention": {
+      "categories": ["removal"]
+    },
+    "You Are Already Dead": {
+      "categories": ["removal"]
+    }
+  }
+}

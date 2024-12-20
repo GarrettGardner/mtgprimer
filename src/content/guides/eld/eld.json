@@ -34,17 +34,19 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Dizzying Swoop": {
-      "number": "5",
-      "cost": ["1", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Ardenvale Tactician": {
+    "Ardenvale Tactician (Ardenvale Tactician // Dizzying Swoop)": {
       "number": "5",
       "cost": ["1", "w", "w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Dizzying Swoop (Ardenvale Tactician // Dizzying Swoop)": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Bartered Cow": {
       "number": "6",
@@ -76,17 +78,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Gift of the Fae": {
-      "number": "11",
-      "cost": ["1", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Faerie Guidemother": {
+    "Faerie Guidemother (Faerie Guidemother // Gift of the Fae)": {
       "number": "11",
       "cost": ["w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Gift of the Fae (Faerie Guidemother // Gift of the Fae)": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Flutterfox": {
       "number": "12",
@@ -100,17 +104,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Chop Down": {
-      "number": "14",
-      "cost": ["2", "w"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Giant Killer": {
+    "Giant Killer (Giant Killer // Chop Down)": {
       "number": "14",
       "cost": ["w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Chop Down (Giant Killer // Chop Down)": {
+      "number": "14",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Glass Casket": {
       "number": "15",
@@ -148,17 +154,19 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Rider in Need": {
-      "number": "21",
-      "cost": ["2", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Lonesome Unicorn": {
+    "Lonesome Unicorn (Lonesome Unicorn // Rider in Need)": {
       "number": "21",
       "cost": ["4", "w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Rider in Need (Lonesome Unicorn // Rider in Need)": {
+      "number": "21",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Mysterious Pathlighter": {
       "number": "22",
@@ -184,17 +192,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Cast Off": {
-      "number": "26",
-      "cost": ["3", "w", "w"],
-      "rarity": "m",
-      "categories": ["spell"]
-    },
-    "Realm-Cloaked Giant": {
+    "Realm-Cloaked Giant (Realm-Cloaked Giant // Cast Off)": {
       "number": "26",
       "cost": ["5", "w", "w"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Cast Off (Realm-Cloaked Giant // Cast Off)": {
+      "number": "26",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Righteousness": {
       "number": "27",
@@ -202,17 +212,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Usher to Safety": {
-      "number": "28",
-      "cost": ["w"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Shepherd of the Flock": {
+    "Shepherd of the Flock (Shepherd of the Flock // Usher to Safety)": {
       "number": "28",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Usher to Safety (Shepherd of the Flock // Usher to Safety)": {
+      "number": "28",
+      "cost": ["w"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Shining Armor": {
       "number": "29",
@@ -226,17 +238,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "On Alert": {
-      "number": "31",
-      "cost": ["2", "w"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Silverflame Squire": {
+    "Silverflame Squire (Silverflame Squire // On Alert)": {
       "number": "31",
       "cost": ["1", "w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "On Alert (Silverflame Squire // On Alert)": {
+      "number": "31",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Syr Alin, the Lion's Claw": {
       "number": "32",
@@ -274,29 +288,33 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Bring to Life": {
+    "Animating Faerie (Animating Faerie // Bring to Life)": {
       "number": "38",
       "cost": ["2", "u"],
       "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Animating Faerie": {
-      "number": "38",
-      "cost": ["2", "u"],
-      "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Petty Theft": {
-      "number": "39",
-      "cost": ["1", "u"],
-      "rarity": "m",
+    "Bring to Life (Animating Faerie // Bring to Life)": {
+      "number": "38",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
-    "Brazen Borrower": {
+    "Brazen Borrower (Brazen Borrower // Petty Theft)": {
       "number": "39",
       "cost": ["1", "u", "u"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Petty Theft (Brazen Borrower // Petty Theft)": {
+      "number": "39",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Charmed Sleep": {
       "number": "40",
@@ -322,23 +340,25 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Wish Granted": {
-      "number": "44",
-      "cost": ["3", "u"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Fae of Wishes": {
+    "Fae of Wishes (Fae of Wishes // Granted)": {
       "number": "44",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Granted (Fae of Wishes // Granted)": {
+      "number": "44",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Faerie Vandal": {
       "number": "45",
       "cost": ["1", "u"],
       "rarity": "u",
-      "categories": ["creature", "spell"]
+      "categories": ["creature"]
     },
     "Folio of Fancies": {
       "number": "46",
@@ -358,17 +378,19 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Mesmeric Glare": {
-      "number": "49",
-      "cost": ["2", "u"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Hypnotic Sprite": {
+    "Hypnotic Sprite (Hypnotic Sprite // Mesmeric Glare)": {
       "number": "49",
       "cost": ["u", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Mesmeric Glare (Hypnotic Sprite // Mesmeric Glare)": {
+      "number": "49",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Into the Story": {
       "number": "50",
@@ -388,17 +410,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Venture Deeper": {
+    "Merfolk Secretkeeper (Merfolk Secretkeeper // Venture Deeper)": {
       "number": "53",
       "cost": ["u"],
       "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Merfolk Secretkeeper": {
-      "number": "53",
-      "cost": ["u"],
-      "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Venture Deeper (Merfolk Secretkeeper // Venture Deeper)": {
+      "number": "53",
+      "cost": ["u"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Midnight Clock": {
       "number": "54",
@@ -442,17 +466,19 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Rage of Winter": {
-      "number": "61",
-      "cost": ["1", "u"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Queen of Ice": {
+    "Queen of Ice (Queen of Ice // Rage of Winter)": {
       "number": "61",
       "cost": ["2", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Rage of Winter (Queen of Ice // Rage of Winter)": {
+      "number": "61",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Run Away Together": {
       "number": "62",
@@ -622,17 +648,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Profane Insight": {
-      "number": "90",
-      "cost": ["2", "b"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Foulmire Knight": {
+    "Foulmire Knight (Foulmire Knight // Profane Insight)": {
       "number": "90",
       "cost": ["b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Profane Insight (Foulmire Knight // Profane Insight)": {
+      "number": "90",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Giant's Skewer": {
       "number": "91",
@@ -670,17 +698,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Swift End": {
+    "Murderous Rider (Murderous Rider // Swift End)": {
       "number": "97",
       "cost": ["1", "b", "b"],
       "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Murderous Rider": {
-      "number": "97",
-      "cost": ["1", "b", "b"],
-      "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Swift End (Murderous Rider // Swift End)": {
+      "number": "97",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Oathsworn Knight": {
       "number": "98",
@@ -688,17 +718,19 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Alter Fate": {
+    "Order of Midnight (Order of Midnight // Alter Fate)": {
       "number": "99",
       "cost": ["1", "b"],
       "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Order of Midnight": {
-      "number": "99",
-      "cost": ["1", "b"],
-      "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Alter Fate (Order of Midnight // Alter Fate)": {
+      "number": "99",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Piper of the Swarm": {
       "number": "100",
@@ -712,17 +744,19 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Harvest Fear": {
-      "number": "102",
-      "cost": ["3", "b"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Reaper of Night": {
+    "Reaper of Night (Reaper of Night // Harvest Fear)": {
       "number": "102",
       "cost": ["5", "b", "b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Harvest Fear (Reaper of Night // Harvest Fear)": {
+      "number": "102",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Reave Soul": {
       "number": "103",
@@ -736,17 +770,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Curry Favor": {
-      "number": "105",
-      "cost": ["b"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Smitten Swordmaster": {
+    "Smitten Swordmaster (Smitten Swordmaster // Curry Favor)": {
       "number": "105",
       "cost": ["1", "b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Curry Favor (Smitten Swordmaster // Curry Favor)": {
+      "number": "105",
+      "cost": ["b"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Specter's Shriek": {
       "number": "106",
@@ -802,17 +838,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Stomp": {
-      "number": "115",
-      "cost": ["1", "r"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Bonecrusher Giant": {
+    "Bonecrusher Giant (Bonecrusher Giant // Stomp)": {
       "number": "115",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Stomp (Bonecrusher Giant // Stomp)": {
+      "number": "115",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Brimstone Trebuchet": {
       "number": "116",
@@ -850,17 +888,19 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Battle Display": {
-      "number": "122",
-      "cost": ["r"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Embereth Shieldbreaker": {
+    "Embereth Shieldbreaker (Embereth Shieldbreaker // Battle Display)": {
       "number": "122",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Battle Display (Embereth Shieldbreaker // Battle Display)": {
+      "number": "122",
+      "cost": ["r"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Ferocity of the Wilds": {
       "number": "123",
@@ -910,17 +950,19 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Haggle": {
-      "number": "131",
-      "cost": ["r"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Merchant of the Vale": {
+    "Merchant of the Vale (Merchant of the Vale // Haggle)": {
       "number": "131",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Haggle (Merchant of the Vale // Haggle)": {
+      "number": "131",
+      "cost": ["r"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Ogre Errant": {
       "number": "132",
@@ -952,17 +994,19 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Boulder Rush": {
-      "number": "137",
-      "cost": ["r"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Rimrock Knight": {
+    "Rimrock Knight (Rimrock Knight // Boulder Rush)": {
       "number": "137",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Boulder Rush (Rimrock Knight // Boulder Rush)": {
+      "number": "137",
+      "cost": ["r"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Robber of the Rich": {
       "number": "138",
@@ -1030,23 +1074,33 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Fertile Footsteps": {
-      "number": "149",
-      "cost": ["2", "g"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Beanstalk Giant": {
+    "Beanstalk Giant (Beanstalk Giant // Fertile Footsteps)": {
       "number": "149",
       "cost": ["6", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Curious Pair": {
+    "Fertile Footsteps (Beanstalk Giant // Fertile Footsteps)": {
+      "number": "149",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Curious Pair (Curious Pair // Treats to Share)": {
       "number": "150",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Treats to Share (Curious Pair // Treats to Share)": {
+      "number": "150",
+      "cost": ["g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Edgewall Innkeeper": {
       "number": "151",
@@ -1072,29 +1126,33 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Welcome Home": {
-      "number": "155",
-      "cost": ["5", "g", "g"],
-      "rarity": "u",
-      "categories": ["spell"]
-    },
-    "Flaxen Intruder": {
+    "Flaxen Intruder (Flaxen Intruder // Welcome Home)": {
       "number": "155",
       "cost": ["g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Shield's Might": {
-      "number": "156",
-      "cost": ["1", "g"],
-      "rarity": "c",
+    "Welcome Home (Flaxen Intruder // Welcome Home)": {
+      "number": "155",
+      "cost": ["5", "g", "g"],
+      "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
-    "Garenbrig Carver": {
+    "Garenbrig Carver (Garenbrig Carver // Shield's Might)": {
       "number": "156",
       "cost": ["3", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Shield's Might (Garenbrig Carver // Shield's Might)": {
+      "number": "156",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Garenbrig Paladin": {
       "number": "157",
@@ -1144,17 +1202,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Heart's Desire": {
-      "number": "165",
-      "cost": ["g"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Lovestruck Beast": {
+    "Lovestruck Beast (Lovestruck Beast // Heart's Desire)": {
       "number": "165",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Heart's Desire (Lovestruck Beast // Heart's Desire)": {
+      "number": "165",
+      "cost": ["g"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Maraleaf Rider": {
       "number": "166",
@@ -1204,17 +1264,19 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Seasonal Ritual": {
-      "number": "174",
-      "cost": ["g"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Rosethorn Acolyte": {
+    "Rosethorn Acolyte (Rosethorn Acolyte // Seasonal Ritual)": {
       "number": "174",
       "cost": ["2", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Seasonal Ritual (Rosethorn Acolyte // Seasonal Ritual)": {
+      "number": "174",
+      "cost": ["g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Rosethorn Halberd": {
       "number": "175",
@@ -1246,17 +1308,19 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Oaken Boon": {
-      "number": "180",
-      "cost": ["3", "g"],
-      "rarity": "c",
-      "categories": ["spell"]
-    },
-    "Tuinvale Treefolk": {
+    "Tuinvale Treefolk (Tuinvale Treefolk // Oaken Boon)": {
       "number": "180",
       "cost": ["5", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Oaken Boon (Tuinvale Treefolk // Oaken Boon)": {
+      "number": "180",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Wicked Wolf": {
       "number": "181",
@@ -1422,7 +1486,7 @@
     },
     "Deathless Knight": {
       "number": "208",
-      "cost": ["gu", "gu", "gu", "gu"],
+      "cost": ["bg", "bg", "bg", "bg"],
       "rarity": "u",
       "categories": ["creature"]
     },
@@ -1444,11 +1508,19 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Oakhame Ranger": {
+    "Oakhame Ranger (Oakhame Ranger // Bring Back)": {
       "number": "212",
       "cost": ["gw", "gw", "gw", "gw"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
+    },
+    "Bring Back (Oakhame Ranger // Bring Back)": {
+      "number": "212",
+      "cost": ["gw", "gw", "gw", "gw"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
     },
     "Rampart Smasher": {
       "number": "213",
@@ -1573,7 +1645,7 @@
     "Sorcerous Spyglass": {
       "number": "233",
       "cost": ["2"],
-      "rarity": "u",
+      "rarity": "r",
       "categories": ["spell"]
     },
     "Spinning Wheel": {
@@ -1671,18 +1743,6 @@
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
-    },
-    "Mace of the Valiant": {
-      "number": "314",
-      "cost": ["2", "w"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Taste of Death": {
-      "number": "320",
-      "cost": ["4", "b", "b"],
-      "rarity": "r",
-      "categories": ["spell"]
     }
   }
 }

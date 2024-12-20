@@ -94,11 +94,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Halvar, God of Battle // Sword of the Realms": {
+    "Halvar, God of Battle (Halvar, God of Battle // Sword of the Realms)": {
       "number": "15",
       "cost": ["2", "w", "w"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Sword of the Realms (Halvar, God of Battle // Sword of the Realms)": {
+      "number": "15",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Invoke the Divine": {
       "number": "16",
@@ -130,11 +139,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Reidane, God of the Worthy // Valkmira, Protector's Shield": {
+    "Reidane, God of the Worthy (Reidane, God of the Worthy // Valkmira, Protector's Shield)": {
       "number": "21",
       "cost": ["2", "w"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Valkmira, Protector's Shield (Reidane, God of the Worthy // Valkmira, Protector's Shield)": {
+      "number": "21",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Resplendent Marshal": {
       "number": "22",
@@ -244,11 +262,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Alrund, God of the Cosmos // Hakka, Whispering Raven": {
+    "Alrund, God of the Cosmos (Alrund, God of the Cosmos // Hakka, Whispering Raven)": {
       "number": "40",
       "cost": ["3", "u", "u"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Hakka, Whispering Raven (Alrund, God of the Cosmos // Hakka, Whispering Raven)": {
+      "number": "40",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Alrund's Epiphany": {
       "number": "41",
@@ -304,11 +331,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Cosima, God of the Voyage // The Omenkeel": {
+    "Cosima, God of the Voyage (Cosima, God of the Voyage // The Omenkeel)": {
       "number": "50",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "The Omenkeel (Cosima, God of the Voyage // The Omenkeel)": {
+      "number": "50",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Cosmos Charger": {
       "number": "51",
@@ -556,11 +592,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Egon, God of Death // Throne of Death": {
+    "Egon, God of Death (Egon, God of Death // Throne of Death)": {
       "number": "92",
       "cost": ["2", "b"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Throne of Death (Egon, God of Death // Throne of Death)": {
+      "number": "92",
+      "cost": ["b"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Elderfang Disciple": {
       "number": "93",
@@ -676,11 +721,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Tergrid, God of Fright // Tergrid's Lantern": {
+    "Tergrid, God of Fright (Tergrid, God of Fright // Tergrid's Lantern)": {
       "number": "112",
       "cost": ["3", "b", "b"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Tergrid's Lantern (Tergrid, God of Fright // Tergrid's Lantern)": {
+      "number": "112",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Tergrid's Shadow": {
       "number": "113",
@@ -688,11 +742,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Valki, God of Lies // Tibalt, Cosmic Impostor": {
+    "Valki, God of Lies (Valki, God of Lies // Tibalt, Cosmic Impostor)": {
       "number": "114",
       "cost": ["1", "b"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Tibalt, Cosmic Impostor (Valki, God of Lies // Tibalt, Cosmic Impostor)": {
+      "number": "114",
+      "cost": ["5", "b", "r"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Varragoth, Bloodsky Sire": {
       "number": "115",
@@ -742,11 +805,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Birgi, God of Storytelling // Harnfel, Horn of Bounty": {
+    "Birgi, God of Storytelling (Birgi, God of Storytelling // Harnfel, Horn of Bounty)": {
       "number": "123",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Harnfel, Horn of Bounty (Birgi, God of Storytelling // Harnfel, Horn of Bounty)": {
+      "number": "123",
+      "cost": ["4", "r"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Breakneck Berserker": {
       "number": "124",
@@ -928,11 +1000,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Toralf, God of Fury // Toralf's Hammer": {
+    "Toralf, God of Fury (Toralf, God of Fury // Toralf's Hammer)": {
       "number": "154",
       "cost": ["2", "r", "r"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Toralf's Hammer (Toralf, God of Fury // Toralf's Hammer)": {
+      "number": "154",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Tormentor's Helm": {
       "number": "155",
@@ -1012,11 +1093,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Esika, God of the Tree // The Prismatic Bridge": {
+    "Esika, God of the Tree (Esika, God of the Tree // The Prismatic Bridge)": {
       "number": "168",
       "cost": ["1", "g", "g"],
       "rarity": "m",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "The Prismatic Bridge (Esika, God of the Tree // The Prismatic Bridge)": {
+      "number": "168",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Esika's Chariot": {
       "number": "169",
@@ -1078,11 +1168,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Jorn, God of Winter // Kaldring, the Rimestaff": {
+    "Jorn, God of Winter (Jorn, God of Winter // Kaldring, the Rimestaff)": {
       "number": "179",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "Kaldring, the Rimestaff (Jorn, God of Winter // Kaldring, the Rimestaff)": {
+      "number": "179",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "King Harald's Revenge": {
       "number": "180",
@@ -1090,11 +1189,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Kolvori, God of Kinship // The Ringhart Crest": {
+    "Kolvori, God of Kinship (Kolvori, God of Kinship // The Ringhart Crest)": {
       "number": "181",
       "cost": ["2", "g", "g"],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["creature"]
+    },
+    "The Ringhart Crest (Kolvori, God of Kinship // The Ringhart Crest)": {
+      "number": "181",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Littjara Glade-Warden": {
       "number": "182",
@@ -1510,17 +1618,35 @@
       "rarity": "u",
       "categories": ["land"]
     },
-    "Barkchannel Pathway // Tidechannel Pathway": {
+    "Barkchannel Pathway (Barkchannel Pathway // Tidechannel Pathway)": {
       "number": "251",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
     },
-    "Blightstep Pathway // Searstep Pathway": {
+    "Tidechannel Pathway (Barkchannel Pathway // Tidechannel Pathway)": {
+      "number": "251",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Blightstep Pathway (Blightstep Pathway // Searstep Pathway)": {
       "number": "252",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
+    },
+    "Searstep Pathway (Blightstep Pathway // Searstep Pathway)": {
+      "number": "252",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Bretagard Stronghold": {
       "number": "253",
@@ -1528,11 +1654,20 @@
       "rarity": "u",
       "categories": ["land"]
     },
-    "Darkbore Pathway // Slitherbore Pathway": {
+    "Darkbore Pathway (Darkbore Pathway // Slitherbore Pathway)": {
       "number": "254",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
+    },
+    "Slitherbore Pathway (Darkbore Pathway // Slitherbore Pathway)": {
+      "number": "254",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Faceless Haven": {
       "number": "255",
@@ -1564,11 +1699,20 @@
       "rarity": "u",
       "categories": ["land"]
     },
-    "Hengegate Pathway // Mistgate Pathway": {
+    "Hengegate Pathway (Hengegate Pathway // Mistgate Pathway)": {
       "number": "260",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
+    },
+    "Mistgate Pathway (Hengegate Pathway // Mistgate Pathway)": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Highland Forest": {
       "number": "261",

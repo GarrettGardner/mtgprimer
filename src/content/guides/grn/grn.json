@@ -1330,124 +1330,144 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Assemble (Assure // Assemble)": {
-      "number": "221",
-      "cost": ["4", "g", "w"],
-      "rarity": "r",
-      "categories": ["spell"]
-    },
     "Assure (Assure // Assemble)": {
       "number": "221",
       "cost": ["gw", "gw"],
       "rarity": "r",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Assemble (Assure // Assemble)": {
+      "number": "221",
+      "cost": ["4", "g", "w"],
+      "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Connive (Connive // Concoct)": {
       "number": "222",
       "cost": ["2", "ub", "ub"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Concoct (Connive // Concoct)": {
       "number": "222",
       "cost": ["3", "u", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Discovery (Discovery // Dispersal)": {
       "number": "223",
       "cost": ["1", "ub"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Dispersal (Discovery // Dispersal)": {
       "number": "223",
       "cost": ["3", "u", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Expansion (Expansion // Explosion)": {
       "number": "224",
       "cost": ["ur", "ur"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Explosion (Expansion // Explosion)": {
       "number": "224",
       "cost": ["x", "u", "u", "r", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Find (Find // Finality)": {
       "number": "225",
       "cost": ["bg", "bg"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Finality (Find // Finality)": {
       "number": "225",
       "cost": ["4", "b", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Flower (Flower // Flourish)": {
       "number": "226",
       "cost": ["gw"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Flourish (Flower // Flourish)": {
       "number": "226",
       "cost": ["4", "g", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Integrity (Integrity // Intervention)": {
       "number": "227",
       "cost": ["rw"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Intervention (Integrity // Intervention)": {
       "number": "227",
       "cost": ["2", "r", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Invert (Invert // Invent)": {
       "number": "228",
       "cost": ["ur"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Invent (Invert // Invent)": {
       "number": "228",
       "cost": ["4", "u", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Response (Response // Resurgence)": {
       "number": "229",
       "cost": ["rw", "rw"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Resurgence (Response // Resurgence)": {
       "number": "229",
       "cost": ["3", "r", "w"],
       "rarity": "r",
-      "categories": ["spell"]
-    },
-    "Statue (Status // Statue)": {
-      "number": "230",
-      "cost": ["2", "b", "g"],
-      "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Status (Status // Statue)": {
       "number": "230",
       "cost": ["bg"],
       "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Statue (Status // Statue)": {
+      "number": "230",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Boros Locket": {
@@ -1522,26 +1542,14 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Boros Guildgate (a)": {
+    "Boros Guildgate": {
       "number": "243",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
     },
-    "Boros Guildgate (b)": {
-      "number": "244",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Dimir Guildgate (a)": {
+    "Dimir Guildgate": {
       "number": "245",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Dimir Guildgate (b)": {
-      "number": "246",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1552,14 +1560,8 @@
       "rarity": "c",
       "categories": ["land"]
     },
-    "Golgari Guildgate (a)": {
+    "Golgari Guildgate": {
       "number": "248",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Golgari Guildgate (b)": {
-      "number": "249",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1570,14 +1572,8 @@
       "rarity": "r",
       "categories": ["land"]
     },
-    "Izzet Guildgate (a)": {
+    "Izzet Guildgate": {
       "number": "251",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Izzet Guildgate (b)": {
-      "number": "252",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1594,14 +1590,8 @@
       "rarity": "r",
       "categories": ["land"]
     },
-    "Selesnya Guildgate (a)": {
+    "Selesnya Guildgate": {
       "number": "255",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Selesnya Guildgate (b)": {
-      "number": "256",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]

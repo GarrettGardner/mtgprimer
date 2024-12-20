@@ -136,11 +136,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Legion's Landing": {
+    "Legion's Landing (Legion's Landing // Adanto, the First Fort)": {
       "number": "22",
       "cost": ["w"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Adanto, the First Fort (Legion's Landing // Adanto, the First Fort)": {
+      "number": "22",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Looming Altisaur": {
       "number": "23",
@@ -448,11 +457,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Search for Azcanta": {
+    "Search for Azcanta (Search for Azcanta // Azcanta, the Sunken Ruin)": {
       "number": "74",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Azcanta, the Sunken Ruin (Search for Azcanta // Azcanta, the Sunken Ruin)": {
+      "number": "74",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Shaper Apprentice": {
       "number": "75",
@@ -544,11 +562,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Arguel's Blood Fast": {
+    "Arguel's Blood Fast (Arguel's Blood Fast // Temple of Aclazotz)": {
       "number": "90",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Temple of Aclazotz (Arguel's Blood Fast // Temple of Aclazotz)": {
+      "number": "90",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Bishop of the Bloodstained": {
       "number": "91",
@@ -1042,11 +1069,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Vance's Blasting Cannons": {
+    "Vance's Blasting Cannons (Vance's Blasting Cannons // Spitfire Bastion)": {
       "number": "173",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Spitfire Bastion (Vance's Blasting Cannons // Spitfire Bastion)": {
+      "number": "173",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Wily Goblin": {
       "number": "174",
@@ -1150,11 +1186,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Growing Rites of Itlimoc": {
+    "Growing Rites of Itlimoc (Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun)": {
       "number": "191",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Itlimoc, Cradle of the Sun (Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun)": {
+      "number": "191",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Ixalli's Diviner": {
       "number": "192",
@@ -1408,17 +1453,35 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Conqueror's Galleon": {
+    "Conqueror's Galleon (Conqueror's Galleon // Conqueror's Foothold)": {
       "number": "234",
       "cost": ["4"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Dowsing Dagger": {
+    "Conqueror's Foothold (Conqueror's Galleon // Conqueror's Foothold)": {
+      "number": "234",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Dowsing Dagger (Dowsing Dagger // Lost Vale)": {
       "number": "235",
       "cost": ["2"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Lost Vale (Dowsing Dagger // Lost Vale)": {
+      "number": "235",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Dusk Legion Dreadnought": {
       "number": "236",
@@ -1462,11 +1525,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Primal Amulet": {
+    "Primal Amulet (Primal Amulet // Primal Wellspring)": {
       "number": "243",
       "cost": ["4"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Primal Wellspring (Primal Amulet // Primal Wellspring)": {
+      "number": "243",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Prying Blade": {
       "number": "244",
@@ -1498,17 +1570,35 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Thaumatic Compass": {
+    "Thaumatic Compass (Thaumatic Compass // Spires of Orazca)": {
       "number": "249",
       "cost": ["2"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Treasure Map": {
+    "Spires of Orazca (Thaumatic Compass // Spires of Orazca)": {
+      "number": "249",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Treasure Map (Treasure Map // Treasure Cove)": {
       "number": "250",
       "cost": ["2"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Treasure Cove (Treasure Map // Treasure Cove)": {
+      "number": "250",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Vanquisher's Banner": {
       "number": "251",

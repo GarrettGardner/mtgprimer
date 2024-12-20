@@ -10,133 +10,142 @@
     "other": "Other"
   },
   "cards": {
-    "Angelic Purge": {
+    "Arc Spitter": {
       "categories": ["removal"]
     },
-    "Anguished Unmaking": {
+    "Bouncer's Beatdown": {
       "categories": ["removal"]
     },
-    "Archangel Avacyn": {
-      "categories": ["removal", "boardwipe"]
-    },
-    "Arlinn Kord": {
+    "Broken Wings": {
       "categories": ["removal"]
     },
-    "Avacyn's Judgement": {
+    "Brokers Charm": {
       "categories": ["removal"]
     },
-    "Avacynian Missionaries": {
+    "Buy Your Silence": {
       "categories": ["removal"]
     },
-    "Biting Rain": {
+    "Cabaretti Charm": {
+      "categories": ["removal"]
+    },
+    "Call In a Professional": {
+      "categories": ["removal"]
+    },
+    "Cleanup Crew": {
+      "categories": ["removal"]
+    },
+    "Corpse Explosion": {
       "categories": ["boardwipe"]
     },
-    "Bound by Moonsilver": {
+    "Deal Gone Bad": {
       "categories": ["removal"]
     },
-    "Burn from Within": {
-      "categories": ["removal"]
-    },
-    "Clip Wings": {
-      "categories": ["removal"]
-    },
-    "Compelling Deterrence": {
-      "categories": ["bounce"]
-    },
-    "Dead Weight": {
-      "categories": ["removal"]
-    },
-    "Declaration in Stone": {
-      "categories": ["removal"]
-    },
-    "Descend upon the Sinful": {
+    "Depopulate": {
       "categories": ["boardwipe"]
     },
-    "Dissension in the Ranks": {
+    "Dusk Mangler": {
       "categories": ["removal"]
     },
-    "Dual Shot": {
+    "Fatal Grudge": {
       "categories": ["removal"]
     },
-    "Engulf the Shore": {
+    "Grisly Sigil": {
+      "categories": ["removal"]
+    },
+    "Hold for Ransom": {
+      "categories": ["removal"]
+    },
+    "Hostile Takeover": {
       "categories": ["boardwipe"]
     },
-    "Explosive Apparatus": {
+    "Incandescent Aria": {
+      "categories": ["boardwipe"]
+    },
+    "Incriminate": {
       "categories": ["removal"]
     },
-    "Fiery Temper": {
+    "Kill Shot": {
       "categories": ["removal"]
     },
-    "Geistblast": {
+    "Knockout Blow": {
       "categories": ["removal"]
     },
-    "Gone Missing": {
+    "Lagrella, the Magpie": {
+      "categories": ["removal"]
+    },
+    "Light 'Em Up": {
+      "categories": ["removal"]
+    },
+    "Maestros Ascendancy": {
+      "categories": ["removal"]
+    },
+    "Murder": {
+      "categories": ["removal"]
+    },
+    "Mysterious Limousine": {
+      "categories": ["removal"]
+    },
+    "Night Clubber": {
+      "categories": ["boardwipe"]
+    },
+    "Obscura Charm": {
+      "categories": ["removal"]
+    },
+    "Ominous Parcel": {
+      "categories": ["removal"]
+    },
+    "Out of the Way": {
       "categories": ["bounce"]
     },
-    "Humble the Brute": {
+    "Prizefight": {
       "categories": ["removal"]
     },
-    "Inner Struggle": {
-      "categories": ["removal"]
-    },
-    "Just the Wind": {
+    "Psychic Pickpocket": {
       "categories": ["bounce"]
     },
-    "Kindly Stranger": {
+    "Pyre-Sledge Arsonist": {
       "categories": ["removal"]
     },
-    "Lightning Axe": {
+    "Raffine's Silencer": {
       "categories": ["removal"]
     },
-    "Moonlight Hunt": {
+    "Ready to Rumble": {
       "categories": ["removal"]
     },
-    "Murderous Compulsion": {
+    "Riveteers Charm": {
       "categories": ["removal"]
     },
-    "Nahiri, the Harbinger": {
+    "Run Out of Town": {
+      "categories": ["bounce"]
+    },
+    "Soul of Emancipation": {
       "categories": ["removal"]
     },
-    "Puncturing Light": {
+    "Spara's Adjudicators": {
+      "categories": ["temporary"]
+    },
+    "Strangle": {
       "categories": ["removal"]
     },
-    "Rabid Bite": {
+    "Structural Assault": {
+      "categories": ["boardwipe"]
+    },
+    "Torch Breath": {
       "categories": ["removal"]
     },
-    "Reduce to Ashes": {
+    "Unleash the Inferno": {
       "categories": ["removal"]
     },
-    "Root Out": {
-      "categories": ["other"]
-    },
-    "Silverstrike": {
+    "Void Rend": {
       "categories": ["removal"]
     },
-    "Sinister Concoction": {
+    "Whack": {
       "categories": ["removal"]
     },
-    "Sleep Paralysis": {
+    "Witness Protection": {
       "categories": ["removal"]
     },
-    "Sorin, Grim Nemesis": {
-      "categories": ["removal"]
-    },
-    "Structural Distortion": {
-      "categories": ["other"]
-    },
-    "Throttle": {
-      "categories": ["removal"]
-    },
-    "To the Slaughter": {
-      "categories": ["removal"]
-    },
-    "Tooth Collector": {
-      "categories": ["removal"]
-    },
-    "Welcome to the Fold": {
-      "categories": ["removal"]
-    },
-    "Wolf of Devil's Breach": {
+    "Ziatora, the Incinerator": {
       "categories": ["removal"]
     }
   }

@@ -1158,7 +1158,7 @@
     },
     "Ajani, Sleeper Agent": {
       "number": "192",
-      "cost": ["1", "g", "gwp", "w"],
+      "cost": ["1", "g", "gw/p", "w"],
       "rarity": "m",
       "categories": ["spell"]
     },

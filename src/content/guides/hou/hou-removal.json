@@ -10,49 +10,49 @@
     "other": "Other"
   },
   "cards": {
-    "Chaos Warp": {
-      "categories": ["removal"]
+    "Abrade": {
+      "categories": ["spell"]
     },
-    "Crux of Fate": {
+    "Chaos Maw": {
       "categories": ["boardwipe"]
     },
-    "Day of Judgment": {
+    "Desert's Hold": {
+      "categories": ["removal"]
+    },
+    "Fervent Paincaster": {
+      "categories": ["removal"]
+    },
+    "Grind (Grind / Dust)": {
+      "categories": ["removal"]
+    },
+    "Hour of Devastation": {
       "categories": ["boardwipe"]
     },
-    "Despark": {
+    "Hour of Revelation": {
+      "categories": ["boardwipe"]
+    },
+    "Kefnet's Last Word": {
       "categories": ["removal"]
     },
-    "Divine Gambit": {
+    "Lethal Sting": {
       "categories": ["removal"]
     },
-    "Doom Blade": {
+    "Liliana's Defeat": {
       "categories": ["removal"]
     },
-    "Electrolyze": {
+    "Nicol Bolas, God-Pharaoh": {
       "categories": ["removal"]
     },
-    "Eliminate": {
+    "Nissa's Defeat": {
+      "categories": ["other"]
+    },
+    "Samut, the Tested": {
       "categories": ["removal"]
     },
-    "Grapeshot": {
+    "Torment of Hailfire": {
       "categories": ["removal"]
     },
-    "Lightning Bolt": {
-      "categories": ["removal"]
-    },
-    "Lightning Helix": {
-      "categories": ["removal"]
-    },
-    "Putrefy": {
-      "categories": ["removal"]
-    },
-    "Shock": {
-      "categories": ["removal"]
-    },
-    "Swords to Plowshares": {
-      "categories": ["removal"]
-    },
-    "Urza's Rage": {
+    "Torment of Venom": {
       "categories": ["removal"]
     }
   }
