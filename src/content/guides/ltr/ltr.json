@@ -1536,7 +1536,7 @@
     },
     "The Grey Havens": {
       "number": "255",
-      "cost": ["0"],
+      "cost": [],
       "rarity": "u",
       "categories": ["land"]
     },

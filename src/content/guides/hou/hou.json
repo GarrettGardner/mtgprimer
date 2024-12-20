@@ -231,7 +231,7 @@
       "number": "37",
       "cost": ["2", "u", "u"],
       "rarity": "u",
-      "categories": ["creature"]
+      "categories": ["spell"]
     },
     "Jace's Defeat": {
       "number": "38",
@@ -369,7 +369,7 @@
       "number": "60",
       "cost": ["1", "b", "b"],
       "rarity": "r",
-      "categories": ["creature"]
+      "categories": ["spell"]
     },
     "Carrion Screecher": {
       "number": "61",
@@ -893,124 +893,144 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Farm (Farm / Market)": {
+    "Farm (Farm // Market)": {
       "number": "148",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Market (Farm / Market)": {
+    "Market (Farm // Market)": {
       "number": "148",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Consign (Consign / Oblivion)": {
+    "Consign (Consign // Oblivion)": {
       "number": "149",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Oblivion (Consign / Oblivion)": {
+    "Oblivion (Consign // Oblivion)": {
       "number": "149",
       "cost": ["4", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Claim (Claim / Fame)": {
+    "Claim (Claim // Fame)": {
       "number": "150",
       "cost": ["b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fame (Claim / Fame)": {
+    "Fame (Claim // Fame)": {
       "number": "150",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Struggle (Struggle / Survive)": {
+    "Struggle (Struggle // Survive)": {
       "number": "151",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Survive (Struggle / Survive)": {
+    "Survive (Struggle // Survive)": {
       "number": "151",
       "cost": ["1", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Appeal (Appeal / Authority)": {
+    "Appeal (Appeal // Authority)": {
       "number": "152",
       "cost": ["g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Authority (Appeal / Authority)": {
+    "Authority (Appeal // Authority)": {
       "number": "152",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Leave (Leave / Chance)": {
+    "Leave (Leave // Chance)": {
       "number": "153",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Chance (Leave / Chance)": {
+    "Chance (Leave // Chance)": {
       "number": "153",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Reason (Reason / Believe)": {
+    "Reason (Reason // Believe)": {
       "number": "154",
       "cost": ["u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Believe (Reason / Believe)": {
+    "Believe (Reason // Believe)": {
       "number": "154",
       "cost": ["4", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Grind (Grind / Dust)": {
+    "Grind (Grind // Dust)": {
       "number": "155",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dust (Grind / Dust)": {
+    "Dust (Grind // Dust)": {
       "number": "155",
       "cost": ["3", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Refuse (Refuse / Cooperate)": {
+    "Refuse (Refuse // Cooperate)": {
       "number": "156",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Cooperate (Refuse / Cooperate)": {
+    "Cooperate (Refuse // Cooperate)": {
       "number": "156",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Driven (Driven / Despair)": {
+    "Driven (Driven // Despair)": {
       "number": "157",
       "cost": ["1", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Despair (Driven / Despair)": {
+    "Despair (Driven // Despair)": {
       "number": "157",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Abandoned Sarcophagus": {

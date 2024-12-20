@@ -1,6 +1,21 @@
 @use "../../../sass/mixins" as *;
 
 .guideGroup {
+  position: relative;
+
+  > :global(.anchor) {
+    height: 0;
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+    top: calc(var(--size-header-height) * -1);
+    width: 0;
+
+    @include breakpoint("desktop") {
+      top: 0;
+    }
+  }
+
   > h3 {
     align-items: stretch;
     background: black url("/images/bg/pattern-asfalt-dark.jpg") repeat center
@@ -48,7 +63,7 @@
       justify-content: flex-start;
 
       @include breakpoint("desktop") {
-        padding: rem-convert(12px) rem-convert(16px) rem-convert(12px)
+        padding: rem-convert(12px) rem-convert(272px) rem-convert(12px)
           rem-convert(16px);
       }
 

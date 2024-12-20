@@ -1,0 +1,140 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Bloodline Culling": {
+      "categories": ["removal"]
+    },
+    "Borrowed Time": {
+      "categories": ["removal"]
+    },
+    "Brutal Cathar // Moonrage Brute": {
+      "categories": ["removal"]
+    },
+    "Burn Down the House": {
+      "categories": ["boardwipe"]
+    },
+    "Burn the Accursed": {
+      "categories": ["removal"]
+    },
+    "Candletrap": {
+      "categories": ["removal"]
+    },
+    "Cathartic Pyre": {
+      "categories": ["removal"]
+    },
+    "Clear Shot": {
+      "categories": ["removal"]
+    },
+    "Covert Cutpurse // Covetous Geist": {
+      "categories": ["removal"]
+    },
+    "Defenestrate": {
+      "categories": ["removal"]
+    },
+    "Devoted Grafkeeper // Departed Soulkeeper": {
+      "categories": ["tap"]
+    },
+    "Duel for Dominance": {
+      "categories": ["removal"]
+    },
+    "Eaten Alive": {
+      "categories": ["removal"]
+    },
+    "Fading Hope": {
+      "categories": ["bounce"]
+    },
+    "Fateful Absence": {
+      "categories": ["removal"]
+    },
+    "Foul Play": {
+      "categories": ["removal"]
+    },
+    "Gavony Trapper": {
+      "categories": ["tap"]
+    },
+    "Geistflame Reservoir": {
+      "categories": ["removal"]
+    },
+    "Geistwave": {
+      "categories": ["bounce"]
+    },
+    "Hallowed Respite": {
+      "categories": ["tap"]
+    },
+    "Immolation": {
+      "categories": ["removal"]
+    },
+    "Infernal Grasp": {
+      "categories": ["removal"]
+    },
+    "Light Up the Night": {
+      "categories": ["removal"]
+    },
+    "Locked in the Cemetery": {
+      "categories": ["removal"]
+    },
+    "Moonrager's Slash": {
+      "categories": ["removal"]
+    },
+    "Mysterious Tome // Chilling Chronicle": {
+      "categories": ["tap"]
+    },
+    "Neonate's Rush": {
+      "categories": ["removal"]
+    },
+    "Olivia's Midnight Ambush": {
+      "categories": ["removal"]
+    },
+    "Pack's Betrayal": {
+      "categories": ["removal"]
+    },
+    "Play with Fire": {
+      "categories": ["removal"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Purifying Dragon": {
+      "categories": ["removal"]
+    },
+    "Revenge of the Drowned": {
+      "categories": ["removal"]
+    },
+    "Sacred Fire": {
+      "categories": ["removal"]
+    },
+    "Silver Bolt": {
+      "categories": ["removal"]
+    },
+    "Skaab Wrangler": {
+      "categories": ["tap"]
+    },
+    "Sungold Barrage": {
+      "categories": ["removal"]
+    },
+    "The Meathook Massacre": {
+      "categories": ["boardwipe"]
+    },
+    "Thraben Exorcism": {
+      "categories": ["removal"]
+    },
+    "Vanquish the Horde": {
+      "categories": ["boardwipe"]
+    },
+    "Voldaren Ambusher": {
+      "categories": ["removal"]
+    },
+    "Winterthorn Blessing": {
+      "categories": ["tap"]
+    }
+  }
+}

@@ -35,6 +35,7 @@ export interface IGuide {
   name: string;
   description?: string;
   icon?: string;
+  tags?: string[];
   cards: ICard[];
 }
 

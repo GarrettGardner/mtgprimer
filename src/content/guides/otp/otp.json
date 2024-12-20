@@ -238,16 +238,18 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Crime // Punishment (Crime)": {
+    "Crime (Crime // Punishment)": {
       "number": "39",
       "cost": ["3", "w", "b"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Crime // Punishment (Punishment)": {
+    "Punishment (Crime // Punishment)": {
       "number": "39",
       "cost": ["x", "b", "g"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Cruel Ultimatum": {

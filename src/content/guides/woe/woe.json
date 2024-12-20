@@ -33,12 +33,14 @@
       "number": "4",
       "cost": ["3", "w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Betroth the Beast (Besotted Knight // Betroth the Beast)": {
       "number": "4",
       "cost": ["w"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Break the Spell": {
@@ -57,12 +59,14 @@
       "number": "7",
       "cost": ["w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Squeak By (Cheeky House-Mouse // Squeak By)": {
       "number": "7",
       "cost": ["w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Cooped Up": {
@@ -249,12 +253,14 @@
       "number": "38",
       "cost": ["3", "w", "w"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Ardenvale Fealty (Virtue of Loyalty // Ardenvale Fealty)": {
       "number": "38",
       "cost": ["1", "w"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Werefox Bodyguard": {
@@ -267,12 +273,14 @@
       "number": "40",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Bubble Up (Aquatic Alchemist // Bubble Up)": {
       "number": "40",
       "cost": ["2", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Archive Dragon": {
@@ -291,12 +299,14 @@
       "number": "43",
       "cost": ["5", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Entry Denied (Beluna's Gatekeeper // Entry Denied)": {
       "number": "43",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Bitter Chill": {
@@ -351,24 +361,28 @@
       "number": "52",
       "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Storm Reading (Galvanic Giant // Storm Reading)": {
       "number": "52",
       "cost": ["5", "u", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Horned Loch-Whale (Horned Loch-Whale // Lagoon Breach)": {
       "number": "53",
       "cost": ["4", "u", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Lagoon Breach (Horned Loch-Whale // Lagoon Breach)": {
       "number": "53",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Ice Out": {
@@ -429,24 +443,28 @@
       "number": "63",
       "cost": ["4", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Desperate Parry (Obyra's Attendants // Desperate Parry)": {
       "number": "63",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Picklock Prankster (Picklock Prankster // Free the Fae)": {
       "number": "64",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Free the Fae (Picklock Prankster // Free the Fae)": {
       "number": "64",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Quick Study": {
@@ -513,24 +531,28 @@
       "number": "75",
       "cost": ["3", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Croaking Curse (Vantress Transmuter // Croaking Curse)": {
       "number": "75",
       "cost": ["1", "u"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Virtue of Knowledge (Virtue of Knowledge // Vantress Visions)": {
       "number": "76",
       "cost": ["4", "u"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Vantress Visions (Virtue of Knowledge // Vantress Visions)": {
       "number": "76",
       "cost": ["1", "u"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Water Wings": {
@@ -579,12 +601,14 @@
       "number": "84",
       "cost": ["2", "b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Price of Beauty (Conceited Witch // Price of Beauty)": {
       "number": "84",
       "cost": ["b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Dream Spoilers": {
@@ -633,24 +657,28 @@
       "number": "92",
       "cost": ["3", "b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Deathly Ride (Fell Horseman // Deathly Ride)": {
       "number": "92",
       "cost": ["1", "b"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Gumdrop Poisoner (Gumdrop Poisoner // Tempt with Treats)": {
       "number": "93",
       "cost": ["2", "b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Tempt with Treats (Gumdrop Poisoner // Tempt with Treats)": {
       "number": "93",
       "cost": ["b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "High Fae Negotiator": {
@@ -783,12 +811,14 @@
       "number": "115",
       "cost": ["5", "b", "b"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Locthwain Scorn (Virtue of Persistence // Locthwain Scorn)": {
       "number": "115",
       "cost": ["1", "b"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Voracious Vermin": {
@@ -825,12 +855,14 @@
       "number": "121",
       "cost": ["4", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Beat a Path (Bellowing Bruiser // Beat a Path)": {
       "number": "121",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Bespoke Battlegarb": {
@@ -903,12 +935,14 @@
       "number": "133",
       "cost": ["3", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "That's Mine (Grabby Giant // That's Mine)": {
       "number": "133",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Grand Ball Guest": {
@@ -927,12 +961,14 @@
       "number": "136",
       "cost": ["5", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Stoke Genius (Hearth Elemental // Stoke Genius)": {
       "number": "136",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Imodane, the Pyrohammer": {
@@ -963,12 +999,14 @@
       "number": "141",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Ride the Rails (Minecart Daredevil // Ride the Rails)": {
       "number": "141",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Monstrous Rage": {
@@ -987,12 +1025,14 @@
       "number": "144",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Pest Problem (Ratcatcher Trainee // Pest Problem)": {
       "number": "144",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Realm-Scorcher Hellkite": {
@@ -1059,12 +1099,14 @@
       "number": "155",
       "cost": ["4", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Twice the Rage (Two-Headed Hunter // Twice the Rage)": {
       "number": "155",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Unruly Catapult": {
@@ -1077,12 +1119,14 @@
       "number": "157",
       "cost": ["3", "r", "r"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Embereth Blaze (Virtue of Courage // Embereth Blaze)": {
       "number": "157",
       "cost": ["1", "r"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Witch's Mark": {
@@ -1107,12 +1151,14 @@
       "number": "161",
       "cost": ["4", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Plant Beans (Beanstalk Wurm // Plant Beans)": {
       "number": "161",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Bestial Bloodline": {
@@ -1131,12 +1177,14 @@
       "number": "164",
       "cost": ["1", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Fetch Quest (Bramble Familiar // Fetch Quest)": {
       "number": "164",
       "cost": ["5", "g", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Brave the Wilds": {
@@ -1173,12 +1221,14 @@
       "number": "170",
       "cost": ["3", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Guard Change (Ferocious Werefox // Guard Change)": {
       "number": "170",
       "cost": ["1", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Graceful Takedown": {
@@ -1203,12 +1253,14 @@
       "number": "174",
       "cost": ["2", "g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Bakery Raid (Hollow Scavenger // Bakery Raid)": {
       "number": "174",
       "cost": ["g"],
       "rarity": "c",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Howling Galefang": {
@@ -1287,12 +1339,14 @@
       "number": "187",
       "cost": ["4", "g", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Bear Down (Stormkeld Vanguard // Bear Down)": {
       "number": "187",
       "cost": ["1", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Tanglespan Lookout": {
@@ -1353,12 +1407,14 @@
       "number": "197",
       "cost": ["5", "g", "g"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Garenbrig Growth (Virtue of Strength // Garenbrig Growth)": {
       "number": "197",
       "cost": ["g"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Welcome to Sweettooth": {
@@ -1497,264 +1553,308 @@
       "number": "220",
       "cost": ["g", "u", "r"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Seek Thrills (Beluna Grandsquall // Seek Thrills)": {
       "number": "220",
       "cost": ["2", "g", "u", "r"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Callous Sell-Sword (Callous Sell-Sword // Burn Together)": {
       "number": "221",
       "cost": ["1", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Burn Together (Callous Sell-Sword // Burn Together)": {
       "number": "221",
       "cost": ["r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Cruel Somnophage (Cruel Somnophage // Can't Wake Up)": {
       "number": "222",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Can't Wake Up (Cruel Somnophage // Can't Wake Up)": {
       "number": "222",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Decadent Dragon (Decadent Dragon // Expensive Taste)": {
       "number": "223",
       "cost": ["2", "r", "r"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Expensive Taste (Decadent Dragon // Expensive Taste)": {
       "number": "223",
       "cost": ["2", "b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Devouring Sugarmaw (Devouring Sugarmaw // Have for Dinner)": {
       "number": "224",
       "cost": ["2", "b", "b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Have for Dinner (Devouring Sugarmaw // Have for Dinner)": {
       "number": "224",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Elusive Otter (Elusive Otter // Grove's Bounty)": {
       "number": "225",
       "cost": ["u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Grove's Bounty (Elusive Otter // Grove's Bounty)": {
       "number": "225",
       "cost": ["x", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Frolicking Familiar (Frolicking Familiar // Blow Off Steam)": {
       "number": "226",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Blow Off Steam (Frolicking Familiar // Blow Off Steam)": {
       "number": "226",
       "cost": ["r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Gingerbread Hunter (Gingerbread Hunter // Puny Snack)": {
       "number": "227",
       "cost": ["4", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Puny Snack (Gingerbread Hunter // Puny Snack)": {
       "number": "227",
       "cost": ["2", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Heartflame Duelist (Heartflame Duelist // Heartflame Slash)": {
       "number": "228",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Heartflame Slash (Heartflame Duelist // Heartflame Slash)": {
       "number": "228",
       "cost": ["2", "r"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Imodane's Recruiter (Imodane's Recruiter // Train Troops)": {
       "number": "229",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Train Troops (Imodane's Recruiter // Train Troops)": {
       "number": "229",
       "cost": ["4", "w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Kellan, the Fae-Blooded (Kellan, the Fae-Blooded // Birthright Boon)": {
       "number": "230",
       "cost": ["2", "r"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Birthright Boon (Kellan, the Fae-Blooded // Birthright Boon)": {
       "number": "230",
       "cost": ["1", "w"],
       "rarity": "m",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Mosswood Dreadknight (Mosswood Dreadknight // Dread Whispers)": {
       "number": "231",
       "cost": ["1", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Dread Whispers (Mosswood Dreadknight // Dread Whispers)": {
       "number": "231",
       "cost": ["1", "b"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Picnic Ruiner (Picnic Ruiner // Stolen Goodies)": {
       "number": "232",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Stolen Goodies (Picnic Ruiner // Stolen Goodies)": {
       "number": "232",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Pollen-Shield Hare (Pollen-Shield Hare // Hare Raising)": {
       "number": "233",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Hare Raising (Pollen-Shield Hare // Hare Raising)": {
       "number": "233",
       "cost": ["g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Questing Druid (Questing Druid // Seek the Beast)": {
       "number": "234",
       "cost": ["1", "g"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Seek the Beast (Questing Druid // Seek the Beast)": {
       "number": "234",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Scalding Viper (Scalding Viper // Steam Clean)": {
       "number": "235",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Steam Clean (Scalding Viper // Steam Clean)": {
       "number": "235",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Shrouded Shepherd (Shrouded Shepherd // Cleave Shadows)": {
       "number": "236",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Cleave Shadows (Shrouded Shepherd // Cleave Shadows)": {
       "number": "236",
       "cost": ["1", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Spellscorn Coven (Spellscorn Coven // Take It Back)": {
       "number": "237",
       "cost": ["3", "b"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Take It Back (Spellscorn Coven // Take It Back)": {
       "number": "237",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Tempest Hart (Tempest Hart // Scan the Clouds)": {
       "number": "238",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Scan the Clouds (Tempest Hart // Scan the Clouds)": {
       "number": "238",
       "cost": ["1", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Threadbind Clique (Threadbind Clique // Rip the Seams)": {
       "number": "239",
       "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Rip the Seams (Threadbind Clique // Rip the Seams)": {
       "number": "239",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Twining Twins (Twining Twins // Swift Spiral)": {
       "number": "240",
       "cost": ["2", "u", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Swift Spiral (Twining Twins // Swift Spiral)": {
       "number": "240",
       "cost": ["1", "w"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Woodland Acolyte (Woodland Acolyte // Mend the Wilds)": {
       "number": "241",
       "cost": ["2", "w"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["creature"]
     },
     "Mend the Wilds (Woodland Acolyte // Mend the Wilds)": {
       "number": "241",
       "cost": ["g"],
       "rarity": "u",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Agatha's Soul Cauldron": {

@@ -3,7 +3,21 @@
 .home {
   text-align: center;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
-  padding: rem-convert(80px) 0;
+  padding: rem-convert(80px) rem-convert(16px);
+  margin: 0 auto;
+  max-width: rem-convert(1920px);
+
+  @include breakpoint("tablet") {
+    padding: rem-convert(80px) rem-convert(32px);
+  }
+
+  @include breakpoint("desktop") {
+    padding: rem-convert(80px) rem-convert(48px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(80px) rem-convert(64px);
+  }
 
   :global(.logo) {
     margin: 0 auto rem-convert(12px);
@@ -46,6 +60,14 @@
         margin-bottom: 0;
         padding: 0 rem-convert(24px);
         width: 33.3333%;
+      }
+
+      @include breakpoint("desktop") {
+        padding: 0 rem-convert(32px);
+      }
+
+      @include breakpoint("wide") {
+        padding: 0 rem-convert(48px);
       }
     }
   }

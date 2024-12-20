@@ -850,7 +850,7 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Ã†ther Spellbomb": {
+    "Aether Spellbomb": {
       "number": "141",
       "cost": ["1"],
       "rarity": "c",
@@ -1048,7 +1048,7 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Gate to the Ã†ther": {
+    "Gate to the Aether": {
       "number": "174",
       "cost": ["6"],
       "rarity": "r",

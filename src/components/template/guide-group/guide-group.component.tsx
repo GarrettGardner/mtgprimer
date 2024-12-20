@@ -2,7 +2,12 @@
 
 import type { ITemplateGuideGroup } from "@/models";
 
-import { FilterBar, PageHeader } from "@/components/layout";
+import {
+  FilterBar,
+  JumpSearch,
+  PageHeader,
+  TableOfContents,
+} from "@/components/layout";
 import { CardGroups, Icon } from "@/components/common";
 
 import styles from "./guide-group.module.scss";
@@ -12,15 +17,19 @@ export const TemplateGuideGroup = (props: {
 }) => {
   return (
     <>
-      {/*<pre>{JSON.stringify(props.template.filter, null, 2)}</pre>*/}
       <PageHeader
         title={props.template.title}
         icon={props.template.icon}
         formatName={props.template.formatName}
         description={props.template.description}
       />
+      <JumpSearch guides={props.template.guides} />
+      <TableOfContents guides={props.template.guides} />
       {props.template.guides.map((guide, key) => (
         <div className={styles.guideGroup} key={key}>
+          <a id={guide.key} className="anchor">
+            {guide.name}
+          </a>
           <h3>
             <span className="icon">
               <Icon slug={guide.icon ?? "fas fa-gift"} />

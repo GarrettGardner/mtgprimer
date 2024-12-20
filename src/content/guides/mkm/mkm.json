@@ -1276,16 +1276,18 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Kellan, Inquisitive Prodigy // Tail the Suspect (Kellan, Inquisitive Prodigy)": {
+    "Kellan, Inquisitive Prodigy (Kellan, Inquisitive Prodigy // Tail the Suspect)": {
       "number": "212",
       "cost": ["2", "g", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["creature"]
     },
-    "Kellan, Inquisitive Prodigy // Tail the Suspect (Tail the Suspect)": {
+    "Tail the Suspect (Kellan, Inquisitive Prodigy // Tail the Suspect)": {
       "number": "212",
       "cost": ["g", "u"],
       "rarity": "r",
+      "layout": "adventure",
       "categories": ["spell"]
     },
     "Kraul Whipcracker": {
@@ -1486,64 +1488,74 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Cease // Desist (Cease)": {
+    "Cease (Cease // Desist)": {
       "number": "246",
       "cost": ["1", "bg"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Cease // Desist (Desist)": {
+    "Desist (Cease // Desist)": {
       "number": "246",
       "cost": ["4", "gw", "gw"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Flotsam // Jetsam (Flotsam)": {
+    "Flotsam (Flotsam // Jetsam)": {
       "number": "247",
       "cost": ["1", "gu"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Flotsam // Jetsam (Jetsam)": {
+    "Jetsam (Flotsam // Jetsam)": {
       "number": "247",
       "cost": ["4", "ub", "ub"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fuss // Bother (Fuss)": {
+    "Fuss (Fuss // Bother)": {
       "number": "248",
       "cost": ["2", "rw"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Fuss // Bother (Bother)": {
+    "Bother (Fuss // Bother)": {
       "number": "248",
       "cost": ["4", "wu", "wu"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Hustle // Bustle (Hustle)": {
+    "Hustle (Hustle // Bustle)": {
       "number": "249",
       "cost": ["ur"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Hustle // Bustle (Bustle)": {
+    "Bustle (Hustle // Bustle)": {
       "number": "249",
       "cost": ["4", "rg", "rg"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Push // Pull (Push)": {
+    "Push (Push // Pull)": {
       "number": "250",
       "cost": ["1", "wb"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Push // Pull (Pull)": {
+    "Pull (Push // Pull)": {
       "number": "250",
       "cost": ["4", "br", "br"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Cryptex": {

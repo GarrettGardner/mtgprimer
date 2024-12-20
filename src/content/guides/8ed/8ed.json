@@ -16,16 +16,34 @@
       "rarity": "u",
       "categories": ["creature"]
     },
+    "Eager Cadet": {
+      "number": "s1",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
     "Angelic Page": {
       "number": "2",
       "cost": ["1", "w"],
       "rarity": "c",
       "categories": ["creature"]
     },
+    "Vengeance": {
+      "number": "s2",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
     "Ardent Militia": {
       "number": "3",
       "cost": ["4", "w"],
       "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Giant Octopus": {
+      "number": "s3",
+      "cost": ["3", "u"],
+      "rarity": "c",
       "categories": ["creature"]
     },
     "Avatar of Hope": {
@@ -34,10 +52,22 @@
       "rarity": "r",
       "categories": ["creature"]
     },
+    "Sea Eagle": {
+      "number": "s4",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
     "Aven Cloudchaser": {
       "number": "5",
       "cost": ["3", "w"],
       "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vizzerdrix": {
+      "number": "s5",
+      "cost": ["6", "u"],
+      "rarity": "r",
       "categories": ["creature"]
     },
     "Aven Flock": {
@@ -46,11 +76,23 @@
       "rarity": "c",
       "categories": ["creature"]
     },
+    "Enormous Baloth": {
+      "number": "s6",
+      "cost": ["6", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
     "Blessed Reversal": {
       "number": "7",
       "cost": ["1", "w"],
       "rarity": "r",
       "categories": ["spell"]
+    },
+    "Silverback Ape": {
+      "number": "s7",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
     },
     "Blinding Angel": {
       "number": "8",

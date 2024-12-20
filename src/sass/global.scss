@@ -2,6 +2,7 @@
 
 :root {
   --color-gray-dark-ultra: #151513;
+  --color-gray-dark: #404038;
   --color-gray: #808080;
   --color-gray-light: #e0e0e0;
   --color-highlight: #ff8c00;
@@ -40,6 +41,7 @@ a {
 body,
 html {
   min-height: 100vh;
+  scroll-behavior: smooth;
 }
 
 body {

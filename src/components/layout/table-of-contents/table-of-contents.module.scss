@@ -1,0 +1,79 @@
+@use "../../../sass/mixins" as *;
+
+.tableOfContents {
+  max-width: rem-convert(1320px);
+  padding: rem-convert(32px) rem-convert(16px);
+
+  @include breakpoint("desktop") {
+    padding: rem-convert(64px) rem-convert(272px) rem-convert(64px)
+      rem-convert(48px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(64px) rem-convert(320px) rem-convert(64px)
+      rem-convert(48px);
+  }
+
+  h3 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    font-size: rem-convert(28px);
+    font-weight: 800;
+    letter-spacing: rem-convert(1px);
+    padding-bottom: rem-convert(8px);
+    text-shadow: 0 0 rem-convert(8px) black;
+    margin: 0 0 rem-convert(16px);
+
+    @include breakpoint("desktop") {
+      font-size: rem-convert(48px);
+      letter-spacing: rem-convert(2px);
+      padding-bottom: rem-convert(16px);
+      margin: 0 0 rem-convert(32px);
+    }
+  }
+
+  :global(.links) {
+    display: flex;
+    flex-wrap: wrap;
+
+    :global(.link) {
+      align-items: center;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: rem-convert(12px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      display: flex;
+      font-size: rem-convert(13px);
+      font-weight: 300;
+      letter-spacing: rem-convert(0.25px);
+      line-height: 1.25;
+      margin: 0 rem-convert(4px) rem-convert(4px) 0;
+      padding: rem-convert(5px) rem-convert(8px) rem-convert(4px);
+      transition:
+        background 0.35s ease,
+        color 0.35s ease;
+
+      @include breakpoint("desktop") {
+        border-radius: rem-convert(16px);
+        font-size: rem-convert(16px);
+        margin: 0 rem-convert(6px) rem-convert(6px) 0;
+        padding: rem-convert(7px) rem-convert(14px) rem-convert(6px);
+      }
+
+      &:hover,
+      &:focus {
+        background: var(--color-highlight);
+      }
+
+      :global(.icon) {
+        margin-bottom: rem-convert(1px);
+        margin-right: rem-convert(6px);
+        font-size: rem-convert(12px);
+        line-height: 1;
+
+        @include breakpoint("desktop") {
+          margin-right: rem-convert(8px);
+          font-size: rem-convert(14px);
+        }
+      }
+    }
+  }
+}

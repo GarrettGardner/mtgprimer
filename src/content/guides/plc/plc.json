@@ -676,22 +676,46 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Boom // Bust": {
+    "Boom (Boom // Bust)": {
       "number": "112",
-      "cost": ["1", "r", " // 5", "r"],
+      "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dead // Gone": {
+    "Bust (Boom // Bust)": {
+      "number": "112",
+      "cost": ["5", "r"],
+      "rarity": "r",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Dead (Dead // Gone)": {
       "number": "113",
-      "cost": ["r", " // 2", "r"],
+      "cost": ["r"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Rough // Tumble": {
+    "Gone (Dead // Gone)": {
+      "number": "113",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Rough (Rough // Tumble)": {
       "number": "114",
-      "cost": ["1", "r", " // 5", "r"],
+      "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Tumble (Rough // Tumble)": {
+      "number": "114",
+      "cost": ["5", "r"],
+      "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Blood Knight": {

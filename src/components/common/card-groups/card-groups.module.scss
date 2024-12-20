@@ -2,7 +2,6 @@
 
 .guide {
   flex: 1 1 auto;
-  height: 100%;
   position: relative;
 
   &::before {
@@ -42,7 +41,9 @@
       :global(.headerText) {
         background: linear-gradient(
           to right,
-          rgba(0, 0, 0, 0.6),
+          rgba(0, 0, 0, 1),
+          rgba(0, 0, 0, 1) rem-convert(80px),
+          rgba(0, 0, 0, 0.6) 30%,
           rgba(0, 0, 0, 0.6) 75%,
           rgba(0, 0, 0, 0) 95%
         );

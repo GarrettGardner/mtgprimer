@@ -1,9 +1,4 @@
-import type {
-  IFilterOptions,
-  IFilter,
-  IGuide,
-  TPageConfigTemplate,
-} from "@/models";
+import type { IFilter, IGuide, TPageConfigTemplate } from "@/models";
 
 export interface ITemplateMenuPage {
   path: string;

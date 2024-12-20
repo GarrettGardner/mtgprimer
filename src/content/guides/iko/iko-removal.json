@@ -1,0 +1,167 @@
+{
+  "name": "Removal",
+  "defaultGrouping": "category",
+  "defaultOrdering": "number",
+  "categories": {
+    "removal": "Removal",
+    "bounce": "Bounce",
+    "temporary": "Temporary",
+    "boardwipe": "Board Wipe",
+    "other": "Other"
+  },
+  "cards": {
+    "Archipelagore": {
+      "categories": ["temporary"]
+    },
+    "Back for More": {
+      "categories": ["removal"]
+    },
+    "Blade Banish": {
+      "categories": ["removal"]
+    },
+    "Blazing Volley": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Blitz Leech": {
+      "categories": ["removal"]
+    },
+    "Blitz of the Thunder-Raptor": {
+      "categories": ["removal"]
+    },
+    "Blood Curdle": {
+      "categories": ["removal"]
+    },
+    "Capture Sphere": {
+      "categories": ["removal"]
+    },
+    "Channeled Force": {
+      "categories": ["removal"]
+    },
+    "Charge of the Forever-Beast": {
+      "categories": ["removal"]
+    },
+    "Checkpoint Officer": {
+      "categories": ["temporary"]
+    },
+    "Chittering Harvester": {
+      "categories": ["removal"]
+    },
+    "Dead Weight": {
+      "categories": ["removal"]
+    },
+    "Dire Tactics": {
+      "categories": ["removal"]
+    },
+    "Dirge Bat": {
+      "categories": ["removal"]
+    },
+    "Divine Arrow": {
+      "categories": ["removal"]
+    },
+    "Easy Prey": {
+      "categories": ["removal"]
+    },
+    "Extinction Event": {
+      "categories": ["boardwipe"]
+    },
+    "Fire Prophecy": {
+      "categories": ["removal"]
+    },
+    "Flame Spill": {
+      "categories": ["removal"]
+    },
+    "Frondland Felidar": {
+      "categories": ["temporary"]
+    },
+    "Frost Lynx": {
+      "categories": ["temporary"]
+    },
+    "Frostveil Ambush": {
+      "categories": ["temporary"]
+    },
+    "General Kudro of Drannith": {
+      "categories": ["removal"]
+    },
+    "Go for Blood": {
+      "categories": ["removal"]
+    },
+    "Gust of Wind": {
+      "categories": ["bounce"]
+    },
+    "Hampering Snare": {
+      "categories": ["other"]
+    },
+    "Heartless Act": {
+      "categories": ["removal"]
+    },
+    "Inspired Ultimatum": {
+      "categories": ["removal"]
+    },
+    "Kogla, the Titan Ape": {
+      "categories": ["removal"]
+    },
+    "Lurking Deadeye": {
+      "categories": ["removal"]
+    },
+    "Monstrous Step": {
+      "categories": ["removal"]
+    },
+    "Mutual Destruction": {
+      "categories": ["removal"]
+    },
+    "Mystic Subdual": {
+      "categories": ["other"]
+    },
+    "Mythos of Nethroi": {
+      "categories": ["removal"]
+    },
+    "Mythos of Snapdax": {
+      "categories": ["boardwipe"]
+    },
+    "Mythos of Vadrok": {
+      "categories": ["removal"]
+    },
+    "Narset of the Ancient Way": {
+      "categories": ["removal"]
+    },
+    "Pacifism": {
+      "categories": ["removal"]
+    },
+    "Plummet": {
+      "categories": ["removal"]
+    },
+    "Pouncing Shoreshark": {
+      "categories": ["bounce"]
+    },
+    "Ram Through": {
+      "categories": ["removal"]
+    },
+    "Ruinous Ultimatum": {
+      "categories": ["boardwipe"]
+    },
+    "Rumbling Rockslide": {
+      "categories": ["removal"]
+    },
+    "Savai Thundermane": {
+      "categories": ["removal"]
+    },
+    "Shredded Sails": {
+      "categories": ["removal"]
+    },
+    "Springjaw Trap": {
+      "categories": ["removal"]
+    },
+    "Suffocating Fumes": {
+      "categories": ["removal", "boardwipe"]
+    },
+    "Swallow Whole": {
+      "categories": ["removal"]
+    },
+    "Weaponize the Monsters": {
+      "categories": ["removal"]
+    },
+    "Zenith Flare": {
+      "categories": ["removal"]
+    }
+  }
+}

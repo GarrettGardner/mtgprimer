@@ -2187,36 +2187,6 @@
       "cost": [],
       "rarity": "r",
       "categories": ["land"]
-    },
-    "Plains": {
-      "number": "364",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Island": {
-      "number": "368",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Swamp": {
-      "number": "372",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Mountain": {
-      "number": "376",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Forest": {
-      "number": "380",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
     }
   }
 }

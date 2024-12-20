@@ -142,11 +142,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Kytheon, Hero of Akros": {
+    "Kytheon, Hero of Akros (Kytheon, Hero of Akros // Gideon, Battle-Forged)": {
       "number": "23",
       "cost": ["w"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Gideon, Battle-Forged (Kytheon, Hero of Akros // Gideon, Battle-Forged)": {
+      "number": "23",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Kytheon's Irregulars": {
       "number": "24",
@@ -268,7 +277,7 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Anchor to the Ã†ther": {
+    "Anchor to the Aether": {
       "number": "44",
       "cost": ["2", "u"],
       "rarity": "u",
@@ -364,11 +373,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Jace, Vryn's Prodigy": {
+    "Jace, Vryn's Prodigy (Jace, Vryn's Prodigy // Jace, Telepath Unbound)": {
       "number": "60",
       "cost": ["1", "u"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Jace, Telepath Unbound (Jace, Vryn's Prodigy // Jace, Telepath Unbound)": {
+      "number": "60",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Jace's Sanctum": {
       "number": "61",
@@ -640,11 +658,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Liliana, Heretical Healer": {
+    "Liliana, Heretical Healer (Liliana, Heretical Healer // Liliana, Defiant Necromancer)": {
       "number": "106",
       "cost": ["1", "b", "b"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Liliana, Defiant Necromancer (Liliana, Heretical Healer // Liliana, Defiant Necromancer)": {
+      "number": "106",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Macabre Waltz": {
       "number": "107",
@@ -814,11 +841,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Chandra, Fire of Kaladesh": {
+    "Chandra, Fire of Kaladesh (Chandra, Fire of Kaladesh // Chandra, Roaring Flame)": {
       "number": "135",
       "cost": ["1", "r", "r"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Chandra, Roaring Flame (Chandra, Fire of Kaladesh // Chandra, Roaring Flame)": {
+      "number": "135",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Chandra's Fury": {
       "number": "136",
@@ -892,7 +928,7 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Ghirapur Ã†ther Grid": {
+    "Ghirapur Aether Grid": {
       "number": "148",
       "cost": ["2", "r"],
       "rarity": "u",
@@ -1138,11 +1174,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Nissa, Vastwood Seer": {
+    "Nissa, Vastwood Seer (Nissa, Vastwood Seer // Nissa, Sage Animist)": {
       "number": "189",
       "cost": ["2", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Nissa, Sage Animist (Nissa, Vastwood Seer // Nissa, Sage Animist)": {
+      "number": "189",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Nissa's Pilgrimage": {
       "number": "190",

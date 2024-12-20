@@ -4,6 +4,11 @@
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
   "cards": {
     "Blind Obedience": {
       "number": "1",

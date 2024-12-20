@@ -52,11 +52,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Cloistered Youth // Unholy Fiend": {
+    "Cloistered Youth (Cloistered Youth // Unholy Fiend)": {
       "number": "8",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Unholy Fiend (Cloistered Youth // Unholy Fiend)": {
+      "number": "8",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Dearly Departed": {
       "number": "9",
@@ -232,11 +241,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Thraben Sentry // Thraben Militia": {
+    "Thraben Sentry (Thraben Sentry // Thraben Militia)": {
       "number": "38",
       "cost": ["3", "w"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Thraben Militia (Thraben Sentry // Thraben Militia)": {
+      "number": "38",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Unruly Mob": {
       "number": "39",
@@ -286,11 +304,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Civilized Scholar // Homicidal Brute": {
+    "Civilized Scholar (Civilized Scholar // Homicidal Brute)": {
       "number": "47",
       "cost": ["2", "u"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Homicidal Brute (Civilized Scholar // Homicidal Brute)": {
+      "number": "47",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Claustrophobia": {
       "number": "48",
@@ -310,11 +337,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Delver of Secrets // Insectile Aberration": {
+    "Delver of Secrets (Delver of Secrets // Insectile Aberration)": {
       "number": "51",
       "cost": ["u"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Insectile Aberration (Delver of Secrets // Insectile Aberration)": {
+      "number": "51",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Deranged Assistant": {
       "number": "52",
@@ -388,11 +424,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Ludevic's Test Subject // Ludevic's Abomination": {
+    "Ludevic's Test Subject (Ludevic's Test Subject // Ludevic's Abomination)": {
       "number": "64",
       "cost": ["1", "u"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ludevic's Abomination (Ludevic's Test Subject // Ludevic's Abomination)": {
+      "number": "64",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Makeshift Mauler": {
       "number": "65",
@@ -544,11 +589,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Bloodline Keeper // Lord of Lineage": {
+    "Bloodline Keeper (Bloodline Keeper // Lord of Lineage)": {
       "number": "90",
       "cost": ["2", "b", "b"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Lord of Lineage (Bloodline Keeper // Lord of Lineage)": {
+      "number": "90",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Brain Weevil": {
       "number": "91",
@@ -688,11 +742,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Screeching Bat // Stalking Vampire": {
+    "Screeching Bat (Screeching Bat // Stalking Vampire)": {
       "number": "114",
       "cost": ["2", "b"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Stalking Vampire (Screeching Bat // Stalking Vampire)": {
+      "number": "114",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Sever the Bloodline": {
       "number": "115",
@@ -874,11 +937,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Hanweir Watchkeep // Bane of Hanweir": {
+    "Hanweir Watchkeep (Hanweir Watchkeep // Bane of Hanweir)": {
       "number": "145",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Bane of Hanweir (Hanweir Watchkeep // Bane of Hanweir)": {
+      "number": "145",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Harvest Pyre": {
       "number": "146",
@@ -898,11 +970,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Instigator Gang // Wildblood Pack": {
+    "Instigator Gang (Instigator Gang // Wildblood Pack)": {
       "number": "149",
       "cost": ["3", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Wildblood Pack (Instigator Gang // Wildblood Pack)": {
+      "number": "149",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Into the Maw of Hell": {
       "number": "150",
@@ -916,11 +997,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Kruin Outlaw // Terror of Kruin Pass": {
+    "Kruin Outlaw (Kruin Outlaw // Terror of Kruin Pass)": {
       "number": "152",
       "cost": ["1", "r", "r"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Terror of Kruin Pass (Kruin Outlaw // Terror of Kruin Pass)": {
+      "number": "152",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Night Revelers": {
       "number": "153",
@@ -958,11 +1048,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Reckless Waif // Merciless Predator": {
+    "Reckless Waif (Reckless Waif // Merciless Predator)": {
       "number": "159",
       "cost": ["r"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Merciless Predator (Reckless Waif // Merciless Predator)": {
+      "number": "159",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Riot Devils": {
       "number": "160",
@@ -994,11 +1093,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Tormented Pariah // Rampaging Werewolf": {
+    "Tormented Pariah (Tormented Pariah // Rampaging Werewolf)": {
       "number": "165",
       "cost": ["3", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Rampaging Werewolf (Tormented Pariah // Rampaging Werewolf)": {
+      "number": "165",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Traitorous Blood": {
       "number": "166",
@@ -1012,11 +1120,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Village Ironsmith // Ironfang": {
+    "Village Ironsmith (Village Ironsmith // Ironfang)": {
       "number": "168",
       "cost": ["1", "r"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ironfang (Village Ironsmith // Ironfang)": {
+      "number": "168",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Ambush Viper": {
       "number": "169",
@@ -1060,11 +1177,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Daybreak Ranger // Nightfall Predator": {
+    "Daybreak Ranger (Daybreak Ranger // Nightfall Predator)": {
       "number": "176",
       "cost": ["2", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Nightfall Predator (Daybreak Ranger // Nightfall Predator)": {
+      "number": "176",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Elder of Laurels": {
       "number": "177",
@@ -1090,17 +1216,35 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Garruk Relentless // Garruk, the Veil-Cursed": {
+    "Garruk Relentless (Garruk Relentless // Garruk, the Veil-Cursed)": {
       "number": "181",
       "cost": ["3", "g"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["spell"]
     },
-    "Gatstaf Shepherd // Gatstaf Howler": {
+    "Garruk, the Veil-Cursed (Garruk Relentless // Garruk, the Veil-Cursed)": {
+      "number": "181",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Gatstaf Shepherd (Gatstaf Shepherd // Gatstaf Howler)": {
       "number": "182",
       "cost": ["1", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Gatstaf Howler (Gatstaf Shepherd // Gatstaf Howler)": {
+      "number": "182",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Gnaw to the Bone": {
       "number": "183",
@@ -1114,11 +1258,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Grizzled Outcasts // Krallenhorde Wantons": {
+    "Grizzled Outcasts (Grizzled Outcasts // Krallenhorde Wantons)": {
       "number": "185",
       "cost": ["4", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Krallenhorde Wantons (Grizzled Outcasts // Krallenhorde Wantons)": {
+      "number": "185",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Gutter Grime": {
       "number": "186",
@@ -1162,11 +1315,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Mayor of Avabruck // Howlpack Alpha": {
+    "Mayor of Avabruck (Mayor of Avabruck // Howlpack Alpha)": {
       "number": "193",
       "cost": ["1", "g"],
       "rarity": "r",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Howlpack Alpha (Mayor of Avabruck // Howlpack Alpha)": {
+      "number": "193",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Moldgraf Monstrosity": {
       "number": "194",
@@ -1252,17 +1414,35 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Ulvenwald Mystics // Ulvenwald Primordials": {
+    "Ulvenwald Mystics (Ulvenwald Mystics // Ulvenwald Primordials)": {
       "number": "208",
       "cost": ["2", "g", "g"],
       "rarity": "u",
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Villagers of Estwald // Howlpack of Estwald": {
+    "Ulvenwald Primordials (Ulvenwald Mystics // Ulvenwald Primordials)": {
+      "number": "208",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Villagers of Estwald (Villagers of Estwald // Howlpack of Estwald)": {
       "number": "209",
       "cost": ["2", "g"],
       "rarity": "c",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Howlpack of Estwald (Villagers of Estwald // Howlpack of Estwald)": {
+      "number": "209",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Woodland Sleuth": {
       "number": "210",
@@ -1502,36 +1682,6 @@
       "number": "249",
       "cost": [],
       "rarity": "r",
-      "categories": ["land"]
-    },
-    "Plains": {
-      "number": "250",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Island": {
-      "number": "253",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Swamp": {
-      "number": "256",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Mountain": {
-      "number": "259",
-      "cost": [],
-      "rarity": "c",
-      "categories": ["land"]
-    },
-    "Forest": {
-      "number": "262",
-      "cost": [],
-      "rarity": "c",
       "categories": ["land"]
     }
   }

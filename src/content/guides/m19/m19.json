@@ -1,6 +1,6 @@
 {
   "code": "m19",
-  "formatName": "Magic 2019 Core Set",
+  "formatName": "Core Set 2019",
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
@@ -1312,11 +1312,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Nicol Bolas, the Ravager": {
+    "Nicol Bolas, the Ravager (Nicol Bolas, the Ravager // Nicol Bolas, the Arisen)": {
       "number": "218",
       "cost": ["1", "u", "b", "r"],
       "rarity": "m",
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Nicol Bolas, the Arisen (Nicol Bolas, the Ravager // Nicol Bolas, the Arisen)": {
+      "number": "218",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Palladia-Mors, the Ruiner": {
       "number": "219",

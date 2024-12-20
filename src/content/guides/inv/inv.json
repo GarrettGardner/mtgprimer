@@ -1756,34 +1756,74 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Stand // Deliver": {
+    "Stand (Stand // Deliver)": {
       "number": "292",
-      "cost": ["w", "  2", "u"],
+      "cost": ["w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Spite // Malice": {
+    "Deliver (Stand // Deliver)": {
+      "number": "292",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Spite (Spite // Malice)": {
       "number": "293",
-      "cost": ["3", "u", "  3", "b"],
+      "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Pain // Suffering": {
+    "Malice (Spite // Malice)": {
+      "number": "293",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Pain (Pain // Suffering)": {
       "number": "294",
-      "cost": ["b", "  3", "r"],
+      "cost": ["b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Assault // Battery": {
+    "Suffering (Pain // Suffering)": {
+      "number": "294",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Assault (Assault // Battery)": {
       "number": "295",
-      "cost": ["r", "  3", "g"],
+      "cost": ["r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Wax // Wane": {
-      "number": "296",
-      "cost": ["g", "  w"],
+    "Battery (Assault // Battery)": {
+      "number": "295",
+      "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Wax (Wax // Wane)": {
+      "number": "296",
+      "cost": ["g"],
+      "rarity": "u",
+      "layout": "split",
+      "categories": ["spell"]
+    },
+    "Wane (Wax // Wane)": {
+      "number": "296",
+      "cost": ["w"],
+      "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Alloy Golem": {

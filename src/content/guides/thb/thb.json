@@ -1503,12 +1503,6 @@
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
-    },
-    "Demon of Loathing": {
-      "number": "292",
-      "cost": ["5", "b", "b"],
-      "rarity": "r",
-      "categories": ["creature"]
     }
   }
 }

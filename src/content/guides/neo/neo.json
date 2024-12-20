@@ -28,11 +28,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Befriending the Moths // Imperial Moth": {
+    "Befriending the Moths (Befriending the Moths // Imperial Moth)": {
       "number": "4",
       "cost": ["3", "w"],
       "rarity": "c",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Imperial Moth (Befriending the Moths // Imperial Moth)": {
+      "number": "4",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Blade-Blizzard Kitsune": {
       "number": "5",
@@ -66,21 +75,39 @@
     },
     "Eiganjo Exemplar": {
       "number": "10",
-      "cost": ["w"],
-      "rarity": "c",
-      "categories": ["creature"]
-    },
-    "Era of Enlightenment // Hand of Enlightenment": {
-      "number": "11",
       "cost": ["1", "w"],
       "rarity": "c",
       "categories": ["creature"]
     },
-    "The Fall of Lord Konda // Fragment of Konda": {
+    "Era of Enlightenment (Era of Enlightenment // Hand of Enlightenment)": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Hand of Enlightenment (Era of Enlightenment // Hand of Enlightenment)": {
+      "number": "11",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Fall of Lord Konda (The Fall of Lord Konda // Fragment of Konda)": {
       "number": "12",
       "cost": ["2", "w"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Fragment of Konda (The Fall of Lord Konda // Fragment of Konda)": {
+      "number": "12",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Farewell": {
       "number": "13",
@@ -178,11 +205,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Michiko's Reign of Truth // Portrait of Michiko": {
+    "Michiko's Reign of Truth (Michiko's Reign of Truth // Portrait of Michiko)": {
       "number": "29",
       "cost": ["1", "w"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Portrait of Michiko (Michiko's Reign of Truth // Portrait of Michiko)": {
+      "number": "29",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Mothrider Patrol": {
       "number": "30",
@@ -208,11 +244,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "The Restoration of Eiganjo // Architect of Restoration": {
+    "The Restoration of Eiganjo (The Restoration of Eiganjo // Architect of Restoration)": {
       "number": "34",
       "cost": ["2", "w"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Architect of Restoration (The Restoration of Eiganjo // Architect of Restoration)": {
+      "number": "34",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Selfless Samurai": {
       "number": "35",
@@ -292,11 +337,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Behold the Unspeakable // Vision of the Unspeakable": {
+    "Behold the Unspeakable (Behold the Unspeakable // Vision of the Unspeakable)": {
       "number": "48",
       "cost": ["3", "u", "u"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vision of the Unspeakable (Behold the Unspeakable // Vision of the Unspeakable)": {
+      "number": "48",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Covert Technician": {
       "number": "49",
@@ -346,11 +400,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Inventive Iteration // Living Breakthrough": {
+    "Inventive Iteration (Inventive Iteration // Living Breakthrough)": {
       "number": "57",
       "cost": ["3", "u"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Living Breakthrough (Inventive Iteration // Living Breakthrough)": {
+      "number": "57",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Invoke the Winds": {
       "number": "58",
@@ -400,11 +463,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "The Modern Age // Vector Glider": {
+    "The Modern Age (The Modern Age // Vector Glider)": {
       "number": "66",
       "cost": ["1", "u"],
       "rarity": "c",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vector Glider (The Modern Age // Vector Glider)": {
+      "number": "66",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Moon-Circuit Hacker": {
       "number": "67",
@@ -652,17 +724,35 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Life of Toshiro Umezawa // Memory of Toshiro": {
+    "Life of Toshiro Umezawa (Life of Toshiro Umezawa // Memory of Toshiro)": {
       "number": "108",
       "cost": ["1", "b"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
     },
-    "The Long Reach of Night // Animus of Night's Reach": {
+    "Memory of Toshiro (Life of Toshiro Umezawa // Memory of Toshiro)": {
+      "number": "108",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Long Reach of Night (The Long Reach of Night // Animus of Night's Reach)": {
       "number": "109",
       "cost": ["3", "b"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Animus of Night's Reach (The Long Reach of Night // Animus of Night's Reach)": {
+      "number": "109",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Malicious Malfunction": {
       "number": "110",
@@ -706,11 +796,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Okiba Reckoner Raid // Nezumi Road Captain": {
+    "Okiba Reckoner Raid (Okiba Reckoner Raid // Nezumi Road Captain)": {
       "number": "117",
       "cost": ["b"],
       "rarity": "c",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Nezumi Road Captain (Okiba Reckoner Raid // Nezumi Road Captain)": {
+      "number": "117",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Okiba Salvage": {
       "number": "118",
@@ -748,11 +847,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Tribute to Horobi // Echo of Death's Wail": {
+    "Tribute to Horobi (Tribute to Horobi // Echo of Death's Wail)": {
       "number": "124",
       "cost": ["1", "b"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Echo of Death's Wail (Tribute to Horobi // Echo of Death's Wail)": {
+      "number": "124",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Twisted Embrace": {
       "number": "125",
@@ -850,11 +958,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki": {
+    "Fable of the Mirror-Breaker (Fable of the Mirror-Breaker // Reflection of Kiki-Jiki)": {
       "number": "141",
       "cost": ["2", "r"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Reflection of Kiki-Jiki (Fable of the Mirror-Breaker // Reflection of Kiki-Jiki)": {
+      "number": "141",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Flame Discharge": {
       "number": "142",
@@ -916,11 +1033,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Kumano Faces Kakkazan // Etching of Kumano": {
+    "Kumano Faces Kakkazan (Kumano Faces Kakkazan // Etching of Kumano)": {
       "number": "152",
       "cost": ["r"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Etching of Kumano (Kumano Faces Kakkazan // Etching of Kumano)": {
+      "number": "152",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Lizard Blades": {
       "number": "153",
@@ -976,11 +1102,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "The Shattered States Era // Nameless Conqueror": {
+    "The Shattered States Era (The Shattered States Era // Nameless Conqueror)": {
       "number": "162",
       "cost": ["4", "r"],
       "rarity": "c",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Nameless Conqueror (The Shattered States Era // Nameless Conqueror)": {
+      "number": "162",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Simian Sling": {
       "number": "163",
@@ -1036,11 +1171,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Azusa's Many Journeys // Likeness of the Seeker": {
+    "Azusa's Many Journeys (Azusa's Many Journeys // Likeness of the Seeker)": {
       "number": "172",
       "cost": ["1", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Likeness of the Seeker (Azusa's Many Journeys // Likeness of the Seeker)": {
+      "number": "172",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Bamboo Grove Archer": {
       "number": "173",
@@ -1066,11 +1210,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Boseiju Reaches Skyward // Branch of Boseiju": {
+    "Boseiju Reaches Skyward (Boseiju Reaches Skyward // Branch of Boseiju)": {
       "number": "177",
       "cost": ["3", "g"],
       "rarity": "u",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Branch of Boseiju (Boseiju Reaches Skyward // Branch of Boseiju)": {
+      "number": "177",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Careful Cultivation": {
       "number": "178",
@@ -1090,11 +1243,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "The Dragon-Kami Reborn // Dragon-Kami's Egg": {
+    "The Dragon-Kami Reborn (The Dragon-Kami Reborn // Dragon-Kami's Egg)": {
       "number": "181",
       "cost": ["2", "g"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Dragon-Kami's Egg (The Dragon-Kami Reborn // Dragon-Kami's Egg)": {
+      "number": "181",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Fade into Antiquity": {
       "number": "182",
@@ -1168,11 +1330,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Jugan Defends the Temple // Remnant of the Rising Star": {
+    "Jugan Defends the Temple (Jugan Defends the Temple // Remnant of the Rising Star)": {
       "number": "194",
       "cost": ["2", "g"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Remnant of the Rising Star (Jugan Defends the Temple // Remnant of the Rising Star)": {
+      "number": "194",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Jukai Preserver": {
       "number": "195",
@@ -1264,11 +1435,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Tales of Master Seshiro // Seshiro's Living Legacy": {
+    "Tales of Master Seshiro (Tales of Master Seshiro // Seshiro's Living Legacy)": {
       "number": "210",
       "cost": ["4", "g"],
       "rarity": "c",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Seshiro's Living Legacy (Tales of Master Seshiro // Seshiro's Living Legacy)": {
+      "number": "210",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Tamiyo's Safekeeping": {
       "number": "211",
@@ -1276,11 +1456,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Teachings of the Kirin // Kirin-Touched Orochi": {
+    "Teachings of the Kirin (Teachings of the Kirin // Kirin-Touched Orochi)": {
       "number": "212",
       "cost": ["1", "g"],
       "rarity": "r",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Kirin-Touched Orochi (Teachings of the Kirin // Kirin-Touched Orochi)": {
+      "number": "212",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Weaver of Harmony": {
       "number": "213",
@@ -1330,11 +1519,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Hidetsugu Consumes All // Vessel of the All-Consuming": {
+    "Hidetsugu Consumes All (Hidetsugu Consumes All // Vessel of the All-Consuming)": {
       "number": "221",
       "cost": ["1", "b", "r"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Vessel of the All-Consuming (Hidetsugu Consumes All // Vessel of the All-Consuming)": {
+      "number": "221",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Hinata, Dawn-Crowned": {
       "number": "222",
@@ -1366,11 +1564,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "The Kami War // O-Kagachi Made Manifest": {
+    "The Kami War (The Kami War // O-Kagachi Made Manifest)": {
       "number": "227",
       "cost": ["1", "w", "u", "b", "r", "g"],
       "rarity": "m",
-      "categories": ["creature"]
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "O-Kagachi Made Manifest (The Kami War // O-Kagachi Made Manifest)": {
+      "number": "227",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Kotose, the Silent Spider": {
       "number": "228",
@@ -1434,7 +1641,7 @@
     },
     "Tamiyo, Compleated Sage": {
       "number": "238",
-      "cost": ["2", "g", "gup", "u"],
+      "cost": ["2", "g", "gu/p", "u"],
       "rarity": "m",
       "categories": ["spell"]
     },

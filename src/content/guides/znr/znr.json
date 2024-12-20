@@ -76,11 +76,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Emeria's Call // Emeria, Shattered Skyclave": {
+    "Emeria's Call (Emeria's Call // Emeria, Shattered Skyclave)": {
       "number": "12",
       "cost": ["4", "w", "w", "w"],
       "rarity": "m",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Emeria, Shattered Skyclave (Emeria's Call // Emeria, Shattered Skyclave)": {
+      "number": "12",
+      "cost": [],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Expedition Healer": {
       "number": "13",
@@ -118,11 +127,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Kabira Takedown // Kabira Plateau": {
+    "Kabira Takedown (Kabira Takedown // Kabira Plateau)": {
       "number": "19",
       "cost": ["1", "w"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Kabira Plateau (Kabira Takedown // Kabira Plateau)": {
+      "number": "19",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Kitesail Cleric": {
       "number": "20",
@@ -160,11 +178,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Makindi Stampede // Makindi Mesas": {
+    "Makindi Stampede (Makindi Stampede // Makindi Mesas)": {
       "number": "26",
       "cost": ["3", "w", "w"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Makindi Mesas (Makindi Stampede // Makindi Mesas)": {
+      "number": "26",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Maul of the Skyclaves": {
       "number": "27",
@@ -184,11 +211,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Ondu Inversion // Ondu Skyruins": {
+    "Ondu Inversion (Ondu Inversion // Ondu Skyruins)": {
       "number": "30",
       "cost": ["6", "w", "w"],
       "rarity": "r",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Ondu Skyruins (Ondu Inversion // Ondu Skyruins)": {
+      "number": "30",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Paired Tactician": {
       "number": "31",
@@ -226,11 +262,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Sejiri Shelter // Sejiri Glacier": {
+    "Sejiri Shelter (Sejiri Shelter // Sejiri Glacier)": {
       "number": "37",
       "cost": ["1", "w"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Sejiri Glacier (Sejiri Shelter // Sejiri Glacier)": {
+      "number": "37",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Shepherd of Heroes": {
       "number": "38",
@@ -244,11 +289,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Skyclave Cleric // Skyclave Basilica": {
+    "Skyclave Cleric (Skyclave Cleric // Skyclave Basilica)": {
       "number": "40",
       "cost": ["1", "w"],
       "rarity": "u",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Skyclave Basilica (Skyclave Cleric // Skyclave Basilica)": {
+      "number": "40",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Squad Commander": {
       "number": "41",
@@ -280,11 +334,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Beyeen Veil // Beyeen Coast": {
+    "Beyeen Veil (Beyeen Veil // Beyeen Coast)": {
       "number": "46",
       "cost": ["1", "u"],
       "rarity": "u",
-      "categories": ["land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Beyeen Coast (Beyeen Veil // Beyeen Coast)": {
+      "number": "46",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Bubble Snare": {
       "number": "47",
@@ -364,11 +427,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Glasspool Mimic // Glasspool Shore": {
+    "Glasspool Mimic (Glasspool Mimic // Glasspool Shore)": {
       "number": "60",
       "cost": ["2", "u"],
       "rarity": "r",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Glasspool Shore (Glasspool Mimic // Glasspool Shore)": {
+      "number": "60",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Inscription of Insight": {
       "number": "61",
@@ -388,11 +460,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Jwari Disruption // Jwari Ruins": {
+    "Jwari Disruption (Jwari Disruption // Jwari Ruins)": {
       "number": "64",
       "cost": ["1", "u"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Jwari Ruins (Jwari Disruption // Jwari Ruins)": {
+      "number": "64",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Living Tempest": {
       "number": "65",
@@ -460,11 +541,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Sea Gate Restoration // Sea Gate, Reborn": {
+    "Sea Gate Restoration (Sea Gate Restoration // Sea Gate, Reborn)": {
       "number": "76",
       "cost": ["4", "u", "u", "u"],
       "rarity": "m",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Sea Gate, Reborn (Sea Gate Restoration // Sea Gate, Reborn)": {
+      "number": "76",
+      "cost": [],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Sea Gate Stormcaller": {
       "number": "77",
@@ -484,11 +574,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Silundi Vision // Silundi Isle": {
+    "Silundi Vision (Silundi Vision // Silundi Isle)": {
       "number": "80",
       "cost": ["2", "u"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Silundi Isle (Silundi Vision // Silundi Isle)": {
+      "number": "80",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Skyclave Plunder": {
       "number": "81",
@@ -520,11 +619,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Umara Wizard // Umara Skyfalls": {
+    "Umara Wizard (Umara Wizard // Umara Skyfalls)": {
       "number": "86",
       "cost": ["4", "u"],
       "rarity": "u",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Umara Skyfalls (Umara Wizard // Umara Skyfalls)": {
+      "number": "86",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Windrider Wizard": {
       "number": "87",
@@ -544,17 +652,35 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Agadeem's Awakening // Agadeem, the Undercrypt": {
+    "Agadeem's Awakening (Agadeem's Awakening // Agadeem, the Undercrypt)": {
       "number": "90",
       "cost": ["x", "b", "b", "b"],
       "rarity": "m",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
     },
-    "Blackbloom Rogue // Blackbloom Bog": {
+    "Agadeem, the Undercrypt (Agadeem's Awakening // Agadeem, the Undercrypt)": {
+      "number": "90",
+      "cost": [],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Blackbloom Rogue (Blackbloom Rogue // Blackbloom Bog)": {
       "number": "91",
       "cost": ["2", "b"],
       "rarity": "u",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Blackbloom Bog (Blackbloom Rogue // Blackbloom Bog)": {
+      "number": "91",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Blood Beckoning": {
       "number": "92",
@@ -640,11 +766,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Hagra Mauling // Hagra Broodpit": {
+    "Hagra Mauling (Hagra Mauling // Hagra Broodpit)": {
       "number": "106",
       "cost": ["2", "b", "b"],
       "rarity": "r",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Hagra Broodpit (Hagra Mauling // Hagra Broodpit)": {
+      "number": "106",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Highborn Vampire": {
       "number": "107",
@@ -670,11 +805,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Malakir Rebirth // Malakir Mire": {
+    "Malakir Rebirth (Malakir Rebirth // Malakir Mire)": {
       "number": "111",
       "cost": ["b"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Malakir Mire (Malakir Rebirth // Malakir Mire)": {
+      "number": "111",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Marauding Blight-Priest": {
       "number": "112",
@@ -724,11 +868,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Pelakka Predation // Pelakka Caverns": {
+    "Pelakka Predation (Pelakka Predation // Pelakka Caverns)": {
       "number": "120",
       "cost": ["2", "b"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Pelakka Caverns (Pelakka Predation // Pelakka Caverns)": {
+      "number": "120",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Scion of the Swarm": {
       "number": "121",
@@ -796,11 +949,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Zof Consumption // Zof Bloodbog": {
+    "Zof Consumption (Zof Consumption // Zof Bloodbog)": {
       "number": "132",
       "cost": ["4", "b", "b"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Zof Bloodbog (Zof Consumption // Zof Bloodbog)": {
+      "number": "132",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Akoum Hellhound": {
       "number": "133",
@@ -808,11 +970,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Akoum Warrior // Akoum Teeth": {
+    "Akoum Warrior (Akoum Warrior // Akoum Teeth)": {
       "number": "134",
       "cost": ["5", "r"],
       "rarity": "u",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Akoum Teeth (Akoum Warrior // Akoum Teeth)": {
+      "number": "134",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Ardent Electromancer": {
       "number": "135",
@@ -880,11 +1051,20 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Kazuul's Fury // Kazuul's Cliffs": {
+    "Kazuul's Fury (Kazuul's Fury // Kazuul's Cliffs)": {
       "number": "146",
       "cost": ["2", "r"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Kazuul's Cliffs (Kazuul's Fury // Kazuul's Cliffs)": {
+      "number": "146",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Leyline Tyrant": {
       "number": "147",
@@ -970,11 +1150,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Shatterskull Smashing // Shatterskull, the Hammer Pass": {
+    "Shatterskull Smashing (Shatterskull Smashing // Shatterskull, the Hammer Pass)": {
       "number": "161",
       "cost": ["x", "r", "r"],
       "rarity": "m",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Shatterskull, the Hammer Pass (Shatterskull Smashing // Shatterskull, the Hammer Pass)": {
+      "number": "161",
+      "cost": [],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Sizzling Barrage": {
       "number": "162",
@@ -994,17 +1183,35 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Song-Mad Treachery // Song-Mad Ruins": {
+    "Song-Mad Treachery (Song-Mad Treachery // Song-Mad Ruins)": {
       "number": "165",
       "cost": ["3", "r", "r"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
     },
-    "Spikefield Hazard // Spikefield Cave": {
+    "Song-Mad Ruins (Song-Mad Treachery // Song-Mad Ruins)": {
+      "number": "165",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Spikefield Hazard (Spikefield Hazard // Spikefield Cave)": {
       "number": "166",
       "cost": ["r"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Spikefield Cave (Spikefield Hazard // Spikefield Cave)": {
+      "number": "166",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Spitfire Lagac": {
       "number": "167",
@@ -1048,11 +1255,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Valakut Awakening // Valakut Stoneforge": {
+    "Valakut Awakening (Valakut Awakening // Valakut Stoneforge)": {
       "number": "174",
       "cost": ["2", "r"],
       "rarity": "r",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Valakut Stoneforge (Valakut Awakening // Valakut Stoneforge)": {
+      "number": "174",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Valakut Exploration": {
       "number": "175",
@@ -1084,11 +1300,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Bala Ged Recovery // Bala Ged Sanctuary": {
+    "Bala Ged Recovery (Bala Ged Recovery // Bala Ged Sanctuary)": {
       "number": "180",
       "cost": ["2", "g"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Bala Ged Sanctuary (Bala Ged Recovery // Bala Ged Sanctuary)": {
+      "number": "180",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Broken Wings": {
       "number": "181",
@@ -1138,11 +1363,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Kazandu Mammoth // Kazandu Valley": {
+    "Kazandu Mammoth (Kazandu Mammoth // Kazandu Valley)": {
       "number": "189",
       "cost": ["1", "g", "g"],
       "rarity": "r",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Kazandu Valley (Kazandu Mammoth // Kazandu Valley)": {
+      "number": "189",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Kazandu Nectarpot": {
       "number": "190",
@@ -1156,11 +1390,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Khalni Ambush // Khalni Territory": {
+    "Khalni Ambush (Khalni Ambush // Khalni Territory)": {
       "number": "192",
       "cost": ["2", "g"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Khalni Territory (Khalni Ambush // Khalni Territory)": {
+      "number": "192",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Lotus Cobra": {
       "number": "193",
@@ -1270,11 +1513,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Tangled Florahedron // Tangled Vale": {
+    "Tangled Florahedron (Tangled Florahedron // Tangled Vale)": {
       "number": "211",
       "cost": ["1", "g"],
       "rarity": "u",
-      "categories": ["creature", "land"]
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Tangled Vale (Tangled Florahedron // Tangled Vale)": {
+      "number": "211",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Taunting Arbormage": {
       "number": "212",
@@ -1294,17 +1546,35 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Turntimber Symbiosis // Turntimber, Serpentine Wood": {
+    "Turntimber Symbiosis (Turntimber Symbiosis // Turntimber, Serpentine Wood)": {
       "number": "215",
       "cost": ["4", "g", "g", "g"],
       "rarity": "m",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
     },
-    "Vastwood Fortification // Vastwood Thicket": {
+    "Turntimber, Serpentine Wood (Turntimber Symbiosis // Turntimber, Serpentine Wood)": {
+      "number": "215",
+      "cost": [],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Vastwood Fortification (Vastwood Fortification // Vastwood Thicket)": {
       "number": "216",
       "cost": ["g"],
       "rarity": "u",
-      "categories": ["spell", "land"]
+      "layout": "modal_dfc",
+      "categories": ["spell"]
+    },
+    "Vastwood Thicket (Vastwood Fortification // Vastwood Thicket)": {
+      "number": "216",
+      "cost": [],
+      "rarity": "u",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Vastwood Surge": {
       "number": "217",
@@ -1552,29 +1822,65 @@
       "rarity": "u",
       "categories": ["land"]
     },
-    "Branchloft Pathway // Boulderloft Pathway": {
+    "Branchloft Pathway (Branchloft Pathway // Boulderloft Pathway)": {
       "number": "258",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
     },
-    "Brightclimb Pathway // Grimclimb Pathway": {
+    "Boulderloft Pathway (Branchloft Pathway // Boulderloft Pathway)": {
+      "number": "258",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Brightclimb Pathway (Brightclimb Pathway // Grimclimb Pathway)": {
       "number": "259",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
     },
-    "Clearwater Pathway // Murkwater Pathway": {
+    "Grimclimb Pathway (Brightclimb Pathway // Grimclimb Pathway)": {
+      "number": "259",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Clearwater Pathway (Clearwater Pathway // Murkwater Pathway)": {
       "number": "260",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
     },
-    "Cragcrown Pathway // Timbercrown Pathway": {
+    "Murkwater Pathway (Clearwater Pathway // Murkwater Pathway)": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Cragcrown Pathway (Cragcrown Pathway // Timbercrown Pathway)": {
       "number": "261",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
+    },
+    "Timbercrown Pathway (Cragcrown Pathway // Timbercrown Pathway)": {
+      "number": "261",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Crawling Barrens": {
       "number": "262",
@@ -1582,17 +1888,35 @@
       "rarity": "r",
       "categories": ["land"]
     },
-    "Needleverge Pathway // Pillarverge Pathway": {
+    "Needleverge Pathway (Needleverge Pathway // Pillarverge Pathway)": {
       "number": "263",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
     },
-    "Riverglide Pathway // Lavaglide Pathway": {
+    "Pillarverge Pathway (Needleverge Pathway // Pillarverge Pathway)": {
+      "number": "263",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Riverglide Pathway (Riverglide Pathway // Lavaglide Pathway)": {
       "number": "264",
       "cost": [],
       "rarity": "r",
+      "layout": "modal_dfc",
       "categories": ["land"]
+    },
+    "Lavaglide Pathway (Riverglide Pathway // Lavaglide Pathway)": {
+      "number": "264",
+      "cost": [],
+      "rarity": "r",
+      "layout": "modal_dfc",
+      "categories": ["land"],
+      "isTransformed": true
     },
     "Throne of Makindi": {
       "number": "265",

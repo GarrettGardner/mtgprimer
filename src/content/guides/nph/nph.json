@@ -18,7 +18,7 @@
     },
     "Apostle's Blessing": {
       "number": "2",
-      "cost": ["1", "w/p"],
+      "cost": ["1", "wp"],
       "rarity": "c",
       "categories": ["spell"]
     },
@@ -36,7 +36,7 @@
     },
     "Cathedral Membrane": {
       "number": "5",
-      "cost": ["1", "w/p"],
+      "cost": ["1", "wp"],
       "rarity": "u",
       "categories": ["creature"]
     },
@@ -96,7 +96,7 @@
     },
     "Marrow Shards": {
       "number": "15",
-      "cost": ["w/p"],
+      "cost": ["wp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -108,7 +108,7 @@
     },
     "Norn's Annex": {
       "number": "17",
-      "cost": ["3", "w/p", "w/p"],
+      "cost": ["3", "wp", "wp"],
       "rarity": "r",
       "categories": ["spell"]
     },
@@ -120,7 +120,7 @@
     },
     "Porcelain Legionnaire": {
       "number": "19",
-      "cost": ["2", "w/p"],
+      "cost": ["2", "wp"],
       "rarity": "c",
       "categories": ["creature"]
     },
@@ -216,7 +216,7 @@
     },
     "Gitaxian Probe": {
       "number": "35",
-      "cost": ["u/p"],
+      "cost": ["up"],
       "rarity": "c",
       "categories": ["spell"]
     },
@@ -234,7 +234,7 @@
     },
     "Mental Misstep": {
       "number": "38",
-      "cost": ["u/p"],
+      "cost": ["up"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -258,7 +258,7 @@
     },
     "Phyrexian Metamorph": {
       "number": "42",
-      "cost": ["3", "u/p"],
+      "cost": ["3", "up"],
       "rarity": "r",
       "categories": ["creature"]
     },
@@ -276,7 +276,7 @@
     },
     "Spined Thopter": {
       "number": "45",
-      "cost": ["2", "u/p"],
+      "cost": ["2", "up"],
       "rarity": "c",
       "categories": ["creature"]
     },
@@ -288,7 +288,7 @@
     },
     "Tezzeret's Gambit": {
       "number": "47",
-      "cost": ["3", "u/p"],
+      "cost": ["3", "up"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -348,7 +348,7 @@
     },
     "Dismember": {
       "number": "57",
-      "cost": ["1", "b/p", "b/p"],
+      "cost": ["1", "bp", "bp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -420,13 +420,13 @@
     },
     "Pith Driller": {
       "number": "69",
-      "cost": ["4", "b/p"],
+      "cost": ["4", "bp"],
       "rarity": "c",
       "categories": ["creature"]
     },
     "Postmortem Lunge": {
       "number": "70",
-      "cost": ["x", "b/p"],
+      "cost": ["x", "bp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -450,7 +450,7 @@
     },
     "Surgical Extraction": {
       "number": "74",
-      "cost": ["b/p"],
+      "cost": ["bp"],
       "rarity": "r",
       "categories": ["spell"]
     },
@@ -462,7 +462,7 @@
     },
     "Vault Skirge": {
       "number": "76",
-      "cost": ["1", "b/p"],
+      "cost": ["1", "bp"],
       "rarity": "c",
       "categories": ["creature"]
     },
@@ -474,7 +474,7 @@
     },
     "Act of Aggression": {
       "number": "78",
-      "cost": ["3", "r/p", "r/p"],
+      "cost": ["3", "rp", "rp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -522,7 +522,7 @@
     },
     "Gut Shot": {
       "number": "86",
-      "cost": ["r/p"],
+      "cost": ["rp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -534,7 +534,7 @@
     },
     "Moltensteel Dragon": {
       "number": "88",
-      "cost": ["4", "r/p", "r/p"],
+      "cost": ["4", "rp", "rp"],
       "rarity": "r",
       "categories": ["creature"]
     },
@@ -552,7 +552,7 @@
     },
     "Rage Extractor": {
       "number": "91",
-      "cost": ["4", "r/p"],
+      "cost": ["4", "rp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -564,7 +564,7 @@
     },
     "Ruthless Invasion": {
       "number": "93",
-      "cost": ["3", "r/p"],
+      "cost": ["3", "rp"],
       "rarity": "c",
       "categories": ["spell"]
     },
@@ -582,7 +582,7 @@
     },
     "Slash Panther": {
       "number": "96",
-      "cost": ["4", "r/p"],
+      "cost": ["4", "rp"],
       "rarity": "c",
       "categories": ["creature"]
     },
@@ -630,7 +630,7 @@
     },
     "Birthing Pod": {
       "number": "104",
-      "cost": ["3", "g/p"],
+      "cost": ["3", "gp"],
       "rarity": "r",
       "categories": ["spell"]
     },
@@ -648,7 +648,7 @@
     },
     "Corrosive Gale": {
       "number": "107",
-      "cost": ["x", "g/p"],
+      "cost": ["x", "gp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -702,7 +702,7 @@
     },
     "Mutagenic Growth": {
       "number": "116",
-      "cost": ["g/p"],
+      "cost": ["gp"],
       "rarity": "c",
       "categories": ["spell"]
     },
@@ -714,7 +714,7 @@
     },
     "Noxious Revival": {
       "number": "118",
-      "cost": ["g/p"],
+      "cost": ["gp"],
       "rarity": "u",
       "categories": ["spell"]
     },
@@ -738,7 +738,7 @@
     },
     "Thundering Tanadon": {
       "number": "122",
-      "cost": ["4", "g/p", "g/p"],
+      "cost": ["4", "gp", "gp"],
       "rarity": "c",
       "categories": ["creature"]
     },

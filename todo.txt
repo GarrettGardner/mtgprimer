@@ -1,15 +1,13 @@
 TODO List
 
-- Restructure format/guide content pages to JSON, break out guides
-- Footer
-- Search bar for guides in effect-o-pedia
-- Make better links to formats
-- Directory Page mobile fix
+- Info page includes table of contents
 - Mobile slide in fix
-
+- Fix keying on all looped react objects
+ 
+Future
+- Button to minimize filter bar
+- Different layouts especially for split cards
 - Search bar on directory page
-- Card layouts for rotated cards, split cards, transform cards, etc
 - Card cost override indicator
 - Add scroll up button
 - Loading states
-- Button to minimize filter bar

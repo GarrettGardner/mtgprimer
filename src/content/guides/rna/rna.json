@@ -1330,124 +1330,144 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Bedeck": {
+    "Bedeck (Bedeck // Bedazzle)": {
       "number": "221",
       "cost": ["br", "br"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Bedazzle": {
+    "Bedazzle (Bedeck // Bedazzle)": {
       "number": "221",
       "cost": ["4", "b", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Carnival": {
+    "Carnival (Carnival // Carnage)": {
       "number": "222",
       "cost": ["br"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Carnage": {
+    "Carnage (Carnival // Carnage)": {
       "number": "222",
       "cost": ["2", "b", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Collision": {
+    "Collision (Collision // Colossus)": {
       "number": "223",
       "cost": ["1", "rg"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Colossus": {
+    "Colossus (Collision // Colossus)": {
       "number": "223",
       "cost": ["r", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Consecrate": {
+    "Consecrate (Consecrate // Consume)": {
       "number": "224",
       "cost": ["1", "wb"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Consume": {
+    "Consume (Consecrate // Consume)": {
       "number": "224",
       "cost": ["2", "w", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Depose": {
+    "Depose (Depose // Deploy)": {
       "number": "225",
       "cost": ["1", "wu"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Deploy": {
+    "Deploy (Depose // Deploy)": {
       "number": "225",
       "cost": ["2", "w", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Incubation": {
+    "Incubation (Incubation // Incongruity)": {
       "number": "226",
       "cost": ["gu"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Incongruity": {
+    "Incongruity (Incubation // Incongruity)": {
       "number": "226",
       "cost": ["1", "g", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Repudiate": {
+    "Repudiate (Repudiate // Replicate)": {
       "number": "227",
       "cost": ["gu", "gu"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Replicate": {
+    "Replicate (Repudiate // Replicate)": {
       "number": "227",
       "cost": ["1", "g", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Revival": {
+    "Revival (Revival // Revenge)": {
       "number": "228",
       "cost": ["wb", "wb"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Revenge": {
+    "Revenge (Revival // Revenge)": {
       "number": "228",
       "cost": ["4", "w", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Thrash": {
+    "Thrash (Thrash // Threat)": {
       "number": "229",
       "cost": ["rg", "rg"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Threat": {
+    "Threat (Thrash // Threat)": {
       "number": "229",
       "cost": ["2", "r", "g"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Warrant (Warrant // Warden)": {
       "number": "230",
       "cost": ["wu", "wu"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Warden (Warrant // Warden)": {
       "number": "230",
       "cost": ["3", "w", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Azorius Locket": {
@@ -1523,7 +1543,7 @@
       "categories": ["spell"]
     },
     "Azorius Guildgate": {
-      "number": "244",
+      "number": "243",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1553,7 +1573,7 @@
       "categories": ["land"]
     },
     "Gruul Guildgate": {
-      "number": "250",
+      "number": "249",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1565,7 +1585,7 @@
       "categories": ["land"]
     },
     "Orzhov Guildgate": {
-      "number": "253",
+      "number": "252",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
@@ -1577,13 +1597,13 @@
       "categories": ["land"]
     },
     "Rakdos Guildgate": {
-      "number": "256",
+      "number": "255",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]
     },
     "Simic Guildgate": {
-      "number": "258",
+      "number": "257",
       "cost": [],
       "rarity": "c",
       "categories": ["land"]

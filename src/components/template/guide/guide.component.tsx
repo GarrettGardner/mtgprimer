@@ -7,7 +7,6 @@ import { FilterBar, PageHeader } from "@/components/layout";
 export const TemplateGuide = (props: { template: ITemplateGuide }) => {
   return (
     <>
-      {/*<pre>{JSON.stringify(props.template, null, 2)}</pre>*/}
       <PageHeader
         title={props.template.title}
         icon={props.template.icon}

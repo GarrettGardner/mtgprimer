@@ -2,15 +2,23 @@
 
 .footer {
   background-image: url(/images/bg/pattern-stressed-linen.png);
-  border-top: 1px solid black;
-  border-top-width: rem-convert(10px);
+  border-top: rem-convert(10px) solid black;
   color: white;
   flex-shrink: 0;
-  padding: rem-convert(16px) 0 rem-convert(64px);
+  padding: rem-convert(32px) rem-convert(16px) rem-convert(64px);
   position: relative;
 
   @include breakpoint("desktop") {
-    padding: rem-convert(48px) 0 rem-convert(64px);
+    padding: rem-convert(48px) rem-convert(32px) rem-convert(64px);
+  }
+
+  @include breakpoint("wide") {
+    padding: rem-convert(48px) rem-convert(48px) rem-convert(64px);
+  }
+
+  :global(.logoWrap) {
+    max-width: rem-convert(160px);
+    margin-bottom: rem-convert(32px);
   }
 
   p {

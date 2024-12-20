@@ -1,6 +1,6 @@
 {
   "code": "dsk",
-  "formatName": "Duskmourn",
+  "formatName": "Duskmourn: House of Horror",
   "name": "Full Card Gallery",
   "includeFormats": [{ "code": "spg", "min": 64, "max": 73 }],
   "defaultGrouping": "none",
@@ -23,28 +23,32 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Dazzling Theater // Prop Room (Dazzling Theater)": {
+    "Dazzling Theater (Dazzling Theater // Prop Room)": {
       "number": "3",
       "cost": ["3", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dazzling Theater // Prop Room (Prop Room)": {
+    "Prop Room (Dazzling Theater // Prop Room)": {
       "number": "3",
       "cost": ["2", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dollmaker's Shop // Porcelain Gallery (Dollmaker's Shop)": {
+    "Dollmaker's Shop (Dollmaker's Shop // Porcelain Gallery)": {
       "number": "4",
       "cost": ["1", "w"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Dollmaker's Shop // Porcelain Gallery (Porcelain Gallery)": {
+    "Porcelain Gallery (Dollmaker's Shop // Porcelain Gallery)": {
       "number": "4",
       "cost": ["4", "w", "w"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Emerge from the Cocoon": {
@@ -107,16 +111,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Grand Entryway // Elegant Rotunda (Grand Entryway)": {
+    "Grand Entryway (Grand Entryway // Elegant Rotunda)": {
       "number": "15",
       "cost": ["1", "w"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Grand Entryway // Elegant Rotunda (Elegant Rotunda)": {
+    "Elegant Rotunda (Grand Entryway // Elegant Rotunda)": {
       "number": "15",
       "cost": ["2", "w"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Hardened Escort": {
@@ -227,16 +233,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Surgical Suite // Hospital Room (Surgical Suite)": {
+    "Surgical Suite (Surgical Suite // Hospital Room)": {
       "number": "34",
       "cost": ["1", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Surgical Suite // Hospital Room (Hospital Room)": {
+    "Hospital Room (Surgical Suite // Hospital Room)": {
       "number": "34",
       "cost": ["3", "w"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Toby, Beastie Befriender": {
@@ -287,28 +295,32 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Bottomless Pool // Locker Room (Bottomless Pool)": {
+    "Bottomless Pool (Bottomless Pool // Locker Room)": {
       "number": "43",
       "cost": ["u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Bottomless Pool // Locker Room (Locker Room)": {
+    "Locker Room (Bottomless Pool // Locker Room)": {
       "number": "43",
       "cost": ["4", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Central Elevator // Promising Stairs (Central Elevator)": {
+    "Central Elevator (Central Elevator // Promising Stairs)": {
       "number": "44",
       "cost": ["3", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Central Elevator // Promising Stairs (Promising Stairs)": {
+    "Promising Stairs (Central Elevator // Promising Stairs)": {
       "number": "44",
       "cost": ["2", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Clammy Prowler": {
@@ -431,16 +443,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Meat Locker // Drowned Diner (Meat Locker)": {
+    "Meat Locker (Meat Locker // Drowned Diner)": {
       "number": "65",
       "cost": ["2", "u"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Meat Locker // Drowned Diner (Drowned Diner)": {
+    "Drowned Diner (Meat Locker // Drowned Diner)": {
       "number": "65",
       "cost": ["3", "u", "u"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "The Mindskinner": {
@@ -449,16 +463,18 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Mirror Room // Fractured Realm (Mirror Room)": {
+    "Mirror Room (Mirror Room // Fractured Realm)": {
       "number": "67",
       "cost": ["2", "u"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Mirror Room // Fractured Realm (Fractured Realm)": {
+    "Fractured Realm (Mirror Room // Fractured Realm)": {
       "number": "67",
       "cost": ["5", "u", "u"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Overlord of the Floodpits": {
@@ -527,16 +543,18 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Underwater Tunnel // Slimy Aquarium (Underwater Tunnel)": {
+    "Underwater Tunnel (Underwater Tunnel // Slimy Aquarium)": {
       "number": "79",
       "cost": ["u"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Underwater Tunnel // Slimy Aquarium (Slimy Aquarium)": {
+    "Slimy Aquarium (Underwater Tunnel // Slimy Aquarium)": {
       "number": "79",
       "cost": ["3", "u"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Unnerving Grasp": {
@@ -605,16 +623,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Defiled Crypt // Cadaver Lab (Defiled Crypt)": {
+    "Defiled Crypt (Defiled Crypt // Cadaver Lab)": {
       "number": "91",
       "cost": ["3", "b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Defiled Crypt // Cadaver Lab (Cadaver Lab)": {
+    "Cadaver Lab (Defiled Crypt // Cadaver Lab)": {
       "number": "91",
       "cost": ["b"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Demonic Counsel": {
@@ -623,16 +643,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Derelict Attic // Widow's Walk (Derelict Attic)": {
+    "Derelict Attic (Derelict Attic // Widow's Walk)": {
       "number": "93",
       "cost": ["2", "b"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Derelict Attic // Widow's Walk (Widow's Walk)": {
+    "Widow's Walk (Derelict Attic // Widow's Walk)": {
       "number": "93",
       "cost": ["3", "b"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Doomsday Excruciator": {
@@ -671,16 +693,18 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Funeral Room // Awakening Hall (Funeral Room)": {
+    "Funeral Room (Funeral Room // Awakening Hall)": {
       "number": "100",
       "cost": ["2", "b"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Funeral Room // Awakening Hall (Awakening Hall)": {
+    "Awakening Hall (Funeral Room // Awakening Hall)": {
       "number": "100",
       "cost": ["6", "b", "b"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Give In to Violence": {
@@ -785,16 +809,18 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Unholy Annex // Ritual Chamber (Unholy Annex)": {
+    "Unholy Annex (Unholy Annex // Ritual Chamber)": {
       "number": "118",
       "cost": ["2", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Unholy Annex // Ritual Chamber (Ritual Chamber)": {
+    "Ritual Chamber (Unholy Annex // Ritual Chamber)": {
       "number": "118",
       "cost": ["3", "b", "b"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Unstoppable Slasher": {
@@ -857,16 +883,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Charred Foyer // Warped Space (Charred Foyer)": {
+    "Charred Foyer (Charred Foyer // Warped Space)": {
       "number": "129",
       "cost": ["3", "r"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Charred Foyer // Warped Space (Warped Space)": {
+    "Warped Space (Charred Foyer // Warped Space)": {
       "number": "129",
       "cost": ["4", "r", "r"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Clockwork Percussionist": {
@@ -911,16 +939,18 @@
       "rarity": "r",
       "categories": ["creature"]
     },
-    "Glassworks // Shattered Yard (Glassworks)": {
+    "Glassworks (Glassworks // Shattered Yard)": {
       "number": "137",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Glassworks // Shattered Yard (Shattered Yard)": {
+    "Shattered Yard (Glassworks // Shattered Yard)": {
       "number": "137",
       "cost": ["4", "r"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Grab the Prize": {
@@ -977,16 +1007,18 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Painter's Studio // Defaced Gallery (Painter's Studio)": {
+    "Painter's Studio (Painter's Studio // Defaced Gallery)": {
       "number": "147",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Painter's Studio // Defaced Gallery (Defaced Gallery)": {
+    "Defaced Gallery (Painter's Studio // Defaced Gallery)": {
       "number": "147",
       "cost": ["1", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Piggy Bank": {
@@ -1049,16 +1081,18 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Ticket Booth // Tunnel of Hate (Ticket Booth)": {
+    "Ticket Booth (Ticket Booth // Tunnel of Hate)": {
       "number": "158",
       "cost": ["2", "r"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Ticket Booth // Tunnel of Hate (Tunnel of Hate)": {
+    "Tunnel of Hate (Ticket Booth // Tunnel of Hate)": {
       "number": "158",
       "cost": ["4", "r", "r"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Trial of Agony": {
@@ -1193,16 +1227,18 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Greenhouse // Rickety Gazebo (Greenhouse)": {
+    "Greenhouse (Greenhouse // Rickety Gazebo)": {
       "number": "181",
       "cost": ["2", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Greenhouse // Rickety Gazebo (Rickety Gazebo)": {
+    "Rickety Gazebo (Greenhouse // Rickety Gazebo)": {
       "number": "181",
       "cost": ["3", "g"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Hauntwoods Shrieker": {
@@ -1253,16 +1289,18 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Moldering Gym // Weight Room (Moldering Gym)": {
+    "Moldering Gym (Moldering Gym // Weight Room)": {
       "number": "190",
       "cost": ["2", "g"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Moldering Gym // Weight Room (Weight Room)": {
+    "Weight Room (Moldering Gym // Weight Room)": {
       "number": "190",
       "cost": ["5", "g"],
       "rarity": "c",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Monstrous Emergence": {
@@ -1349,16 +1387,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Walk-In Closet // Forgotten Cellar (Walk-In Closet)": {
+    "Walk-In Closet (Walk-In Closet // Forgotten Cellar)": {
       "number": "205",
       "cost": ["2", "g"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Walk-In Closet // Forgotten Cellar (Forgotten Cellar)": {
+    "Forgotten Cellar (Walk-In Closet // Forgotten Cellar)": {
       "number": "205",
       "cost": ["3", "g", "g"],
       "rarity": "m",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Wary Watchdog": {
@@ -1487,16 +1527,18 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Restricted Office // Lecture Hall (Restricted Office)": {
+    "Restricted Office (Restricted Office // Lecture Hall)": {
       "number": "227",
       "cost": ["2", "w", "w"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Restricted Office // Lecture Hall (Lecture Hall)": {
+    "Lecture Hall (Restricted Office // Lecture Hall)": {
       "number": "227",
       "cost": ["5", "u", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Rip, Spawn Hunter": {
@@ -1511,16 +1553,18 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Roaring Furnace // Steaming Sauna (Roaring Furnace)": {
+    "Roaring Furnace (Roaring Furnace // Steaming Sauna)": {
       "number": "230",
       "cost": ["1", "r"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Roaring Furnace // Steaming Sauna (Steaming Sauna)": {
+    "Steaming Sauna (Roaring Furnace // Steaming Sauna)": {
       "number": "230",
       "cost": ["3", "u", "u"],
       "rarity": "r",
+      "layout": "split",
       "categories": ["spell"]
     },
     "Sawblade Skinripper": {
@@ -1547,16 +1591,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Smoky Lounge // Misty Salon (Smoky Lounge)": {
+    "Smoky Lounge (Smoky Lounge // Misty Salon)": {
       "number": "235",
       "cost": ["2", "r"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
-    "Smoky Lounge // Misty Salon (Misty Salon)": {
+    "Misty Salon (Smoky Lounge // Misty Salon)": {
       "number": "235",
       "cost": ["3", "u"],
       "rarity": "u",
+      "layout": "split",
       "categories": ["spell"]
     },
     "The Swarmweaver": {

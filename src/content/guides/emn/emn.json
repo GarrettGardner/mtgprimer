@@ -99,7 +99,14 @@
       "number": "15",
       "cost": ["5", "w", "w"],
       "rarity": "r",
-      "isFlippable": true,
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Brisela, Voice of Nightmares": {
+      "number": "15",
+      "cost": [],
+      "rarity": "m",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Choking Restraints": {
@@ -144,12 +151,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Extricator of Sin": {
+    "Extricator of Sin (Extricator of Sin // Extricator of Flesh)": {
       "number": "23",
       "cost": ["2", "w"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Extricator of Flesh (Extricator of Sin // Extricator of Flesh)": {
+      "number": "23",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Faith Unbroken": {
       "number": "24",
@@ -175,18 +190,18 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Give No Ground": {
-      "number": "28",
-      "cost": ["3", "w"],
-      "rarity": "u",
-      "isFlippable": true,
-      "categories": ["spell"]
-    },
     "Gisela, the Broken Blade": {
-      "number": "29",
+      "number": "28",
       "cost": ["2", "w", "w"],
       "rarity": "m",
+      "layout": "meld",
       "categories": ["creature"]
+    },
+    "Give No Ground": {
+      "number": "29",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
     },
     "Guardian of Pilgrims": {
       "number": "30",
@@ -206,12 +221,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Lone Rider": {
+    "Lone Rider (Lone Rider // It That Rides as One)": {
       "number": "33",
       "cost": ["1", "w"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "It That Rides as One (Lone Rider // It That Rides as One)": {
+      "number": "33",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Long Road Home": {
       "number": "34",
@@ -321,7 +344,7 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Contigency Plan": {
+    "Contingency Plan": {
       "number": "52",
       "cost": ["1", "u"],
       "rarity": "c",
@@ -333,12 +356,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Curious Homunculus": {
+    "Curious Homunculus (Curious Homunculus // Voracious Reader)": {
       "number": "54",
       "cost": ["1", "u"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Voracious Reader (Curious Homunculus // Voracious Reader)": {
+      "number": "54",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Displace": {
       "number": "55",
@@ -346,12 +377,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Docent of Perfection": {
+    "Docent of Perfection (Docent of Perfection // Final Iteration)": {
       "number": "56",
       "cost": ["3", "u", "u"],
       "rarity": "r",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Final Iteration (Docent of Perfection // Final Iteration)": {
+      "number": "56",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Drag Under": {
       "number": "57",
@@ -389,12 +428,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Grizzled Angler": {
+    "Grizzled Angler (Grizzled Angler // Grisly Anglerfish)": {
       "number": "63",
       "cost": ["2", "u"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Grisly Anglerfish (Grizzled Angler // Grisly Anglerfish)": {
+      "number": "63",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Identity Thief": {
       "number": "64",
@@ -562,7 +609,7 @@
       "number": "91",
       "cost": ["1", "b"],
       "rarity": "c",
-      "isFlippable": true,
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Haunted Dead": {
@@ -593,7 +640,14 @@
       "number": "96",
       "cost": ["4", "b"],
       "rarity": "c",
-      "isFlippable": true,
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Chittering Host": {
+      "number": "96",
+      "cost": [],
+      "rarity": "c",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Murder": {
@@ -680,12 +734,20 @@
       "rarity": "u",
       "categories": ["creature"]
     },
-    "Voldaren Pariah": {
+    "Voldaren Pariah (Voldaren Pariah // Abolisher of Bloodlines)": {
       "number": "111",
       "cost": ["3", "b", "b"],
       "rarity": "r",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Abolisher of Bloodlines (Voldaren Pariah // Abolisher of Bloodlines)": {
+      "number": "111",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Wailing Ghoul": {
       "number": "112",
@@ -705,7 +767,7 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Abandoned Reason": {
+    "Abandon Reason": {
       "number": "115",
       "cost": ["2", "r"],
       "rarity": "u",
@@ -759,12 +821,20 @@
       "rarity": "r",
       "categories": ["spell"]
     },
-    "Conduit of Storms": {
+    "Conduit of Storms (Conduit of Storms // Conduit of Emrakul)": {
       "number": "124",
       "cost": ["2", "r"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Conduit of Emrakul (Conduit of Storms // Conduit of Emrakul)": {
+      "number": "124",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Deranged Whelp": {
       "number": "125",
@@ -800,7 +870,14 @@
       "number": "130",
       "cost": ["2", "r"],
       "rarity": "r",
-      "isFlippable": true,
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Hanweir, the Writhing Township": {
+      "number": "130",
+      "cost": [],
+      "rarity": "r",
+      "layout": "meld",
       "categories": ["creature"]
     },
     "Harmless Offering": {
@@ -869,12 +946,20 @@
       "rarity": "u",
       "categories": ["spell"]
     },
-    "Smoldering Werewolf": {
+    "Smoldering Werewolf (Smoldering Werewolf // Erupting Dreadwolf)": {
       "number": "142",
       "cost": ["2", "r", "r"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Erupting Dreadwolf (Smoldering Werewolf // Erupting Dreadwolf)": {
+      "number": "142",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Spreading Flames": {
       "number": "143",
@@ -906,12 +991,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Vildin-Pack Outcast": {
+    "Vildin-Pack Outcast (Vildin-Pack Outcast // Dronepack Kindred)": {
       "number": "148",
       "cost": ["4", "r"],
       "rarity": "c",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Dronepack Kindred (Vildin-Pack Outcast // Dronepack Kindred)": {
+      "number": "148",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Weaver of Lightning": {
       "number": "149",
@@ -997,12 +1090,20 @@
       "rarity": "m",
       "categories": ["creature"]
     },
-    "Kessig Prowler": {
+    "Kessig Prowler (Kessig Prowler // Sinuous Predator)": {
       "number": "163",
       "cost": ["g"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Sinuous Predator (Kessig Prowler // Sinuous Predator)": {
+      "number": "163",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Noose Constrictor": {
       "number": "164",
@@ -1028,12 +1129,20 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Shrill Howler": {
+    "Shrill Howler (Shrill Howler // Howling Chorus)": {
       "number": "168",
       "cost": ["2", "g"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Howling Chorus (Shrill Howler // Howling Chorus)": {
+      "number": "168",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Somberwald Stag": {
       "number": "169",
@@ -1065,19 +1174,35 @@
       "rarity": "c",
       "categories": ["creature"]
     },
-    "Tangleclaw Werewolf": {
+    "Tangleclaw Werewolf (Tangleclaw Werewolf // Fibrous Entangler)": {
       "number": "174",
       "cost": ["2", "g", "g"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
     },
-    "Ulvenwald Captive": {
+    "Fibrous Entangler (Tangleclaw Werewolf // Fibrous Entangler)": {
+      "number": "174",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Ulvenwald Captive (Ulvenwald Captive // Ulvenwald Abomination)": {
       "number": "175",
       "cost": ["1", "g"],
       "rarity": "c",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ulvenwald Abomination (Ulvenwald Captive // Ulvenwald Abomination)": {
+      "number": "175",
+      "cost": [],
+      "rarity": "c",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Ulvenwald Observer": {
       "number": "176",
@@ -1169,12 +1294,20 @@
       "rarity": "m",
       "categories": ["spell"]
     },
-    "Ulrich of the Krallenhorde": {
+    "Ulrich of the Krallenhorde (Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha)": {
       "number": "191",
       "cost": ["3", "r", "g"],
       "rarity": "m",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["creature"]
+    },
+    "Ulrich, Uncontested Alpha (Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha)": {
+      "number": "191",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Cathar's Shield": {
       "number": "192",
@@ -1182,12 +1315,20 @@
       "rarity": "c",
       "categories": ["spell"]
     },
-    "Cryptolith Fragment": {
+    "Cryptolith Fragment (Cryptolith Fragment // Aurora of Emrakul)": {
       "number": "193",
       "cost": ["3"],
       "rarity": "u",
-      "isFlippable": true,
+      "layout": "transform",
       "categories": ["spell"]
+    },
+    "Aurora of Emrakul (Cryptolith Fragment // Aurora of Emrakul)": {
+      "number": "193",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
     },
     "Cultist's Staff": {
       "number": "194",
@@ -1253,7 +1394,7 @@
       "number": "204",
       "cost": [],
       "rarity": "r",
-      "isFlippable": true,
+      "layout": "meld",
       "categories": ["land"]
     },
     "Nephalia Academy": {
