@@ -74,7 +74,7 @@ export const PRESET: Record<
     ICON: "fas fa-hand-sparkles",
     DESCRIPTION:
       "Effects which can temporarily disrupt creatures from functioning, such as Frost Lynx or Icy Manipulator.",
-    TAGS: ["Stun"],
+    TAGS: ["Stun", "Tap"],
   },
   "guide-draw": {
     NAME: "Card Draw",
