@@ -1,0 +1,156 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Absorb Essence (Purging Stormbrood // Absorb Essence)": {
+      "categories": ["board"]
+    },
+    "Alesha's Legacy": {
+      "categories": ["board"]
+    },
+    "Anafenza, Unyielding Lineage": {
+      "categories": ["board"]
+    },
+    "Auroral Procession": {
+      "categories": ["other"]
+    },
+    "Bewildering Blizzard": {
+      "categories": ["board"]
+    },
+    "Caustic Exhale": {
+      "categories": ["counterspell"]
+    },
+    "Chilling Screech (Runescale Stormbrood // Chilling Screech)": {
+      "categories": ["counterspell"]
+    },
+    "Coil and Catch (Marang River Regent // Coil and Catch)": {
+      "categories": ["other"]
+    },
+    "Coordinated Maneuver": {
+      "categories": ["board"]
+    },
+    "Cruel Truths": {
+      "categories": ["other"]
+    },
+    "Desperate Measures": {
+      "categories": ["board"]
+    },
+    "Dispelling Exhale": {
+      "categories": ["counterspell"]
+    },
+    "Dragon's Prey": {
+      "categories": ["board"]
+    },
+    "Duty Beyond Death": {
+      "categories": ["board"]
+    },
+    "Fangkeeper's Familiar": {
+      "categories": ["counterspell", "board"]
+    },
+    "Fire-Rim Form": {
+      "categories": ["board"]
+    },
+    "Focus the Mind": {
+      "categories": ["other"],
+      "cost": ["2", "u"]
+    },
+    "Fresh Start": {
+      "categories": ["board"]
+    },
+    "Frontline Rush": {
+      "categories": ["board"]
+    },
+    "Heritage Reclamation": {
+      "categories": ["board"]
+    },
+    "Humbling Elder": {
+      "categories": ["board"]
+    },
+    "Inevitable Defeat": {
+      "categories": ["board"]
+    },
+    "Jeskai Revelation": {
+      "categories": ["board", "counterspell"]
+    },
+    "Kin-Tree Severance": {
+      "categories": ["board"]
+    },
+    "Lightfoot Technique": {
+      "categories": ["board"]
+    },
+    "Molten Exhale": {
+      "categories": ["board"]
+    },
+    "Narset's Rebuke": {
+      "categories": ["board"]
+    },
+    "New Way Forward": {
+      "categories": ["board"]
+    },
+    "Osseous Exhale": {
+      "categories": ["board"]
+    },
+    "Overwhelming Surge": {
+      "categories": ["board"]
+    },
+    "Piercing Exhale": {
+      "categories": ["board"]
+    },
+    "Rakshasa's Bargain": {
+      "categories": ["board"]
+    },
+    "Rally the Monastery": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Rebellious Strike": {
+      "categories": ["board"]
+    },
+    "Riverwalk Technique": {
+      "categories": ["board", "counterspell"]
+    },
+    "Sarkhan's Resolve": {
+      "categories": ["board"]
+    },
+    "Seize Opportunity": {
+      "categories": ["board"]
+    },
+    "Skimming Strike (Dirgur Island Dragon // Skimming Strike)": {
+      "categories": ["board"]
+    },
+    "Snakeskin Veil": {
+      "categories": ["board"]
+    },
+    "Songcrafter Mage": {
+      "categories": ["board"]
+    },
+    "Spectral Denial": {
+      "categories": ["counterspell"]
+    },
+    "Static Snare": {
+      "categories": ["board"],
+      "cost": ["w"]
+    },
+    "Sunpearl Kirin": {
+      "categories": ["board"]
+    },
+    "Twin Bolt": {
+      "categories": ["board"]
+    },
+    "Unrooted Ancestor": {
+      "categories": ["board"]
+    },
+    "Wail of War": {
+      "categories": ["board"]
+    },
+    "Whirlwing Stormbrood (Whirlwing Stormbrood // Dynamic Soar)": {
+      "categories": ["board"]
+    }
+  }
+}

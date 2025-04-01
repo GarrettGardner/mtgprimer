@@ -1,0 +1,259 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aegis Sculptor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Armament Dragon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Betor, Kin to All": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bloomvine Regent (Bloomvine Regent // Claim Territory)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Boulderborn Dragon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Charring Bite (Twinmaw Stormbrood // Charring Bite)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Clarion Conqueror": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Delta Bloodflies": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dirgur Island Dragon (Dirgur Island Dragon // Skimming Strike)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Disruptive Stormbrood (Disruptive Stormbrood // Petty Revenge)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dragonback Assault": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dragonback Lancer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dragonbroods' Relic": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Elspeth, Storm Slayer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Feral Deathgorger (Feral Deathgorger // Dusk Sight)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Highspire Bell-Ringer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Jeskai Monument": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jeskai Shrinekeeper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Karakyk Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kheru Goldkeeper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kishla Skimmer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lightfoot Technique": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Magmatic Hellkite": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Marang River Regent (Marang River Regent // Coil and Catch)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Monastery Messenger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Neriv, Heart of the Storm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Purging Stormbrood (Purging Stormbrood // Absorb Essence)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Qarsi Revenant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Riling Dawnbreaker (Riling Dawnbreaker // Signaling Roar)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Runescale Stormbrood (Runescale Stormbrood // Chilling Screech)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sage of the Skies": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sagu Wildling (Sagu Wildling // Roost Seek)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sarkhan's Resolve": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sarkhan, Dragon Ascendant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Scavenger Regent (Scavenger Regent // Exude Toxin)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shiko, Paragon of the Way": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sinkhole Surveyor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sonic Shrieker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Starry-Eyed Skyrider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Stormscale Scion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Stormshriek Feral (Stormshriek Feral // Flush Out)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sunpearl Kirin": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sunset Strikemaster": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tempest Hawk": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Teval, Arbiter of Virtue": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Twinmaw Stormbrood (Twinmaw Stormbrood // Charring Bite)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ureni, the Song Unending": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Whirlwing Stormbrood (Whirlwing Stormbrood // Dynamic Soar)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wingblade Disciple": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wingspan Stride": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

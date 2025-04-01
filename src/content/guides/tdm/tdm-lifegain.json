@@ -1,0 +1,194 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Absorb Essence (Purging Stormbrood // Absorb Essence)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Alchemist's Assistant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloodfell Caves": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloomvine Regent (Bloomvine Regent // Claim Territory)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Blossoming Sands": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cori Mountain Stalwart": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Corroding Dragonstorm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Defibrillating Current": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dismal Backwater": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dragonbroods' Relic": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fangkeeper's Familiar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Inevitable Defeat": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jeskai Revelation": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jeskai Shrinekeeper": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jungle Hollow": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kin-Tree Nurturer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lotuslight Dancers": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Osseous Exhale": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Qarsi Revenant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Revival of the Ancestors": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rugged Highlands": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sage of the Skies": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sagu Wildling (Sagu Wildling // Roost Seek)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Scoured Barrens": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Skirmish Rhino": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sonic Shrieker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Swiftwater Cliffs": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Teval, Arbiter of Virtue": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thornwood Falls": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thunder of Unity": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tranquil Cove": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Twinmaw Stormbrood (Twinmaw Stormbrood // Charring Bite)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ugin, Eye of the Storms": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Venerated Stormsinger": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Watcher of the Wayside": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wind-Scarred Crag": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Windcrag Siege": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

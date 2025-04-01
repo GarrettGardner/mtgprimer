@@ -1,0 +1,39 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Dragon Sniper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dusyut Earthcarver": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Jade-Cast Sentinel": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sagu Pummeler": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shocking Sharpshooter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summit Intimidator": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Death Begets Life": {},
+    "Dragonback Assault": {}
+  }
+}

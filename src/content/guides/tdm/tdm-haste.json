@@ -1,0 +1,84 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Cori-Steel Cutter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Craterhoof Behemoth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Devoted Duelist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fleeting Effigy": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Frostcliff Siege": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jeskai Shrinekeeper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mardu Monument": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mardu Siegebreaker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Reverberating Summons": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Salt Road Skirmish": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stormshriek Feral (Stormshriek Feral // Flush Out)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Taigam, Master Opportunist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tersa Lightshatter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wild Ride": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Windcrag Siege": {
+      "categories": [
+        "granted"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

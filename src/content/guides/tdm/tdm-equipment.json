@@ -1,0 +1,12 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Cori-Steel Cutter": {},
+    "Dragonfire Blade": {},
+    "Stormbeacon Blade": {}
+  }
+}

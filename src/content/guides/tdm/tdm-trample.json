@@ -1,0 +1,79 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Attuned Hunter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Champion of Dusan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cori-Steel Cutter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Craterhoof Behemoth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Eshki Dragonclaw": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Felothar, Dawn of the Abzan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Frostcliff Siege": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Herd Heirloom": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Karakyk Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Revival of the Ancestors": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rot-Curse Rakshasa": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skirmish Rhino": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Surrak, Elusive Hunter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Synchronized Charge": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}
