@@ -1,0 +1,13 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Explosive Getaway": {},
+    "Fuel the Flames": {},
+    "Shefet Archfiend": {},
+    "Spectacular Pileup": {}
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Agonasaur Rex": {
+      "cost": ["2", "g"],
+      "categories": ["board"]
+    },
+    "Basri, Tomorrow's Champion": {
+      "cost": ["2", "w"],
+      "categories": ["board"]
+    },
+    "Bestow Greatness": {
+      "categories": ["board"]
+    },
+    "Bounce Off": {
+      "categories": ["board"]
+    },
+    "Broadside Barrage": {
+      "categories": ["board"]
+    },
+    "Broken Wings": {
+      "categories": ["board"]
+    },
+    "Burner Rocket": {
+      "categories": ["board"]
+    },
+    "Crash and Burn": {
+      "categories": ["board"]
+    },
+    "Defend the Rider": {
+      "categories": ["board"]
+    },
+    "Fang Guardian": {
+      "categories": ["board"]
+    },
+    "Fuel the Flames": {
+      "categories": ["board"]
+    },
+    "Gallant Strike": {
+      "categories": ["board"]
+    },
+    "Howler's Heavy": {
+      "cost": ["1", "u"],
+      "categories": ["board"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Lightshield Parry": {
+      "categories": ["board"]
+    },
+    "Locust Spray": {
+      "categories": ["board"]
+    },
+    "Magmakin Artillerist": {
+      "cost": ["1", "u"],
+      "categories": ["board"]
+    },
+    "Maximum Overdrive": {
+      "categories": ["board"]
+    },
+    "Pedal to the Metal": {
+      "categories": ["board"]
+    },
+    "Ride's End": {
+      "cost": ["1", "w"],
+      "categories": ["board"]
+    },
+    "Road Rage": {
+      "categories": ["board"]
+    },
+    "Run Over": {
+      "cost": ["g"],
+      "categories": ["board"]
+    },
+    "Silken Strength": {
+      "categories": ["board"]
+    },
+    "Skycrash": {
+      "categories": ["board"]
+    },
+    "Spectral Interference": {
+      "categories": ["counterspell"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Spin Out": {
+      "categories": ["board"]
+    },
+    "Syphon Fuel": {
+      "categories": ["board"]
+    },
+    "Trip Up": {
+      "categories": ["board"]
+    },
+    "Valor's Flagship": {
+      "cost": ["1", "u"],
+      "categories": ["board"]
+    },
+    "Waxen Shapethief": {
+      "categories": ["board"]
+    },
+    "Webstrike Elite": {
+      "cost": ["x", "g", "g"],
+      "categories": ["board"]
+    }
+  }
+}

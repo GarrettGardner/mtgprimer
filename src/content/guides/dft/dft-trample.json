@@ -1,0 +1,89 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Agonasaur Rex": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bestow Greatness": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Boom Scholar": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Brightglass Gearhulk": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Burner Rocket": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Debris Beetle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earthrumbler": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Gastal Thrillroller": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Goblin Surveyor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Greenbelt Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hazard of the Dunes": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Oviya, Automech Artisan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Reckless Velocitaur": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sab-Sunen, Luxa Embodied": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Speed Demon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thunderous Velocipede": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

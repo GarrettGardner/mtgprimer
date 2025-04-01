@@ -1,0 +1,164 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Apocalypse Runner": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Basri, Tomorrow's Champion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloodfell Caves": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Blossoming Sands": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Debris Beetle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dismal Backwater": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dredger's Insight": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Embalmed Ascendant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Gastal Thrillseeker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Gloryheath Lynx": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Haunt the Network": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jungle Hollow": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ketramose, the New Dawn": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lotusguard Disciple": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Migrating Ketradon": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Momentum Breaker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Oildeep Gearhulk": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pactdoll Terror": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Roadside Assistance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rugged Highlands": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Scoured Barrens": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Streaking Oilgorger": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Swiftwater Cliffs": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Syphon Fuel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thornwood Falls": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tranquil Cove": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Valor's Flagship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Veloheart Bike": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Voyage Home": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wind-Scarred Crag": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wreck Remover": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

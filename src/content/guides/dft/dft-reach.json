@@ -1,0 +1,54 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Endrider Spikespitter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fang-Druid Summoner": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hazard of the Dunes": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Migrating Ketradon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sab-Sunen, Luxa Embodied": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Silken Strength": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thunderhead Gunner": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thundering Broodwagon": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Webstrike Elite": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

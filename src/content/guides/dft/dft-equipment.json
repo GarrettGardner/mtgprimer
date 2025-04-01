@@ -1,0 +1,11 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Rover Blades": {},
+    "The Aetherspark": {}
+  }
+}

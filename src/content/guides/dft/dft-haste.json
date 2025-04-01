@@ -1,0 +1,66 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Amonkhet Raceway": {
+      "categories": ["granted"]
+    },
+    "Bloodghast": {
+      "categories": ["default"]
+    },
+    "Chandra, Spark Hunter": {
+      "categories": ["granted"]
+    },
+    "Coalstoke Gearhulk": {
+      "categories": ["default"]
+    },
+    "Draconautics Engineer": {
+      "categories": ["default"]
+    },
+    "Dracosaur Auxiliary": {
+      "categories": ["default"]
+    },
+    "Fearless Swashbuckler": {
+      "categories": ["default"]
+    },
+    "Gastal Thrillroller": {
+      "categories": ["granted"]
+    },
+    "Gastal Thrillseeker": {
+      "categories": ["default"]
+    },
+    "Hazoret, Godseeker": {
+      "categories": ["default"]
+    },
+    "Howlsquad Heavy": {
+      "categories": ["default"]
+    },
+    "Kickoff Celebrations": {
+      "categories": ["granted"]
+    },
+    "Kolodin, Triumph Caster": {
+      "categories": ["default"]
+    },
+    "Loot, the Pathfinder": {
+      "categories": ["default"]
+    },
+    "Prowcatcher Specialist": {
+      "categories": ["default"]
+    },
+    "Push the Limit": {
+      "categories": ["granted"]
+    },
+    "Samut, the Driving Force": {
+      "categories": ["default"]
+    },
+    "Spire Mechcycle": {
+      "categories": ["granted"]
+    },
+    "Streaking Oilgorger": {
+      "categories": ["default"]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

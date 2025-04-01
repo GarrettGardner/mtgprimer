@@ -1,0 +1,184 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aetherjacket": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Air Response Unit": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Brightfield Glider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Broadcast Rambler": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Broken Wings": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Camera Launcher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Canyon Vaulter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cloudspire Skycycle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Diversion Unit": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Draconautics Engineer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dracosaur Auxiliary": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Glitch Ghost Surveyor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Guidelight Synergist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Haunt the Network": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hulldrifter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lagorin, Soul of Alacria": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lotusguard Disciple": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Memory Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mu Yanling, Wind Rider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Nimble Thopterist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rangers' Aetherhive": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sabotage Strategist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Scrounging Skyray": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shefet Archfiend": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skybox Ferry": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Skyseer's Chariot": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Skyserpent Seeker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skystreak Engineer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Streaking Oilgorger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Swiftwing Assailant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Speed Demon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thopter Fabricator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Valor's Flagship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Voyager Glidecar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wreckage Wickerfolk": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}
