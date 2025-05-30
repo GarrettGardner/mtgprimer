@@ -10,27 +10,31 @@ import {
 } from "@/components/template";
 
 import styles from "./router.module.scss";
+import { useMemo } from "react";
 
 export const TemplateRouter = (props: { template: TTemplate }) => {
   const hasMenu = "menu" in props.template;
-  let template = <TemplateNotFound />;
-  switch (props.template.type) {
-    case "home":
-      template = <TemplateHome template={props.template} />;
-      break;
-    case "directory":
-      template = <TemplateDirectory template={props.template} />;
-      break;
-    case "guide-group":
-      template = <TemplateGuideGroup template={props.template} />;
-      break;
-    case "guide":
-      template = <TemplateGuide template={props.template} />;
-      break;
-    case "info":
-      template = <TemplateInfo template={props.template} />;
-      break;
-  }
+  const template = useMemo(() => {
+    let template = <TemplateNotFound />;
+    switch (props.template.type) {
+      case "home":
+        template = <TemplateHome template={props.template} />;
+        break;
+      case "directory":
+        template = <TemplateDirectory template={props.template} />;
+        break;
+      case "guide-group":
+        template = <TemplateGuideGroup template={props.template} />;
+        break;
+      case "guide":
+        template = <TemplateGuide template={props.template} />;
+        break;
+      case "info":
+        template = <TemplateInfo template={props.template} />;
+        break;
+    }
+    return template;
+  }, [props.template]);
 
   return (
     <div className={styles.site}>

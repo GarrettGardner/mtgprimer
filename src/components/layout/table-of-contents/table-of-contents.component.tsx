@@ -1,19 +1,25 @@
 "use client";
 
-import { MouseEvent } from "react";
+import { MouseEvent, useCallback } from "react";
 import type { IGuide } from "@/models";
-import { Button, Icon } from "@/components/common";
+import { Button } from "@/components/common";
 
 import styles from "./table-of-contents.module.scss";
 
 export const TableOfContents = (props: { guides: IGuide[]; path?: string }) => {
-  const handleAnchorClick = (e: MouseEvent<HTMLAnchorElement>) => {
-    if (!props.path) {
-      e.preventDefault();
-      const anchor = e.currentTarget.getAttribute("href")?.split("#").join("");
-      if (anchor) document.getElementById(anchor)?.scrollIntoView();
-    }
-  };
+  const handleAnchorClick = useCallback(
+    (e: MouseEvent<HTMLAnchorElement>) => {
+      if (!props.path) {
+        e.preventDefault();
+        const anchor = e.currentTarget
+          .getAttribute("href")
+          ?.split("#")
+          .join("");
+        if (anchor) document.getElementById(anchor)?.scrollIntoView();
+      }
+    },
+    [props.path],
+  );
 
   return (
     <ul className={styles.tableOfContents}>

@@ -3,8 +3,7 @@ import { Icon } from "@/components/common";
 
 import styles from "./card-text.module.scss";
 
-export const CardText = (props: { card: ICard }) => {
-  const card = props.card;
+export const CardText = ({ card }: { card: ICard }) => {
   return (
     <button
       className={`${styles.cardText} color-${card.color}`}
