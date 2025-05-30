@@ -1,6 +1,6 @@
 {
   "name": "mtg-primer",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -10,26 +10,26 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/third-parties": "15.1.0",
-    "next": "^15.1.1",
-    "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "@next/third-parties": "^15.3.3",
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.27.0",
-    "@eslint/json": "^0.9.0",
+    "@eslint/js": "^9.28.0",
+    "@eslint/json": "^0.12.0",
     "@next/eslint-plugin-next": "^15.3.3",
-    "@types/node": "^20",
+    "@types/node": "^22.15.29",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.2",
-    "eslint": "^9.27.0",
-    "eslint-config-next": "15.1.0",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint": "^9.28.0",
+    "eslint-config-next": "^15.3.3",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
-    "prettier": "^3.4.2",
-    "sass": "^1.81.0",
-    "typescript": "^5",
+    "prettier": "^3.5.3",
+    "sass": "^1.89.0",
+    "typescript": "^5.8.3",
     "typescript-eslint": "^8.33.0"
   },
   "overrides": {
