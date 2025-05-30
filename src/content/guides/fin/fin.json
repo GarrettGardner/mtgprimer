@@ -1,0 +1,2069 @@
+{
+  "code": "fin",
+  "formatName": "Final Fantasy",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Summon: Bahamut": {
+      "number": "1",
+      "cost": ["9"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ultima, Origin of Oblivion": {
+      "number": "2",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Adelbert Steiner": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aerith Gainsborough": {
+      "number": "4",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aerith Rescue Mission": {
+      "number": "5",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ambrosia Whiteheart": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ashe, Princess of Dalmasca": {
+      "number": "7",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Auron's Inspiration": {
+      "number": "8",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Battle Menu": {
+      "number": "9",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cloud, Midgar Mercenary": {
+      "number": "10",
+      "cost": ["w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Cloudbound Moogle": {
+      "number": "11",
+      "cost": ["3", "w", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Coeurl": {
+      "number": "12",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Crystal Fragments (Crystal Fragments // Summon: Alexander)": {
+      "number": "13",
+      "cost": ["w"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Summon: Alexander (Crystal Fragments // Summon: Alexander)": {
+      "number": "13",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Crystal's Chosen": {
+      "number": "14",
+      "cost": ["5", "w", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Delivery Moogle": {
+      "number": "15",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dion, Bahamut's Dominant (Dion, Bahamut's Dominant // Bahamut, Warden of Light)": {
+      "number": "16",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Bahamut, Warden of Light (Dion, Bahamut's Dominant // Bahamut, Warden of Light)": {
+      "number": "16",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Dragoon's Lance": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dwarven Castle Guard": {
+      "number": "18",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fate of the Sun-Cryst": {
+      "number": "19",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "From Father to Son": {
+      "number": "20",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "G'raha Tia": {
+      "number": "21",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gaelicat": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Machinist's Arsenal": {
+      "number": "23",
+      "cost": ["4", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Magitek Armor": {
+      "number": "24",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Magitek Infantry": {
+      "number": "25",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Minwu, White Mage": {
+      "number": "26",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Moogles' Valor": {
+      "number": "27",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Paladin's Arms": {
+      "number": "28",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Phoenix Down": {
+      "number": "29",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Restoration Magic": {
+      "number": "30",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sidequest: Catch a Fish (Sidequest: Catch a Fish // Cooking Campsite)": {
+      "number": "31",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Cooking Campsite (Sidequest: Catch a Fish // Cooking Campsite)": {
+      "number": "31",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["land"],
+      "isTransformed": true
+    },
+    "Slash of Light": {
+      "number": "32",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Snow Villiers": {
+      "number": "33",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stiltzkin, Moogle Merchant": {
+      "number": "34",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Summon: Choco/Mog": {
+      "number": "35",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Summon: Knights of Round": {
+      "number": "36",
+      "cost": ["6", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Summon: Primal Garuda": {
+      "number": "37",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ultima": {
+      "number": "38",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Venat, Heart of Hydaelyn (Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal)": {
+      "number": "39",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Hydaelyn, the Mothercrystal (Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal)": {
+      "number": "39",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Weapons Vendor": {
+      "number": "40",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "White Auracite": {
+      "number": "41",
+      "cost": ["2", "w", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "White Mage's Staff": {
+      "number": "42",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Wind Crystal": {
+      "number": "43",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "You're Not Alone": {
+      "number": "44",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zack Fair": {
+      "number": "45",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Astrologian's Planisphere": {
+      "number": "46",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cargo Ship": {
+      "number": "47",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Combat Tutorial": {
+      "number": "48",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dragoon's Wyvern": {
+      "number": "49",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dreams of Laguna": {
+      "number": "50",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Edgar, King of Figaro": {
+      "number": "51",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Eject": {
+      "number": "52",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ether": {
+      "number": "53",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gogo, Master of Mimicry": {
+      "number": "54",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ice Flan": {
+      "number": "55",
+      "cost": ["4", "u", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ice Magic": {
+      "number": "56",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Il Mheg Pixie": {
+      "number": "57",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jill, Shiva's Dominant (Jill, Shiva's Dominant // Shiva, Warden of Ice)": {
+      "number": "58",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Shiva, Warden of Ice (Jill, Shiva's Dominant // Shiva, Warden of Ice)": {
+      "number": "58",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Louisoix's Sacrifice": {
+      "number": "59",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Lunar Whale": {
+      "number": "60",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Magic Damper": {
+      "number": "61",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Matoya, Archon Elder": {
+      "number": "62",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Memories Returning": {
+      "number": "63",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Prima Vista": {
+      "number": "64",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Qiqirn Merchant": {
+      "number": "65",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Quistis Trepe": {
+      "number": "66",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Relm's Sketching": {
+      "number": "67",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Retrieve the Esper": {
+      "number": "68",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rook Turret": {
+      "number": "69",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sage's Nouliths": {
+      "number": "70",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sahagin": {
+      "number": "71",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Scorpion Sentinel": {
+      "number": "72",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sidequest: Card Collection (Sidequest: Card Collection // Magicked Card)": {
+      "number": "73",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Magicked Card (Sidequest: Card Collection // Magicked Card)": {
+      "number": "73",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Sleep Magic": {
+      "number": "74",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stolen Uniform": {
+      "number": "75",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stuck in Summoner's Sanctum": {
+      "number": "76",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Summon: Leviathan": {
+      "number": "77",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Summon: Shiva": {
+      "number": "78",
+      "cost": ["3", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Swallowed by Leviathan": {
+      "number": "79",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Syncopate": {
+      "number": "80",
+      "cost": ["x", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thief's Knife": {
+      "number": "81",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Travel the Overworld": {
+      "number": "82",
+      "cost": ["5", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ultros, Obnoxious Octopus": {
+      "number": "83",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Valkyrie Aerial Unit": {
+      "number": "84",
+      "cost": ["5", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Water Crystal": {
+      "number": "85",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Y'shtola Rhul": {
+      "number": "86",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ahriman": {
+      "number": "87",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Al Bhed Salvagers": {
+      "number": "88",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ardyn, the Usurper": {
+      "number": "89",
+      "cost": ["5", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Black Mage's Rod": {
+      "number": "90",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cecil, Dark Knight (Cecil, Dark Knight // Cecil, Redeemed Paladin)": {
+      "number": "91",
+      "cost": ["b"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Cecil, Redeemed Paladin (Cecil, Dark Knight // Cecil, Redeemed Paladin)": {
+      "number": "91",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Circle of Power": {
+      "number": "92",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cornered by Black Mages": {
+      "number": "93",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dark Confidant": {
+      "number": "94",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dark Knight's Greatsword": {
+      "number": "95",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Darkness Crystal": {
+      "number": "96",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Demon Wall": {
+      "number": "97",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Evil Reawakened": {
+      "number": "98",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fang, Fearless l'Cie": {
+      "number": "99",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Ragnarok, Divine Deliverance": {
+      "number": "99b",
+      "cost": [],
+      "rarity": "u",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Fight On!": {
+      "number": "100",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Final Days": {
+      "number": "101",
+      "cost": ["2", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gaius van Baelsar": {
+      "number": "102",
+      "cost": ["2", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hecteyes": {
+      "number": "103",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jecht, Reluctant Guardian (Jecht, Reluctant Guardian // Braska's Final Aeon)": {
+      "number": "104",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Braska's Final Aeon (Jecht, Reluctant Guardian // Braska's Final Aeon)": {
+      "number": "104",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Kain, Traitorous Dragoon": {
+      "number": "105",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Malboro": {
+      "number": "106",
+      "cost": ["4", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Namazu Trader": {
+      "number": "107",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ninja's Blades": {
+      "number": "108",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Overkill": {
+      "number": "109",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Phantom Train": {
+      "number": "110",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Poison the Waters": {
+      "number": "111",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Qutrub Forayer": {
+      "number": "112",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Reno and Rude": {
+      "number": "113",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Resentful Revelation": {
+      "number": "114",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sephiroth, Fabled SOLDIER (Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel)": {
+      "number": "115",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Sephiroth, One-Winged Angel (Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel)": {
+      "number": "115",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Sephiroth's Intervention": {
+      "number": "116",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shambling Cie'th": {
+      "number": "117",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Shinra Reinforcements": {
+      "number": "118",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sidequest: Hunt the Mark (Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark)": {
+      "number": "119",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Yiazmat, Ultimate Mark (Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark)": {
+      "number": "119",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Summon: Anima": {
+      "number": "120",
+      "cost": ["4", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Summon: Primal Odin": {
+      "number": "121",
+      "cost": ["4", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tonberry": {
+      "number": "122",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Undercity Dire Rat": {
+      "number": "123",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vayne's Treachery": {
+      "number": "124",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Vincent Valentine (Vincent Valentine // Galian Beast)": {
+      "number": "125",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Galian Beast (Vincent Valentine // Galian Beast)": {
+      "number": "125",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Vincent's Limit Break": {
+      "number": "126",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zenos yae Galvus (Zenos yae Galvus // Shinryu, Transcendent Rival)": {
+      "number": "127",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Shinryu, Transcendent Rival (Zenos yae Galvus // Shinryu, Transcendent Rival)": {
+      "number": "127",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Zodiark, Umbral God": {
+      "number": "128",
+      "cost": ["b", "b", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Barret Wallace": {
+      "number": "129",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Blazing Bomb": {
+      "number": "130",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Call the Mountain Chocobo": {
+      "number": "131",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Choco-Comet": {
+      "number": "132",
+      "cost": ["x", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Clive, Ifrit's Dominant (Clive, Ifrit's Dominant // Ifrit, Warden of Inferno)": {
+      "number": "133",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Ifrit, Warden of Inferno (Clive, Ifrit's Dominant // Ifrit, Warden of Inferno)": {
+      "number": "133",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Coral Sword": {
+      "number": "134",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Fire Crystal": {
+      "number": "135",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fire Magic": {
+      "number": "136",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Firion, Wild Rose Warrior": {
+      "number": "137",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Freya Crescent": {
+      "number": "138",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gilgamesh, Master-at-Arms": {
+      "number": "139",
+      "cost": ["4", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Haste Magic": {
+      "number": "140",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hill Gigas": {
+      "number": "141",
+      "cost": ["4", "r", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Item Shopkeep": {
+      "number": "142",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Laughing Mad": {
+      "number": "143",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Light of Judgment": {
+      "number": "144",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mysidian Elder": {
+      "number": "145",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Nibelheim Aflame": {
+      "number": "146",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Opera Love Song": {
+      "number": "147",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Prompto Argentum": {
+      "number": "148",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Queen Brahne": {
+      "number": "149",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Random Encounter": {
+      "number": "150",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Raubahn, Bull of Ala Mhigo": {
+      "number": "151",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Red Mage's Rapier": {
+      "number": "152",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sabotender": {
+      "number": "153",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Samurai's Katana": {
+      "number": "154",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sandworm": {
+      "number": "155",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Seifer Almasy": {
+      "number": "156",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Self-Destruct": {
+      "number": "157",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sidequest: Play Blitzball (Sidequest: Play Blitzball // World Champion, Celestial Weapon)": {
+      "number": "158",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "World Champion, Celestial Weapon (Sidequest: Play Blitzball // World Champion, Celestial Weapon)": {
+      "number": "158",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Sorceress's Schemes": {
+      "number": "159",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Summon: Brynhildr": {
+      "number": "160",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Summon: Esper Ramuh": {
+      "number": "161",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Summon: G.F. Cerberus": {
+      "number": "162",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Summon: G.F. Ifrit": {
+      "number": "163",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Suplex": {
+      "number": "164",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thunder Magic": {
+      "number": "165",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Triple Triad": {
+      "number": "166",
+      "cost": ["3", "r", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Unexpected Request": {
+      "number": "167",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vaan, Street Thief": {
+      "number": "168",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Warrior's Sword": {
+      "number": "169",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zell Dincht": {
+      "number": "170",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Airship Crash": {
+      "number": "171",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ancient Adamantoise": {
+      "number": "172",
+      "cost": ["5", "g", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Balamb T-Rexaur": {
+      "number": "173",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bard's Bow": {
+      "number": "174",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bartz and Boko": {
+      "number": "175",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Blitzball Shot": {
+      "number": "176",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cactuar": {
+      "number": "177",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Chocobo Kick": {
+      "number": "178",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chocobo Racetrack": {
+      "number": "179",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Clash of the Eikons": {
+      "number": "180",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Coliseum Behemoth": {
+      "number": "181",
+      "cost": ["5", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Commune with Beavers": {
+      "number": "182",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Diamond Weapon": {
+      "number": "183",
+      "cost": ["7", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Earth Crystal": {
+      "number": "184",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Esper Origins (Esper Origins // Summon: Esper Maduin)": {
+      "number": "185",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Summon: Esper Maduin (Esper Origins // Summon: Esper Maduin)": {
+      "number": "185",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Galuf's Final Act": {
+      "number": "186",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gigantoad": {
+      "number": "187",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Goobbue Gardener": {
+      "number": "188",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gran Pulse Ochu": {
+      "number": "189",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gysahl Greens": {
+      "number": "190",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Jumbo Cactuar": {
+      "number": "191",
+      "cost": ["5", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Loporrit Scout": {
+      "number": "192",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Prishe's Wanderings": {
+      "number": "193",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quina, Qu Gourmet": {
+      "number": "194",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reach the Horizon": {
+      "number": "195",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "A Realm Reborn": {
+      "number": "196",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ride the Shoopuf": {
+      "number": "197",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rydia's Return": {
+      "number": "198",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sazh Katzroy": {
+      "number": "199",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sazh's Chocobo": {
+      "number": "200",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sidequest: Raise a Chocobo (Sidequest: Raise a Chocobo // Black Chocobo)": {
+      "number": "201",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["spell"]
+    },
+    "Black Chocobo (Sidequest: Raise a Chocobo // Black Chocobo)": {
+      "number": "201",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Summon: Fat Chocobo": {
+      "number": "202",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Summon: Fenrir": {
+      "number": "203",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Summon: Titan": {
+      "number": "204",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Summoner's Grimoire": {
+      "number": "205",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tifa Lockhart": {
+      "number": "206",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tifa's Limit Break": {
+      "number": "207",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Torgal, A Fine Hound": {
+      "number": "208",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Town Greeter": {
+      "number": "209",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Traveling Chocobo": {
+      "number": "210",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Vanille, Cheerful l'Cie": {
+      "number": "211",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "layout": "meld",
+      "categories": ["creature"]
+    },
+    "Absolute Virtue": {
+      "number": "212",
+      "cost": ["6", "w", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Balthier and Fran": {
+      "number": "213",
+      "cost": ["1", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Black Waltz No. 3": {
+      "number": "214",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Choco, Seeker of Paradise": {
+      "number": "215",
+      "cost": ["1", "g", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cid, Timeless Artificer": {
+      "number": "216",
+      "cost": ["2", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cloud of Darkness": {
+      "number": "217",
+      "cost": ["2", "b", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Emet-Selch, Unsundered (Emet-Selch, Unsundered // Hades, Sorcerer of Eld)": {
+      "number": "218",
+      "cost": ["1", "u", "b"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Hades, Sorcerer of Eld (Emet-Selch, Unsundered // Hades, Sorcerer of Eld)": {
+      "number": "218",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Emperor of Palamecia (The Emperor of Palamecia // The Lord Master of Hell)": {
+      "number": "219",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "The Lord Master of Hell (The Emperor of Palamecia // The Lord Master of Hell)": {
+      "number": "219",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Exdeath, Void Warlock (Exdeath, Void Warlock // Neo Exdeath, Dimension's End)": {
+      "number": "220",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Neo Exdeath, Dimension's End (Exdeath, Void Warlock // Neo Exdeath, Dimension's End)": {
+      "number": "220",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Garland, Knight of Cornelia (Garland, Knight of Cornelia // Chaos, the Endless)": {
+      "number": "221",
+      "cost": ["b", "r"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Chaos, the Endless (Garland, Knight of Cornelia // Chaos, the Endless)": {
+      "number": "221",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Garnet, Princess of Alexandria": {
+      "number": "222",
+      "cost": ["g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Giott, King of the Dwarves": {
+      "number": "223",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gladiolus Amicitia": {
+      "number": "224",
+      "cost": ["4", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Golbez, Crystal Collector": {
+      "number": "225",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hope Estheim": {
+      "number": "226",
+      "cost": ["w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ignis Scientia": {
+      "number": "227",
+      "cost": ["1", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jenova, Ancient Calamity": {
+      "number": "228",
+      "cost": ["2", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Joshua, Phoenix's Dominant (Joshua, Phoenix's Dominant // Phoenix, Warden of Fire)": {
+      "number": "229",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Phoenix, Warden of Fire (Joshua, Phoenix's Dominant // Phoenix, Warden of Fire)": {
+      "number": "229",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Judge Magister Gabranth": {
+      "number": "230",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kefka, Court Mage (Kefka, Court Mage // Kefka, Ruler of Ruin)": {
+      "number": "231",
+      "cost": ["2", "u", "b", "r"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Kefka, Ruler of Ruin (Kefka, Court Mage // Kefka, Ruler of Ruin)": {
+      "number": "231",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Kuja, Genome Sorcerer (Kuja, Genome Sorcerer // Trance Kuja, Fate Defied)": {
+      "number": "232",
+      "cost": ["2", "b", "r"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Trance Kuja, Fate Defied (Kuja, Genome Sorcerer // Trance Kuja, Fate Defied)": {
+      "number": "232",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Lightning, Army of One": {
+      "number": "233",
+      "cost": ["1", "r", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Locke Cole": {
+      "number": "234",
+      "cost": ["1", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Noctis, Prince of Lucis": {
+      "number": "235",
+      "cost": ["1", "w", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Omega, Heartless Evolution": {
+      "number": "236",
+      "cost": ["5", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rinoa Heartilly": {
+      "number": "237",
+      "cost": ["3", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rufus Shinra": {
+      "number": "238",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rydia, Summoner of Mist": {
+      "number": "239",
+      "cost": ["r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Serah Farron (Serah Farron // Crystallized Serah)": {
+      "number": "240",
+      "cost": ["1", "g", "w"],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Crystallized Serah (Serah Farron // Crystallized Serah)": {
+      "number": "240",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Shantotto, Tactician Magician": {
+      "number": "241",
+      "cost": ["1", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sin, Spira's Punishment": {
+      "number": "242",
+      "cost": ["4", "b", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Squall, SeeD Mercenary": {
+      "number": "243",
+      "cost": ["2", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tellah, Great Sage": {
+      "number": "244",
+      "cost": ["3", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Terra, Magical Adept (Terra, Magical Adept // Esper Terra)": {
+      "number": "245",
+      "cost": ["1", "r", "g"],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Esper Terra (Terra, Magical Adept // Esper Terra)": {
+      "number": "245",
+      "cost": [],
+      "rarity": "m",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Tidus, Blitzball Star": {
+      "number": "246",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ultimecia, Time Sorceress (Ultimecia, Time Sorceress // Ultimecia, Omnipotent)": {
+      "number": "247",
+      "cost": ["3", "u", "b"],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"]
+    },
+    "Ultimecia, Omnipotent (Ultimecia, Time Sorceress // Ultimecia, Omnipotent)": {
+      "number": "247",
+      "cost": [],
+      "rarity": "u",
+      "layout": "transform",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Vivi Ornitier": {
+      "number": "248",
+      "cost": ["1", "u", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "The Wandering Minstrel": {
+      "number": "249",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Yuna, Hope of Spira": {
+      "number": "250",
+      "cost": ["3", "g", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Zidane, Tantalus Thief": {
+      "number": "251",
+      "cost": ["3", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Adventurer's Airship": {
+      "number": "252",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Aettir and Priwen": {
+      "number": "253",
+      "cost": ["6"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Blitzball": {
+      "number": "254",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Buster Sword": {
+      "number": "255",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Elixir": {
+      "number": "256",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Excalibur II": {
+      "number": "257",
+      "cost": ["1"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Genji Glove": {
+      "number": "258",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Instant Ramen": {
+      "number": "259",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Iron Giant": {
+      "number": "260",
+      "cost": ["7"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lion Heart": {
+      "number": "261",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lunatic Pandora": {
+      "number": "262",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Magic Pot": {
+      "number": "263",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "The Masamune": {
+      "number": "264",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Monk's Fist": {
+      "number": "265",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "PuPu UFO": {
+      "number": "266",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Regalia": {
+      "number": "267",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Relentless X-ATM092": {
+      "number": "268",
+      "cost": ["6"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ring of the Lucii": {
+      "number": "269",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "World Map": {
+      "number": "270",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Adventurer's Inn": {
+      "number": "271",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Balamb Garden, SeeD Academy (Balamb Garden, SeeD Academy // Balamb Garden, Airborne)": {
+      "number": "272",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["land"]
+    },
+    "Balamb Garden, Airborne (Balamb Garden, SeeD Academy // Balamb Garden, Airborne)": {
+      "number": "272",
+      "cost": [],
+      "rarity": "r",
+      "layout": "transform",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Baron, Airship Kingdom": {
+      "number": "273",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Capital City": {
+      "number": "274",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Clive's Hideaway": {
+      "number": "275",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Crossroads Village": {
+      "number": "276",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Eden, Seat of the Sanctum": {
+      "number": "277",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Gohn, Town of Ruin": {
+      "number": "278",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "The Gold Saucer": {
+      "number": "279",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Gongaga, Reactor Town": {
+      "number": "280",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Guadosalam, Farplane Gateway": {
+      "number": "281",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Insomnia, Crown City": {
+      "number": "282",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Ishgard, the Holy See (Ishgard, the Holy See // Faith & Grief)": {
+      "number": "283",
+      "cost": [],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["land"]
+    },
+    "Faith & Grief (Ishgard, the Holy See // Faith & Grief)": {
+      "number": "283",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Jidoor, Aristocratic Capital (Jidoor, Aristocratic Capital // Overture)": {
+      "number": "284",
+      "cost": [],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["land"]
+    },
+    "Overture (Jidoor, Aristocratic Capital // Overture)": {
+      "number": "284",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Lindblum, Industrial Regency (Lindblum, Industrial Regency // Mage Siege)": {
+      "number": "285",
+      "cost": [],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["land"]
+    },
+    "Mage Siege (Lindblum, Industrial Regency // Mage Siege)": {
+      "number": "285",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Midgar, City of Mako (Midgar, City of Mako // Reactor Raid)": {
+      "number": "286",
+      "cost": [],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["land"]
+    },
+    "Reactor Raid (Midgar, City of Mako // Reactor Raid)": {
+      "number": "286",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Rabanastre, Royal City": {
+      "number": "287",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Sharlayan, Nation of Scholars": {
+      "number": "288",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Starting Town": {
+      "number": "289",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Treno, Dark City": {
+      "number": "290",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Vector, Imperial Capital": {
+      "number": "291",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Windurst, Federation Center": {
+      "number": "292",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Zanarkand, Ancient Metropolis (Zanarkand, Ancient Metropolis // Lasting Fayth)": {
+      "number": "293",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["land"]
+    },
+    "Lasting Fayth (Zanarkand, Ancient Metropolis // Lasting Fayth)": {
+      "number": "293",
+      "cost": [],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"],
+      "isTransformed": true
+    }
+  }
+}

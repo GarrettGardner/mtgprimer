@@ -1,0 +1,189 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Absolute Virtue": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Adventurer's Airship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ahriman": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Airship Crash": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bahamut, Warden of Light (Dion, Bahamut's Dominant // Bahamut, Warden of Light)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Balamb Garden, Airborne (Balamb Garden, SeeD Academy // Balamb Garden, Airborne)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Black Waltz No. 3": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cargo Ship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Chaos, the Endless (Garland, Knight of Cornelia // Chaos, the Endless)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cloud of Darkness": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cloudbound Moogle": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Delivery Moogle": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dion, Bahamut's Dominant (Dion, Bahamut's Dominant // Bahamut, Warden of Light)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dragoon's Lance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dragoon's Wyvern": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Esper Terra (Terra, Magical Adept // Esper Terra)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Freya Crescent": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gaelicat": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Il Mheg Pixie": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kain, Traitorous Dragoon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kefka, Ruler of Ruin (Kefka, Court Mage // Kefka, Ruler of Ruin)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Magicked Card (Sidequest: Card Collection // Magicked Card)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Phoenix, Warden of Fire (Joshua, Phoenix's Dominant // Phoenix, Warden of Fire)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "PuPu UFO": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rook Turret": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sephiroth, One-Winged Angel (Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shinryu, Transcendent Rival (Zenos yae Galvus // Shinryu, Transcendent Rival)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sin, Spira's Punishment": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Alexander (Crystal Fragments // Summon: Alexander)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Bahamut": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Primal Garuda": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Lunar Whale": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Prima Vista": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Wind Crystal": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ultima, Origin of Oblivion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Valkyrie Aerial Unit": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

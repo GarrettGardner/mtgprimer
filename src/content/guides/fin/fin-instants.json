@@ -1,0 +1,124 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Airship Crash": {
+      "categories": ["board"]
+    },
+    "Ambrosia Whiteheart": {
+      "categories": ["board"]
+    },
+    "Auron's Inspiration": {
+      "categories": ["board"]
+    },
+    "Battle Menu": {
+      "categories": ["board"]
+    },
+    "Blitzball Shot": {
+      "categories": ["board"]
+    },
+    "Coral Sword": {
+      "categories": ["board"]
+    },
+    "Dreams of Laguna": {
+      "categories": ["other"]
+    },
+    "Eject": {
+      "categories": ["board"]
+    },
+    "Fate of the Sun-Cryst": {
+      "categories": ["board"],
+      "cost": ["2", "w"]
+    },
+    "Fight On!": {
+      "categories": ["other"]
+    },
+    "Fire Magic": {
+      "categories": ["board"]
+    },
+    "Galuf's Final Act": {
+      "categories": ["board"]
+    },
+    "Haste Magic": {
+      "categories": ["board"]
+    },
+    "Ice Magic": {
+      "categories": ["board"]
+    },
+    "Instant Ramen": {
+      "categories": ["board"]
+    },
+    "Laughing Mad": {
+      "categories": ["board"]
+    },
+    "Light of Judgment": {
+      "categories": ["board"]
+    },
+    "Louisoix's Sacrifice": {
+      "categories": ["counterspell"]
+    },
+    "Mage Siege (Lindblum, Industrial Regency // Mage Siege)": {
+      "categories": ["board"]
+    },
+    "Magic Damper": {
+      "categories": ["board"]
+    },
+    "Moogles' Valor": {
+      "categories": ["board"]
+    },
+    "Opera Love Song": {
+      "categories": ["board"]
+    },
+    "Overkill": {
+      "categories": ["board"]
+    },
+    "Prishe's Wanderings": {
+      "categories": ["board"]
+    },
+    "Restoration Magic": {
+      "categories": ["board"]
+    },
+    "Self-Destruct": {
+      "categories": ["board"]
+    },
+    "Sephiroth's Intervention": {
+      "categories": ["board"]
+    },
+    "Slash of Light": {
+      "categories": ["board"]
+    },
+    "Stolen Uniform": {
+      "categories": ["board"]
+    },
+    "Stuck in Summoner's Sanctum": {
+      "categories": ["board"]
+    },
+    "Swallowed by Leviathan": {
+      "categories": ["counterspell"]
+    },
+    "Syncopate": {
+      "categories": ["counterspell"]
+    },
+    "Thunder Magic": {
+      "categories": ["board"]
+    },
+    "Tifa's Limit Break": {
+      "categories": ["board"]
+    },
+    "Vayne's Treachery": {
+      "categories": ["board"]
+    },
+    "Vincent's Limit Break": {
+      "categories": ["board"]
+    },
+    "You're Not Alone": {
+      "categories": ["board"]
+    }
+  }
+}
