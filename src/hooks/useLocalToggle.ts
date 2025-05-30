@@ -27,7 +27,7 @@ export const useLocalToggle = (key: string, bodyClass: string) => {
     window.addEventListener("storage", updateStorage);
 
     return () => window.removeEventListener("storage", updateStorage);
-  }, []);
+  }, [bodyClass, key]);
 
   return [toggle, toggleToggle] as const;
 };

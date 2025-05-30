@@ -135,7 +135,7 @@ const _groupCards = (props: {
     return [{ key: "all", cards }];
   }
 
-  let groupingKey: keyof ICard =
+  const groupingKey: keyof ICard =
     selections.grouping === "category" ? "categories" : selections.grouping;
 
   return cards

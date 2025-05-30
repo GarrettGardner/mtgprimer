@@ -64,7 +64,7 @@ export const FilterBar = (props: {
         [filterKey]: filterSelection,
       });
     },
-    [setFilterSelections],
+    [filterSelections, setFilterSelections],
   );
 
   const changeFilterSelect = useCallback(
@@ -77,7 +77,7 @@ export const FilterBar = (props: {
         [filterKey]: e.target.value,
       });
     },
-    [setFilterSelections],
+    [filterSelections, setFilterSelections],
   );
 
   const resetFilters = useCallback(() => {
