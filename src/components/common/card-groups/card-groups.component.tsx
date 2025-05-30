@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useMemo, useRef } from "react";
 
 import type { IFilter, IGuide } from "@/models";
 import { useFilters } from "@/hooks";
@@ -52,8 +52,11 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
 
   useEffect(() => cardEdges(), [filterSelections, groups]);
 
-  const areAllCardsFiltered =
-    groups.length < 1 || (groups.length === 1 && groups[0].cards.length < 1);
+  const areAllCardsFiltered = useMemo(
+    () =>
+      groups.length < 1 || (groups.length === 1 && groups[0].cards.length < 1),
+    [groups],
+  );
 
   return (
     <section

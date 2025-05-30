@@ -1,6 +1,6 @@
 "use client";
 
-import { ChangeEvent, useEffect, useState } from "react";
+import { ChangeEvent, useCallback, useEffect, useState } from "react";
 
 import type {
   IFilter,
@@ -43,42 +43,46 @@ export const FilterBar = (props: {
     );
   }, [props.filter.defaultSelections, filterSelections]);
 
-  const changeFilterCheckbox = (
-    e: ChangeEvent<HTMLInputElement>,
-    filterKey: "colors" | "rarities" | "sets" | "categories",
-  ) => {
-    const checked = e.target.checked;
-    const filterSelection = filterSelections[filterKey];
-    const value = e.target.value;
-    if (Array.isArray(filterSelection)) {
-      if (checked) {
-        // @ts-expect-error TODO: Fix keying
-        filterSelection.push(value);
-      } else {
-        // @ts-expect-error TODO: Fix keying
-        filterSelection.splice(filterSelection.indexOf(value), 1);
+  const changeFilterCheckbox = useCallback(
+    (
+      e: ChangeEvent<HTMLInputElement>,
+      filterKey: "colors" | "rarities" | "sets" | "categories",
+    ) => {
+      const checked = e.target.checked;
+      const filterSelection = filterSelections[filterKey];
+      const value = e.target.value;
+      if (Array.isArray(filterSelection)) {
+        if (checked) {
+          filterSelection.push(value as TRarity);
+        } else {
+          filterSelection.splice(filterSelection.indexOf(value as TRarity), 1);
+        }
       }
-    }
 
-    setFilterSelections({
-      ...filterSelections,
-      [filterKey]: filterSelection,
-    });
-  };
+      setFilterSelections({
+        ...filterSelections,
+        [filterKey]: filterSelection,
+      });
+    },
+    [setFilterSelections],
+  );
 
-  const changeFilterSelect = (
-    e: ChangeEvent<HTMLSelectElement>,
-    filterKey: "grouping" | "ordering" | "view",
-  ) => {
-    setFilterSelections({
-      ...filterSelections,
-      [filterKey]: e.target.value,
-    });
-  };
+  const changeFilterSelect = useCallback(
+    (
+      e: ChangeEvent<HTMLSelectElement>,
+      filterKey: "grouping" | "ordering" | "view",
+    ) => {
+      setFilterSelections({
+        ...filterSelections,
+        [filterKey]: e.target.value,
+      });
+    },
+    [setFilterSelections],
+  );
 
-  const resetFilters = () => {
+  const resetFilters = useCallback(() => {
     setFilterSelections(structuredClone(props.filter.defaultSelections));
-  };
+  }, [setFilterSelections, props.filter.defaultSelections]);
 
   return (
     <>
@@ -269,9 +273,11 @@ export const FilterBar = (props: {
               </div>
             )}
           <div className="actions">
-            {/*<button onClick={() => minimize()}>
-            <Icon slug="fas fa-minimize" /> Minimize
-          </button>*/}
+            {/*
+            <button onClick={() => minimize()}>
+              <Icon slug="fas fa-minimize" /> Minimize
+            </button>
+            */}
             <button onClick={() => resetFilters()}>
               <Icon slug="fas fa-arrow-rotate-left" /> Reset
             </button>

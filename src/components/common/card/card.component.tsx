@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 
 import type { ICard } from "@/models";
 import { Icon } from "@/components/common";
@@ -13,10 +13,13 @@ export const Card = (props: { card: ICard; stack: boolean }) => {
   const imageUrl = `https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}.jpg`;
   const imageTransformedUrl = `https://s3-us-west-2.amazonaws.com/mtgprimer/cards/normal/${props.card.code}/${props.card.number}b.jpg`;
 
-  const isTransformable =
-    ["transform", "modal_dfc"].findIndex(
-      (layout) => layout === props.card.layout,
-    ) > -1;
+  const isTransformable = useMemo(
+    () =>
+      ["transform", "modal_dfc"].findIndex(
+        (layout) => layout === props.card.layout,
+      ) > -1,
+    [props.card.layout],
+  );
 
   return (
     <div className={`${styles.card}${props.stack ? " isStack" : ""}`}>

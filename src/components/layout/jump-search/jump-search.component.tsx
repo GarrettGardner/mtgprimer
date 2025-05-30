@@ -11,6 +11,7 @@ export const JumpSearch = (props: { guides: IGuide[] }) => {
   const [searchText, setSearchText] = useState("");
   const [results, setResults] = useState<IGuide[]>([]);
 
+  // TODO: Create custom hook
   useEffect(() => {
     setResults(
       searchText.length > 1

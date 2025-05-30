@@ -5,7 +5,7 @@ import { useLocalToggle } from "@/hooks";
 import styles from "./mask.module.scss";
 
 export const Mask = () => {
-  const [isMenuMobileOpen, toggleIsMenuMobileOpen] = useLocalToggle(
+  const [_isMenuMobileOpen, toggleIsMenuMobileOpen] = useLocalToggle(
     "MENU_MOBILE_OPEN",
     "menuMobileOpen",
   );
