@@ -1,0 +1,99 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Balamb T-Rexaur": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Blitzball Shot": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cactuar": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Coliseum Behemoth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Galian Beast (Vincent Valentine // Galian Beast)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gladiolus Amicitia": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hill Gigas": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Iron Giant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lightning, Army of One": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Neo Exdeath, Dimension's End (Exdeath, Void Warlock // Neo Exdeath, Dimension's End)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Phantom Train": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ragnarok, Divine Deliverance": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Samurai's Katana": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Summon: Esper Maduin (Esper Origins // Summon: Esper Maduin)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Fat Chocobo": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Titan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tifa Lockhart": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Yuna, Hope of Spira": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

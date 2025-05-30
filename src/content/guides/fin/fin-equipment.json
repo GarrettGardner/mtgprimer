@@ -1,0 +1,109 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Adelbert Steiner": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Aettir and Priwen": {},
+    "Astrologian's Planisphere": {},
+    "Bard's Bow": {},
+    "Barret Wallace": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Black Mage's Rod": {},
+    "Buster Sword": {},
+    "Cloud, Midgar Mercenary": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Coral Sword": {},
+    "Crystal Fragments (Crystal Fragments // Summon: Alexander)": {},
+    "Dark Knight's Greatsword": {},
+    "Dragoon's Lance": {},
+    "Excalibur II": {},
+    "Firion, Wild Rose Warrior": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Freya Crescent": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Genji Glove": {},
+    "Gilgamesh, Master-at-Arms": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Giott, King of the Dwarves": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Item Shopkeep": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Light of Judgment": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Lion Heart": {},
+    "Machinist's Arsenal": {},
+    "Monk's Fist": {},
+    "Ninja's Blades": {},
+    "Paladin's Arms": {},
+    "Raubahn, Bull of Ala Mhigo": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Red Mage's Rapier": {},
+    "Sage's Nouliths": {},
+    "Samurai's Katana": {},
+    "Slash of Light": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Stolen Uniform": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Summoner's Grimoire": {},
+    "The Masamune": {},
+    "Thief's Knife": {},
+    "Unexpected Request": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Warrior's Sword": {},
+    "Weapons Vendor": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "White Mage's Staff": {},
+    "World Champion, Celestial Weapon (Sidequest: Play Blitzball // World Champion, Celestial Weapon)": {},
+    "Zack Fair": {
+      "categories": [
+        "synergy"
+      ]
+    }
+  }
+}

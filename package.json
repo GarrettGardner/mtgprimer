@@ -1,11 +1,12 @@
 {
   "name": "mtg-primer",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
+    "prettier": "prettier .",
     "lint": "next lint"
   },
   "dependencies": {

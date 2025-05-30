@@ -8,6 +8,10 @@ Garrett Gardner (hello@garrett-gardner.com)
 
 ## Version History
 
+- v5.0.2
+  - New set: FIN
+- v5.0.1
+  - Performance improvements, eslint, TDM
 - v5.0.0
   - First release after React/NextJS refactor!
 

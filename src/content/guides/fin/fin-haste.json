@@ -1,0 +1,89 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Ardyn, the Usurper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Esper Terra (Terra, Magical Adept // Esper Terra)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Firion, Wild Rose Warrior": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Haste Magic": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hill Gigas": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Prompto Argentum": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ragnarok, Divine Deliverance": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Random Encounter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rydia, Summoner of Mist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Samurai's Katana": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sandworm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Brynhildr": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Fire Crystal": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Regalia": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Unexpected Request": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Zidane, Tantalus Thief": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

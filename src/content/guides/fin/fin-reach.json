@@ -1,0 +1,54 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Balthier and Fran": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bard's Bow": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Barret Wallace": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Diamond Weapon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "G'raha Tia": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Iron Giant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ragnarok, Divine Deliverance": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sabotender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Summon: Titan": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

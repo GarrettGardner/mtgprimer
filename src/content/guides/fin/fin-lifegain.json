@@ -1,0 +1,194 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Adelbert Steiner": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Adventurer's Inn": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Aerith Gainsborough": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Al Bhed Salvagers": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ardyn, the Usurper": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Balamb T-Rexaur": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Battle Menu": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cecil, Redeemed Paladin (Cecil, Dark Knight // Cecil, Redeemed Paladin)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Circle of Power": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Elixir": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Esper Origins (Esper Origins // Summon: Esper Maduin)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Excalibur II": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Exdeath, Void Warlock (Exdeath, Void Warlock // Neo Exdeath, Dimension's End)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Galian Beast (Vincent Valentine // Galian Beast)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Garnet, Princess of Alexandria": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hope Estheim": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Instant Ramen": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kain, Traitorous Dragoon": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lightning, Army of One": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Locke Cole": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Minwu, White Mage": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Moogles' Valor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Noctis, Prince of Lucis": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Omega, Heartless Evolution": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Phoenix, Warden of Fire (Joshua, Phoenix's Dominant // Phoenix, Warden of Fire)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Restoration Magic": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sephiroth's Intervention": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sephiroth, Fabled SOLDIER (Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sephiroth, One-Winged Angel (Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shinra Reinforcements": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stiltzkin, Moogle Merchant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Darkness Crystal": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Wind Crystal": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Town Greeter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "White Mage's Staff": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Yuna, Hope of Spira": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Zidane, Tantalus Thief": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}
