@@ -25,11 +25,11 @@ export const JumpSearch = (props: { guides: IGuide[] }) => {
           )
         : [],
     );
-  }, [searchText]);
+  }, [props.guides, searchText]);
 
   const resultText = (guide: IGuide, needle: string) => {
     needle = needle.toLowerCase();
-    let input = guide.name;
+    const input = guide.name;
     let output = <>{input}</>;
     const start = input.toLowerCase().indexOf(needle);
     if (start > -1) {
@@ -108,7 +108,7 @@ export const JumpSearch = (props: { guides: IGuide[] }) => {
         </button>
         {results && (
           <ul className="results">
-            {results.slice(0, 3).map((guide, key) => (
+            {results.slice(0, 3).map((guide) => (
               <li key={guide.key}>
                 <a
                   className="link"

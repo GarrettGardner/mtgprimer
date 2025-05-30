@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef } from "react";
+import { useCallback, useEffect, useMemo, useRef } from "react";
 
 import type { IFilter, IGuide } from "@/models";
 import { useFilters } from "@/hooks";
@@ -15,8 +15,9 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
   );
   const refs = useRef<Record<string, HTMLLIElement>>({});
 
-  const cardEdges = () => {
-    refs.current &&
+  const cardEdges = useCallback(
+    () =>
+      refs.current &&
       Object.keys(refs.current).forEach((key) => {
         const element = refs.current[key];
         if (!element) {
@@ -39,8 +40,9 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
         ) {
           element.classList.add("isRight");
         }
-      });
-  };
+      }),
+    [],
+  );
 
   useEffect(() => {
     window.addEventListener("resize", cardEdges);
@@ -48,9 +50,9 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
     cardEdges();
 
     return () => window.removeEventListener("resize", cardEdges);
-  }, []);
+  }, [cardEdges]);
 
-  useEffect(() => cardEdges(), [filterSelections, groups]);
+  useEffect(() => cardEdges(), [cardEdges, filterSelections, groups]);
 
   const areAllCardsFiltered = useMemo(
     () =>

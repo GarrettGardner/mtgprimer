@@ -17,7 +17,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
   const _guideConfigsMemo: Record<string, IGuideConfig> = {};
 
   const _start = async (pageConfig: TPageConfig) => {
-    let pages = await _parsePageConfig(pageConfig);
+    const pages = await _parsePageConfig(pageConfig);
     pages.forEach((_, key) => {
       if (pages[key]?.type === "directory") {
         pages[key].directory = pages.filter(
@@ -74,6 +74,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
       case "info":
       case "guide":
       case "guide-group":
+        // eslint-disable-next-line
         const formatCode =
           pageConfig.template === "info"
             ? pageConfig.formatCode
@@ -84,11 +85,13 @@ export const generatePages = async (pageConfig: TPageConfig) => {
           return [];
         }
 
+        // eslint-disable-next-line
         const guideGalleryData = await _parseGuideConfig(formatCode, "gallery");
         if (!guideGalleryData) {
           return [];
         }
 
+        // eslint-disable-next-line
         const formatName = guideGalleryData.guide.formatName;
         template.formatName = formatName;
         template.formatCode = formatCode;
@@ -221,21 +224,21 @@ export const generatePages = async (pageConfig: TPageConfig) => {
       guideKey === "gallery" ? formatCode : `${formatCode}-${guideKey}`;
     const preset = PRESET[`guide-${guideKey}`];
 
-    let guideConfig = await _loadGuideJson(formatCode, guideFile);
+    const guideConfig = await _loadGuideJson(formatCode, guideFile);
     if (!guideConfig) return;
 
-    let guideConfigGallery =
+    const guideConfigGallery =
       guideKey !== "gallery"
         ? await _loadGuideJson(formatCode, formatCode)
         : undefined;
 
-    let formatName =
+    const formatName =
       guideConfigGallery?.formatName ?? guideConfig.formatName ?? formatCode;
     const name = guideConfig.name ?? preset?.NAME ?? guideKey;
     const description = guideConfig.description ?? preset?.DESCRIPTION;
     const icon = guideConfig.icon ?? preset?.ICON;
     const tags = preset?.TAGS;
-    let sets = {
+    const sets = {
       [formatCode]: formatName,
       ...guideConfigGallery?.sets,
       ...guideConfig.sets,

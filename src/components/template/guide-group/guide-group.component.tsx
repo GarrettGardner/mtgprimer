@@ -28,7 +28,7 @@ export const TemplateGuideGroup = (props: {
         <h3>Table of Contents</h3>
         <TableOfContents guides={props.template.guides} />
       </section>
-      {props.template.guides.map((guide, key) => (
+      {props.template.guides.map((guide) => (
         <div className={styles.guideGroup} key={guide.key}>
           <a id={guide.key} className="anchor">
             {guide.name}
