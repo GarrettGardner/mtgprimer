@@ -12,19 +12,19 @@
       "categories": ["board"]
     },
     "Brainstorm": {
-      "categories": ["board"]
+      "categories": ["other"]
     },
     "Counterspell": {
-      "categories": ["counterspell"]
+      "categories": ["board", "counterspell"]
     },
     "Cryptic Command": {
       "categories": ["counterspell"]
     },
     "Dark Ritual": {
-      "categories": ["board"]
+      "categories": ["other"]
     },
     "Deadly Dispute": {
-      "categories": ["board"]
+      "categories": ["other"]
     },
     "Dovin's Veto": {
       "categories": ["counterspell"]
@@ -45,7 +45,7 @@
       "categories": ["board"]
     },
     "Venser, Shaper Savant": {
-      "categories": ["board"]
+      "categories": ["board", "counterspell"]
     }
   }
 }
