@@ -4,6 +4,7 @@
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
+  "includeFormats": ["fca"],
   "categories": {
     "creature": "Creature",
     "spell": "Spell",

@@ -1,0 +1,27 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Akroma's Will": {
+      "categories": ["granted"]
+    },
+    "Ancient Copper Dragon": {
+      "categories": ["default"]
+    },
+    "Atraxa, Grand Unifier": {
+      "categories": ["default"]
+    },
+    "Ishai, Ojutai Dragonspeaker": {
+      "categories": ["default"]
+    },
+    "Kraum, Ludevic's Opus": {
+      "categories": ["default"]
+    },
+    "Smuggler's Copter": {
+      "categories": ["granted"]
+    }
+  }
+}

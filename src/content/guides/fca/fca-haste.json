@@ -1,0 +1,27 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Captain Lannery Storm": {
+      "categories": ["default"]
+    },
+    "Inalla, Archmage Ritualist": {
+      "categories": ["default"]
+    },
+    "Kenrith, the Returned King": {
+      "categories": ["default"]
+    },
+    "Kraum, Ludevic's Opus": {
+      "categories": ["default"]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": ["default"]
+    },
+    "Ragavan, Nimble Pilferer": {
+      "categories": ["default"]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

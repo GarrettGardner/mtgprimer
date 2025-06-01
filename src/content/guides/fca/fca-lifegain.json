@@ -1,0 +1,39 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Akroma's Will": {
+      "categories": ["granted"]
+    },
+    "Atraxa, Grand Unifier": {
+      "categories": ["granted"]
+    },
+    "Bruse Tarl, Boorish Herder": {
+      "categories": ["granted"]
+    },
+    "Danitha Capashen, Paragon": {
+      "categories": ["granted"]
+    },
+    "K'rrik, Son of Yawgmoth": {
+      "categories": ["granted"]
+    },
+    "Kenrith, the Returned King": {
+      "categories": ["granted"]
+    },
+    "Mangara, the Diplomat": {
+      "categories": ["granted"]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": ["granted"]
+    },
+    "Nature's Claim": {
+      "categories": ["granted"]
+    },
+    "Tymna the Weaver": {
+      "categories": ["granted"]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Kenrith, the Returned King": {
+      "categories": ["default"]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": ["default"]
+    },
+    "Nyxbloom Ancient": {
+      "categories": ["default"]
+    },
+    "Primeval Titan": {
+      "categories": ["default"]
+    },
+    "Traxos, Scourge of Kroog": {
+      "categories": ["default"]
+    }
+  }
+}

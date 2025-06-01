@@ -8,6 +8,8 @@ Garrett Gardner (hello@garrett-gardner.com)
 
 ## Version History
 
+- v5.0.3
+  - New set: FCA
 - v5.0.2
   - New set: FIN
 - v5.0.1

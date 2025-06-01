@@ -1,0 +1,398 @@
+{
+  "code": "fca",
+  "formatName": "Final Fantasy: Through the Ages",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Adeline, Resplendent Cathar": {
+      "number": "1",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ranger-Captain of Eos": {
+      "number": "2",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sram, Senior Edificer": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Counterspell": {
+      "number": "4",
+      "cost": ["u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Urza, Lord High Artificer": {
+      "number": "5",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Venser, Shaper Savant": {
+      "number": "6",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bolas's Citadel": {
+      "number": "7",
+      "cost": ["3", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dark Ritual": {
+      "number": "8",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fatal Push": {
+      "number": "9",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Syr Konrad, the Grim": {
+      "number": "10",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Yawgmoth, Thran Physician": {
+      "number": "11",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ancient Copper Dragon": {
+      "number": "12",
+      "cost": ["4", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Godo, Bandit Warlord": {
+      "number": "13",
+      "cost": ["5", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Purphoros, God of the Forge": {
+      "number": "14",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Azusa, Lost but Seeking": {
+      "number": "15",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Nyxbloom Ancient": {
+      "number": "16",
+      "cost": ["4", "g", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Jodah, the Unifier": {
+      "number": "17",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tymna the Weaver": {
+      "number": "18",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Winota, Joiner of Forces": {
+      "number": "19",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Traxos, Scourge of Kroog": {
+      "number": "20",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Akroma's Will": {
+      "number": "21",
+      "cost": ["3", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Danitha Capashen, Paragon": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kenrith, the Returned King": {
+      "number": "23",
+      "cost": ["4", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Loran of the Third Path": {
+      "number": "24",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mangara, the Diplomat": {
+      "number": "25",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Stroke of Midnight": {
+      "number": "26",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wall of Omens": {
+      "number": "27",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Brainstorm": {
+      "number": "28",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cryptic Command": {
+      "number": "29",
+      "cost": ["1", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Laboratory Maniac": {
+      "number": "30",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Rhystic Study": {
+      "number": "31",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Teferi, Mage of Zhalfir": {
+      "number": "32",
+      "cost": ["2", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Deadly Dispute": {
+      "number": "33",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Diabolic Intent": {
+      "number": "34",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Gix, Yawgmoth Praetor": {
+      "number": "35",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "K'rrik, Son of Yawgmoth": {
+      "number": "36",
+      "cost": ["4", "bp", "bp", "bp"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Varragoth, Bloodsky Sire": {
+      "number": "37",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Captain Lannery Storm": {
+      "number": "38",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Light Up the Stage": {
+      "number": "39",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lightning Bolt": {
+      "number": "40",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mizzix's Mastery": {
+      "number": "41",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Najeela, the Blade-Blossom": {
+      "number": "42",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ragavan, Nimble Pilferer": {
+      "number": "43",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Carpet of Flowers": {
+      "number": "44",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Farseek": {
+      "number": "45",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fynn, the Fangbearer": {
+      "number": "46",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nature's Claim": {
+      "number": "47",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Primeval Titan": {
+      "number": "48",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Atraxa, Grand Unifier": {
+      "number": "49",
+      "cost": ["3", "g", "w", "u", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bruse Tarl, Boorish Herder": {
+      "number": "50",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dovin's Veto": {
+      "number": "51",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Inalla, Archmage Ritualist": {
+      "number": "52",
+      "cost": ["2", "u", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ishai, Ojutai Dragonspeaker": {
+      "number": "53",
+      "cost": ["2", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Isshin, Two Heavens as One": {
+      "number": "54",
+      "cost": ["r", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kinnan, Bonder Prodigy": {
+      "number": "55",
+      "cost": ["g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kraum, Ludevic's Opus": {
+      "number": "56",
+      "cost": ["3", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Muldrotha, the Gravetide": {
+      "number": "57",
+      "cost": ["3", "b", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thrasios, Triton Hero": {
+      "number": "58",
+      "cost": ["g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Vial Smasher the Fierce": {
+      "number": "59",
+      "cost": ["1", "b", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Yuriko, the Tiger's Shadow": {
+      "number": "60",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Chromatic Lantern": {
+      "number": "61",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Smuggler's Copter": {
+      "number": "62",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Strixhaven Stadium": {
+      "number": "63",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Command Beacon": {
+      "number": "64",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

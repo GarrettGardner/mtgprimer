@@ -1,0 +1,51 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Akroma's Will": {
+      "categories": ["board"]
+    },
+    "Brainstorm": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Cryptic Command": {
+      "categories": ["counterspell"]
+    },
+    "Dark Ritual": {
+      "categories": ["board"]
+    },
+    "Deadly Dispute": {
+      "categories": ["board"]
+    },
+    "Dovin's Veto": {
+      "categories": ["counterspell"]
+    },
+    "Fatal Push": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Nature's Claim": {
+      "categories": ["board"]
+    },
+    "Stroke of Midnight": {
+      "categories": ["board"]
+    },
+    "Teferi, Mage of Zhalfir": {
+      "categories": ["board"]
+    },
+    "Venser, Shaper Savant": {
+      "categories": ["board"]
+    }
+  }
+}
