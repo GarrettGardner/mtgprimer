@@ -4,7 +4,7 @@
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
-  "includeFormats": ["eos"],
+  "includeFormats": ["eos", { "code": "spg", "min": 119, "max": 128 }],
   "categories": {
     "creature": "Creature",
     "spell": "Spell",

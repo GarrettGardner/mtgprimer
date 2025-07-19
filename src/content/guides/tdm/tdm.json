@@ -1,6 +1,7 @@
 {
   "code": "tdm",
   "formatName": "Tarkir: Dragonstorm",
+  "includeFormats": [{ "code": "spg", "min": 104, "max": 113 }],
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
@@ -12,3178 +13,1746 @@
   "cards": {
     "Ugin, Eye of the Storms": {
       "number": "1",
-      "cost": [
-        "7"
-      ],
+      "cost": ["7"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Anafenza, Unyielding Lineage": {
       "number": "2",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Arashin Sunshield": {
       "number": "3",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Bearer of Glory": {
       "number": "4",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Clarion Conqueror": {
       "number": "5",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Coordinated Maneuver": {
       "number": "6",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dalkovan Packbeasts": {
       "number": "7",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Descendant of Storms": {
       "number": "8",
-      "cost": [
-        "w"
-      ],
+      "cost": ["w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dragonback Lancer": {
       "number": "9",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Duty Beyond Death": {
       "number": "10",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Elspeth, Storm Slayer": {
       "number": "11",
-      "cost": [
-        "3",
-        "w",
-        "w"
-      ],
+      "cost": ["3", "w", "w"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Fortress Kin-Guard": {
       "number": "12",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Furious Forebear": {
       "number": "13",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Lightfoot Technique": {
       "number": "14",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Loxodon Battle Priest": {
       "number": "15",
-      "cost": [
-        "4",
-        "w"
-      ],
+      "cost": ["4", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Mardu Devotee": {
       "number": "16",
-      "cost": [
-        "w"
-      ],
+      "cost": ["w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Osseous Exhale": {
       "number": "17",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Poised Practitioner": {
       "number": "18",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Rally the Monastery": {
       "number": "19",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Rebellious Strike": {
       "number": "20",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Riling Dawnbreaker (Riling Dawnbreaker // Signaling Roar)": {
       "number": "21",
-      "cost": [
-        "4",
-        "w"
-      ],
+      "cost": ["4", "w"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Signaling Roar (Riling Dawnbreaker // Signaling Roar)": {
       "number": "21",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Sage of the Skies": {
       "number": "22",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Salt Road Packbeast": {
       "number": "23",
-      "cost": [
-        "5",
-        "w"
-      ],
+      "cost": ["5", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Smile at Death": {
       "number": "24",
-      "cost": [
-        "3",
-        "w",
-        "w"
-      ],
+      "cost": ["3", "w", "w"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Starry-Eyed Skyrider": {
       "number": "25",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Static Snare": {
       "number": "26",
-      "cost": [
-        "4",
-        "w"
-      ],
+      "cost": ["4", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Stormbeacon Blade": {
       "number": "27",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Stormplain Detainment": {
       "number": "28",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sunpearl Kirin": {
       "number": "29",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Teeming Dragonstorm": {
       "number": "30",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Tempest Hawk": {
       "number": "31",
-      "cost": [
-        "2",
-        "w"
-      ],
+      "cost": ["2", "w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "United Battlefront": {
       "number": "32",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Voice of Victory": {
       "number": "33",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Wayspeaker Bodyguard": {
       "number": "34",
-      "cost": [
-        "3",
-        "w"
-      ],
+      "cost": ["3", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Aegis Sculptor": {
       "number": "35",
-      "cost": [
-        "3",
-        "u"
-      ],
+      "cost": ["3", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Agent of Kotis": {
       "number": "36",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Ambling Stormshell": {
       "number": "37",
-      "cost": [
-        "3",
-        "u",
-        "u"
-      ],
+      "cost": ["3", "u", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Bewildering Blizzard": {
       "number": "38",
-      "cost": [
-        "4",
-        "u",
-        "u"
-      ],
+      "cost": ["4", "u", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Constrictor Sage": {
       "number": "39",
-      "cost": [
-        "4",
-        "u"
-      ],
+      "cost": ["4", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dirgur Island Dragon (Dirgur Island Dragon // Skimming Strike)": {
       "number": "40",
-      "cost": [
-        "5",
-        "u"
-      ],
+      "cost": ["5", "u"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Skimming Strike (Dirgur Island Dragon // Skimming Strike)": {
       "number": "40",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Dispelling Exhale": {
       "number": "41",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dragonologist": {
       "number": "42",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dragonstorm Forecaster": {
       "number": "43",
-      "cost": [
-        "u"
-      ],
+      "cost": ["u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Essence Anchor": {
       "number": "44",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Focus the Mind": {
       "number": "45",
-      "cost": [
-        "4",
-        "u"
-      ],
+      "cost": ["4", "u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Fresh Start": {
       "number": "46",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Highspire Bell-Ringer": {
       "number": "47",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Humbling Elder": {
       "number": "48",
-      "cost": [
-        "u"
-      ],
+      "cost": ["u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Iceridge Serpent": {
       "number": "49",
-      "cost": [
-        "4",
-        "u"
-      ],
+      "cost": ["4", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Kishla Trawlers": {
       "number": "50",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Marang River Regent (Marang River Regent // Coil and Catch)": {
       "number": "51",
-      "cost": [
-        "4",
-        "u",
-        "u"
-      ],
+      "cost": ["4", "u", "u"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Coil and Catch (Marang River Regent // Coil and Catch)": {
       "number": "51",
-      "cost": [
-        "3",
-        "u"
-      ],
+      "cost": ["3", "u"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Naga Fleshcrafter": {
       "number": "52",
-      "cost": [
-        "3",
-        "u"
-      ],
+      "cost": ["3", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Ringing Strike Mastery": {
       "number": "53",
-      "cost": [
-        "u"
-      ],
+      "cost": ["u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Riverwalk Technique": {
       "number": "54",
-      "cost": [
-        "3",
-        "u"
-      ],
+      "cost": ["3", "u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Roiling Dragonstorm": {
       "number": "55",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sibsig Appraiser": {
       "number": "56",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Snowmelt Stag": {
       "number": "57",
-      "cost": [
-        "3",
-        "u"
-      ],
+      "cost": ["3", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Spectral Denial": {
       "number": "58",
-      "cost": [
-        "x",
-        "u"
-      ],
+      "cost": ["x", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Stillness in Motion": {
       "number": "59",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Taigam, Master Opportunist": {
       "number": "60",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Temur Devotee": {
       "number": "61",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Unending Whisper": {
       "number": "62",
-      "cost": [
-        "u"
-      ],
+      "cost": ["u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Ureni's Rebuff": {
       "number": "63",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Veteran Ice Climber": {
       "number": "64",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Wingblade Disciple": {
       "number": "65",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Wingspan Stride": {
       "number": "66",
-      "cost": [
-        "u"
-      ],
+      "cost": ["u"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Winternight Stories": {
       "number": "67",
-      "cost": [
-        "2",
-        "u"
-      ],
+      "cost": ["2", "u"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Abzan Devotee": {
       "number": "68",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Adorned Crocodile": {
       "number": "69",
-      "cost": [
-        "4",
-        "b"
-      ],
+      "cost": ["4", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Aggressive Negotiations": {
       "number": "70",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Alchemist's Assistant": {
       "number": "71",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Alesha's Legacy": {
       "number": "72",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Avenger of the Fallen": {
       "number": "73",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Caustic Exhale": {
       "number": "74",
-      "cost": [
-        "b"
-      ],
+      "cost": ["b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Corroding Dragonstorm": {
       "number": "75",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Cruel Truths": {
       "number": "76",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Delta Bloodflies": {
       "number": "77",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Desperate Measures": {
       "number": "78",
-      "cost": [
-        "b"
-      ],
+      "cost": ["b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dragon's Prey": {
       "number": "79",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Feral Deathgorger (Feral Deathgorger // Dusk Sight)": {
       "number": "80",
-      "cost": [
-        "5",
-        "b"
-      ],
+      "cost": ["5", "b"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dusk Sight (Feral Deathgorger // Dusk Sight)": {
       "number": "80",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Gurmag Rakshasa": {
       "number": "81",
-      "cost": [
-        "4",
-        "b",
-        "b"
-      ],
+      "cost": ["4", "b", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Hundred-Battle Veteran": {
       "number": "82",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Kin-Tree Nurturer": {
       "number": "83",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Krumar Initiate": {
       "number": "84",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Nightblade Brigade": {
       "number": "85",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Qarsi Revenant": {
       "number": "86",
-      "cost": [
-        "1",
-        "b",
-        "b"
-      ],
+      "cost": ["1", "b", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Rot-Curse Rakshasa": {
       "number": "87",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Salt Road Skirmish": {
       "number": "88",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sandskitter Outrider": {
       "number": "89",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Scavenger Regent (Scavenger Regent // Exude Toxin)": {
       "number": "90",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Exude Toxin (Scavenger Regent // Exude Toxin)": {
       "number": "90",
-      "cost": [
-        "x",
-        "b",
-        "b"
-      ],
+      "cost": ["x", "b", "b"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "The Sibsig Ceremony": {
       "number": "91",
-      "cost": [
-        "b",
-        "b",
-        "b"
-      ],
+      "cost": ["b", "b", "b"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sidisi, Regent of the Mire": {
       "number": "92",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Sinkhole Surveyor": {
       "number": "93",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Strategic Betrayal": {
       "number": "94",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Unburied Earthcarver": {
       "number": "95",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Unrooted Ancestor": {
       "number": "96",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Venerated Stormsinger": {
       "number": "97",
-      "cost": [
-        "3",
-        "b"
-      ],
+      "cost": ["3", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Wail of War": {
       "number": "98",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Worthy Cost": {
       "number": "99",
-      "cost": [
-        "b"
-      ],
+      "cost": ["b"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Yathan Tombguard": {
       "number": "100",
-      "cost": [
-        "2",
-        "b"
-      ],
+      "cost": ["2", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Breaching Dragonstorm": {
       "number": "101",
-      "cost": [
-        "4",
-        "r"
-      ],
+      "cost": ["4", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Channeled Dragonfire": {
       "number": "102",
-      "cost": [
-        "r"
-      ],
+      "cost": ["r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Cori-Steel Cutter": {
       "number": "103",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Devoted Duelist": {
       "number": "104",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dracogenesis": {
       "number": "105",
-      "cost": [
-        "6",
-        "r",
-        "r"
-      ],
+      "cost": ["6", "r", "r"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Equilibrium Adept": {
       "number": "106",
-      "cost": [
-        "3",
-        "r"
-      ],
+      "cost": ["3", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Fire-Rim Form": {
       "number": "107",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Fleeting Effigy": {
       "number": "108",
-      "cost": [
-        "r"
-      ],
+      "cost": ["r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Iridescent Tiger": {
       "number": "109",
-      "cost": [
-        "4",
-        "r"
-      ],
+      "cost": ["4", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Jeskai Devotee": {
       "number": "110",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Magmatic Hellkite": {
       "number": "111",
-      "cost": [
-        "2",
-        "r",
-        "r"
-      ],
+      "cost": ["2", "r", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Meticulous Artisan": {
       "number": "112",
-      "cost": [
-        "3",
-        "r"
-      ],
+      "cost": ["3", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Molten Exhale": {
       "number": "113",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Narset's Rebuke": {
       "number": "114",
-      "cost": [
-        "4",
-        "r"
-      ],
+      "cost": ["4", "r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Overwhelming Surge": {
       "number": "115",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Rescue Leopard": {
       "number": "116",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Reverberating Summons": {
       "number": "117",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sarkhan, Dragon Ascendant": {
       "number": "118",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Seize Opportunity": {
       "number": "119",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Shock Brigade": {
       "number": "120",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Shocking Sharpshooter": {
       "number": "121",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Stadium Headliner": {
       "number": "122",
-      "cost": [
-        "r"
-      ],
+      "cost": ["r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Stormscale Scion": {
       "number": "123",
-      "cost": [
-        "4",
-        "r",
-        "r"
-      ],
+      "cost": ["4", "r", "r"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Stormshriek Feral (Stormshriek Feral // Flush Out)": {
       "number": "124",
-      "cost": [
-        "4",
-        "r"
-      ],
+      "cost": ["4", "r"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Flush Out (Stormshriek Feral // Flush Out)": {
       "number": "124",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Summit Intimidator": {
       "number": "125",
-      "cost": [
-        "3",
-        "r"
-      ],
+      "cost": ["3", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Sunset Strikemaster": {
       "number": "126",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Tersa Lightshatter": {
       "number": "127",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Twin Bolt": {
       "number": "128",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Underfoot Underdogs": {
       "number": "129",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Unsparing Boltcaster": {
       "number": "130",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "War Effort": {
       "number": "131",
-      "cost": [
-        "3",
-        "r"
-      ],
+      "cost": ["3", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Wild Ride": {
       "number": "132",
-      "cost": [
-        "r"
-      ],
+      "cost": ["r"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Zurgo's Vanguard": {
       "number": "133",
-      "cost": [
-        "2",
-        "r"
-      ],
+      "cost": ["2", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Ainok Wayfarer": {
       "number": "134",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Attuned Hunter": {
       "number": "135",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Bloomvine Regent (Bloomvine Regent // Claim Territory)": {
       "number": "136",
-      "cost": [
-        "3",
-        "g",
-        "g"
-      ],
+      "cost": ["3", "g", "g"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Claim Territory (Bloomvine Regent // Claim Territory)": {
       "number": "136",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "r",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Champion of Dusan": {
       "number": "137",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Craterhoof Behemoth": {
       "number": "138",
-      "cost": [
-        "5",
-        "g",
-        "g",
-        "g"
-      ],
+      "cost": ["5", "g", "g", "g"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dragon Sniper": {
       "number": "139",
-      "cost": [
-        "g"
-      ],
+      "cost": ["g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dragonbroods' Relic": {
       "number": "140",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dusyut Earthcarver": {
       "number": "141",
-      "cost": [
-        "5",
-        "g"
-      ],
+      "cost": ["5", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Encroaching Dragonstorm": {
       "number": "142",
-      "cost": [
-        "3",
-        "g"
-      ],
+      "cost": ["3", "g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Formation Breaker": {
       "number": "143",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Herd Heirloom": {
       "number": "144",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Heritage Reclamation": {
       "number": "145",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Inspirited Vanguard": {
       "number": "146",
-      "cost": [
-        "4",
-        "g"
-      ],
+      "cost": ["4", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Knockout Maneuver": {
       "number": "147",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Krotiq Nestguard": {
       "number": "148",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Lasyd Prowler": {
       "number": "149",
-      "cost": [
-        "2",
-        "g",
-        "g"
-      ],
+      "cost": ["2", "g", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Nature's Rhythm": {
       "number": "150",
-      "cost": [
-        "x",
-        "g",
-        "g"
-      ],
+      "cost": ["x", "g", "g"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Piercing Exhale": {
       "number": "151",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Rainveil Rejuvenator": {
       "number": "152",
-      "cost": [
-        "3",
-        "g"
-      ],
+      "cost": ["3", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Rite of Renewal": {
       "number": "153",
-      "cost": [
-        "3",
-        "g"
-      ],
+      "cost": ["3", "g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Roamer's Routine": {
       "number": "154",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sage of the Fang": {
       "number": "155",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Sagu Pummeler": {
       "number": "156",
-      "cost": [
-        "3",
-        "g"
-      ],
+      "cost": ["3", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Sagu Wildling (Sagu Wildling // Roost Seek)": {
       "number": "157",
-      "cost": [
-        "4",
-        "g"
-      ],
+      "cost": ["4", "g"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Roost Seek (Sagu Wildling // Roost Seek)": {
       "number": "157",
-      "cost": [
-        "g"
-      ],
+      "cost": ["g"],
       "rarity": "c",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Sarkhan's Resolve": {
       "number": "158",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Snakeskin Veil": {
       "number": "159",
-      "cost": [
-        "g"
-      ],
+      "cost": ["g"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sultai Devotee": {
       "number": "160",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Surrak, Elusive Hunter": {
       "number": "161",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Synchronized Charge": {
       "number": "162",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Trade Route Envoy": {
       "number": "163",
-      "cost": [
-        "3",
-        "g"
-      ],
+      "cost": ["3", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Traveling Botanist": {
       "number": "164",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Undergrowth Leopard": {
       "number": "165",
-      "cost": [
-        "1",
-        "g"
-      ],
+      "cost": ["1", "g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Warden of the Grove": {
       "number": "166",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "All-Out Assault": {
       "number": "167",
-      "cost": [
-        "2",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["2", "r", "w", "b"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Armament Dragon": {
       "number": "168",
-      "cost": [
-        "3",
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["3", "w", "b", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Auroral Procession": {
       "number": "169",
-      "cost": [
-        "g",
-        "u"
-      ],
+      "cost": ["g", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Awaken the Honored Dead": {
       "number": "170",
-      "cost": [
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["b", "g", "u"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Barrensteppe Siege": {
       "number": "171",
-      "cost": [
-        "2",
-        "w",
-        "b"
-      ],
+      "cost": ["2", "w", "b"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Betor, Kin to All": {
       "number": "172",
-      "cost": [
-        "2",
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["2", "w", "b", "g"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Bone-Cairn Butcher": {
       "number": "173",
-      "cost": [
-        "1",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["1", "r", "w", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Call the Spirit Dragons": {
       "number": "174",
-      "cost": [
-        "w",
-        "u",
-        "b",
-        "r",
-        "g"
-      ],
+      "cost": ["w", "u", "b", "r", "g"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Cori Mountain Stalwart": {
       "number": "175",
-      "cost": [
-        "1",
-        "r",
-        "w"
-      ],
+      "cost": ["1", "r", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Death Begets Life": {
       "number": "176",
-      "cost": [
-        "5",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["5", "b", "g", "u"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Defibrillating Current": {
       "number": "177",
-      "cost": [
-        "2r",
-        "2w",
-        "2b"
-      ],
+      "cost": ["2r", "2w", "2b"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Disruptive Stormbrood (Disruptive Stormbrood // Petty Revenge)": {
       "number": "178",
-      "cost": [
-        "4",
-        "g"
-      ],
+      "cost": ["4", "g"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Petty Revenge (Disruptive Stormbrood // Petty Revenge)": {
       "number": "178",
-      "cost": [
-        "1",
-        "b"
-      ],
+      "cost": ["1", "b"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Dragonback Assault": {
       "number": "179",
-      "cost": [
-        "3",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["3", "g", "u", "r"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dragonclaw Strike": {
       "number": "180",
-      "cost": [
-        "2u",
-        "2r",
-        "2g"
-      ],
+      "cost": ["2u", "2r", "2g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Effortless Master": {
       "number": "181",
-      "cost": [
-        "2",
-        "u",
-        "r"
-      ],
+      "cost": ["2", "u", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Eshki Dragonclaw": {
       "number": "182",
-      "cost": [
-        "1",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["1", "g", "u", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Fangkeeper's Familiar": {
       "number": "183",
-      "cost": [
-        "1",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["1", "b", "g", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Felothar, Dawn of the Abzan": {
       "number": "184",
-      "cost": [
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["w", "b", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Flamehold Grappler": {
       "number": "185",
-      "cost": [
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["u", "r", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Frontline Rush": {
       "number": "186",
-      "cost": [
-        "r",
-        "w"
-      ],
+      "cost": ["r", "w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Frostcliff Siege": {
       "number": "187",
-      "cost": [
-        "1",
-        "u",
-        "r"
-      ],
+      "cost": ["1", "u", "r"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Glacial Dragonhunt": {
       "number": "188",
-      "cost": [
-        "u",
-        "r"
-      ],
+      "cost": ["u", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Glacierwood Siege": {
       "number": "189",
-      "cost": [
-        "1",
-        "g",
-        "u"
-      ],
+      "cost": ["1", "g", "u"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Gurmag Nightwatch": {
       "number": "190",
-      "cost": [
-        "2b",
-        "2g",
-        "2u"
-      ],
+      "cost": ["2b", "2g", "2u"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Hardened Tactician": {
       "number": "191",
-      "cost": [
-        "1",
-        "w",
-        "b"
-      ],
+      "cost": ["1", "w", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Hollowmurk Siege": {
       "number": "192",
-      "cost": [
-        "b",
-        "g"
-      ],
+      "cost": ["b", "g"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Host of the Hereafter": {
       "number": "193",
-      "cost": [
-        "2",
-        "b",
-        "g"
-      ],
+      "cost": ["2", "b", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Inevitable Defeat": {
       "number": "194",
-      "cost": [
-        "1",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["1", "r", "w", "b"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Jeskai Brushmaster": {
       "number": "195",
-      "cost": [
-        "1",
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["1", "u", "r", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Jeskai Revelation": {
       "number": "196",
-      "cost": [
-        "4",
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["4", "u", "r", "w"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Jeskai Shrinekeeper": {
       "number": "197",
-      "cost": [
-        "2",
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["2", "u", "r", "w"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Karakyk Guardian": {
       "number": "198",
-      "cost": [
-        "3",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["3", "g", "u", "r"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Kheru Goldkeeper": {
       "number": "199",
-      "cost": [
-        "1",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["1", "b", "g", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Kin-Tree Severance": {
       "number": "200",
-      "cost": [
-        "2w",
-        "2b",
-        "2g"
-      ],
+      "cost": ["2w", "2b", "2g"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Kishla Skimmer": {
       "number": "201",
-      "cost": [
-        "g",
-        "u"
-      ],
+      "cost": ["g", "u"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Kotis, the Fangkeeper": {
       "number": "202",
-      "cost": [
-        "1",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["1", "b", "g", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Lie in Wait": {
       "number": "203",
-      "cost": [
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["b", "g", "u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Lotuslight Dancers": {
       "number": "204",
-      "cost": [
-        "2",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["2", "b", "g", "u"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Mammoth Bellow": {
       "number": "205",
-      "cost": [
-        "2",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["2", "g", "u", "r"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Mardu Siegebreaker": {
       "number": "206",
-      "cost": [
-        "1",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["1", "r", "w", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Marshal of the Lost": {
       "number": "207",
-      "cost": [
-        "2",
-        "w",
-        "b"
-      ],
+      "cost": ["2", "w", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Monastery Messenger": {
       "number": "208",
-      "cost": [
-        "2u",
-        "2r",
-        "2w"
-      ],
+      "cost": ["2u", "2r", "2w"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Narset, Jeskai Waymaster": {
       "number": "209",
-      "cost": [
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["u", "r", "w"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Neriv, Heart of the Storm": {
       "number": "210",
-      "cost": [
-        "1",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["1", "r", "w", "b"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "New Way Forward": {
       "number": "211",
-      "cost": [
-        "2",
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["2", "u", "r", "w"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Perennation": {
       "number": "212",
-      "cost": [
-        "3",
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["3", "w", "b", "g"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Purging Stormbrood (Purging Stormbrood // Absorb Essence)": {
       "number": "213",
-      "cost": [
-        "4",
-        "b"
-      ],
+      "cost": ["4", "b"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Absorb Essence (Purging Stormbrood // Absorb Essence)": {
       "number": "213",
-      "cost": [
-        "1",
-        "w"
-      ],
+      "cost": ["1", "w"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Rakshasa's Bargain": {
       "number": "214",
-      "cost": [
-        "2b",
-        "2g",
-        "2u"
-      ],
+      "cost": ["2b", "2g", "2u"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Rediscover the Way": {
       "number": "215",
-      "cost": [
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["u", "r", "w"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Reigning Victor": {
       "number": "216",
-      "cost": [
-        "2r",
-        "2w",
-        "2b"
-      ],
+      "cost": ["2r", "2w", "2b"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Reputable Merchant": {
       "number": "217",
-      "cost": [
-        "2w",
-        "2b",
-        "2g"
-      ],
+      "cost": ["2w", "2b", "2g"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Revival of the Ancestors": {
       "number": "218",
-      "cost": [
-        "1",
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["1", "w", "b", "g"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Riverwheel Sweep": {
       "number": "219",
-      "cost": [
-        "2u",
-        "2r",
-        "2w"
-      ],
+      "cost": ["2u", "2r", "2w"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Roar of Endless Song": {
       "number": "220",
-      "cost": [
-        "2",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["2", "g", "u", "r"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Runescale Stormbrood (Runescale Stormbrood // Chilling Screech)": {
       "number": "221",
-      "cost": [
-        "3",
-        "r"
-      ],
+      "cost": ["3", "r"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Chilling Screech (Runescale Stormbrood // Chilling Screech)": {
       "number": "221",
-      "cost": [
-        "1",
-        "u"
-      ],
+      "cost": ["1", "u"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Severance Priest": {
       "number": "222",
-      "cost": [
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["w", "b", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Shiko, Paragon of the Way": {
       "number": "223",
-      "cost": [
-        "2",
-        "u",
-        "r",
-        "w"
-      ],
+      "cost": ["2", "u", "r", "w"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Skirmish Rhino": {
       "number": "224",
-      "cost": [
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["w", "b", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Songcrafter Mage": {
       "number": "225",
-      "cost": [
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["g", "u", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Sonic Shrieker": {
       "number": "226",
-      "cost": [
-        "2",
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["2", "r", "w", "b"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Stalwart Successor": {
       "number": "227",
-      "cost": [
-        "1",
-        "b",
-        "g"
-      ],
+      "cost": ["1", "b", "g"],
       "rarity": "u",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Temur Battlecrier": {
       "number": "228",
-      "cost": [
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["g", "u", "r"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Temur Tawnyback": {
       "number": "229",
-      "cost": [
-        "2g",
-        "2u",
-        "2r"
-      ],
+      "cost": ["2g", "2u", "2r"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Teval, Arbiter of Virtue": {
       "number": "230",
-      "cost": [
-        "2",
-        "b",
-        "g",
-        "u"
-      ],
+      "cost": ["2", "b", "g", "u"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Thunder of Unity": {
       "number": "231",
-      "cost": [
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["r", "w", "b"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Twinmaw Stormbrood (Twinmaw Stormbrood // Charring Bite)": {
       "number": "232",
-      "cost": [
-        "5",
-        "w"
-      ],
+      "cost": ["5", "w"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Charring Bite (Twinmaw Stormbrood // Charring Bite)": {
       "number": "232",
-      "cost": [
-        "1",
-        "r"
-      ],
+      "cost": ["1", "r"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Ureni, the Song Unending": {
       "number": "233",
-      "cost": [
-        "5",
-        "g",
-        "u",
-        "r"
-      ],
+      "cost": ["5", "g", "u", "r"],
       "rarity": "m",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Whirlwing Stormbrood (Whirlwing Stormbrood // Dynamic Soar)": {
       "number": "234",
-      "cost": [
-        "4",
-        "u"
-      ],
+      "cost": ["4", "u"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dynamic Soar (Whirlwing Stormbrood // Dynamic Soar)": {
       "number": "234",
-      "cost": [
-        "2",
-        "g"
-      ],
+      "cost": ["2", "g"],
       "rarity": "u",
       "layout": "adventure",
-      "categories": [
-        "spell"
-      ],
+      "categories": ["spell"],
       "isTransformed": true
     },
     "Windcrag Siege": {
       "number": "235",
-      "cost": [
-        "1",
-        "r",
-        "w"
-      ],
+      "cost": ["1", "r", "w"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Yathan Roadwatcher": {
       "number": "236",
-      "cost": [
-        "1",
-        "w",
-        "b",
-        "g"
-      ],
+      "cost": ["1", "w", "b", "g"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Zurgo, Thunder's Decree": {
       "number": "237",
-      "cost": [
-        "r",
-        "w",
-        "b"
-      ],
+      "cost": ["r", "w", "b"],
       "rarity": "r",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Abzan Monument": {
       "number": "238",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Boulderborn Dragon": {
       "number": "239",
-      "cost": [
-        "5"
-      ],
+      "cost": ["5"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Dragonfire Blade": {
       "number": "240",
-      "cost": [
-        "1"
-      ],
+      "cost": ["1"],
       "rarity": "r",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Dragonstorm Globe": {
       "number": "241",
-      "cost": [
-        "3"
-      ],
+      "cost": ["3"],
       "rarity": "c",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Embermouth Sentinel": {
       "number": "242",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Jade-Cast Sentinel": {
       "number": "243",
-      "cost": [
-        "4"
-      ],
+      "cost": ["4"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Jeskai Monument": {
       "number": "244",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Mardu Monument": {
       "number": "245",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Mox Jasper": {
       "number": "246",
-      "cost": [
-        "0"
-      ],
+      "cost": ["0"],
       "rarity": "m",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Sultai Monument": {
       "number": "247",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Temur Monument": {
       "number": "248",
-      "cost": [
-        "2"
-      ],
+      "cost": ["2"],
       "rarity": "u",
-      "categories": [
-        "spell"
-      ]
+      "categories": ["spell"]
     },
     "Watcher of the Wayside": {
       "number": "249",
-      "cost": [
-        "3"
-      ],
+      "cost": ["3"],
       "rarity": "c",
-      "categories": [
-        "creature"
-      ]
+      "categories": ["creature"]
     },
     "Bloodfell Caves": {
       "number": "250",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Blossoming Sands": {
       "number": "251",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Cori Mountain Monastery": {
       "number": "252",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Dalkovan Encampment": {
       "number": "253",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Dismal Backwater": {
       "number": "254",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Evolving Wilds": {
       "number": "255",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Frontier Bivouac": {
       "number": "256",
       "cost": [],
       "rarity": "u",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Great Arashin City": {
       "number": "257",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Jungle Hollow": {
       "number": "258",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Kishla Village": {
       "number": "259",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Maelstrom of the Spirit Dragon": {
       "number": "260",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Mistrise Village": {
       "number": "261",
       "cost": [],
       "rarity": "r",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Mystic Monastery": {
       "number": "262",
       "cost": [],
       "rarity": "u",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Nomad Outpost": {
       "number": "263",
       "cost": [],
       "rarity": "u",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Opulent Palace": {
       "number": "264",
       "cost": [],
       "rarity": "u",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Rugged Highlands": {
       "number": "265",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Sandsteppe Citadel": {
       "number": "266",
       "cost": [],
       "rarity": "u",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Scoured Barrens": {
       "number": "267",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Swiftwater Cliffs": {
       "number": "268",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Thornwood Falls": {
       "number": "269",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Tranquil Cove": {
       "number": "270",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     },
     "Wind-Scarred Crag": {
       "number": "271",
       "cost": [],
       "rarity": "c",
-      "categories": [
-        "land"
-      ]
+      "categories": ["land"]
     }
   }
 }

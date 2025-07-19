@@ -17,6 +17,9 @@
     "Condemn": {
       "categories": ["board"]
     },
+    "Darkness": {
+      "categories": ["board"]
+    },
     "Desertion": {
       "categories": ["counterspell"]
     },
@@ -33,8 +36,14 @@
     "Endurance": {
       "categories": ["board"]
     },
+    "Galvanic Blast": {
+      "categories": ["board"]
+    },
     "Mystic Snake": {
       "categories": ["counterspell", "board"]
+    },
+    "Nexus of Fate": {
+      "categories": ["board"]
     },
     "Notion Thief": {
       "categories": ["board"]
@@ -61,6 +70,12 @@
       "categories": ["board"]
     },
     "Unholy Heat": {
+      "categories": ["board"]
+    },
+    "Warping Wail": {
+      "categories": ["counterspell"]
+    },
+    "Whir of Invention": {
       "categories": ["board"]
     }
   }

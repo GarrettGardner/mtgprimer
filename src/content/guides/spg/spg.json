@@ -196,7 +196,8 @@
       "cost": ["1", "u"],
       "rarity": "m",
       "layout": "adventure",
-      "categories": ["spell"]
+      "categories": ["spell"],
+      "isTransformed": true
     },
     "Desertion": {
       "number": "31",
@@ -484,6 +485,186 @@
       "number": "83",
       "cost": ["bg", "bg"],
       "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Cavalier of Dawn": {
+      "number": "84",
+      "cost": ["2", "w", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Thoughtcast": {
+      "number": "85",
+      "cost": ["4", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Whir of Invention": {
+      "number": "86",
+      "cost": ["x", "u", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Bone Miser": {
+      "number": "87",
+      "cost": ["4", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lord of the Undead": {
+      "number": "88",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Chandra's Ignition": {
+      "number": "89",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Galvanic Blast": {
+      "number": "90",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Pathbreaker Ibex": {
+      "number": "91",
+      "cost": ["4", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Chrome Mox": {
+      "number": "92",
+      "cost": ["0"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Skysovereign, Consul Flagship": {
+      "number": "93",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Eerie Ultimatum": {
+      "number": "104",
+      "cost": ["w", "w", "b", "b", "b", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Emergent Ultimatum": {
+      "number": "105",
+      "cost": ["b", "b", "g", "g", "g", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Genesis Ultimatum": {
+      "number": "106",
+      "cost": ["g", "g", "u", "u", "u", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Inspired Ultimatum": {
+      "number": "107",
+      "cost": ["u", "u", "r", "r", "r", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ruinous Ultimatum": {
+      "number": "108",
+      "cost": ["r", "r", "w", "w", "w", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Arid Mesa": {
+      "number": "109",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Marsh Flats": {
+      "number": "110",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Misty Rainforest": {
+      "number": "111",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Scalding Tarn": {
+      "number": "112",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Verdant Catacombs": {
+      "number": "113",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Warping Wail": {
+      "number": "119",
+      "cost": ["1", "c"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Deafening Silence": {
+      "number": "120",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Robe of Stars": {
+      "number": "121",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Nexus of Fate": {
+      "number": "122",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Paradox Haze": {
+      "number": "123",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Darkness": {
+      "number": "124",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Magus of the Moon": {
+      "number": "125",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Burgeoning": {
+      "number": "126",
+      "cost": ["g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Green Sun's Zenith": {
+      "number": "127",
+      "cost": ["x", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sliver Overlord": {
+      "number": "128",
+      "cost": ["w", "u", "b", "r", "g"],
+      "rarity": "r",
       "categories": ["creature"]
     }
   }
