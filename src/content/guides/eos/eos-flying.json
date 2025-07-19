@@ -1,0 +1,24 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Blinkmoth Nexus": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Celestial Colonnade": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Inkmoth Nexus": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

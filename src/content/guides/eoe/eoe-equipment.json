@@ -1,0 +1,21 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Atomic Microsizer": {},
+    "Auxiliary Boosters": {},
+    "Honored Knight-Captain": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Hylderblade": {},
+    "Illvoi Light Jammer": {},
+    "Meltstrider's Gear": {},
+    "Squire's Lightblade": {},
+    "The Dominion Bracelet": {}
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Annul": {
+      "categories": ["counterspell"]
+    },
+    "Archenemy's Charm": {
+      "categories": ["board"]
+    },
+    "Biosynthic Burst": {
+      "categories": ["board"]
+    },
+    "Bombard": {
+      "categories": ["board"]
+    },
+    "Cerebral Download": {
+      "categories": ["other"]
+    },
+    "Close Encounter": {
+      "categories": ["board"]
+    },
+    "Consult the Star Charts": {
+      "categories": ["other"]
+    },
+    "Cut Propulsion": {
+      "categories": ["board"]
+    },
+    "Dark Endurance": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
+    "Depressurize": {
+      "categories": ["board"]
+    },
+    "Desculpting Blast": {
+      "categories": ["board"]
+    },
+    "Diplomatic Relations": {
+      "categories": ["board"]
+    },
+    "Divert Disaster": {
+      "categories": ["counterspell"]
+    },
+    "Drill Too Deep": {
+      "categories": ["board"]
+    },
+    "Dual-Sun Technique": {
+      "categories": ["board"]
+    },
+    "Dubious Delicacy": {
+      "categories": ["board"]
+    },
+    "Emergency Eject": {
+      "categories": ["board"]
+    },
+    "Focus Fire": {
+      "categories": ["board"]
+    },
+    "Full Bore": {
+      "categories": ["board"]
+    },
+    "Gravkill": {
+      "categories": ["board"]
+    },
+    "Illvoi Galeblade": {
+      "categories": ["board"]
+    },
+    "Illvoi Light Jammer": {
+      "categories": ["board"]
+    },
+    "Invasive Maneuvers": {
+      "categories": ["board"]
+    },
+    "Lithobraking": {
+      "categories": ["board"]
+    },
+    "Lost in Space": {
+      "categories": ["board"]
+    },
+    "Mental Modulation": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Radiant Strike": {
+      "categories": ["board"]
+    },
+    "Reroute Systems": {
+      "categories": ["board"]
+    },
+    "Rig for War": {
+      "categories": ["board"]
+    },
+    "Scour for Scrap": {
+      "categories": ["board"]
+    },
+    "Seedship Impact": {
+      "categories": ["board"]
+    },
+    "Squire's Lightblade": {
+      "categories": ["board"]
+    },
+    "Unravel": {
+      "categories": ["counterspell"]
+    },
+    "Zealous Display": {
+      "categories": ["board"]
+    }
+  }
+}

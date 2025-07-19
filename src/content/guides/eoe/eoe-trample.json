@@ -1,0 +1,54 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Atmospheric Greenhouse": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Biosynthic Burst": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Drix Fatemaker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dyadrine, Synthesis Amalgam": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Extinguisher Battleship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Frenzied Baloth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Full Bore": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Glacier Godmaw": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Icecave Crasher": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

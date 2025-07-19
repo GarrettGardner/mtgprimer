@@ -1,0 +1,249 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Astelli Reclaimer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Atmospheric Greenhouse": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Auxiliary Boosters": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cloudsculpt Technician": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cut Propulsion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dawnsire, Sunstar Dreadnought": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Debris Field Crusher": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Desculpting Blast": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Entropic Battlecruiser": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Exalted Sunborn": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Exosuit Savior": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Extinguisher Battleship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fell Gravship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Galvanizing Sawship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Genemorph Imago": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gravpack Monoist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Illvoi Galeblade": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Infinite Guideline Station": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Interceptor Mechan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Larval Scoutlander": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lumen-Class Frigate": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mm'menon, Uthros Exile": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mm'menon, the Right Hand": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Monoist Circuit-Feeder": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mouth of the Storm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Nebula Dragon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Nova Hellkite": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pinnacle Emissary": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pinnacle Kill-Ship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Quantum Riddler": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rescue Skiff": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shattered Wings": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Skystinger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sledge-Class Seedship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Specimen Freighter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Starbreach Whale": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Starfield Shepherd": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Station Monitor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Steelswarm Operator": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Survey Mechan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Susurian Dirgecraft": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Swarm Culler": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Synthesizer Labship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Seriema": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Uthros Scanship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Warmaker Gunship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wedgelight Rammer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wurmwall Sweeper": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

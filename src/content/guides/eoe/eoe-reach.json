@@ -1,0 +1,54 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Biosynthic Burst": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Edge Rover": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kavaron Skywarden": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lashwhip Predator": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Meltstrider's Gear": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Remnant Elemental": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rig for War": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Skystinger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Territorial Bruntar": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Devastating Onslaught": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Frenzied Baloth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Full Bore": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Galvanizing Sawship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Glacier Godmaw": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kavaron Turbodrone": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kavaron, Memorial World": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mutinous Massacre": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Nova Hellkite": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Red Tiger Mechan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Systems Override": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tannuk, Steadfast Second": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Terminal Velocity": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thrumming Hivepool": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Timeline Culler": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

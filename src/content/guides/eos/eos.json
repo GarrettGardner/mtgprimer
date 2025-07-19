@@ -1,0 +1,374 @@
+{
+  "code": "eos",
+  "formatName": "Edge of Eternities: Stellar Sights",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Ancient Tomb": {
+      "number": "1",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Blast Zone": {
+      "number": "2",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Blinkmoth Nexus": {
+      "number": "3",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Bonders' Enclave": {
+      "number": "4",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Cascading Cataracts": {
+      "number": "5",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Cathedral of War": {
+      "number": "6",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Celestial Colonnade": {
+      "number": "7",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Contested War Zone": {
+      "number": "8",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Creeping Tar Pit": {
+      "number": "9",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Crystal Quarry": {
+      "number": "10",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Deserted Temple": {
+      "number": "11",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Dust Bowl": {
+      "number": "12",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Echoing Deeps": {
+      "number": "13",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Eldrazi Temple": {
+      "number": "14",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Endless Sands": {
+      "number": "15",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Gemstone Caverns": {
+      "number": "16",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Grove of the Burnwillows": {
+      "number": "17",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "High Market": {
+      "number": "18",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Hissing Quagmire": {
+      "number": "19",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Inkmoth Nexus": {
+      "number": "20",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Inventors' Fair": {
+      "number": "21",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Lavaclaw Reaches": {
+      "number": "22",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Lotus Field": {
+      "number": "23",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Lumbering Falls": {
+      "number": "24",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Mana Confluence": {
+      "number": "25",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Meteor Crater": {
+      "number": "26",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Mirrorpool": {
+      "number": "27",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Mutavault": {
+      "number": "28",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Mystifying Maze": {
+      "number": "29",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Needle Spires": {
+      "number": "30",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Nesting Grounds": {
+      "number": "31",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Petrified Field": {
+      "number": "32",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Plaza of Heroes": {
+      "number": "33",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Power Depot": {
+      "number": "34",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Raging Ravine": {
+      "number": "35",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Reflecting Pool": {
+      "number": "36",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Scavenger Grounds": {
+      "number": "37",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Shambling Vent": {
+      "number": "38",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Stirring Wildwood": {
+      "number": "39",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Strip Mine": {
+      "number": "40",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "land"
+      ]
+    },
+    "Sunken Citadel": {
+      "number": "41",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Swarmyard": {
+      "number": "42",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Terrain Generator": {
+      "number": "43",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Thespian's Stage": {
+      "number": "44",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    },
+    "Wandering Fumarole": {
+      "number": "45",
+      "cost": [],
+      "rarity": "r",
+      "categories": [
+        "land"
+      ]
+    }
+  }
+}

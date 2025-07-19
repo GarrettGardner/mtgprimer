@@ -1,0 +1,14 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Stirring Wildwood": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

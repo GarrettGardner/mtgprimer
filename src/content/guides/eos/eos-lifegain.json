@@ -1,0 +1,29 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Grove of the Burnwillows": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "High Market": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Inventors' Fair": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shambling Vent": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

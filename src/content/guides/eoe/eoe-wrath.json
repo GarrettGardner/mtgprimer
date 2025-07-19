@@ -1,0 +1,15 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Beyond the Quiet": {},
+    "Extinguisher Battleship": {},
+    "Lithobraking": {},
+    "Pinnacle Starcage": {},
+    "Singularity Rupture": {},
+    "Zero Point Ballad": {}
+  }
+}

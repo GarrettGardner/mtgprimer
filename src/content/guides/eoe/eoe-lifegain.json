@@ -1,0 +1,119 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Archenemy's Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Chrome Companion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Comet Crawler": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dawnstrike Vanguard": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dubious Delicacy": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Elegy Acolyte": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Eumidian Terrabotanist": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Exalted Sunborn": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fell Gravship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Flight-Deck Coordinator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Germinating Wurm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Haliya, Guided by Light": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lumen-Class Frigate": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Nutrient Block": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Radiant Strike": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ragost, Deft Gastronaut": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Requiem Monolith": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sami's Curiosity": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Survey Mechan": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Susurian Voidborn": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Syr Vondam, Sunstar Exemplar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Syr Vondam, the Lucent": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}
