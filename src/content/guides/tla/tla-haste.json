@@ -1,0 +1,149 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Aang, Destined Savior (Aang, at the Crossroads // Aang, Destined Savior)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ba Sing Se": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Badgermole": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Badgermole Cub": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Beifong's Bounty Hunters": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bitter Work": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bumi, King of Three Trials": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dai Li Agents": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dai Li Indoctrination": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earth Kingdom General": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earth Rumble": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earth Village Ruffians": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earthbending Lesson": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earthen Ally": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fatal Fissure": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Haru, Hidden Talent": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Jet's Brainwashing": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ozai, the Phoenix King": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rebellious Captives": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rockalanche": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sandbenders' Storm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Boulder, Ready to Rumble": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Cave of Two Lovers": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Toph, Hardheaded Teacher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Toph, the Blind Bandit": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Toph, the First Metalbender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Treetop Freedom Fighters": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wartime Protestors": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

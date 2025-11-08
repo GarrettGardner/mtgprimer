@@ -1,0 +1,21 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Hook Swords": {},
+    "Mechanical Glider": {},
+    "Sokka and Suki": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Sokka, Swordmaster": {
+      "categories": [
+        "synergy"
+      ]
+    }
+  }
+}

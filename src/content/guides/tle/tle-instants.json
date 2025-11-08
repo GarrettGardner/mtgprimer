@@ -1,0 +1,148 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aang's Defense": {
+      "categories": ["board"]
+    },
+    "Acrobatic Leap": {
+      "categories": ["board"]
+    },
+    "Bolt Bend": {
+      "categories": ["board"]
+    },
+    "Brainstorm": {
+      "categories": ["other"]
+    },
+    "Brought Back": {
+      "categories": ["board"]
+    },
+    "Cloudshift": {
+      "categories": ["board"]
+    },
+    "Consider": {
+      "categories": ["other"]
+    },
+    "Creeping Crystal Coating": {
+      "categories": ["board"]
+    },
+    "Deny Entry": {
+      "categories": ["counterspell"]
+    },
+    "Dramatic Reversal": {
+      "categories": ["board"]
+    },
+    "Earthshape": {
+      "categories": ["board"]
+    },
+    "Eladamri's Call": {
+      "categories": ["other"]
+    },
+    "Fire Nation Ambushers": {
+      "categories": ["board"]
+    },
+    "Fists of Flame": {
+      "categories": ["board"]
+    },
+    "Force of Negation": {
+      "cost": [],
+      "categories": ["counterspell"]
+    },
+    "Frantic Confrontation": {
+      "categories": ["board"]
+    },
+    "Frantic Search": {
+      "categories": ["board"]
+    },
+    "Heroic Intervention": {
+      "categories": ["board"]
+    },
+    "Hog-Monkey Rampage": {
+      "categories": ["board"]
+    },
+    "Inspiring Call": {
+      "categories": ["board"]
+    },
+    "Katara's Reversal": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt": {
+      "categories": ["board"]
+    },
+    "Lost in Memories": {
+      "categories": ["board"]
+    },
+    "Mai and Zuko": {
+      "categories": ["board"]
+    },
+    "Overwhelming Victory": {
+      "categories": ["board"]
+    },
+    "Razor Rings": {
+      "categories": ["board"]
+    },
+    "Release to Memory": {
+      "categories": ["board"]
+    },
+    "Rending Volley": {
+      "categories": ["board"]
+    },
+    "Return of the Wildspeaker": {
+      "categories": ["board"]
+    },
+    "Roku's Mastery": {
+      "categories": ["board"]
+    },
+    "Run Amok": {
+      "categories": ["board"]
+    },
+    "Scarring Memories": {
+      "categories": ["board"]
+    },
+    "Scout's Warning": {
+      "categories": ["board"]
+    },
+    "Searing Blood": {
+      "categories": ["board"]
+    },
+    "Sokka's Sword Training": {
+      "categories": ["board"]
+    },
+    "Stand United": {
+      "categories": ["board"]
+    },
+    "Teferi's Protection": {
+      "categories": ["board"]
+    },
+    "That's Rough Buddy": {
+      "categories": ["board"]
+    },
+    "The Art of Tea": {
+      "categories": ["board"]
+    },
+    "The Blue Spirit": {
+      "categories": ["board"]
+    },
+    "Unagi's Spray": {
+      "categories": ["board"]
+    },
+    "Valorous Stance": {
+      "categories": ["board"]
+    },
+    "Visions of Beyond": {
+      "categories": ["other"]
+    },
+    "Waterbender's Restoration": {
+      "categories": ["board"]
+    },
+    "Whirlwind Technique": {
+      "categories": ["board"]
+    }
+  }
+}

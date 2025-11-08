@@ -1,0 +1,199 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aang, Destined Savior (Aang, at the Crossroads // Aang, Destined Savior)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aang, Master of Elements (Avatar Aang // Aang, Master of Elements)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aang, Swift Savior (Aang, Swift Savior // Aang and La, Ocean's Fury)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aang, at the Crossroads (Aang, at the Crossroads // Aang, Destined Savior)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aang, the Last Airbender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Air Nomad Legacy": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Appa, Loyal Sky Bison": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Appa, Steadfast Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Avatar Aang (Avatar Aang // Aang, Master of Elements)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Avatar Roku (The Legend of Roku // Avatar Roku)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Avatar Yangchen (The Legend of Yangchen // Avatar Yangchen)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Benevolent River Spirit": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Buzzard-Wasp Colony": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cat-Owl": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dragonfly Swarm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Enter the Avatar State": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fire Navy Trebuchet": {
+      "categories": [
+        "default"
+      ]
+    },
+    "First-Time Flyer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Geyser Leaper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Glider Kids": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Glider Staff": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Iguana Parrot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Messenger Hawk": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Momo, Friendly Flier": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Momo, Playful Pet": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ozai, the Phoenix King": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Phoenix Fleet Airship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rabaroo Troop": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ran and Shaw": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Raven Eagle": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Swampsnare Trap": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Teo, Spirited Glider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Mechanist, Aerial Artisan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wan Shi Tong, Librarian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "War Balloon": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wolfbat": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Yip Yip!": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Yue, the Moon Spirit": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

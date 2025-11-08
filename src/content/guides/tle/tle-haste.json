@@ -1,0 +1,84 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Avatar Kyoshi, Earthbender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bumi's Feast Lecture": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bumi, Eclectic Earthbender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cracked Earth Technique": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dragon Moose": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earthbending Student": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fervor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fire Nation Soldier": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Insurrection": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Iroh, Dragon of the West": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Moku, Meandering Drummer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Momo's Heist": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Smellerbee, Rebel Fighter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Solid Ground": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Toph, Earthbending Master": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

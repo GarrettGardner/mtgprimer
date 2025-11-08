@@ -1,0 +1,19 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Glider Staff": {},
+    "Kyoshi Battle Fan": {},
+    "Master Piandao": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Meteor Sword": {},
+    "Trusty Boomerang": {},
+    "Twin Blades": {}
+  }
+}

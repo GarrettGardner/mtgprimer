@@ -1,0 +1,1382 @@
+{
+  "code": "tle",
+  "formatName": "Avatar: The Last Airbender Eternal",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Brought Back": {
+      "number": "1",
+      "cost": ["w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Drannith Magistrate": {
+      "number": "2",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Empty City Ruse": {
+      "number": "3",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Lita, Mechanical Engineer": {
+      "number": "4",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Release to Memory": {
+      "number": "5",
+      "cost": ["3", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Scout's Warning": {
+      "number": "6",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Teferi's Protection": {
+      "number": "7",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Three Dreams": {
+      "number": "8",
+      "cost": ["4", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Agent of Treachery": {
+      "number": "9",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bribery": {
+      "number": "10",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Clone": {
+      "number": "11",
+      "cost": ["3", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Clone Legion": {
+      "number": "12",
+      "cost": ["7", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Force of Negation": {
+      "number": "13",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Imprisoned in the Moon": {
+      "number": "14",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Intruder Alarm": {
+      "number": "15",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mystic Remora": {
+      "number": "16",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Prosperity": {
+      "number": "17",
+      "cost": ["x", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sakashima of a Thousand Faces": {
+      "number": "18",
+      "cost": ["3", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Standstill": {
+      "number": "19",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Training Grounds": {
+      "number": "20",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Visions of Beyond": {
+      "number": "21",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Black Sun's Zenith": {
+      "number": "22",
+      "cost": ["x", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Bloodchief Ascension": {
+      "number": "23",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Cruel Tutor": {
+      "number": "24",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Noxious Gearhulk": {
+      "number": "25",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Blasphemous Act": {
+      "number": "26",
+      "cost": ["8", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Diaochan, Artful Beauty": {
+      "number": "27",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dockside Extortionist": {
+      "number": "28",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Fervor": {
+      "number": "29",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Humble Defector": {
+      "number": "30",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Insurrection": {
+      "number": "31",
+      "cost": ["5", "r", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Lightning Bolt": {
+      "number": "32",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mirrorwing Dragon": {
+      "number": "33",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rending Volley": {
+      "number": "34",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Searing Blood": {
+      "number": "35",
+      "cost": ["r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shattering Spree": {
+      "number": "36",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Volcanic Torrent": {
+      "number": "37",
+      "cost": ["4", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Warstorm Surge": {
+      "number": "38",
+      "cost": ["5", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Beastmaster Ascension": {
+      "number": "39",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Elemental Bond": {
+      "number": "40",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "The Great Henge": {
+      "number": "41",
+      "cost": ["7", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Heartbeat of Spring": {
+      "number": "42",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Heroic Intervention": {
+      "number": "43",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Return of the Wildspeaker": {
+      "number": "44",
+      "cost": ["4", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Rites of Flourishing": {
+      "number": "45",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Taunting Challenge": {
+      "number": "46",
+      "cost": ["1", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Captain Sisay": {
+      "number": "47",
+      "cost": ["2", "g", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Eladamri's Call": {
+      "number": "48",
+      "cost": ["g", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fevered Visions": {
+      "number": "49",
+      "cost": ["1", "u", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Join the Dance": {
+      "number": "50",
+      "cost": ["g", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Koma, Cosmos Serpent": {
+      "number": "51",
+      "cost": ["3", "g", "g", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rhys the Redeemed": {
+      "number": "52",
+      "cost": ["gw"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Cityscape Leveler": {
+      "number": "53",
+      "cost": ["8"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Meteorite": {
+      "number": "54",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sundial of the Infinite": {
+      "number": "55",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dark Depths": {
+      "number": "56",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Fabled Passage": {
+      "number": "57",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Sunbaked Canyon": {
+      "number": "58",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Tarnished Citadel": {
+      "number": "59",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Treetop Village": {
+      "number": "60",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Valakut, the Molten Pinnacle": {
+      "number": "61",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Appa, the Vigilant": {
+      "number": "62",
+      "cost": ["5", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Katara's Reversal": {
+      "number": "63",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fire Nation Turret": {
+      "number": "64",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Swampbenders": {
+      "number": "65",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sokka's Charge": {
+      "number": "66",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Earthshape": {
+      "number": "67",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mai and Zuko": {
+      "number": "68",
+      "cost": ["1", "u", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aang and Katara": {
+      "number": "69",
+      "cost": ["3", "g", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Toph, Greatest Earthbender": {
+      "number": "70",
+      "cost": ["2", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sokka and Suki": {
+      "number": "71",
+      "cost": ["u", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Momo's Heist": {
+      "number": "72",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Uncle's Musings": {
+      "number": "73",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aang, Airbending Master": {
+      "number": "74",
+      "cost": ["4", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Air Nomad Student": {
+      "number": "75",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Duke, Rebel Sentry": {
+      "number": "76",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Inspired Insurgent": {
+      "number": "77",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jet, Rebel Leader": {
+      "number": "78",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kindly Customer": {
+      "number": "79",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Koala-Sheep": {
+      "number": "80",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Monk Gyatso": {
+      "number": "81",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pipsqueak, Rebel Strongarm": {
+      "number": "82",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sokka, Swordmaster": {
+      "number": "83",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sokka's Sword Training": {
+      "number": "84",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Suki, Kyoshi Captain": {
+      "number": "85",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tale of Momo": {
+      "number": "86",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "That's Rough Buddy": {
+      "number": "87",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Toucan-Puffin": {
+      "number": "88",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Baboon Spirit": {
+      "number": "89",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Blue Spirit": {
+      "number": "90",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Chakra Meditation": {
+      "number": "91",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dutiful Knowledge Seeker": {
+      "number": "92",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Katara, Waterbending Master": {
+      "number": "93",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Nightmares and Daydreams": {
+      "number": "94",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Princess Yue": {
+      "number": "95",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tui and La, Moon and Ocean": {
+      "number": "96",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Unagi's Spray": {
+      "number": "97",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wan Shi Tong, All-Knowing": {
+      "number": "98",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Waterbender's Restoration": {
+      "number": "99",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Whirlwind Technique": {
+      "number": "100",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Azula, Ruthless Firebender": {
+      "number": "101",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dai Li Censor": {
+      "number": "102",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Desperate Plea": {
+      "number": "103",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fire Lord Ozai": {
+      "number": "104",
+      "cost": ["3", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Fire Nation Occupation": {
+      "number": "105",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fire Nation Salvagers": {
+      "number": "106",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Giant Fly": {
+      "number": "107",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lo and Li, Royal Advisors": {
+      "number": "108",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Nyla, Shirshu Sleuth": {
+      "number": "109",
+      "cost": ["4", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ruthless Waterbender": {
+      "number": "110",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Scarring Memories": {
+      "number": "111",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Avatar Roku, Firebender": {
+      "number": "112",
+      "cost": ["3", "r", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Chong and Lily, Nomads": {
+      "number": "113",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Deer-Dog": {
+      "number": "114",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fang, Roku's Companion": {
+      "number": "115",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Founding of Omashu": {
+      "number": "116",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Frantic Confrontation": {
+      "number": "117",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Freedom Fighter Recruit": {
+      "number": "118",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Iroh, Dragon of the West": {
+      "number": "119",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Longshot, Rebel Bowman": {
+      "number": "120",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lost in Memories": {
+      "number": "121",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Moku, Meandering Drummer": {
+      "number": "122",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Overwhelming Victory": {
+      "number": "123",
+      "cost": ["4", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Reckless Blaze": {
+      "number": "124",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Smellerbee, Rebel Fighter": {
+      "number": "125",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Storm of Memories": {
+      "number": "126",
+      "cost": ["2", "r", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Zuko, Firebending Master": {
+      "number": "127",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Animal Attendant": {
+      "number": "128",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Art of Tea": {
+      "number": "129",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Avatar Kyoshi, Earthbender": {
+      "number": "130",
+      "cost": ["5", "g", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bison Whistle": {
+      "number": "131",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bosco, Just a Bear": {
+      "number": "132",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bumi's Feast Lecture": {
+      "number": "133",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Cabbage Merchant": {
+      "number": "134",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cracked Earth Technique": {
+      "number": "135",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Creeping Crystal Coating": {
+      "number": "136",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crystalline Armor": {
+      "number": "137",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elephant-Mandrill": {
+      "number": "138",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hei Bai, Forest Guardian": {
+      "number": "139",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kyoshi Warrior Exemplars": {
+      "number": "140",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Master's Guidance": {
+      "number": "141",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Solid Ground": {
+      "number": "142",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tale of Katara and Toph": {
+      "number": "143",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tectonic Split": {
+      "number": "144",
+      "cost": ["4", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Toph, Earthbending Master": {
+      "number": "145",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Aang, A Lot to Learn": {
+      "number": "146",
+      "cost": ["2", "gw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hook Swords": {
+      "number": "147",
+      "cost": ["2", "rw"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Katara, Seeking Revenge": {
+      "number": "148",
+      "cost": ["3", "ub"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stand United": {
+      "number": "149",
+      "cost": ["1", "gw"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zuko, Seeking Honor": {
+      "number": "150",
+      "cost": ["2", "br"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Acrobatic Leap": {
+      "number": "151",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Cloudshift": {
+      "number": "152",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Duelist's Heritage": {
+      "number": "153",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Valorous Stance": {
+      "number": "154",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Brainstorm": {
+      "number": "155",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Coastal Piracy": {
+      "number": "156",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Consider": {
+      "number": "157",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dramatic Reversal": {
+      "number": "158",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Frantic Search": {
+      "number": "159",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bastion of Remembrance": {
+      "number": "160",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dark Deal": {
+      "number": "161",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Diresight": {
+      "number": "162",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bolt Bend": {
+      "number": "163",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cathartic Reunion": {
+      "number": "164",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fiery Confluence": {
+      "number": "165",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fists of Flame": {
+      "number": "166",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Descendants' Path": {
+      "number": "167",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Inspiring Call": {
+      "number": "168",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Many Partings": {
+      "number": "169",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Suspicious Bookcase": {
+      "number": "170",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aang, Air Nomad": {
+      "number": "210",
+      "cost": ["3", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Aang's Defense": {
+      "number": "211",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Aardvark Sloth": {
+      "number": "212",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Allied Teamwork": {
+      "number": "213",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Appa, Aang's Companion": {
+      "number": "214",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Katara, Heroic Healer": {
+      "number": "215",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kyoshi Warrior Guard": {
+      "number": "216",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Momo, Rambunctious Rascal": {
+      "number": "217",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sledding Otter-Penguin": {
+      "number": "218",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sokka, Wolf Cove's Protector": {
+      "number": "219",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tundra Wall": {
+      "number": "220",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wolf Cove Villager": {
+      "number": "221",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Deny Entry": {
+      "number": "222",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Flying Dolphin-Fish": {
+      "number": "223",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lost in the Spirit World": {
+      "number": "224",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Terror of Serpent's Pass": {
+      "number": "225",
+      "cost": ["5", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Turtle-Seals": {
+      "number": "226",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Water Whip": {
+      "number": "227",
+      "cost": ["u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elephant-Rat": {
+      "number": "228",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fire Nation Ambushers": {
+      "number": "229",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fire Nation Sentinels": {
+      "number": "230",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gilacorn": {
+      "number": "231",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lion Vulture": {
+      "number": "232",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Purple Pentapus": {
+      "number": "233",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Capital Guard": {
+      "number": "234",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dragon Moose": {
+      "number": "235",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Explosive Shot": {
+      "number": "236",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Fire Nation Archers": {
+      "number": "237",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Fire Nation Soldier": {
+      "number": "238",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fire Nation's Conquest": {
+      "number": "239",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Iroh, Firebending Instructor": {
+      "number": "240",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Komodo Rhino": {
+      "number": "241",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Loyal Fire Sage": {
+      "number": "242",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Roku's Mastery": {
+      "number": "243",
+      "cost": ["x", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Warship Scout": {
+      "number": "244",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Zhao, the Seething Flame": {
+      "number": "245",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Zuko, Avatar Hunter": {
+      "number": "246",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Zuko's Offense": {
+      "number": "247",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bumi, Eclectic Earthbender": {
+      "number": "248",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Earthbending Student": {
+      "number": "249",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Eel-Hounds": {
+      "number": "250",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Frog-Squirrels": {
+      "number": "251",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hippo-Cows": {
+      "number": "252",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Match the Odds": {
+      "number": "253",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Seismic Tutelage": {
+      "number": "254",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Hog-Monkey Rampage": {
+      "number": "255",
+      "cost": ["1", "rg"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mechanical Glider": {
+      "number": "256",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Feed the Swarm": {
+      "number": "257",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Run Amok": {
+      "number": "258",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Explore": {
+      "number": "259",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thriving Bluff": {
+      "number": "260",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Thriving Grove": {
+      "number": "261",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Thriving Heath": {
+      "number": "262",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Thriving Isle": {
+      "number": "263",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Thriving Moor": {
+      "number": "264",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Path to Redemption": {
+      "number": "271",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Razor Rings": {
+      "number": "272",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Mountain": {
+      "number": "289",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    }
+  }
+}

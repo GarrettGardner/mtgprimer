@@ -1,0 +1,64 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aang, Air Nomad": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Appa, Aang's Companion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Elephant-Mandrill": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fire Nation Archers": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Flying Dolphin-Fish": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Frog-Squirrels": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lion Vulture": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Longshot, Rebel Bowman": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mechanical Glider": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Momo, Rambunctious Rascal": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Zuko, Avatar Hunter": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

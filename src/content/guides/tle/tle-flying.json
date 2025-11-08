@@ -1,0 +1,109 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aang, Air Nomad": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Acrobatic Leap": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Air Nomad Student": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Appa, Aang's Companion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Appa, the Vigilant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dark Depths": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fang, Roku's Companion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fire Nation Archers": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Flying Dolphin-Fish": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Frog-Squirrels": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Giant Fly": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lion Vulture": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lita, Mechanical Engineer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Longshot, Rebel Bowman": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mechanical Glider": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mirrorwing Dragon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Momo, Rambunctious Rascal": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Toucan-Puffin": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wan Shi Tong, All-Knowing": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Zuko, Avatar Hunter": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

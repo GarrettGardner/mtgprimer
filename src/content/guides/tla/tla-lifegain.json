@@ -1,0 +1,134 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Aang's Journey": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Aang, Master of Elements (Avatar Aang // Aang, Master of Elements)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Aang, the Last Airbender": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Canyon Crawler": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cat-Gator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Compassionate Healer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Curious Farm Animals": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dai Li Agents": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earth Kingdom General": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Enter the Avatar State": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Foggy Swamp Hunters": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Foggy Swamp Spirit Keeper": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Leaves from the Vine": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lo and Li, Twin Tutors": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Momo, Playful Pet": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Northern Air Temple": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Obsessive Pursuit": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rabaroo Troop": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Raven Eagle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Razor Rings": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ruinous Waterbending": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "South Pole Voyager": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sparring Dummy": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Lion-Turtle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Walltop Sentries": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

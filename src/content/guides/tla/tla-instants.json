@@ -1,0 +1,152 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Aang's Iceberg": {
+      "categories": ["board"]
+    },
+    "Aang, Swift Savior (Aang, Swift Savior // Aang and La, Ocean's Fury)": {
+      "categories": ["board"]
+    },
+    "Abandon Attachments": {
+      "categories": ["other"]
+    },
+    "Accumulate Wisdom": {
+      "categories": ["other"]
+    },
+    "Airbender's Reversal": {
+      "categories": ["board"]
+    },
+    "Airbending Lesson": {
+      "categories": ["board"]
+    },
+    "Allies at Last": {
+      "cost": ["g"],
+      "categories": ["board"]
+    },
+    "Appa, Steadfast Guardian": {
+      "categories": ["board"]
+    },
+    "Azula Always Lies": {
+      "categories": ["board"]
+    },
+    "Azula, Cunning Usurper": {
+      "categories": ["board"]
+    },
+    "Combustion Technique": {
+      "categories": ["board"]
+    },
+    "Cunning Maneuver": {
+      "categories": ["board"]
+    },
+    "Cycle of Renewal": {
+      "categories": ["other"]
+    },
+    "Elemental Teachings": {
+      "categories": ["other"]
+    },
+    "Energybending": {
+      "categories": ["other"]
+    },
+    "Enter the Avatar State": {
+      "categories": ["board"]
+    },
+    "Fancy Footwork": {
+      "categories": ["board"]
+    },
+    "Fatal Fissure": {
+      "categories": ["board"]
+    },
+    "Fated Firepower": {
+      "categories": ["board"]
+    },
+    "Fire Nation Attacks": {
+      "categories": ["board"]
+    },
+    "Firebending Lesson": {
+      "categories": ["board"]
+    },
+    "Heartless Act": {
+      "categories": ["board"]
+    },
+    "How to Start a Riot": {
+      "categories": ["board"]
+    },
+    "Invasion Reinforcements": {
+      "categories": ["board"]
+    },
+    "It'll Quench Ya!": {
+      "categories": ["counterspell"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Lost Days": {
+      "categories": ["board"]
+    },
+    "Octopus Form": {
+      "categories": ["board"]
+    },
+    "Origin of Metalbending": {
+      "categories": ["board"]
+    },
+    "Pillar Launch": {
+      "categories": ["board"]
+    },
+    "Razor Rings": {
+      "categories": ["board"]
+    },
+    "Redirect Lightning": {
+      "categories": ["board"]
+    },
+    "Rocky Rebuke": {
+      "categories": ["board"]
+    },
+    "Sandbenders' Storm": {
+      "categories": ["board"]
+    },
+    "Serpent of the Pass": {
+      "cost": ["u", "u"],
+      "categories": ["board"]
+    },
+    "Sokka's Haiku": {
+      "categories": ["counterspell"]
+    },
+    "Sold Out": {
+      "categories": ["board"]
+    },
+    "Solstice Revelations": {
+      "categories": ["board"]
+    },
+    "The Last Agni Kai": {
+      "categories": ["board"]
+    },
+    "The Unagi of Kyoshi Island": {
+      "categories": ["board"]
+    },
+    "Twin Blades": {
+      "categories": ["board"]
+    },
+    "Ty Lee, Chi Blocker": {
+      "categories": ["board"]
+    },
+    "Wan Shi Tong, Librarian": {
+      "categories": ["board"]
+    },
+    "Yip Yip!": {
+      "categories": ["board"]
+    },
+    "Zuko's Conviction": {
+      "categories": ["board"]
+    },
+    "Zuko's Exile": {
+      "categories": ["board"]
+    }
+  }
+}

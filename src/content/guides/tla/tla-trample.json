@@ -1,0 +1,64 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aang and La, Ocean's Fury (Aang, Swift Savior // Aang and La, Ocean's Fury)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Avatar Kyoshi (The Legend of Kyoshi // Avatar Kyoshi)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Badgermole": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bumi, Unleashed": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earth King's Lieutenant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earth Rumble Wrestlers": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earthbender Ascension": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ozai, the Phoenix King": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rough Rhino Cavalry": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Fire Nation Drill": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Turtle-Duck": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

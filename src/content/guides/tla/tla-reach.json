@@ -1,0 +1,54 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aang and La, Ocean's Fury (Aang, Swift Savior // Aang and La, Ocean's Fury)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Earth Rumble Wrestlers": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fire Nation Warship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fire Navy Trebuchet": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pillar Launch": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Saber-Tooth Moose-Lion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Lion-Turtle": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Walltop Sentries": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Yuyan Archers": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

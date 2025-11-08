@@ -1,0 +1,94 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Aardvark Sloth": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bastion of Remembrance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloodchief Ascension": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bosco, Just a Bear": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bumi's Feast Lecture": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cracked Earth Technique": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Creeping Crystal Coating": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Elephant-Mandrill": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Katara, Heroic Healer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Koala-Sheep": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Many Partings": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Noxious Gearhulk": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Razor Rings": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sokka's Charge": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Art of Tea": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Cabbage Merchant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Great Henge": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}
