@@ -23,6 +23,11 @@ export const PRESET: Record<
     ICON: "fas fa-book",
     DESCRIPTION: "An encyclopedia of common effects found in %formatName.",
   },
+  "guide-group-themes": {
+    NAME: "Themes",
+    ICON: "fas fa-layer-group",
+    DESCRIPTION: "Themes and mechanics found in %formatName.",
+  },
   "guide-group-removal": {
     NAME: "Removal Guide",
     ICON: "fas fa-skull",
