@@ -1,0 +1,13 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Barbed Bloodletter": {},
+    "Bark of Doran": {},
+    "Mirrormind Crown": {},
+    "Stalactite Dagger": {}
+  }
+}

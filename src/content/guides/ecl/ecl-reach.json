@@ -1,0 +1,44 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Chitinous Graspling": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dawn's Light Archer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Enraged Flamecaster": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pummeler for Hire": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sapling Nursery": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tend the Sprigs": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wildvine Pummeler": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

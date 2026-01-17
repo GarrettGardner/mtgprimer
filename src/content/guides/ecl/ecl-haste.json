@@ -1,0 +1,49 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Catharsis": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Goatnap": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Grub's Command": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Impolite Entrance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kindle the Inner Flame": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lavaleaper": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Meek Attack": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Warren Torchmaster": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

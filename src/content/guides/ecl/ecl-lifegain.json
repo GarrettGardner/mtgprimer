@@ -1,0 +1,134 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Abigale, Eloquent First-Year": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Boggart Mischief": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bre of Clan Stoutarm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dawn-Blessed Pennant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dawnhand Eulogist": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Eirdu, Carrier of Dawn (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Isilu, Carrier of Twilight (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kinscaer Sentry": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Liminal Hold": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Luminollusk": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mornsong Aria": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Nightmare Sower": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Prideful Feastling": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pummeler for Hire": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Reaping Willow": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Requiting Hex": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rooftop Percher": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Scarblade Scout": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Scarblade's Malice": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shimmercreep": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sygg's Command": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Trystan, Callous Cultivator (Trystan, Callous Cultivator // Trystan, Penitent Culler)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Vibrance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Virulent Emissary": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wanderbrine Preacher": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aurora Awakener": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bristlebane Battler": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Chronicle of Victory": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Crossroads Watcher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Flamekin Gildweaver": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gangly Stompling": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gilt-Leaf's Embrace": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Impolite Entrance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Moon-Vigil Adherents": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Prismabasher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Soulbright Seeker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Spry and Mighty": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thoughtweft Lieutenant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wildvine Pummeler": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}
