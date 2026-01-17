@@ -1,9 +1,9 @@
 "use client";
 
-import { ChangeEvent, useCallback, useEffect, useState } from "react";
+import { ChangeEvent } from "react";
 
 import type {
-  IFilter,
+  IFilterSelections,
   TColor,
   TGrouping,
   TOrdering,
@@ -11,78 +11,52 @@ import type {
   TView,
 } from "@/models";
 import { Icon } from "@/components/common";
-import { decodeHash, encodeHash } from "@/lib";
 import { useLocalToggle } from "@/hooks";
 
 import styles from "./filter-bar.module.scss";
+import { useFilters } from "@/components/provider/FiltersProvider";
 
-export const FilterBar = (props: {
-  filter: IFilter;
-  hideCategories?: boolean;
-}) => {
+export const FilterBar = (props: { hideCategories?: boolean }) => {
   const [isFilterMobileOpen, toggleIsFilterMobileOpen] = useLocalToggle(
     "FILTER_MOBILE_OPEN",
     "isFilterMobileOpen",
   );
-  const [filterSelections, setFilterSelections] = useState(
-    structuredClone(props.filter.defaultSelections),
-  );
-  const options = props.filter.options;
-  const code = Object.keys(props.filter.options.sets)?.[0] ?? "mtg";
+  const { filterSelections, updateSelections, resetSelections, filter } =
+    useFilters();
+  const options = filter.options;
+  const code = Object.keys(filter.options.sets)?.[0] ?? "mtg";
 
-  useEffect(() => {
-    setFilterSelections(
-      decodeHash(props.filter.defaultSelections, window.location.hash),
-    );
-  }, [props.filter.defaultSelections]);
-
-  useEffect(() => {
-    window.location.hash = encodeHash(
-      props.filter.defaultSelections,
-      filterSelections,
-    );
-  }, [props.filter.defaultSelections, filterSelections]);
-
-  const changeFilterCheckbox = useCallback(
-    (
-      e: ChangeEvent<HTMLInputElement>,
-      filterKey: "colors" | "rarities" | "sets" | "categories",
-    ) => {
-      const checked = e.target.checked;
-      const filterSelection = filterSelections[filterKey];
-      const value = e.target.value;
-      if (Array.isArray(filterSelection)) {
-        if (checked) {
-          filterSelection.push(value as TRarity);
-        } else {
-          filterSelection.splice(filterSelection.indexOf(value as TRarity), 1);
-        }
+  const changeFilterCheckbox = (
+    e: ChangeEvent<HTMLInputElement>,
+    filterKey: keyof IFilterSelections,
+  ) => {
+    const checked = e.target.checked;
+    const filterSelection = filterSelections[filterKey];
+    const value = e.target.value;
+    if (Array.isArray(filterSelection)) {
+      if (checked) {
+        filterSelection.push(value as TRarity);
+      } else {
+        filterSelection.splice(filterSelection.indexOf(value as TRarity), 1);
       }
+    }
 
-      setFilterSelections({
-        ...filterSelections,
-        [filterKey]: filterSelection,
-      });
-    },
-    [filterSelections, setFilterSelections],
-  );
+    updateSelections({
+      ...filterSelections,
+      [filterKey]: filterSelection,
+    });
+  };
 
-  const changeFilterSelect = useCallback(
-    (
-      e: ChangeEvent<HTMLSelectElement>,
-      filterKey: "grouping" | "ordering" | "view",
-    ) => {
-      setFilterSelections({
-        ...filterSelections,
-        [filterKey]: e.target.value,
-      });
-    },
-    [filterSelections, setFilterSelections],
-  );
+  const changeFilterSelect = (
+    e: ChangeEvent<HTMLSelectElement>,
+    filterKey: keyof IFilterSelections,
+  ) =>
+    updateSelections({
+      ...filterSelections,
+      [filterKey]: e.target.value,
+    });
 
-  const resetFilters = useCallback(() => {
-    setFilterSelections(structuredClone(props.filter.defaultSelections));
-  }, [setFilterSelections, props.filter.defaultSelections]);
+  const resetFilters = () => resetSelections();
 
   return (
     <>
@@ -90,7 +64,7 @@ export const FilterBar = (props: {
       <div className={styles.filterBar}>
         <div className="bar">
           <div className="toggleMobile">
-            <button onClick={() => toggleIsFilterMobileOpen()}>
+            <button onClick={toggleIsFilterMobileOpen}>
               <Icon slug="fas fa-sliders" />{" "}
               {isFilterMobileOpen ? "Close" : "Open"} Filters
             </button>

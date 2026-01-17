@@ -3,6 +3,7 @@
 import type { ITemplateGuide } from "@/models";
 import { CardGroups } from "@/components/common";
 import { FilterBar, PageHeader } from "@/components/layout";
+import { FiltersProvider } from "@/components/provider/FiltersProvider";
 
 export const TemplateGuide = (props: { template: ITemplateGuide }) => {
   return (
@@ -13,8 +14,10 @@ export const TemplateGuide = (props: { template: ITemplateGuide }) => {
         formatName={props.template.formatName}
         description={props.template.description}
       />
-      <CardGroups guide={props.template.guide} filter={props.template.filter} />
-      <FilterBar filter={props.template.filter} />
+      <FiltersProvider filter={props.template.filter}>
+        <CardGroups guide={props.template.guide} />
+        <FilterBar />
+      </FiltersProvider>
     </>
   );
 };

@@ -1,6 +1,6 @@
 "use client";
 
-import { KeyboardEvent, MouseEvent, useEffect, useState } from "react";
+import { KeyboardEvent, MouseEvent, useMemo, useState } from "react";
 
 import type { IGuide } from "@/models";
 import { Icon } from "@/components/common";
@@ -9,11 +9,9 @@ import styles from "./jump-search.module.scss";
 
 export const JumpSearch = (props: { guides: IGuide[] }) => {
   const [searchText, setSearchText] = useState("");
-  const [results, setResults] = useState<IGuide[]>([]);
 
-  // TODO: Create custom hook
-  useEffect(() => {
-    setResults(
+  const results = useMemo(
+    () =>
       searchText.length > 1
         ? props.guides.filter(
             (guide) =>
@@ -24,8 +22,8 @@ export const JumpSearch = (props: { guides: IGuide[] }) => {
               ),
           )
         : [],
-    );
-  }, [props.guides, searchText]);
+    [props.guides, searchText],
+  );
 
   const resultText = (guide: IGuide, needle: string) => {
     needle = needle.toLowerCase();

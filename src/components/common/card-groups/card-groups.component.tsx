@@ -2,17 +2,15 @@
 
 import { useCallback, useEffect, useMemo, useRef } from "react";
 
-import type { IFilter, IGuide } from "@/models";
-import { useFilters } from "@/hooks";
+import type { IGuide } from "@/models";
 import { Card, CardText, Icon } from "@/components/common";
 
 import styles from "./card-groups.module.scss";
+import { useFilters, useGroups } from "@/components/provider/FiltersProvider";
 
-export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
-  const { filterSelections, groups } = useFilters(
-    props.guide.cards,
-    props.filter,
-  );
+export const CardGroups = (props: { guide: IGuide }) => {
+  const { filterSelections, filter } = useFilters();
+  const { groups } = useGroups(props.guide.cards);
   const refs = useRef<Record<string, HTMLLIElement>>({});
 
   const cardEdges = useCallback(
@@ -78,8 +76,7 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
                       group.header !== "default")) && (
                     <div className="headerText">
                       {group.icon === "category" && !!group.header
-                        ? (props.filter.options.categories?.[group.header] ??
-                          "")
+                        ? (filter.options.categories?.[group.header] ?? "")
                         : ""}
                     </div>
                   )}
@@ -100,9 +97,7 @@ export const CardGroups = (props: { guide: IGuide; filter: IFilter }) => {
                       ) : group.icon === "category" ? (
                         <span className="text">
                           {group.header
-                            ? (props.filter.options.categories?.[
-                                group.header
-                              ] ?? "-")
+                            ? (filter.options.categories?.[group.header] ?? "-")
                             : "-"}
                         </span>
                       ) : (
