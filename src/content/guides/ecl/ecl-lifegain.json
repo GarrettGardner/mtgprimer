@@ -6,129 +6,76 @@
   },
   "cards": {
     "Abigale, Eloquent First-Year": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Boggart Mischief": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Bre of Clan Stoutarm": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Dawn-Blessed Pennant": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Dawnhand Eulogist": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Eirdu, Carrier of Dawn (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Isilu, Carrier of Twilight (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Kinscaer Sentry": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Liminal Hold": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Luminollusk": {
-      "categories": [
-        "granted"
-      ]
-    },
-    "Mornsong Aria": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Nightmare Sower": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Prideful Feastling": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Pummeler for Hire": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Reaping Willow": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Requiting Hex": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Rooftop Percher": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Scarblade Scout": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Scarblade's Malice": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Shimmercreep": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Sygg's Command": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Trystan, Callous Cultivator (Trystan, Callous Cultivator // Trystan, Penitent Culler)": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Vibrance": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Virulent Emissary": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Wanderbrine Preacher": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     }
   }
 }

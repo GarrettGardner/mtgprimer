@@ -5,6 +5,7 @@
     "conditional": "Conditional"
   },
   "cards": {
-    "Ashling's Command": {}
+    "Ashling's Command": { "categories": ["conditional"] },
+    "Winnowing": { "categories": ["conditional"] }
   }
 }

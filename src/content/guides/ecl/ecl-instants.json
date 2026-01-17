@@ -119,7 +119,7 @@
     },
     "Rime Chill": {
       "categories": ["board"],
-      "cost": ["u"]
+      "cost": ["1", "u"]
     },
     "Riverguard's Reflexes": {
       "categories": ["board"]

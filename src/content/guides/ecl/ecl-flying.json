@@ -6,169 +6,97 @@
   },
   "cards": {
     "Abigale, Eloquent First-Year": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Bitterbloom Bearer": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Bre of Clan Stoutarm": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Dream Seizer": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Eirdu, Carrier of Dawn (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Evershrike's Gift": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Flitterwing Nuisance": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Flock Impostor": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Glamer Gifter": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Glamermite": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Glen Elendra Guardian": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Glen Elendra's Answer": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Hovel Hurler": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Illusion Spinners": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Isilu, Carrier of Twilight (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Kithkeeper": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Lofty Dreams": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Maralen, Fae Ascendant": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Merrow Skyswimmer": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Nightmare Sower": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Pestered Wellguard": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Rooftop Percher": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Shinestriker": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Shore Lurker": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Spinerock Tyrant": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Stratosoarer": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Sunderflock": {
-      "categories": [
-        "default"
-      ]
-    },
-    "Tend the Sprigs": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Tributary Vaulter": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Twinflame Travelers": {
-      "categories": [
-        "default"
-      ]
-    },
-    "Unforgiving Aim": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["default"]
     },
     "Unwelcome Sprite": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Voracious Tome-Skimmer": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     }
   }
 }

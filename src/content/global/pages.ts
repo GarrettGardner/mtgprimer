@@ -39,7 +39,7 @@ export const PAGES_CONFIG: TPageConfig = {
           preset: "guide-instants",
           guide: "instants",
         },
-        /*{
+        {
           slug: "removal",
           template: "guide-group",
           preset: "guide-group-removal",
@@ -91,7 +91,7 @@ export const PAGES_CONFIG: TPageConfig = {
             "trample",
             "wrath",
           ],
-        },*/
+        },
         {
           slug: "gallery",
           template: "guide",

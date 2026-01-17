@@ -6,74 +6,46 @@
   },
   "cards": {
     "Aurora Awakener": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Bristlebane Battler": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Chronicle of Victory": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Crossroads Watcher": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Flamekin Gildweaver": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Gangly Stompling": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Gilt-Leaf's Embrace": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Impolite Entrance": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Moon-Vigil Adherents": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Prismabasher": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Soulbright Seeker": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["granted"]
     },
     "Spry and Mighty": {
-      "categories": [
-        "granted"
-      ]
+      "categories": ["granted"]
     },
     "Thoughtweft Lieutenant": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     },
     "Wildvine Pummeler": {
-      "categories": [
-        "default"
-      ]
+      "categories": ["default"]
     }
   }
 }
