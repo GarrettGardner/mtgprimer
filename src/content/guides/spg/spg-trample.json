@@ -1,0 +1,30 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Akroma's Memorial": {
+      "categories": ["granted"]
+    },
+    "Carnage Tyrant": {
+      "categories": ["default"]
+    },
+    "Crashing Footfalls": {
+      "categories": ["default"]
+    },
+    "Dargo, the Shipwrecker": {
+      "categories": ["default"]
+    },
+    "Embercleave": {
+      "categories": ["granted"]
+    },
+    "Ghalta, Primal Hunger": {
+      "categories": ["default"]
+    },
+    "Pathbreaker Ibex": {
+      "categories": ["default"]
+    }
+  }
+}

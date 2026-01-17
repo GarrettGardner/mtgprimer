@@ -646,7 +646,7 @@
     "Magus of the Moon": {
       "number": "125",
       "cost": ["2", "r"],
-      "rarity": "r",
+      "rarity": "m",
       "categories": ["creature"]
     },
     "Burgeoning": {
@@ -664,8 +664,128 @@
     "Sliver Overlord": {
       "number": "128",
       "cost": ["w", "u", "b", "r", "g"],
-      "rarity": "r",
+      "rarity": "m",
       "categories": ["creature"]
+    },
+    "Idyllic Tutor": {
+      "number": "129",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Kinsbaile Cavalier": {
+      "number": "130",
+      "cost": ["3", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Mistbind Clique": {
+      "number": "131",
+      "cost": ["3", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Wanderwine Prophets": {
+      "number": "132",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bitterblossom": {
+      "number": "133",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Faerie Macabre": {
+      "number": "134",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Goblin Chieftain": {
+      "number": "135",
+      "cost": ["1", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Goblin Sharpshooter": {
+      "number": "136",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Heat Shimmer": {
+      "number": "137",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Devoted Druid": {
+      "number": "138",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Helix Pinnacle": {
+      "number": "139",
+      "cost": ["g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Leaf-Crowned Visionary": {
+      "number": "140",
+      "cost": ["g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Regal Force": {
+      "number": "141",
+      "cost": ["4", "g", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Manamorphose": {
+      "number": "142",
+      "cost": ["1", "rg"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Risen Reef": {
+      "number": "143",
+      "cost": ["1", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Slippery Bogle": {
+      "number": "144",
+      "cost": ["gu"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dolmen Gate": {
+      "number": "145",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Door of Destinies": {
+      "number": "146",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Painter's Servant": {
+      "number": "147",
+      "cost": ["2"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Thousand-Year Elixir": {
+      "number": "148",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
     }
   }
 }

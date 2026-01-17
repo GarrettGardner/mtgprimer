@@ -1,0 +1,24 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Condemn": {
+      "categories": ["default"]
+    },
+    "Inspired Ultimatum": {
+      "categories": ["default"]
+    },
+    "Solitude": {
+      "categories": ["default"]
+    },
+    "Soul Warden": {
+      "categories": ["default"]
+    },
+    "Swords to Plowshares": {
+      "categories": ["default"]
+    }
+  }
+}

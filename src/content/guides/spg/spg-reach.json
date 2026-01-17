@@ -1,0 +1,12 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Endurance": {
+      "categories": ["default"]
+    }
+  }
+}

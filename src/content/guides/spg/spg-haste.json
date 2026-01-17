@@ -1,0 +1,27 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Akroma's Memorial": {
+      "categories": ["granted"]
+    },
+    "Goblin Bushwhacker": {
+      "categories": ["default", "granted"]
+    },
+    "Goblin Chieftain": {
+      "categories": ["default", "granted"]
+    },
+    "Heat Shimmer": {
+      "categories": ["granted"]
+    },
+    "Kindred Charge": {
+      "categories": ["granted"]
+    },
+    "Thousand-Year Elixir": {
+      "categories": ["granted"]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

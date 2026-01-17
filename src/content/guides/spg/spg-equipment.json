@@ -1,0 +1,15 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Embercleave": {},
+    "Robe of Stars": {},
+    "Stoneforge Mystic": {
+      "categories": ["synergy"]
+    },
+    "Sword of Fire and Ice": {}
+  }
+}

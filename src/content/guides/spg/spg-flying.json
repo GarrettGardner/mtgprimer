@@ -1,0 +1,36 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Akroma's Memorial": {
+      "categories": ["granted"]
+    },
+    "Brazen Borrower (Brazen Borrower // Petty Theft)": {
+      "categories": ["default"]
+    },
+    "Faerie Macabre": {
+      "categories": ["default"]
+    },
+    "Ledger Shredder": {
+      "categories": ["default"]
+    },
+    "Malcolm, Keen-Eyed Navigator": {
+      "categories": ["default"]
+    },
+    "Mephidross Vampire": {
+      "categories": ["default"]
+    },
+    "Mistbind Clique": {
+      "categories": ["default"]
+    },
+    "Skysovereign, Consul Flagship": {
+      "categories": ["default"]
+    },
+    "Subtlety": {
+      "categories": ["default"]
+    }
+  }
+}

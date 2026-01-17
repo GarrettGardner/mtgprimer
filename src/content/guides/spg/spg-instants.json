@@ -39,6 +39,12 @@
     "Galvanic Blast": {
       "categories": ["board"]
     },
+    "Manamorphose": {
+      "categories": ["other"]
+    },
+    "Mistbind Clique": {
+      "categories": ["board"]
+    },
     "Mystic Snake": {
       "categories": ["counterspell", "board"]
     },
