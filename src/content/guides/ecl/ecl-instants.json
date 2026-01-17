@@ -9,255 +9,162 @@
   },
   "cards": {
     "Appeal to Eirdu": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": []
     },
     "Aquitect's Defenses": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Ashling's Command": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Barbed Bloodletter": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Bitterbloom Bearer": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Blight Rot": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Blossoming Defense": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Champion of the Clachan": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Crib Swap": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Dawn's Light Archer": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Deepway Navigator": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Disruptor of Currents": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": []
     },
     "Dose of Dawnglow": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "End-Blaze Epiphany": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Feed the Flames": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Flock Impostor": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Giantfall": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Gilt-Leaf's Embrace": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Glamer Gifter": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Glamermite": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Glen Elendra Guardian": {
-      "categories": [
-        "counterspell",
-        "board"
-      ]
+      "categories": ["counterspell", "board"]
     },
     "Glen Elendra's Answer": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["counterspell", "board"]
     },
     "Harmonized Crescendo": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": []
     },
     "Illusion Spinners": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Keep Out": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Midnight Tilling": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["other"]
     },
     "Mirrorform": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Nameless Inversion": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Noggle the Mind": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Personify": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Protective Response": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": []
     },
     "Pyrrhic Strike": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Reckless Ransacking": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Requiting Hex": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Rhys, the Evermore": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Rime Chill": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": ["u"]
     },
     "Riverguard's Reflexes": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Run Away Together": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Scarblade's Malice": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Sear": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Selfless Safewright": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": []
     },
     "Spell Snare": {
-      "categories": [
-        "counterspell"
-      ]
+      "categories": ["counterspell"]
     },
     "Swat Away": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"],
+      "cost": ["u", "u"]
     },
     "Thirst for Identity": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["other"]
     },
     "Thoughtweft Charge": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Tweeze": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Unbury": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["other"]
     },
     "Unexpected Assistance": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["other"],
+      "cost": []
     },
     "Unforgiving Aim": {
-      "categories": [
-        "board"
-      ]
+      "categories": ["board"]
     },
     "Wild Unraveling": {
-      "categories": [
-        "counterspell"
-      ]
+      "categories": ["counterspell"]
     }
   }
 }
