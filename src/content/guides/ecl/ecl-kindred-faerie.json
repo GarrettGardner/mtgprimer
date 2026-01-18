@@ -1,0 +1,22 @@
+{
+  "name": "Kindred: Faerie",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Bitterbloom Bearer": {},
+    "Dream Seizer": {},
+    "Flitterwing Nuisance": {},
+    "Glamer Gifter": {},
+    "Glamermite": {},
+    "Glen Elendra's Answer": {},
+    "Glen Elendra Guardian": {},
+    "Illusion Spinners": { "categories": ["default", "payoff"] },
+    "Maralen, Fae Ascendant": { "categories": ["default", "payoff"] },
+    "Nightmare Sower": {},
+    "Pestered Wellguard": {},
+    "Unwelcome Sprite": {},
+    "Voracious Tome-Skimmer": {}
+  }
+}

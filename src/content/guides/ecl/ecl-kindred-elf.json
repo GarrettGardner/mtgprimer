@@ -1,0 +1,42 @@
+{
+  "name": "Kindred: Elf",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Bloom Tender": {},
+    "Champions of the Perfect": { "categories": ["default", "payoff"] },
+    "Creakwood Safewright": { "categories": ["default", "payoff"] },
+    "Dawnhand Dissident": {},
+    "Dawnhand Eulogist": { "categories": ["default", "payoff"] },
+    "Dawn's Light Archer": {},
+    "Eclipsed Elf": {},
+    "Formidable Speaker": {},
+    "Gloom Ripper": { "categories": ["default", "payoff"] },
+    "High Perfect Morcant": { "categories": ["default", "payoff"] },
+    "Iron-Shield Elf": {},
+    "Lluwen, Imperfect Naturalist": {},
+    "Lys Alana Dignitary": { "categories": ["default", "payoff"] },
+    "Lys Alana Informant": {},
+    "Maralen, Fae Ascendant": { "categories": ["default", "payoff"] },
+    "Moonglove Extractor": {},
+    "Moon-Vigil Adherents": {},
+    "Morcant's Eyes": { "categories": ["default", "payoff"] },
+    "Morcant's Loyalist": { "categories": ["default", "payoff"] },
+    "Rhys, the Evermore": {},
+    "Safewright Cavalry": { "categories": ["default", "payoff"] },
+    "Scarblade's Malice": {},
+    "Scarblade Scout": {},
+    "Selfless Safewright": {},
+    "Stoic Grove-Guide": {},
+    "Trystan, Callous Cultivator (Trystan, Callous Cultivator // Trystan, Penitent Culler)": {
+      "categories": ["default", "payoff"]
+    },
+    "Trystan's Command": { "categories": ["default", "payoff"] },
+    "Twilight Diviner": {},
+    "Unforgiving Aim": {},
+    "Vinebred Brawler": { "categories": ["default", "payoff"] },
+    "Virulent Emissary": {}
+  }
+}

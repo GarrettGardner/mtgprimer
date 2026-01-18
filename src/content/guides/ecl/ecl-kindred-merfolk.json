@@ -1,0 +1,30 @@
+{
+  "name": "Kindred: Merfolk",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Adept Watershaper": {},
+    "Champions of the Shoal": { "categories": ["default", "payoff"] },
+    "Deepchannel Duelist": { "categories": ["default", "payoff"] },
+    "Deepway Navigator": { "categories": ["default", "payoff"] },
+    "Disruptor of Currents": {},
+    "Eclipsed Merrow": { "categories": ["default", "payoff"] },
+    "Encumbered Reejerey": {},
+    "Gravelgill Scoundrel": {},
+    "Meanders Guide": { "categories": ["default", "payoff"] },
+    "Merrow Skyswimmer": {},
+    "Pestered Wellguard": {},
+    "Shore Lurker": {},
+    "Silvergill Mentor": { "categories": ["default", "payoff"] },
+    "Silvergill Peddler": {},
+    "Sygg's Command": { "categories": ["default", "payoff"] },
+    "Sygg, Wanderwine Wisdom (Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield)": {},
+    "Tributary Vaulter": { "categories": ["default", "payoff"] },
+    "Wanderbrine Preacher": {},
+    "Wanderbrine Trapper": {},
+    "Wanderwine Distracter": {},
+    "Wanderwine Farewell": {}
+  }
+}

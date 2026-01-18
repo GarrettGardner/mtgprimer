@@ -1,0 +1,34 @@
+{
+  "name": "Kindred: Goblin",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Bile-Vial Boggart": {},
+    "Boggart Cursecrafter": { "categories": ["default", "payoff"] },
+    "Boggart Mischief": { "categories": ["default", "payoff"] },
+    "Boggart Prankster": { "categories": ["default", "payoff"] },
+    "Boneclub Berserker": { "categories": ["default", "payoff"] },
+    "Champion of the Weird": { "categories": ["default", "payoff"] },
+    "Chaos Spewer": {},
+    "Eclipsed Boggart": { "categories": ["default", "payoff"] },
+    "Elder Auntie": {},
+    "Gristle Glutton": {},
+    "Grub's Command": { "categories": ["default", "payoff"] },
+    "Grub, Storied Matriarch (Grub, Storied Matriarch // Grub, Notorious Auntie)": {
+      "categories": ["default", "payoff"]
+    },
+    "Gutsplitter Gang": {},
+    "Heirloom Auntie": {},
+    "Hexing Squelcher": {},
+    "Mudbutton Cursetosser": { "categories": ["default", "payoff"] },
+    "Retched Wretch": {},
+    "Sanar, Innovative First-Year": {},
+    "Scuzzback Scrounger": {},
+    "Sourbread Auntie": {},
+    "Sting-Slinger": {},
+    "Taster of Wares": { "categories": ["default", "payoff"] },
+    "Warren Torchmaster": {}
+  }
+}

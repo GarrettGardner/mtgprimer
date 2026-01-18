@@ -1,0 +1,20 @@
+{
+  "name": "Kindred: Giant",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Aurora Awakener": {},
+    "Boldwyr Aggressor": { "categories": ["default", "payoff"] },
+    "Brambleback Brute": {},
+    "Bre of Clan Stoutarm": {},
+    "Burdened Stoneback": {},
+    "Curious Colossus": {},
+    "Goliath Daydreamer": {},
+    "Hovel Hurler": {},
+    "Pummeler for Hire": { "categories": ["default", "payoff"] },
+    "Slumbering Walker": {},
+    "Wildvine Pummeler": {}
+  }
+}

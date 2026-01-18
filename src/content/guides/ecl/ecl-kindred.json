@@ -1,0 +1,43 @@
+{
+  "name": "Kindred",
+  "categories": {
+    "changeling": "Changelings",
+    "payoff": "Payoffs"
+  },
+  "cards": {
+    "Bloodline Bidding": { "categories": ["payoff"] },
+    "Celestial Reunion": { "categories": ["payoff"] },
+    "Changeling Wayfinder": { "categories": ["changeling"] },
+    "Chronicle of Victory": { "categories": ["payoff"] },
+    "Chitinous Graspling": { "categories": ["changeling"] },
+    "Chomping Changeling": { "categories": ["changeling"] },
+    "Collective Inferno": { "categories": ["payoff"] },
+    "Crib Swap": { "categories": ["changeling"] },
+    "Dawn-Blessed Pennant": { "categories": ["payoff"] },
+    "Eclipsed Realms": { "categories": ["payoff"] },
+    "Feisty Spikeling": { "categories": ["changeling"] },
+    "Firdoch Core": { "categories": ["changeling"] },
+    "Flock Impostor": { "categories": ["changeling"] },
+    "Gangly Stompling": { "categories": ["changeling"] },
+    "Gathering Stone": { "categories": ["payoff"] },
+    "Glamer Gifter": { "categories": ["changeling"] },
+    "Graveshifter": { "categories": ["changeling"] },
+    "Harmonized Crescendo": { "categories": ["payoff"] },
+    "Mischievous Sneakling": { "categories": ["changeling"] },
+    "Mutable Explorer": { "categories": ["changeling"] },
+    "Nameless Inversion": { "categories": ["changeling"] },
+    "Oko, Lorwyn Liege (Oko, Lorwyn Liege // Oko, Shadowmoor Scion)": {
+      "categories": ["changeling", "payoff"]
+    },
+    "Omni-Changeling": { "categories": ["changeling"] },
+    "Personify": { "categories": ["changeling"] },
+    "Prideful Feastling": { "categories": ["changeling"] },
+    "Rimefire Torque": { "categories": ["payoff"] },
+    "Rooftop Percher": { "categories": ["changeling"] },
+    "Selfless Safewright": { "categories": ["payoff"] },
+    "Sizzling Changeling": { "categories": ["changeling"] },
+    "Stalactite Dagger": { "categories": ["changeling"] },
+    "Unbury": { "categories": ["payoff"] },
+    "Winnowing": { "categories": ["payoff"] }
+  }
+}

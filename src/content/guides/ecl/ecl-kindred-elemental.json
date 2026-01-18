@@ -1,0 +1,43 @@
+{
+  "name": "Kindred: Elemental",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Ashling, Rekindled (Ashling, Rekindled // Ashling, Rimebound)": {},
+    "Ashling's Command": { "categories": ["default", "payoff"] },
+    "Catharsis": {},
+    "Champion of the Path": { "categories": ["default", "payoff"] },
+    "Deceit": {},
+    "Eclipsed Flamekin": { "categories": ["default", "payoff"] },
+    "Eirdu, Carrier of Dawn (Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight)": {},
+    "Emptiness": {},
+    "Enraged Flamecaster": {},
+    "Explosive Prodigy": {},
+    "Flamebraider": { "categories": ["default", "payoff"] },
+    "Flame-Chain Mauler": {},
+    "Flamekin Gildweaver": {},
+    "Flaring Cinder": {},
+    "Kindle the Inner Flame": { "categories": ["default", "payoff"] },
+    "Kithkeeper": {},
+    "Kulrath Mystic": {},
+    "Kulrath Zealot": {},
+    "Lavaleaper": {},
+    "Luminollusk": {},
+    "Moonshadow": {},
+    "Prismabasher": {},
+    "Rimekin Recluse": {},
+    "Shimmercreep": {},
+    "Shinestriker": {},
+    "Soulbright Seeker": { "categories": ["default", "payoff"] },
+    "Squawkroaster": {},
+    "Stratosoarer": {},
+    "Summit Sentinel": {},
+    "Sunderflock": { "categories": ["default", "payoff"] },
+    "Tanufel Rimespeaker": {},
+    "Twinflame Travelers": { "categories": ["default", "payoff"] },
+    "Vibrance": {},
+    "Wistfulness": {}
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Kindred: Kithkin",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Ajani, Outland Chaperone": {},
+    "Brigid, Clachan's Heart (Brigid, Clachan's Heart // Brigid, Doun's Mind)": {},
+    "Brigid's Command": { "categories": ["default", "payoff"] },
+    "Bristlebane Battler": {},
+    "Bristlebane Outrider": {},
+    "Catharsis": {},
+    "Champion of the Clachan": { "categories": ["default", "payoff"] },
+    "Clachan Festival": {},
+    "Crossroads Watcher": {},
+    "Dundoolin Weaver": {},
+    "Eclipsed Kithkin": { "categories": ["default", "payoff"] },
+    "Figure of Fable": {},
+    "Gallant Fowlknight": { "categories": ["default", "payoff"] },
+    "Goldmeadow Nomad": {},
+    "Kinbinding": {},
+    "Kinsbaile Aspirant": { "categories": ["default", "payoff"] },
+    "Kinscaer Sentry": {},
+    "Mistmeadow Council": { "categories": ["default", "payoff"] },
+    "Reluctant Dounguard": {},
+    "Surly Farrier": {},
+    "Thoughtweft Imbuer": { "categories": ["default", "payoff"] },
+    "Thoughtweft Lieutenant": { "categories": ["default", "payoff"] },
+    "Timid Shieldbearer": {},
+    "Wary Farmer": {}
+  }
+}

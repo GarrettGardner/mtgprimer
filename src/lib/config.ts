@@ -399,7 +399,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
     let mv: number | undefined;
     const layout = cardConfig?.layout;
     const isTransformed = cardConfig?.isTransformed;
-    const categories = cardConfig?.categories ?? [];
+    const categories = cardConfig?.categories ?? ["default"];
 
     if (cost) {
       colorsRequired = [];

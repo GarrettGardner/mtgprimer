@@ -55,6 +55,10 @@
     "Feed the Flames": {
       "categories": ["board"]
     },
+    "Faerie Macabre": {
+      "categories": ["other"],
+      "cost": []
+    },
     "Flock Impostor": {
       "categories": ["board"]
     },
