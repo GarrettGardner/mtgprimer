@@ -36,6 +36,10 @@
     "Endurance": {
       "categories": ["board"]
     },
+    "Faerie Macabre": {
+      "categories": ["other"],
+      "cost": []
+    },
     "Galvanic Blast": {
       "categories": ["board"]
     },

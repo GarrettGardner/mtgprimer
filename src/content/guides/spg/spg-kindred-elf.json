@@ -1,0 +1,11 @@
+{
+  "name": "Kindred: Elf",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Devoted Druid": {},
+    "Leaf-Crowned Visionary": { "categories": ["default", "payoff"] }
+  }
+}

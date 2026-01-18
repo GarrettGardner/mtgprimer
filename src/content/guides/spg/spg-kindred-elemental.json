@@ -1,0 +1,11 @@
+{
+  "name": "Kindred: Elemental",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Devoted Druid": {},
+    "Risen Reef": { "categories": ["default", "payoff"] }
+  }
+}

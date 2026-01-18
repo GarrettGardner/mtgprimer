@@ -1,0 +1,12 @@
+{
+  "name": "Kindred: Faerie",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Mistbind Clique": { "categories": ["default", "payoff"] },
+    "Bitterblossom": {},
+    "Faerie Macabre": {}
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kindred: Goblin",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Goblin Chieftan": { "categories": ["default", "payoff"] },
+    "Goblin Sharpshooter": {}
+  }
+}

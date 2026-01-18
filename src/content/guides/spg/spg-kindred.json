@@ -1,0 +1,10 @@
+{
+  "name": "Kindred: Elemental",
+  "categories": {
+    "default": "",
+    "payoff": "Payoff"
+  },
+  "cards": {
+    "Door of Destinies": { "categories": ["payoff"] }
+  }
+}
