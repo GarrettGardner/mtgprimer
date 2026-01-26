@@ -141,7 +141,7 @@
       "categories": ["counterspell"]
     },
     "Swat Away": {
-      "categories": ["board"],
+      "categories": ["board", "counterspell"],
       "cost": ["u", "u"]
     },
     "Thirst for Identity": {
