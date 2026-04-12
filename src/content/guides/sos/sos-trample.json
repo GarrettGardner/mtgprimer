@@ -1,0 +1,99 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aberrant Manawurm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ancestral Anger": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cuboid Colony": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Efflorescence": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Emil, Vastlands Roamer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fractal Mascot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lorehold Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Magmablood Archaic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pack a Punch (Kirol, History Buff // Pack a Punch)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pest Mascot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Quandrix, the Proof": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rancorous Archaic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shopkeeper's Bane": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Startled Relic Sloth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tackle Artist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thornfist Striker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tragedy Feaster": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wildgrowth Archaic": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

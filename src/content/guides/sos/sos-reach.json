@@ -1,0 +1,59 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Hungry Graffalon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Magmablood Archaic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Old-Growth Educator": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Paradox Surveyor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pestbrood Sloth": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rancorous Archaic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rearing Embermare": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Dawning Archaic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thunderdrum Soloist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wildgrowth Archaic": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

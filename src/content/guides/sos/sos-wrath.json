@@ -1,0 +1,13 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Artistic Process": {},
+    "Splatter Technique": {},
+    "Vicious Rivalry": {},
+    "Withering Curse": {}
+  }
+}

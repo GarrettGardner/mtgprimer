@@ -1,0 +1,49 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Artistic Process": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Charging Strifeknight": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Choreographed Sparks": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Colorstorm Stallion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hardened Academic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lorehold, the Historian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Maelstrom Artisan (Maelstrom Artisan // Rocket Volley)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rearing Embermare": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

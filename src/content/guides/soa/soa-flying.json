@@ -1,0 +1,24 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Akroma's Will": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pick Your Poison": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Subterranean Tremors": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

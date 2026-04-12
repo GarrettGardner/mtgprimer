@@ -1,0 +1,294 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Ark of Hunger": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Arnyn, Deathbloom Botanist": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Blech, Loafing Pest": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bogwater Lumaret": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cauldron of Essence": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Colossus of the Blood Age": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Comforting Counsel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Deep Sight (Tam, Observant Sequencer // Deep Sight)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dissection Practice": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Efflorescence": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Essenceknit Scholar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Follow the Lumarets": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Foolish Fate": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Grapple with Death": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hardened Academic": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Have a Bite (Adventurous Eater // Have a Bite)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Inkshape Demonstrator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Leech Collector (Leech Collector // Bloodletting)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lumaret's Favor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Melancholic Poet": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mindful Biomancer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Moseo, Vein's New Dean": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Old-Growth Educator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Oracle's Restoration": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pest Friend (Lluwen, Exchange Student // Pest Friend)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pest Mascot": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pestbrood Sloth": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Poisoner's Apprentice": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Postmortem Professor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Potioner's Trove": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Practiced Offense": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Professor Dellian Fel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pterafractyl": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pull from the Grave": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pursue the Past": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Root Manipulation": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Scheming Silvertongue (Scheming Silvertongue // Sign in Blood)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Send in the Pest": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shattered Acolyte": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shopkeeper's Bane": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Silverquill Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Snarl Song": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sneering Shadewriter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Social Snub": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Startled Relic Sloth": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stirring Hopesinger": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stone Docent": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stream of Life (Infirmary Healer // Stream of Life)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Swords to Plowshares (Emeritus of Truce // Swords to Plowshares)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Teacher's Pest": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tenured Concocter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thornfist Striker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Together as One": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tragedy Feaster": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ulna Alley Shopkeep": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Witherbloom Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Withering Curse": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

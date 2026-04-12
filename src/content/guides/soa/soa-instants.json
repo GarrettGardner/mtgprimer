@@ -1,0 +1,120 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Abrade": {
+      "categories": ["board"]
+    },
+    "Ad Nauseam": {
+      "categories": ["other"]
+    },
+    "Akroma's Will": {
+      "categories": ["board"]
+    },
+    "Angel's Grace": {
+      "categories": ["board"]
+    },
+    "Berserk": {
+      "categories": ["board"]
+    },
+    "Big Score": {
+      "categories": ["other"]
+    },
+    "Bitter Triumph": {
+      "categories": ["board"]
+    },
+    "Brain Freeze": {
+      "categories": ["other"]
+    },
+    "Bulk Up": {
+      "categories": ["board"]
+    },
+    "Burst Lightning": {
+      "categories": ["board"]
+    },
+    "Crop Rotation": {
+      "categories": ["other"]
+    },
+    "Culling the Weak": {
+      "categories": ["other"]
+    },
+    "Cyclonic Rift": {
+      "categories": ["board"]
+    },
+    "Daze": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Deduce": {
+      "categories": ["other"]
+    },
+    "Deflecting Palm": {
+      "categories": ["board"]
+    },
+    "Disdainful Stroke": {
+      "categories": ["counterspell"]
+    },
+    "Dismember": {
+      "categories": ["board"]
+    },
+    "Duty Beyond Death": {
+      "categories": ["board"]
+    },
+    "Flusterstorm": {
+      "categories": ["counterspell"]
+    },
+    "Force of Will": {
+      "categories": ["counterspell"],
+      "cost": []
+    },
+    "Fracture": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Locust Spray": {
+      "categories": ["board"]
+    },
+    "Monstrous Rage": {
+      "categories": ["board"]
+    },
+    "Pongify": {
+      "categories": ["board"]
+    },
+    "Pyretic Ritual": {
+      "categories": ["other"]
+    },
+    "Repel Calamity": {
+      "categories": ["board"]
+    },
+    "Reprieve": {
+      "categories": ["counterspell"]
+    },
+    "Return the Favor": {
+      "categories": ["board"],
+      "cost": ["1", "r", "r"]
+    },
+    "Royal Treatment": {
+      "categories": ["board"]
+    },
+    "Sheoldred's Edict": {
+      "categories": ["board"]
+    },
+    "Spell Pierce": {
+      "categories": ["counterspell"]
+    },
+    "Vampiric Tutor": {
+      "categories": ["other"]
+    },
+    "Veil of Summer": {
+      "categories": ["board"]
+    }
+  }
+}

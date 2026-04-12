@@ -786,6 +786,72 @@
       "cost": ["3"],
       "rarity": "m",
       "categories": ["spell"]
+    },
+    "Archaeomancer": {
+      "number": "149",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Archmage Emeritus": {
+      "number": "150",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Murmuring Mystic": {
+      "number": "151",
+      "cost": ["3", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Grim Haruspex": {
+      "number": "152",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dualcaster Mage": {
+      "number": "153",
+      "cost": ["1", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Magus of the Library": {
+      "number": "154",
+      "cost": ["g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sylvan Library": {
+      "number": "155",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Adrix and Nev, Twincasters": {
+      "number": "156",
+      "cost": ["2", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Codie, Vociferous Codex": {
+      "number": "157",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Library of Leng": {
+      "number": "158",
+      "cost": ["1"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Library of Alexandria": {
+      "number": "158a",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
     }
   }
 }

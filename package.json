@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "deploy": "next build && aws s3 sync ./out s3://mtgprimer.com --delete",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

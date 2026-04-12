@@ -25,6 +25,29 @@ export const PAGES_CONFIG: TPageConfig = {
       backgroundCaption: "Jeff Miracola",
     },
     {
+      slug: "secrets-of-strixhaven",
+      template: "info",
+      preset: "info",
+      formatCode: "sos",
+      releaseDate: "April 21st, 2026",
+      backgroundImage: "sos-deluge-virtuoso-justine-cruz",
+      backgroundCaption: "Justine Cruz",
+      pages: [
+        {
+          slug: "instants",
+          template: "guide",
+          preset: "guide-instants",
+          guide: "instants",
+        },
+        {
+          slug: "gallery",
+          template: "guide",
+          preset: "guide-gallery",
+          guide: "gallery",
+        },
+      ],
+    },
+    {
       slug: "lorwyn-eclipsed",
       template: "info",
       preset: "info",

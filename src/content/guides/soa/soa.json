@@ -1,0 +1,720 @@
+{
+  "code": "soa",
+  "formatName": "Secrets of Strixhaven Mystical Archive",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Akroma's Will": {
+      "number": "1",
+      "cost": [
+        "3",
+        "w"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Angel's Grace": {
+      "number": "2",
+      "cost": [
+        "w"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Armageddon": {
+      "number": "3",
+      "cost": [
+        "3",
+        "w"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Duty Beyond Death": {
+      "number": "4",
+      "cost": [
+        "1",
+        "w"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Helping Hand": {
+      "number": "5",
+      "cost": [
+        "w"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Hop to It": {
+      "number": "6",
+      "cost": [
+        "2",
+        "w"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Prismatic Ending": {
+      "number": "7",
+      "cost": [
+        "x",
+        "w"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Repel Calamity": {
+      "number": "8",
+      "cost": [
+        "1",
+        "w"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Reprieve": {
+      "number": "9",
+      "cost": [
+        "1",
+        "w"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Requisition Raid": {
+      "number": "10",
+      "cost": [
+        "w"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Return to the Ranks": {
+      "number": "11",
+      "cost": [
+        "x",
+        "w",
+        "w"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Winds of Abandon": {
+      "number": "12",
+      "cost": [
+        "1",
+        "w"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Brain Freeze": {
+      "number": "13",
+      "cost": [
+        "1",
+        "u"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Cyclonic Rift": {
+      "number": "14",
+      "cost": [
+        "1",
+        "u"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Daze": {
+      "number": "15",
+      "cost": [
+        "1",
+        "u"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Deduce": {
+      "number": "16",
+      "cost": [
+        "1",
+        "u"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Disdainful Stroke": {
+      "number": "17",
+      "cost": [
+        "1",
+        "u"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Flusterstorm": {
+      "number": "18",
+      "cost": [
+        "u"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Force of Will": {
+      "number": "19",
+      "cost": [
+        "3",
+        "u",
+        "u"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Pongify": {
+      "number": "20",
+      "cost": [
+        "u"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Preordain": {
+      "number": "21",
+      "cost": [
+        "u"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Sleight of Hand": {
+      "number": "22",
+      "cost": [
+        "u"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Spell Pierce": {
+      "number": "23",
+      "cost": [
+        "u"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Stock Up": {
+      "number": "24",
+      "cost": [
+        "2",
+        "u"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Ad Nauseam": {
+      "number": "25",
+      "cost": [
+        "3",
+        "b",
+        "b"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Bitter Triumph": {
+      "number": "26",
+      "cost": [
+        "1",
+        "b"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Culling the Weak": {
+      "number": "27",
+      "cost": [
+        "b"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Dismember": {
+      "number": "28",
+      "cost": [
+        "1",
+        "bp",
+        "bp"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Feed the Swarm": {
+      "number": "29",
+      "cost": [
+        "1",
+        "b"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Living End": {
+      "number": "30",
+      "cost": [],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Locust Spray": {
+      "number": "31",
+      "cost": [
+        "b"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Sheoldred's Edict": {
+      "number": "32",
+      "cost": [
+        "1",
+        "b"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Smallpox": {
+      "number": "33",
+      "cost": [
+        "b",
+        "b"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Stargaze": {
+      "number": "34",
+      "cost": [
+        "x",
+        "b",
+        "b"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Vampiric Tutor": {
+      "number": "35",
+      "cost": [
+        "b"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Zombify": {
+      "number": "36",
+      "cost": [
+        "3",
+        "b"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Abrade": {
+      "number": "37",
+      "cost": [
+        "1",
+        "r"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Big Score": {
+      "number": "38",
+      "cost": [
+        "3",
+        "r"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Brotherhood's End": {
+      "number": "39",
+      "cost": [
+        "1",
+        "r",
+        "r"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Bulk Up": {
+      "number": "40",
+      "cost": [
+        "1",
+        "r"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Burst Lightning": {
+      "number": "41",
+      "cost": [
+        "r"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Crackle with Power": {
+      "number": "42",
+      "cost": [
+        "x",
+        "x",
+        "x",
+        "r",
+        "r"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Empty the Warrens": {
+      "number": "43",
+      "cost": [
+        "3",
+        "r"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Jeska's Will": {
+      "number": "44",
+      "cost": [
+        "2",
+        "r"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Monstrous Rage": {
+      "number": "45",
+      "cost": [
+        "r"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Pyretic Ritual": {
+      "number": "46",
+      "cost": [
+        "1",
+        "r"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Return the Favor": {
+      "number": "47",
+      "cost": [
+        "r",
+        "r"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Subterranean Tremors": {
+      "number": "48",
+      "cost": [
+        "x",
+        "r"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Awaken the Woods": {
+      "number": "49",
+      "cost": [
+        "x",
+        "g",
+        "g"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Berserk": {
+      "number": "50",
+      "cost": [
+        "g"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Crop Rotation": {
+      "number": "51",
+      "cost": [
+        "g"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Giant Growth": {
+      "number": "52",
+      "cost": [
+        "g"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Glimpse of Nature": {
+      "number": "53",
+      "cost": [
+        "g"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Knockout Maneuver": {
+      "number": "54",
+      "cost": [
+        "2",
+        "g"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Pick Your Poison": {
+      "number": "55",
+      "cost": [
+        "g"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Royal Treatment": {
+      "number": "56",
+      "cost": [
+        "g"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Shamanic Revelation": {
+      "number": "57",
+      "cost": [
+        "3",
+        "g",
+        "g"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Shared Roots": {
+      "number": "58",
+      "cost": [
+        "1",
+        "g"
+      ],
+      "rarity": "u",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Triumph of the Hordes": {
+      "number": "59",
+      "cost": [
+        "2",
+        "g",
+        "g"
+      ],
+      "rarity": "m",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Veil of Summer": {
+      "number": "60",
+      "cost": [
+        "g"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Bring to Light": {
+      "number": "61",
+      "cost": [
+        "3",
+        "g",
+        "u"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Culling Ritual": {
+      "number": "62",
+      "cost": [
+        "2",
+        "b",
+        "g"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Deflecting Palm": {
+      "number": "63",
+      "cost": [
+        "r",
+        "w"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Expressive Iteration": {
+      "number": "64",
+      "cost": [
+        "u",
+        "r"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    },
+    "Fracture": {
+      "number": "65",
+      "cost": [
+        "w",
+        "b"
+      ],
+      "rarity": "r",
+      "categories": [
+        "spell"
+      ]
+    }
+  }
+}

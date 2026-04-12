@@ -1,0 +1,1866 @@
+{
+  "code": "sos",
+  "formatName": "Secrets of Strixhaven",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "includeFormats": [
+    { "code": "soa" },
+    { "code": "spg", "min": 149, "max": 158 }
+  ],
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "The Dawning Archaic": {
+      "number": "1",
+      "cost": ["10"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rancorous Archaic": {
+      "number": "2",
+      "cost": ["5"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sundering Archaic": {
+      "number": "3",
+      "cost": ["6"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Together as One": {
+      "number": "4",
+      "cost": ["6"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Transcendent Archaic": {
+      "number": "5",
+      "cost": ["7"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ajani's Response": {
+      "number": "6",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Antiquities on the Loose": {
+      "number": "7",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ascendant Dustspeaker": {
+      "number": "8",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Daydream": {
+      "number": "9",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dig Site Inventory": {
+      "number": "10",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Eager Glyphmage": {
+      "number": "11",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Elite Interceptor (Elite Interceptor // Rejoinder)": {
+      "number": "12",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rejoinder (Elite Interceptor // Rejoinder)": {
+      "number": "12",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Emeritus of Truce (Emeritus of Truce // Swords to Plowshares)": {
+      "number": "13",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Swords to Plowshares (Emeritus of Truce // Swords to Plowshares)": {
+      "number": "13",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Ennis, Debate Moderator": {
+      "number": "14",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Erode": {
+      "number": "15",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Graduation Day": {
+      "number": "16",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Group Project": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Harsh Annotation": {
+      "number": "18",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Honorbound Page (Honorbound Page // Forum's Favor)": {
+      "number": "19",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Forum's Favor (Honorbound Page // Forum's Favor)": {
+      "number": "19",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Informed Inkwright": {
+      "number": "20",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Inkshape Demonstrator": {
+      "number": "21",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Interjection": {
+      "number": "22",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Joined Researchers (Joined Researchers // Secret Rendezvous)": {
+      "number": "23",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Secret Rendezvous (Joined Researchers // Secret Rendezvous)": {
+      "number": "23",
+      "cost": ["1", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Owlin Historian": {
+      "number": "24",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Practiced Offense": {
+      "number": "25",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Primary Research": {
+      "number": "26",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Quill-Blade Laureate (Quill-Blade Laureate // Twofold Intent)": {
+      "number": "27",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Twofold Intent (Quill-Blade Laureate // Twofold Intent)": {
+      "number": "27",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Rapier Wit": {
+      "number": "28",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rehearsed Debater": {
+      "number": "29",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Restoration Seminar": {
+      "number": "30",
+      "cost": ["5", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shattered Acolyte": {
+      "number": "31",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Soaring Stoneglider": {
+      "number": "32",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spiritcall Enthusiast (Spiritcall Enthusiast // Scrollboost)": {
+      "number": "33",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Scrollboost (Spiritcall Enthusiast // Scrollboost)": {
+      "number": "33",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Stand Up for Yourself": {
+      "number": "34",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stirring Hopesinger": {
+      "number": "35",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Stone Docent": {
+      "number": "36",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Summoned Dromedary": {
+      "number": "37",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Banishing Betrayal": {
+      "number": "38",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Brush Off": {
+      "number": "39",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Campus Composer (Campus Composer // Aqueous Aria)": {
+      "number": "40",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aqueous Aria (Campus Composer // Aqueous Aria)": {
+      "number": "40",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Chase Inspiration": {
+      "number": "41",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Deluge Virtuoso": {
+      "number": "42",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Divergent Equation": {
+      "number": "43",
+      "cost": ["x", "x", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Echocasting Symposium": {
+      "number": "44",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Emeritus of Ideation (Emeritus of Ideation // Ancestral Recall)": {
+      "number": "45",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ancestral Recall (Emeritus of Ideation // Ancestral Recall)": {
+      "number": "45",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Encouraging Aviator (Encouraging Aviator // Jump)": {
+      "number": "46",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jump (Encouraging Aviator // Jump)": {
+      "number": "46",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Essence Scatter": {
+      "number": "47",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Exhibition Tidecaller": {
+      "number": "48",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Flow State": {
+      "number": "49",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fractal Anomaly": {
+      "number": "50",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fractalize": {
+      "number": "51",
+      "cost": ["x", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Harmonized Trio (Harmonized Trio // Brainstorm)": {
+      "number": "52",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Brainstorm (Harmonized Trio // Brainstorm)": {
+      "number": "52",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Homesickness": {
+      "number": "53",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hydro-Channeler": {
+      "number": "54",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jadzi, Steward of Fate (Jadzi, Steward of Fate // Oracle's Gift)": {
+      "number": "55",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Oracle's Gift (Jadzi, Steward of Fate // Oracle's Gift)": {
+      "number": "55",
+      "cost": ["x", "x", "u"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Landscape Painter (Landscape Painter // Vibrant Idea)": {
+      "number": "56",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vibrant Idea (Landscape Painter // Vibrant Idea)": {
+      "number": "56",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Mana Sculpt": {
+      "number": "57",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mathemagics": {
+      "number": "58",
+      "cost": ["x", "x", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Matterbending Mage": {
+      "number": "59",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Muse Seeker": {
+      "number": "60",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Muse's Encouragement": {
+      "number": "61",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Orysa, Tide Choreographer": {
+      "number": "62",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pensive Professor": {
+      "number": "63",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Procrastinate": {
+      "number": "64",
+      "cost": ["x", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quick Study": {
+      "number": "65",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Run Behind": {
+      "number": "66",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Skycoach Conductor (Skycoach Conductor // All Aboard)": {
+      "number": "67",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "All Aboard (Skycoach Conductor // All Aboard)": {
+      "number": "67",
+      "cost": ["u"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Spellbook Seeker (Spellbook Seeker // Careful Study)": {
+      "number": "68",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Careful Study (Spellbook Seeker // Careful Study)": {
+      "number": "68",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Tester of the Tangential": {
+      "number": "69",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Textbook Tabulator": {
+      "number": "70",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wisdom of Ages": {
+      "number": "71",
+      "cost": ["4", "u", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Adventurous Eater (Adventurous Eater // Have a Bite)": {
+      "number": "72",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Have a Bite (Adventurous Eater // Have a Bite)": {
+      "number": "72",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Arcane Omens": {
+      "number": "73",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Arnyn, Deathbloom Botanist": {
+      "number": "74",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Burrog Banemaker": {
+      "number": "75",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cheerful Osteomancer (Cheerful Osteomancer // Raise Dead)": {
+      "number": "76",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Raise Dead (Cheerful Osteomancer // Raise Dead)": {
+      "number": "76",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Cost of Brilliance": {
+      "number": "77",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Decorum Dissertation": {
+      "number": "78",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dissection Practice": {
+      "number": "79",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Emeritus of Woe (Emeritus of Woe // Demonic Tutor)": {
+      "number": "80",
+      "cost": ["3", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Demonic Tutor (Emeritus of Woe // Demonic Tutor)": {
+      "number": "80",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "End of the Hunt": {
+      "number": "81",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Eternal Student": {
+      "number": "82",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Foolish Fate": {
+      "number": "83",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Forum Necroscribe": {
+      "number": "84",
+      "cost": ["5", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Grave Researcher (Grave Researcher // Reanimate)": {
+      "number": "85",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Reanimate (Grave Researcher // Reanimate)": {
+      "number": "85",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Last Gasp": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Lecturing Scornmage": {
+      "number": "87",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Leech Collector (Leech Collector // Bloodletting)": {
+      "number": "88",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bloodletting (Leech Collector // Bloodletting)": {
+      "number": "88",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Masterful Flourish": {
+      "number": "89",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Melancholic Poet": {
+      "number": "90",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Moseo, Vein's New Dean": {
+      "number": "91",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Poisoner's Apprentice": {
+      "number": "92",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Postmortem Professor": {
+      "number": "93",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pox Plague": {
+      "number": "94",
+      "cost": ["b", "b", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pull from the Grave": {
+      "number": "95",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rabid Attack": {
+      "number": "96",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ral Zarek, Guest Lecturer": {
+      "number": "97",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Scathing Shadelock (Scathing Shadelock // Venomous Words)": {
+      "number": "98",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Venomous Words (Scathing Shadelock // Venomous Words)": {
+      "number": "98",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Scheming Silvertongue (Scheming Silvertongue // Sign in Blood)": {
+      "number": "99",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sign in Blood (Scheming Silvertongue // Sign in Blood)": {
+      "number": "99",
+      "cost": ["b", "b"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Send in the Pest": {
+      "number": "100",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Sneering Shadewriter": {
+      "number": "101",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tragedy Feaster": {
+      "number": "102",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ulna Alley Shopkeep": {
+      "number": "103",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wander Off": {
+      "number": "104",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Withering Curse": {
+      "number": "105",
+      "cost": ["1", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ancestral Anger": {
+      "number": "106",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Archaic's Agony": {
+      "number": "107",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Artistic Process": {
+      "number": "108",
+      "cost": ["3", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Blazing Firesinger (Blazing Firesinger // Seething Song)": {
+      "number": "109",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Seething Song (Blazing Firesinger // Seething Song)": {
+      "number": "109",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Charging Strifeknight": {
+      "number": "110",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Choreographed Sparks": {
+      "number": "111",
+      "cost": ["r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Duel Tactics": {
+      "number": "112",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Emeritus of Conflict (Emeritus of Conflict // Lightning Bolt)": {
+      "number": "113",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lightning Bolt (Emeritus of Conflict // Lightning Bolt)": {
+      "number": "113",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Expressive Firedancer": {
+      "number": "114",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Flashback": {
+      "number": "115",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Garrison Excavator": {
+      "number": "116",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Goblin Glasswright (Goblin Glasswright // Craft with Pride)": {
+      "number": "117",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Craft with Pride (Goblin Glasswright // Craft with Pride)": {
+      "number": "117",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Heated Argument": {
+      "number": "118",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Impractical Joke": {
+      "number": "119",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Improvisation Capstone": {
+      "number": "120",
+      "cost": ["5", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Living History": {
+      "number": "121",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Maelstrom Artisan (Maelstrom Artisan // Rocket Volley)": {
+      "number": "122",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rocket Volley (Maelstrom Artisan // Rocket Volley)": {
+      "number": "122",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Magmablood Archaic": {
+      "number": "123",
+      "cost": ["2r", "2r", "2r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mica, Reader of Ruins": {
+      "number": "124",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Molten-Core Maestro": {
+      "number": "125",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pigment Wrangler (Pigment Wrangler // Striking Palette)": {
+      "number": "126",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Striking Palette (Pigment Wrangler // Striking Palette)": {
+      "number": "126",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Rearing Embermare": {
+      "number": "127",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rubble Rouser": {
+      "number": "128",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Seize the Spoils": {
+      "number": "129",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Steal the Show": {
+      "number": "130",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Strife Scholar (Strife Scholar // Awaken the Ages)": {
+      "number": "131",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Awaken the Ages (Strife Scholar // Awaken the Ages)": {
+      "number": "131",
+      "cost": ["5", "r"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Tablet of Discovery": {
+      "number": "132",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tackle Artist": {
+      "number": "133",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Thunderdrum Soloist": {
+      "number": "134",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tome Blast": {
+      "number": "135",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Unsubtle Mockery": {
+      "number": "136",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Zealous Lorecaster": {
+      "number": "137",
+      "cost": ["5", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Aberrant Manawurm": {
+      "number": "138",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Additive Evolution": {
+      "number": "139",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ambitious Augmenter": {
+      "number": "140",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Burrog Barrage": {
+      "number": "141",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Chelonian Tackle": {
+      "number": "142",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Comforting Counsel": {
+      "number": "143",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Efflorescence": {
+      "number": "144",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Emeritus of Abundance (Emeritus of Abundance // Regrowth)": {
+      "number": "145",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Regrowth (Emeritus of Abundance // Regrowth)": {
+      "number": "145",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Emil, Vastlands Roamer": {
+      "number": "146",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Environmental Scientist": {
+      "number": "147",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Follow the Lumarets": {
+      "number": "148",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Germination Practicum": {
+      "number": "149",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Glorious Decay": {
+      "number": "150",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hungry Graffalon": {
+      "number": "151",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Infirmary Healer (Infirmary Healer // Stream of Life)": {
+      "number": "152",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stream of Life (Infirmary Healer // Stream of Life)": {
+      "number": "152",
+      "cost": ["x", "g"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Lumaret's Favor": {
+      "number": "153",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mindful Biomancer": {
+      "number": "154",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Noxious Newt": {
+      "number": "155",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Oracle's Restoration": {
+      "number": "156",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Pestbrood Sloth": {
+      "number": "157",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Planar Engineering": {
+      "number": "158",
+      "cost": ["3", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shopkeeper's Bane": {
+      "number": "159",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Slumbering Trudge": {
+      "number": "160",
+      "cost": ["x", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Snarl Song": {
+      "number": "161",
+      "cost": ["5", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Studious First-Year (Studious First-Year // Rampant Growth)": {
+      "number": "162",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rampant Growth (Studious First-Year // Rampant Growth)": {
+      "number": "162",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Tenured Concocter": {
+      "number": "163",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Thornfist Striker": {
+      "number": "164",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Topiary Lecturer": {
+      "number": "165",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vastlands Scavenger (Vastlands Scavenger // Bind to Life)": {
+      "number": "166",
+      "cost": ["1", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bind to Life (Vastlands Scavenger // Bind to Life)": {
+      "number": "166",
+      "cost": ["4", "g"],
+      "rarity": "r",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Wild Hypothesis": {
+      "number": "167",
+      "cost": ["x", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wildgrowth Archaic": {
+      "number": "168",
+      "cost": ["2g", "2g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Zimone's Experiment": {
+      "number": "169",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Abigale, Poet Laureate (Abigale, Poet Laureate // Heroic Stanza)": {
+      "number": "170",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Heroic Stanza (Abigale, Poet Laureate // Heroic Stanza)": {
+      "number": "170",
+      "cost": ["1", "wb"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Abstract Paintmage": {
+      "number": "171",
+      "cost": ["u", "ur", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Applied Geometry": {
+      "number": "172",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ark of Hunger": {
+      "number": "173",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Aziza, Mage Tower Captain": {
+      "number": "174",
+      "cost": ["r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Berta, Wise Extrapolator": {
+      "number": "175",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Blech, Loafing Pest": {
+      "number": "176",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bogwater Lumaret": {
+      "number": "177",
+      "cost": ["b", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Borrowed Knowledge": {
+      "number": "178",
+      "cost": ["2", "r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cauldron of Essence": {
+      "number": "179",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Colorstorm Stallion": {
+      "number": "180",
+      "cost": ["1", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Colossus of the Blood Age": {
+      "number": "181",
+      "cost": ["4", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Conciliator's Duelist": {
+      "number": "182",
+      "cost": ["w", "w", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cuboid Colony": {
+      "number": "183",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dina's Guidance": {
+      "number": "184",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elemental Mascot": {
+      "number": "185",
+      "cost": ["1", "u", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Embrace the Paradox": {
+      "number": "186",
+      "cost": ["3", "g", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Essenceknit Scholar": {
+      "number": "187",
+      "cost": ["b", "bg", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Fix What's Broken": {
+      "number": "188",
+      "cost": ["2", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Fractal Mascot": {
+      "number": "189",
+      "cost": ["4", "g", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fractal Tender": {
+      "number": "190",
+      "cost": ["3", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Geometer's Arthropod": {
+      "number": "191",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Grapple with Death": {
+      "number": "192",
+      "cost": ["1", "b", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Growth Curve": {
+      "number": "193",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hardened Academic": {
+      "number": "194",
+      "cost": ["r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Imperious Inkmage": {
+      "number": "195",
+      "cost": ["1", "w", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Inkling Mascot": {
+      "number": "196",
+      "cost": ["w", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Killian's Confidence": {
+      "number": "197",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kirol, History Buff (Kirol, History Buff // Pack a Punch)": {
+      "number": "198",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pack a Punch (Kirol, History Buff // Pack a Punch)": {
+      "number": "198",
+      "cost": ["1", "r", "w"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Lluwen, Exchange Student (Lluwen, Exchange Student // Pest Friend)": {
+      "number": "199",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pest Friend (Lluwen, Exchange Student // Pest Friend)": {
+      "number": "199",
+      "cost": ["bg"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Lorehold Charm": {
+      "number": "200",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Lorehold, the Historian": {
+      "number": "201",
+      "cost": ["3", "r", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Mind into Matter": {
+      "number": "202",
+      "cost": ["x", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Mind Roots": {
+      "number": "203",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Molten Note": {
+      "number": "204",
+      "cost": ["x", "r", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Moment of Reckoning": {
+      "number": "205",
+      "cost": ["3", "w", "w", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nita, Forum Conciliator": {
+      "number": "206",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Old-Growth Educator": {
+      "number": "207",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Paradox Surveyor": {
+      "number": "208",
+      "cost": ["g", "gu", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Pest Mascot": {
+      "number": "209",
+      "cost": ["1", "b", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Practiced Scrollsmith": {
+      "number": "210",
+      "cost": ["r", "rw", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Prismari Charm": {
+      "number": "211",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Prismari, the Inspiration": {
+      "number": "212",
+      "cost": ["5", "u", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Proctor's Gaze": {
+      "number": "213",
+      "cost": ["2", "g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Professor Dellian Fel": {
+      "number": "214",
+      "cost": ["2", "b", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Pterafractyl": {
+      "number": "215",
+      "cost": ["x", "g", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pursue the Past": {
+      "number": "216",
+      "cost": ["r", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quandrix Charm": {
+      "number": "217",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Quandrix, the Proof": {
+      "number": "218",
+      "cost": ["4", "g", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Rapturous Moment": {
+      "number": "219",
+      "cost": ["4", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Render Speechless": {
+      "number": "220",
+      "cost": ["2", "w", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Resonating Lute": {
+      "number": "221",
+      "cost": ["2", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Root Manipulation": {
+      "number": "222",
+      "cost": ["3", "b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sanar, Unfinished Genius (Sanar, Unfinished Genius // Wild Idea)": {
+      "number": "223",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Wild Idea (Sanar, Unfinished Genius // Wild Idea)": {
+      "number": "223",
+      "cost": ["3", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Scolding Administrator": {
+      "number": "224",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Silverquill Charm": {
+      "number": "225",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Silverquill, the Disputant": {
+      "number": "226",
+      "cost": ["2", "w", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Snooping Page": {
+      "number": "227",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Social Snub": {
+      "number": "228",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Spectacular Skywhale": {
+      "number": "229",
+      "cost": ["2", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spirit Mascot": {
+      "number": "230",
+      "cost": ["r", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Splatter Technique": {
+      "number": "231",
+      "cost": ["1", "u", "u", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Stadium Tidalmage": {
+      "number": "232",
+      "cost": ["2", "u", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Startled Relic Sloth": {
+      "number": "233",
+      "cost": ["2", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stirring Honormancer": {
+      "number": "234",
+      "cost": ["2", "w", "wb", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stress Dream": {
+      "number": "235",
+      "cost": ["3", "u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Suspend Aggression": {
+      "number": "236",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Tam, Observant Sequencer (Tam, Observant Sequencer // Deep Sight)": {
+      "number": "237",
+      "cost": ["2", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deep Sight (Tam, Observant Sequencer // Deep Sight)": {
+      "number": "237",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["spell"],
+      "isTransformed": true
+    },
+    "Teacher's Pest": {
+      "number": "238",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Traumatic Critique": {
+      "number": "239",
+      "cost": ["x", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Vibrant Outburst": {
+      "number": "240",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vicious Rivalry": {
+      "number": "241",
+      "cost": ["2", "b", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Visionary's Dance": {
+      "number": "242",
+      "cost": ["5", "u", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wilt in the Heat": {
+      "number": "243",
+      "cost": ["2", "r", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Witherbloom Charm": {
+      "number": "244",
+      "cost": ["b", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Witherbloom, the Balancer": {
+      "number": "245",
+      "cost": ["6", "b", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Zaffai and the Tempests": {
+      "number": "246",
+      "cost": ["5", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Biblioplex Tomekeeper": {
+      "number": "247",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Diary of Dreams": {
+      "number": "248",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Mage Tower Referee": {
+      "number": "249",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Page, Loose Leaf": {
+      "number": "250",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Potioner's Trove": {
+      "number": "251",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Strixhaven Skycoach": {
+      "number": "252",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Deathcap Glade": {
+      "number": "253",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Dreamroot Cascade": {
+      "number": "254",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Fields of Strife": {
+      "number": "255",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Forum of Amity": {
+      "number": "256",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Great Hall of the Biblioplex": {
+      "number": "257",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Paradox Gardens": {
+      "number": "258",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Petrified Hamlet": {
+      "number": "259",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Shattered Sanctum": {
+      "number": "260",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Skycoach Waypoint": {
+      "number": "261",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Spectacle Summit": {
+      "number": "262",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Stormcarved Coast": {
+      "number": "263",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Sundown Pass": {
+      "number": "264",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Terramorphic Expanse": {
+      "number": "265",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Titan's Grave": {
+      "number": "266",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    }
+  }
+}

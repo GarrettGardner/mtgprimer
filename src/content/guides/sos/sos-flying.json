@@ -1,0 +1,194 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Abigale, Poet Laureate (Abigale, Poet Laureate // Heroic Stanza)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aqueous Aria (Campus Composer // Aqueous Aria)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Artistic Process": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ascendant Dustspeaker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Cuboid Colony": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Eager Glyphmage": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Elemental Mascot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Emeritus of Ideation (Emeritus of Ideation // Ancestral Recall)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Emeritus of Truce (Emeritus of Truce // Swords to Plowshares)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Encouraging Aviator (Encouraging Aviator // Jump)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Eternal Student": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Forum's Favor (Honorbound Page // Forum's Favor)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Glorious Decay": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hardened Academic": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Harsh Annotation": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Informed Inkwright": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Inkling Mascot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Jump (Encouraging Aviator // Jump)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lorehold, the Historian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Moseo, Vein's New Dean": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Muse's Encouragement": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Owlin Historian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pigment Wrangler (Pigment Wrangler // Striking Palette)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Prismari, the Inspiration": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pterafractyl": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Quandrix, the Proof": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Scheming Silvertongue (Scheming Silvertongue // Sign in Blood)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Silverquill, the Disputant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skycoach Conductor (Skycoach Conductor // All Aboard)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sneering Shadewriter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Soaring Stoneglider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Spectacular Skywhale": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Spellbook Seeker (Spellbook Seeker // Careful Study)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Stirring Hopesinger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Strixhaven Skycoach": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Visionary's Dance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Witherbloom, the Balancer": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

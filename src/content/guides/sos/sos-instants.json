@@ -1,0 +1,178 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Ajani's Response": {
+      "categories": ["board"]
+    },
+    "All Aboard (Skycoach Conductor // All Aboard)": {
+      "categories": ["board"]
+    },
+    "Ancestral Recall (Emeritus of Ideation // Ancestral Recall)": {
+      "categories": ["other"]
+    },
+    "Banishing Betrayal": {
+      "categories": ["board"]
+    },
+    "Bind to Life (Vastlands Scavenger // Bind to Life)": {
+      "categories": ["board"]
+    },
+    "Brainstorm (Harmonized Trio // Brainstorm)": {
+      "categories": ["other"]
+    },
+    "Brush Off": {
+      "categories": ["counterspell"]
+    },
+    "Burrog Barrage": {
+      "categories": ["board"]
+    },
+    "Chase Inspiration": {
+      "categories": ["board"]
+    },
+    "Choreographed Sparks": {
+      "categories": ["board"]
+    },
+    "Cuboid Colony": {
+      "categories": ["board"]
+    },
+    "Dina's Guidance": {
+      "categories": ["board"]
+    },
+    "Dissection Practice": {
+      "categories": ["board"]
+    },
+    "Divergent Equation": {
+      "categories": ["other"]
+    },
+    "Efflorescence": {
+      "categories": ["board"]
+    },
+    "Embrace the Paradox": {
+      "categories": ["other"]
+    },
+    "Erode": {
+      "categories": ["board"]
+    },
+    "Essence Scatter": {
+      "categories": ["counterspell"]
+    },
+    "Flashback": {
+      "categories": ["board"]
+    },
+    "Foolish Fate": {
+      "categories": ["board"]
+    },
+    "Fractal Anomaly": {
+      "categories": ["board"]
+    },
+    "Fractalize": {
+      "categories": ["board"]
+    },
+    "Glorious Decay": {
+      "categories": ["board"]
+    },
+    "Harsh Annotation": {
+      "categories": ["board"]
+    },
+    "Heated Argument": {
+      "categories": ["board"]
+    },
+    "Homesickness": {
+      "categories": ["board"]
+    },
+    "Interjection": {
+      "categories": ["board"]
+    },
+    "Jump (Encouraging Aviator // Jump)": {
+      "categories": ["board"]
+    },
+    "Last Gasp": {
+      "categories": ["board"]
+    },
+    "Lightning Bolt (Emeritus of Conflict // Lightning Bolt)": {
+      "categories": ["board"]
+    },
+    "Lorehold Charm": {
+      "categories": ["board"]
+    },
+    "Lumaret's Favor": {
+      "categories": ["board"]
+    },
+    "Mana Sculpt": {
+      "categories": ["counterspell"]
+    },
+    "Masterful Flourish": {
+      "categories": ["board"]
+    },
+    "Muse's Encouragement": {
+      "categories": ["board"]
+    },
+    "Prismari Charm": {
+      "categories": ["board"]
+    },
+    "Proctor's Gaze": {
+      "categories": ["board"]
+    },
+    "Quandrix Charm": {
+      "categories": ["counterspell", "board"]
+    },
+    "Quick Study": {
+      "categories": ["other"]
+    },
+    "Rabid Attack": {
+      "categories": ["board"]
+    },
+    "Rapier Wit": {
+      "categories": ["board"]
+    },
+    "Run Behind": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "Seething Song (Blazing Firesinger // Seething Song)": {
+      "categories": ["other"]
+    },
+    "Silverquill Charm": {
+      "categories": ["board"]
+    },
+    "Skycoach Conductor (Skycoach Conductor // All Aboard)": {
+      "categories": ["board"]
+    },
+    "Stand Up for Yourself": {
+      "categories": ["board"]
+    },
+    "Stress Dream": {
+      "categories": ["board"]
+    },
+    "Suspend Aggression": {
+      "categories": ["board"]
+    },
+    "Swords to Plowshares (Emeritus of Truce // Swords to Plowshares)": {
+      "categories": ["board"]
+    },
+    "Traumatic Critique": {
+      "categories": ["board"]
+    },
+    "Unsubtle Mockery": {
+      "categories": ["board"]
+    },
+    "Vibrant Outburst": {
+      "categories": ["board"]
+    },
+    "Wander Off": {
+      "categories": ["board"]
+    },
+    "Wilt in the Heat": {
+      "categories": ["board"]
+    },
+    "Witherbloom Charm": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Berserk": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Monstrous Rage": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Triumph of the Hordes": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}
