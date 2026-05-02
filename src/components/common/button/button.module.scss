@@ -72,6 +72,7 @@
     border-radius: rem-convert(20px);
     font-size: rem-convert(20px);
     padding: rem-convert(16px) rem-convert(32px);
+    margin-right: rem-convert(8px);
 
     @include breakpoint("desktop") {
       border-radius: rem-convert(40px);
