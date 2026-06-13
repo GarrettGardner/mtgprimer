@@ -1,0 +1,179 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "A.I.M. Labs": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ant-Man's Army": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Asgardian Citadel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Avengers Hangar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Birnin Zana Plaza": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Brave Brawler": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Captain Marvel, Earth's Protector": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cloak and Dagger, Entwined": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Crowd of True Believers": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cruel Alliance": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Doom Reigns Supreme": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Fisk Tower": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "HYDRA Infiltration": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hell's Kitchen": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hero in Training": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Heroic Feast": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Invisible Woman, Sue Storm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kang, Temporal Tyrant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kingpin's Enforcers": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Los Diablos Missile Base": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "M.O.D.O.K.": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Night Nurse, Healer of Heroes": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Pym Technologies": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rapid Rescue": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Restorative Technique": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Stark Industries": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Subterranean Cavern": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Super-Adaptoid": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Take Up the Shield": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thanos, the Mad Titan": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Kingpin of Crime": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tigra, Feline Fury": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Whiplash, Vengeful Engineer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Yellowjacket, Heartless Marauder": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

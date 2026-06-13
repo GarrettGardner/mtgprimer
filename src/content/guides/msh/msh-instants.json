@@ -1,0 +1,138 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Avengers Assemble!": {
+      "categories": ["board"]
+    },
+    "Black Panther, Hope Enduring (King T'Challa // Black Panther, Hope Enduring)": {
+      "categories": ["board"]
+    },
+    "Blazing Crescendo": {
+      "categories": ["board"]
+    },
+    "Captain Mar-Vell, Space-Born": {
+      "categories": ["board"]
+    },
+    "Captain Marvel, Earth's Protector": {
+      "categories": ["board"]
+    },
+    "Dark Deed": {
+      "categories": ["board"]
+    },
+    "Decoy Ploy": {
+      "categories": ["other"]
+    },
+    "Depower": {
+      "categories": ["board"],
+      "cost": ["u"]
+    },
+    "Ghost, Spectral Saboteur": {
+      "categories": ["board"]
+    },
+    "Giant Growth": {
+      "categories": ["board"]
+    },
+    "Giant-Sized Flying Ant": {
+      "categories": ["board"]
+    },
+    "HULK SMASH!": {
+      "categories": ["board"]
+    },
+    "Helicarrier Strike": {
+      "categories": ["board"]
+    },
+    "Hire a Crew": {
+      "categories": ["board"]
+    },
+    "Hour of Defeat": {
+      "categories": ["board"]
+    },
+    "I Am Iron Man": {
+      "categories": ["board"]
+    },
+    "King T'Challa (King T'Challa // Black Panther, Hope Enduring)": {
+      "categories": ["board"]
+    },
+    "Lightning Strike": {
+      "categories": ["board"]
+    },
+    "Night Nurse, Healer of Heroes": {
+      "categories": ["board"]
+    },
+    "Panther Pounce": {
+      "categories": ["board"]
+    },
+    "Punishing Punch": {
+      "categories": ["other"]
+    },
+    "Rapid Rescue": {
+      "categories": ["other"]
+    },
+    "Red Guardian, Super-Soldier": {
+      "categories": ["board"]
+    },
+    "S.H.I.E.L.D. Flying Car": {
+      "categories": ["board"]
+    },
+    "Spider-Man, To the Rescue": {
+      "categories": ["board"]
+    },
+    "Spider-Woman, Secret Agent": {
+      "categories": ["board"]
+    },
+    "Stolen Stark Tech": {
+      "categories": ["board"]
+    },
+    "Super Speed": {
+      "categories": ["board"]
+    },
+    "Super Suit": {
+      "categories": ["board"]
+    },
+    "Super Villain Lockup": {
+      "categories": ["board"]
+    },
+    "Take Up the Shield": {
+      "categories": ["board"]
+    },
+    "Team Tactics": {
+      "categories": ["board"]
+    },
+    "The Wondrous Wasp": {
+      "categories": ["board"]
+    },
+    "Thirst for Knowledge": {
+      "categories": ["other"]
+    },
+    "Thunderbolts Conspiracy": {
+      "categories": ["board"]
+    },
+    "Tigra, Feline Fury": {
+      "categories": ["board"]
+    },
+    "Truck Toss": {
+      "categories": ["board"],
+      "cost": ["r", "r"]
+    },
+    "Vision of Love": {
+      "categories": ["other"]
+    },
+    "Visions of Villainy": {
+      "categories": ["other"],
+      "cost": ["1", "b"]
+    },
+    "We Say Thee Nay!": {
+      "categories": ["counterspell"]
+    },
+    "Widow's Bite": {
+      "categories": ["board"]
+    }
+  }
+}

@@ -25,6 +25,29 @@ export const PAGES_CONFIG: TPageConfig = {
       backgroundCaption: "Jeff Miracola",
     },
     {
+      slug: "marvel-super-heroes",
+      template: "info",
+      preset: "info",
+      formatCode: "msh",
+      releaseDate: "June 26, 2026",
+      backgroundImage: "msh-doom-reigns-supreme-alexander-gering",
+      backgroundCaption: "Alexander Gering",
+      pages: [
+        {
+          slug: "instants",
+          template: "guide",
+          preset: "guide-instants",
+          guide: "instants",
+        },
+        {
+          slug: "gallery",
+          template: "guide",
+          preset: "guide-gallery",
+          guide: "gallery",
+        },
+      ],
+    },
+    {
       slug: "secrets-of-strixhaven",
       template: "info",
       preset: "info",

@@ -1,0 +1,79 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Alien Invasion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Daredevil, Man Without Fear": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Evil's Thrall": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hellcat, Undying Vigilante": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hercules, Prince of Power": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Quicksilver, Brash Blur": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shang-Chi, Master of Kung Fu": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Speed, Young Avenger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Super Speed": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Super-Adaptoid": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Invincible Iron Man (Tony Stark // The Invincible Iron Man)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Vision Quest": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Volcanic Villain": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wolverine, Fierce Fighter": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

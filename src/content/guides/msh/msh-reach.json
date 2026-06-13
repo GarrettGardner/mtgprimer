@@ -1,0 +1,89 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Guerrilla Gorilla": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hawkeye's Bow": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Hawkeye, Master Marksman": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hawkeye, Young Avenger": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hulk, Gamma Goliath": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kree Sentinel": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mister Fantastic, Reed Richards": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ms. Marvel, Kamala Khan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pet Avengers": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Red Hulk": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Reptil, Dinomorpher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "She-Hulk, Jade Defender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Spider-Man, To the Rescue": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Super-Adaptoid": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Incredible Hulk (Bruce Banner // The Incredible Hulk)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Sensational She-Hulk (Jennifer Walters // The Sensational She-Hulk)": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

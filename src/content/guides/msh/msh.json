@@ -1,0 +1,1715 @@
+{
+  "code": "msh",
+  "formatName": "Marvel Super Heroes",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Agent 13, Sharon Carter": {
+      "number": "1",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Agent Maria Hill": {
+      "number": "2",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Agent of Atlas": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Agent Phil Coulson": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Agents of S.H.I.E.L.D.": {
+      "number": "5",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Avengers Assemble!": {
+      "number": "6",
+      "cost": ["4", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Borough Backup": {
+      "number": "7",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Brave Brawler": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Captain America, Super-Soldier": {
+      "number": "9",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Captain America, Wings of Freedom": {
+      "number": "10",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Captain Marvel, Earth's Protector": {
+      "number": "11",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Captain Mar-Vell, Space-Born": {
+      "number": "12",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Colleen Wing, Street Samurai": {
+      "number": "13",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Crowd of True Believers": {
+      "number": "14",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Helicarrier Strike": {
+      "number": "15",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hero in Training": {
+      "number": "16",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Invisible Woman, Sue Storm": {
+      "number": "17",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jennifer Walters (Jennifer Walters // The Sensational She-Hulk)": {
+      "number": "18",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "The Sensational She-Hulk (Jennifer Walters // The Sensational She-Hulk)": {
+      "number": "18",
+      "cost": ["3", "g", "w", "w"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Kree Commandos": {
+      "number": "19",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Luke Cage, Power Man": {
+      "number": "20",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Mind Stone": {
+      "number": "21",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mockingbird, Ace Agent": {
+      "number": "22",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Monica Rambeau (Monica Rambeau // Photon, Living Light)": {
+      "number": "23",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Photon, Living Light (Monica Rambeau // Photon, Living Light)": {
+      "number": "23",
+      "cost": ["2", "r", "w", "w"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Murdock's Crusade": {
+      "number": "24",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Nick Fury, Agent of S.H.I.E.L.D.": {
+      "number": "25",
+      "cost": ["w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Night Nurse, Healer of Heroes": {
+      "number": "26",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Okoye, Dora Milaje Leader": {
+      "number": "27",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Origin of the Avengers": {
+      "number": "28",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Panther Pounce": {
+      "number": "29",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Patriot, Shield Wielder": {
+      "number": "30",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Political Triumph": {
+      "number": "31",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Quake, Agent of S.H.I.E.L.D.": {
+      "number": "32",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Raft Security Officer": {
+      "number": "33",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Red Guardian, Super-Soldier": {
+      "number": "34",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Sentry, Golden Guardian": {
+      "number": "35",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "S.H.I.E.L.D. Spy Kit": {
+      "number": "36",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Super Villain Lockup": {
+      "number": "37",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Super-Soldier Serum": {
+      "number": "38",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Take Up the Shield": {
+      "number": "39",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wakandan Drone Flock": {
+      "number": "40",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Web Up": {
+      "number": "41",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "White Widow, Free Agent": {
+      "number": "42",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Aerial Doombot": {
+      "number": "43",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "A.I.M. Scientists": {
+      "number": "44",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Atlantean Cavalry": {
+      "number": "45",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Atlantis Attacks": {
+      "number": "46",
+      "cost": ["5", "u", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Attuma, Atlantean Warlord": {
+      "number": "47",
+      "cost": ["2", "u", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bold Biochemist": {
+      "number": "48",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bruce Banner (Bruce Banner // The Incredible Hulk)": {
+      "number": "49",
+      "cost": ["u"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "The Incredible Hulk (Bruce Banner // The Incredible Hulk)": {
+      "number": "49",
+      "cost": ["2", "r", "r", "g", "g"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Depower": {
+      "number": "50",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Echo, Perceptive Prodigy": {
+      "number": "51",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Falcon, Winged Wonder": {
+      "number": "52",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Falcon's Wing Harness": {
+      "number": "53",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Frozen in Ice": {
+      "number": "54",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Futurist Forge": {
+      "number": "55",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Giant-Sized Flying Ant": {
+      "number": "56",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hydraulic Helper": {
+      "number": "57",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "I Am Iron Man": {
+      "number": "58",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Iron Lad, Diverging Destiny": {
+      "number": "59",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ironheart, Clever Champion": {
+      "number": "60",
+      "cost": ["4", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Justice, Vance Astrovik": {
+      "number": "61",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kang the Conqueror": {
+      "number": "62",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Kid Loki": {
+      "number": "63",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Leader, Super-Genius": {
+      "number": "64",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Loki, God of Mischief": {
+      "number": "65",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Mister Fantastic, Reed Richards": {
+      "number": "66",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ms. Marvel, Kamala Khan": {
+      "number": "67",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Multiversal Incursion": {
+      "number": "68",
+      "cost": ["5", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Namor the Sub-Mariner": {
+      "number": "69",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Pym Particles": {
+      "number": "70",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rewrite History": {
+      "number": "71",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Secret Invasion": {
+      "number": "72",
+      "cost": ["1", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "S.H.I.E.L.D. Deployment Drone": {
+      "number": "73",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "S.H.I.E.L.D. Flying Car": {
+      "number": "74",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Shuri, Wakandan Inventor": {
+      "number": "75",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stature, Size Shifter": {
+      "number": "76",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Super Intelligence": {
+      "number": "77",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Super Suit": {
+      "number": "78",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thirst for Knowledge": {
+      "number": "79",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tony Stark (Tony Stark // The Invincible Iron Man)": {
+      "number": "80",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "The Invincible Iron Man (Tony Stark // The Invincible Iron Man)": {
+      "number": "80",
+      "cost": ["4", "u", "r"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "Trickster's Stratagem": {
+      "number": "81",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "We Say Thee Nay!": {
+      "number": "82",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wiccan, Rising Magician": {
+      "number": "83",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Wondrous Wasp": {
+      "number": "84",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Agents of HYDRA": {
+      "number": "85",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Arnim Zola, Bio-Fanatic": {
+      "number": "86",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Baron Helmut Zemo": {
+      "number": "87",
+      "cost": ["b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Baron Strucker, HYDRA Overlord": {
+      "number": "88",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Black Widow, Super Spy": {
+      "number": "89",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Construct a Cosmic Cube": {
+      "number": "90",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Crossbones, Malicious Mercenary": {
+      "number": "91",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cruel Alliance": {
+      "number": "92",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dark Deed": {
+      "number": "93",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Decoy Ploy": {
+      "number": "94",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Doctor Doom": {
+      "number": "95",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Doom Reigns Supreme": {
+      "number": "96",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Elektra, Daughter of the Hand": {
+      "number": "97",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Grim Reaper, Lethal Legionnaire": {
+      "number": "98",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hour of Defeat": {
+      "number": "99",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "HYDRA Infiltration": {
+      "number": "100",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "HYDRA Troopers": {
+      "number": "101",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kingpin's Enforcers": {
+      "number": "102",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Klaw, Sonic Subjugator": {
+      "number": "103",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Madame Masque": {
+      "number": "104",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Masters of Evil": {
+      "number": "105",
+      "cost": ["5", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "M.O.D.O.K.": {
+      "number": "106",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Moonstone, Harsh Mistress": {
+      "number": "107",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ninja of the Hand": {
+      "number": "108",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Project Deathlok Soldier": {
+      "number": "109",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Red Room Recruit": {
+      "number": "110",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Robot Domination": {
+      "number": "111",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ronin, Shadow Stalker": {
+      "number": "112",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Roxxon Brutes": {
+      "number": "113",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Stolen Stark Tech": {
+      "number": "114",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Super-Skrull": {
+      "number": "115",
+      "cost": ["1", "b", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Swordsman, Sharp Scoundrel": {
+      "number": "116",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Thunderbolts Conspiracy": {
+      "number": "117",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Too Evil to Stay Dead": {
+      "number": "118",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Unliving Legionnaire": {
+      "number": "119",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Visions of Villainy": {
+      "number": "120",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Whiplash, Vengeful Engineer": {
+      "number": "121",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Widow's Bite": {
+      "number": "122",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Yellowjacket, Heartless Marauder": {
+      "number": "123",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Avengers Disassembled": {
+      "number": "124",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Blazing Crescendo": {
+      "number": "125",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Crimson Operative": {
+      "number": "126",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Death to Our Enemies": {
+      "number": "127",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Evil's Thrall": {
+      "number": "128",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Fin Fang Foom": {
+      "number": "129",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hawkeye, Master Marksman": {
+      "number": "130",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hawkeye, Young Avenger": {
+      "number": "131",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hawkeye's Bow": {
+      "number": "132",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hex Magic": {
+      "number": "133",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Hire a Crew": {
+      "number": "134",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "HULK SMASH!": {
+      "number": "135",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Human Torch, Johnny Storm": {
+      "number": "136",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "HYDRA Assault Robot": {
+      "number": "137",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Iron Fist, Living Weapon": {
+      "number": "138",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Jessica Jones, Private Eye": {
+      "number": "139",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "K'un-Lun Warrior": {
+      "number": "140",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Kree Sentinel": {
+      "number": "141",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lightning Strike": {
+      "number": "142",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Loki Laufeyson": {
+      "number": "143",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Machinesmith Automaton": {
+      "number": "144",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Misty Knight, Hero for Hire": {
+      "number": "145",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Mjölnir, Hammer of Thor": {
+      "number": "146",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Photon Blast Barrage": {
+      "number": "147",
+      "cost": ["x", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Quicksilver, Brash Blur": {
+      "number": "148",
+      "cost": ["r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Red Hulk": {
+      "number": "149",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Repulsor Blast": {
+      "number": "150",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Scarlet Witch": {
+      "number": "151",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Speed, Young Avenger": {
+      "number": "152",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stark Industries Executive": {
+      "number": "153",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Super Speed": {
+      "number": "154",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Team Tactics": {
+      "number": "155",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Thor, God of Thunder": {
+      "number": "156",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Truck Toss": {
+      "number": "157",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vision of Love": {
+      "number": "158",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Volcanic Villain": {
+      "number": "159",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wonder Man, Hollywood Hero": {
+      "number": "160",
+      "cost": ["3", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ant-Man's Army": {
+      "number": "161",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Call Damage Control": {
+      "number": "162",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Claim the Kingdom": {
+      "number": "163",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Doc Samson, Super Psychiatrist": {
+      "number": "164",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Earth's Mightiest Heroes": {
+      "number": "165",
+      "cost": ["4", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Epic Fight": {
+      "number": "166",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Giant Growth": {
+      "number": "167",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Go Nuts!": {
+      "number": "168",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Guerrilla Gorilla": {
+      "number": "169",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Hellcat, Undying Vigilante": {
+      "number": "170",
+      "cost": ["g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hercules, Prince of Power": {
+      "number": "171",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Heroic Feast": {
+      "number": "172",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Hulkling, Burgeoning Bruiser": {
+      "number": "173",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ka-Zar of the Savage Land": {
+      "number": "174",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Knight of Wundagore": {
+      "number": "175",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mister Hyde, Monster Within": {
+      "number": "176",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Mole Man, Moloid Master": {
+      "number": "177",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pet Avengers": {
+      "number": "178",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Powerful Broker": {
+      "number": "179",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Punishing Punch": {
+      "number": "180",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rapid Rescue": {
+      "number": "181",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Reptil, Dinomorpher": {
+      "number": "182",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Restorative Technique": {
+      "number": "183",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rick Jones, Destined Sidekick": {
+      "number": "184",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Savage Land Dinosaur": {
+      "number": "185",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Serpent Specialist": {
+      "number": "186",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Shang-Chi, Master of Kung Fu": {
+      "number": "187",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "She-Hulk, Jade Defender": {
+      "number": "188",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Super Strength": {
+      "number": "189",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Thing, Ben Grimm": {
+      "number": "190",
+      "cost": ["5", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tigra, Feline Fury": {
+      "number": "191",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Training Regimen": {
+      "number": "192",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Unbeatable Squirrel Girl": {
+      "number": "193",
+      "cost": ["1", "g", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Undercover Skrull": {
+      "number": "194",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Wakandan Royal Guard": {
+      "number": "195",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "White Tiger, Ava Ayala": {
+      "number": "196",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "World War Hulk": {
+      "number": "197",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Abomination, Terrifying Titan": {
+      "number": "198",
+      "cost": ["3", "rg"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Absorbing Man": {
+      "number": "199",
+      "cost": ["1", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Alien Invasion": {
+      "number": "200",
+      "cost": ["1", "r", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Ant-Man, Colony Commander": {
+      "number": "201",
+      "cost": ["1", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ares, God of War": {
+      "number": "202",
+      "cost": ["1", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Armor Wars": {
+      "number": "203",
+      "cost": ["2", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Astonishing Ant-Man": {
+      "number": "204",
+      "cost": ["g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Avengers: Under Siege": {
+      "number": "205",
+      "cost": ["2", "b", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Beast, Erudite Aerialist": {
+      "number": "206",
+      "cost": ["3", "gu"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Black Panther, Vanguard": {
+      "number": "207",
+      "cost": ["2", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Black Widow, Double Agent": {
+      "number": "208",
+      "cost": ["1", "w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bullseye, Death Dealer": {
+      "number": "209",
+      "cost": ["2", "br"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Captain America, Living Legend": {
+      "number": "210",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cloak and Dagger, Entwined": {
+      "number": "211",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Coming of Galactus": {
+      "number": "212",
+      "cost": ["2", "b", "b", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Daredevil, Man Without Fear": {
+      "number": "213",
+      "cost": ["2", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Ghost, Spectral Saboteur": {
+      "number": "214",
+      "cost": ["2", "ub"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hulk, Gamma Goliath": {
+      "number": "215",
+      "cost": ["3", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Iron Man, Master of Machines": {
+      "number": "216",
+      "cost": ["2", "u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kang, Temporal Tyrant": {
+      "number": "217",
+      "cost": ["2", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Killmonger, Scourge of Wakanda": {
+      "number": "218",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "King T'Challa (King T'Challa // Black Panther, Hope Enduring)": {
+      "number": "219",
+      "cost": ["1", "w", "u"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"]
+    },
+    "Black Panther, Hope Enduring (King T'Challa // Black Panther, Hope Enduring)": {
+      "number": "219",
+      "cost": ["4", "w", "u"],
+      "rarity": "m",
+      "layout": "modal_dfc",
+      "categories": ["creature"],
+      "isTransformed": true
+    },
+    "The Kingpin of Crime": {
+      "number": "220",
+      "cost": ["1", "w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Madame Hydra": {
+      "number": "221",
+      "cost": ["2", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Mighty Thor, Jane Foster": {
+      "number": "222",
+      "cost": ["1", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Moon Girl and Devil Dinosaur": {
+      "number": "223",
+      "cost": ["1", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Ruinous Wrecking Crew": {
+      "number": "224",
+      "cost": ["x", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Scientist Supreme of A.I.M.": {
+      "number": "225",
+      "cost": ["u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Serpent Society": {
+      "number": "226",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Speedball, New Warrior": {
+      "number": "227",
+      "cost": ["2", "ur"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spider-Man, To the Rescue": {
+      "number": "228",
+      "cost": ["2", "gw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spider-Woman, Secret Agent": {
+      "number": "229",
+      "cost": ["3", "wu"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Storm, Windrider": {
+      "number": "230",
+      "cost": ["1", "g", "w", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Super Hero Civil War": {
+      "number": "231",
+      "cost": ["3", "r", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Taskmaster, Mercenary Mimic": {
+      "number": "232",
+      "cost": ["2", "u", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thanos, the Mad Titan": {
+      "number": "233",
+      "cost": ["r", "w", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Thor Odinson": {
+      "number": "234",
+      "cost": ["3", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Titania, Rugged Rumbler": {
+      "number": "235",
+      "cost": ["2", "bg"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "U.S.Agent, John Walker": {
+      "number": "236",
+      "cost": ["3", "wb"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vision Quest": {
+      "number": "237",
+      "cost": ["x", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "War Machine, Legacy of Iron": {
+      "number": "238",
+      "cost": ["2", "rw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Winter Soldier, Icy Assassin": {
+      "number": "239",
+      "cost": ["w", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Wolverine, Fierce Fighter": {
+      "number": "240",
+      "cost": ["2", "r", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Worlds Within Worlds": {
+      "number": "241",
+      "cost": ["5", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "A.I.M. Synthoids": {
+      "number": "242",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Arc Reactor": {
+      "number": "243",
+      "cost": ["5"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Captain America's Shield": {
+      "number": "244",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cosmic Cube": {
+      "number": "245",
+      "cost": ["5"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dependable Quinjet": {
+      "number": "246",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "H.E.R.B.I.E. Scout Unit": {
+      "number": "247",
+      "cost": ["4"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Iron Man Armor": {
+      "number": "248",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "S.H.I.E.L.D. Helicarrier": {
+      "number": "249",
+      "cost": ["4"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Super-Adaptoid": {
+      "number": "250",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Ten Rings": {
+      "number": "251",
+      "cost": ["8"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ultron, Artificial Malevolence": {
+      "number": "252",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ultron Drone": {
+      "number": "253",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Vibranium Energy Daggers": {
+      "number": "254",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Vision": {
+      "number": "255",
+      "cost": ["4"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Viv Vision, Teen Synthezoid": {
+      "number": "256",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "A.I.M. Labs": {
+      "number": "257",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Asgardian Citadel": {
+      "number": "258",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Avengers Hangar": {
+      "number": "259",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Avengers Tower": {
+      "number": "260",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Baxter Building": {
+      "number": "261",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Birnin Zana Plaza": {
+      "number": "262",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Castle Doom": {
+      "number": "263",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Dark Fortress": {
+      "number": "264",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Fisk Tower": {
+      "number": "265",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Gathering Place": {
+      "number": "266",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Gleaming Bastion": {
+      "number": "267",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Hell's Kitchen": {
+      "number": "268",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Hidden Lair": {
+      "number": "269",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Los Diablos Missile Base": {
+      "number": "270",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Pym Technologies": {
+      "number": "271",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Stark Industries": {
+      "number": "272",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Subterranean Cavern": {
+      "number": "273",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Surveillance Room": {
+      "number": "274",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Training Compound": {
+      "number": "275",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Villainous Hideout": {
+      "number": "276",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    }
+  }
+}

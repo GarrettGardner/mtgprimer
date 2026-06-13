@@ -1,0 +1,104 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Abomination, Terrifying Titan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hulk, Gamma Goliath": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Knight of Wundagore": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Machinesmith Automaton": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Moon Girl and Devil Dinosaur": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Red Hulk": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Reptil, Dinomorpher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Savage Land Dinosaur": {
+      "categories": [
+        "default"
+      ]
+    },
+    "She-Hulk, Jade Defender": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Super Strength": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Super-Adaptoid": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Team Tactics": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Coming of Galactus": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Incredible Hulk (Bruce Banner // The Incredible Hulk)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Sensational She-Hulk (Jennifer Walters // The Sensational She-Hulk)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Thing, Ben Grimm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tigra, Feline Fury": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Training Regimen": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "World War Hulk": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

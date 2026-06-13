@@ -1,0 +1,12 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Avengers Disassembled": {},
+    "Mjölnir, Hammer of Thor": {},
+    "Worlds Within Worlds": {}
+  }
+}

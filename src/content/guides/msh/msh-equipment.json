@@ -1,0 +1,68 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Captain America's Shield": {},
+    "Falcon's Wing Harness": {},
+    "Hawkeye's Bow": {},
+    "Iron Man Armor": {},
+    "Mjölnir, Hammer of Thor": {},
+    "Nick Fury, Agent of S.H.I.E.L.D.": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Ronin, Shadow Stalker": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "S.H.I.E.L.D. Spy Kit": {},
+    "Stolen Stark Tech": {},
+    "Super Suit": {},
+    "Super-Soldier Serum": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Swordsman, Sharp Scoundrel": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "The Invincible Iron Man (Tony Stark // The Invincible Iron Man)": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "The Mighty Thor, Jane Foster": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Thor, God of Thunder": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "U.S.Agent, John Walker": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Vibranium Energy Daggers": {},
+    "Whiplash, Vengeful Engineer": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Winter Soldier, Icy Assassin": {
+      "categories": [
+        "synergy"
+      ]
+    }
+  }
+}

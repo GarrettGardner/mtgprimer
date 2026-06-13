@@ -1,0 +1,244 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Aerial Doombot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Beast, Erudite Aerialist": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Captain America, Wings of Freedom": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Captain Mar-Vell, Space-Born": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Captain Marvel, Earth's Protector": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dependable Quinjet": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Falcon's Wing Harness": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Falcon, Winged Wonder": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fin Fang Foom": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Giant-Sized Flying Ant": {
+      "categories": [
+        "default"
+      ]
+    },
+    "H.E.R.B.I.E. Scout Unit": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Human Torch, Johnny Storm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "I Am Iron Man": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Iron Lad, Diverging Destiny": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Iron Man Armor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Iron Man, Master of Machines": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ironheart, Clever Champion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Justice, Vance Astrovik": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kang the Conqueror": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kree Commandos": {
+      "categories": [
+        "default"
+      ]
+    },
+    "M.O.D.O.K.": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Monica Rambeau (Monica Rambeau // Photon, Living Light)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Moonstone, Harsh Mistress": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Namor the Sub-Mariner": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Panther Pounce": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Photon, Living Light (Monica Rambeau // Photon, Living Light)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "S.H.I.E.L.D. Deployment Drone": {
+      "categories": [
+        "default"
+      ]
+    },
+    "S.H.I.E.L.D. Flying Car": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "S.H.I.E.L.D. Helicarrier": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Storm, Windrider": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Super-Adaptoid": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Super-Skrull": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Coming of Galactus": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Invincible Iron Man (Tony Stark // The Invincible Iron Man)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Mighty Thor, Jane Foster": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Sentry, Golden Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Vision": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Wondrous Wasp": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thor Odinson": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Thor, God of Thunder": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Unliving Legionnaire": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Viv Vision, Teen Synthezoid": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wakandan Drone Flock": {
+      "categories": [
+        "default"
+      ]
+    },
+    "War Machine, Legacy of Iron": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wiccan, Rising Magician": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Wonder Man, Hollywood Hero": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Yellowjacket, Heartless Marauder": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}
