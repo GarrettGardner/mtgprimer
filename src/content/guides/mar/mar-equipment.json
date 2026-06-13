@@ -1,0 +1,25 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Captain America, First Avenger": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Silkguard": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Steelshaper's Gift": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Sword of Fire and Ice": {}
+  }
+}

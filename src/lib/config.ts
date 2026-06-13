@@ -105,6 +105,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
           case "info":
             if (pageConfig.template === "info") {
               template.releaseDate = pageConfig.releaseDate;
+              template.mtgScribePlayBooster = pageConfig.mtgScribePlayBooster;
             }
             break;
           case "guide":

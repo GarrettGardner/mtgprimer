@@ -1,0 +1,29 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Concerted Effort": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Monstrous Rage": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rancor": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

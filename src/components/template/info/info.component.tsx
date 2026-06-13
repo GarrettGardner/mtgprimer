@@ -27,6 +27,13 @@ export const TemplateInfo = (props: { template: ITemplateInfo }) => {
             </li>
           ))}
         </ul>
+        {props.template.mtgScribePlayBooster && (
+          <div>
+            <Button href={props.template.mtgScribePlayBooster} size="md" newTab>
+              MTGScribe Play Booster Fact Sheet
+            </Button>
+          </div>
+        )}
       </div>
     </section>
   );

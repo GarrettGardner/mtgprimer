@@ -1,0 +1,112 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Arachnogenesis": {
+      "categories": ["board"]
+    },
+    "Beast Within": {
+      "categories": ["board"]
+    },
+    "Chaos Warp": {
+      "categories": ["board"]
+    },
+    "Comeuppance": {
+      "categories": ["board"]
+    },
+    "Counterspell": {
+      "categories": ["counterspell"]
+    },
+    "Deadly Dispute": {
+      "categories": ["other"]
+    },
+    "Dig Through Time": {
+      "categories": ["board"]
+    },
+    "Ephemerate": {
+      "categories": ["board"]
+    },
+    "Fight to the Death": {
+      "categories": ["board"]
+    },
+    "Final Showdown": {
+      "categories": ["board"]
+    },
+    "Force of Vigor": {
+      "cost": [],
+      "categories": ["board"]
+    },
+    "Heroic Intervention": {
+      "categories": ["board"]
+    },
+    "Hunter's Insight": {
+      "categories": ["board"]
+    },
+    "Infernal Grasp": {
+      "categories": ["board"]
+    },
+    "Leyline Binding": {
+      "categories": ["board"]
+    },
+    "Mindbreak Trap": {
+      "categories": ["board"]
+    },
+    "Monstrous Rage": {
+      "categories": ["board"]
+    },
+    "Mystic Confluence": {
+      "categories": ["counterspell"]
+    },
+    "Narset's Reversal": {
+      "categories": ["board"]
+    },
+    "Opposition Agent": {
+      "categories": ["board"]
+    },
+    "Path to Exile": {
+      "categories": ["board"]
+    },
+    "Reprieve": {
+      "categories": ["board"]
+    },
+    "Savage Beating": {
+      "categories": ["board"]
+    },
+    "Saw in Half": {
+      "categories": ["board"]
+    },
+    "Shock": {
+      "categories": ["board"]
+    },
+    "Silkguard": {
+      "categories": ["board"]
+    },
+    "Sundering Growth": {
+      "categories": ["board"]
+    },
+    "Tangle": {
+      "categories": ["board"]
+    },
+    "Teferi's Protection": {
+      "categories": ["board"]
+    },
+    "Terminate": {
+      "categories": ["board"]
+    },
+    "Three Steps Ahead": {
+      "categories": ["board", "counterspell"]
+    },
+    "Thrill of Possibility": {
+      "categories": ["board"]
+    },
+    "Unexpected Windfall": {
+      "categories": ["board"]
+    }
+  }
+}

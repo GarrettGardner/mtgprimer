@@ -1,0 +1,34 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Alibou, Ancient Witness": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aurelia, the Warleader": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Iron Man, Titan of Innovation": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skithiryx, the Blight Dragon": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

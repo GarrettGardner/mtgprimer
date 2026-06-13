@@ -1,0 +1,14 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Don't Move": {},
+    "Fight to the Death": {},
+    "Final Act": {},
+    "Final Showdown": {},
+    "Righteous Fury": {}
+  }
+}

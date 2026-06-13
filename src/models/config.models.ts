@@ -50,6 +50,7 @@ export interface IPageConfigStatic extends IPageConfig {
 
 export interface IPageConfigInfo extends IPageConfig {
   template: "info";
+  mtgScribePlayBooster?: string;
   formatCode: string;
   releaseDate: string;
 }

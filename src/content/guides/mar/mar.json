@@ -1,0 +1,578 @@
+{
+  "code": "mar",
+  "formatName": "Marvel Universe",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Comeuppance": {
+      "number": "1",
+      "cost": ["3", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Leyline Binding": {
+      "number": "2",
+      "cost": ["5", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Nine Lives": {
+      "number": "3",
+      "cost": ["1", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Reprieve": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Rest in Peace": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Wedding Ring": {
+      "number": "7",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Clever Impersonator": {
+      "number": "8",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lorthos, the Tidemaker": {
+      "number": "10",
+      "cost": ["5", "u", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Mindbreak Trap": {
+      "number": "11",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mystic Confluence": {
+      "number": "12",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ponder": {
+      "number": "13",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Rite of Replication": {
+      "number": "14",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Traumatize": {
+      "number": "15",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Feed the Swarm": {
+      "number": "16",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Hex": {
+      "number": "17",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Infernal Grasp": {
+      "number": "18",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Opposition Agent": {
+      "number": "19",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Reanimate": {
+      "number": "20",
+      "cost": ["b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Saw in Half": {
+      "number": "21",
+      "cost": ["2", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Skithiryx, the Blight Dragon": {
+      "number": "22",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Goblin Bombardment": {
+      "number": "23",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Najeela, the Blade-Blossom": {
+      "number": "24",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Relentless Assault": {
+      "number": "25",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Savage Beating": {
+      "number": "26",
+      "cost": ["3", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Shock": {
+      "number": "27",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Thrill of Possibility": {
+      "number": "28",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Unexpected Windfall": {
+      "number": "29",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Winds of Change": {
+      "number": "30",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Arachnogenesis": {
+      "number": "31",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Arasta of the Endless Web": {
+      "number": "32",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Hunter's Insight": {
+      "number": "35",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Parallel Lives": {
+      "number": "36",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Silkguard": {
+      "number": "37",
+      "cost": ["x", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Tangle": {
+      "number": "38",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Alibou, Ancient Witness": {
+      "number": "39",
+      "cost": ["3", "r", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Terminate": {
+      "number": "40",
+      "cost": ["b", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Archangel of Thune": {
+      "number": "41",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Concerted Effort": {
+      "number": "42",
+      "cost": ["2", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Don't Move": {
+      "number": "43",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ephemerate": {
+      "number": "44",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Final Showdown": {
+      "number": "45",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Light of Promise": {
+      "number": "46",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Path to Exile": {
+      "number": "47",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Return to the Ranks": {
+      "number": "48",
+      "cost": ["x", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Righteous Fury": {
+      "number": "49",
+      "cost": ["4", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Steelshaper's Gift": {
+      "number": "50",
+      "cost": ["w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Teferi's Protection": {
+      "number": "51",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Counterspell": {
+      "number": "52",
+      "cost": ["u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Cyberdrive Awakener": {
+      "number": "53",
+      "cost": ["5", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dig Through Time": {
+      "number": "54",
+      "cost": ["6", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Harbinger of the Seas": {
+      "number": "55",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lord of Atlantis": {
+      "number": "56",
+      "cost": ["u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Mechanized Production": {
+      "number": "57",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Narset's Reversal": {
+      "number": "58",
+      "cost": ["u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Reconnaissance Mission": {
+      "number": "59",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Show and Tell": {
+      "number": "60",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Simulacrum Synthesizer": {
+      "number": "61",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Three Steps Ahead": {
+      "number": "62",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Dauthi Voidwalker": {
+      "number": "63",
+      "cost": ["b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Deadly Dispute": {
+      "number": "64",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Extinction Event": {
+      "number": "65",
+      "cost": ["3", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Final Act": {
+      "number": "66",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Massacre Girl": {
+      "number": "67",
+      "cost": ["3", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "No Mercy": {
+      "number": "68",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Chaos Warp": {
+      "number": "69",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fiery Emancipation": {
+      "number": "70",
+      "cost": ["3", "r", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fury of the Horde": {
+      "number": "71",
+      "cost": ["5", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Monstrous Rage": {
+      "number": "72",
+      "cost": ["r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Seize the Day": {
+      "number": "73",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Bedlam": {
+      "number": "74",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Beast Within": {
+      "number": "75",
+      "cost": ["2", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Defense of the Heart": {
+      "number": "76",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Force of Vigor": {
+      "number": "77",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Heroic Intervention": {
+      "number": "78",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Primal Vigor": {
+      "number": "81",
+      "cost": ["4", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Rancor": {
+      "number": "82",
+      "cost": ["g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Steely Resolve": {
+      "number": "83",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Unnatural Growth": {
+      "number": "84",
+      "cost": ["1", "g", "g", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Anthem of Champions": {
+      "number": "85",
+      "cost": ["g", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Aurelia, the Warleader": {
+      "number": "86",
+      "cost": ["2", "r", "r", "w", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Black Panther, Wakandan King": {
+      "number": "87",
+      "cost": ["g", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Captain America, First Avenger": {
+      "number": "88",
+      "cost": ["r", "w", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Escape to the Wilds": {
+      "number": "89",
+      "cost": ["3", "r", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fight to the Death": {
+      "number": "90",
+      "cost": ["r", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Iron Man, Titan of Innovation": {
+      "number": "91",
+      "cost": ["3", "u", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Privileged Position": {
+      "number": "92",
+      "cost": ["2", "gw", "gw", "gw"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ravenous Tyrannosaurus": {
+      "number": "93",
+      "cost": ["4", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Storm, Force of Nature": {
+      "number": "94",
+      "cost": ["1", "g", "u", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sundering Growth": {
+      "number": "95",
+      "cost": ["gw", "gw"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Warleader's Call": {
+      "number": "96",
+      "cost": ["1", "r", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Wolverine, Best There Is": {
+      "number": "97",
+      "cost": ["1", "r", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Horn of Greed": {
+      "number": "98",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Roaming Throne": {
+      "number": "99",
+      "cost": ["4"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Sword of Fire and Ice": {
+      "number": "100",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    }
+  }
+}

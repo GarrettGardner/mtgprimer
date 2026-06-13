@@ -4,6 +4,7 @@
   "name": "Full Card Gallery",
   "defaultGrouping": "none",
   "defaultOrdering": "number",
+  "includeFormats": [{ "code": "mar", "min": 61, "max": 100 }],
   "categories": {
     "creature": "Creature",
     "spell": "Spell",

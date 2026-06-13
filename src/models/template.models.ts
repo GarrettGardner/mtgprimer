@@ -43,6 +43,7 @@ export interface ITemplateInfo extends ITemplate {
   formatCode: string;
   formatName: string;
   releaseDate: string;
+  mtgScribePlayBooster?: string;
   guidePages: (ITemplateGuide | ITemplateGuideGroup)[];
   menu?: ITemplateMenu;
 }

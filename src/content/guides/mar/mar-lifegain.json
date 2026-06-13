@@ -1,0 +1,39 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Archangel of Thune": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Black Panther, Wakandan King": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Light of Promise": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Najeela, the Blade-Blossom": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Righteous Fury": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wedding Ring": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

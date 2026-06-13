@@ -9,6 +9,7 @@ export const Button = (props: {
   href: string;
   size?: "sm" | "md" | "lg";
   icon?: string;
+  newTab?: boolean;
   onClick?: (e: MouseEvent<HTMLAnchorElement>) => void;
   children: ReactNode;
 }) => {
@@ -17,6 +18,7 @@ export const Button = (props: {
       href={props.href}
       className={`${styles.button}${props.size ? ` size-${props.size}` : ""}`}
       onClick={props.onClick}
+      target={props.newTab ? "_blank" : undefined}
     >
       {props.icon && (
         <span className="icon">

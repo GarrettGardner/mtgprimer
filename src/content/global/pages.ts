@@ -30,6 +30,8 @@ export const PAGES_CONFIG: TPageConfig = {
       preset: "info",
       formatCode: "msh",
       releaseDate: "June 26, 2026",
+      mtgScribePlayBooster:
+        "https://mtgscribe.com/2026/06/03/marvel-super-heroes-play-booster-fact-sheet/",
       backgroundImage: "msh-doom-reigns-supreme-alexander-gering",
       backgroundCaption: "Alexander Gering",
       pages: [

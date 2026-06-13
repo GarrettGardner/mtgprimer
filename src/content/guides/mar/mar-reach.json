@@ -1,0 +1,19 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Arachnogenesis": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Arasta of the Endless Web": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

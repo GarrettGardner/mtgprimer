@@ -1,0 +1,44 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Archangel of Thune": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Aurelia, the Warleader": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Concerted Effort": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cyberdrive Awakener": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Iron Man, Titan of Innovation": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Skithiryx, the Blight Dragon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Storm, Force of Nature": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}
