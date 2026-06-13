@@ -57,6 +57,9 @@ export const TemplateHome = (props: { template: ITemplateHome }) => {
         </div>
       </div>
       <p>
+        <Button size="lg" href="/latest" icon="fas fa-star">
+          Latest Format
+        </Button>
         <Button size="lg" href="/directory" icon="fas fa-compass">
           Format Directory
         </Button>
