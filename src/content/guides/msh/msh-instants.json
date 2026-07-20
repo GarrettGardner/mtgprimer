@@ -70,7 +70,8 @@
       "categories": ["board"]
     },
     "Punishing Punch": {
-      "categories": ["other"]
+      "categories": ["other"],
+      "cost": ["g"]
     },
     "Rapid Rescue": {
       "categories": ["other"]
