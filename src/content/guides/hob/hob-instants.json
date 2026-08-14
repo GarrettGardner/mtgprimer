@@ -11,6 +11,9 @@
     "Allure of Power (My Precious // Allure of Power)": {
       "categories": ["other"]
     },
+    "Bard's Company": {
+      "categories": ["board"]
+    },
     "Bilbo's Deadly Slice": {
       "categories": ["board"]
     },
@@ -27,6 +30,15 @@
       "categories": ["board"]
     },
     "Gone Fishing (Lake-town Mariners // Gone Fishing)": {
+      "categories": ["board"]
+    },
+    "Head of the Hunt": {
+      "categories": ["board"]
+    },
+    "Little Bear": {
+      "categories": ["board"]
+    },
+    "Long-Bodied Grey Dog": {
       "categories": ["board"]
     },
     "Magnificent End": {
@@ -57,13 +69,22 @@
     "Sound the Trumpets": {
       "categories": ["counterspell"]
     },
+    "Sting, Bilbo's Sword": {
+      "categories": ["board"]
+    },
     "Stone by Sunlight": {
       "categories": ["board"]
     },
     "Supper for Spiders": {
       "categories": ["board"]
     },
+    "The Black Arrow": {
+      "categories": ["board"]
+    },
     "The Eagles Are Coming!": {
+      "categories": ["board"]
+    },
+    "The Lord of the Eagles": {
       "categories": ["board"]
     },
     "Thorin's Last Stand": {
