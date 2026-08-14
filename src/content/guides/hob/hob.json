@@ -1,0 +1,1278 @@
+{
+  "code": "hob",
+  "formatName": "The Hobbit",
+  "name": "Full Card Gallery",
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "Allure of Power (My Precious // Allure of Power)": {
+      "number": "176",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Along the Crooked Way": {
+      "number": "60",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "An Unexpected Party (An Unexpected Party // At the Door)": {
+      "number": "29",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "At the Door (An Unexpected Party // At the Door)": {
+      "number": "29",
+      "cost": ["x", "2", "w"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Attercop": {
+      "number": "116",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Azog, Moria's Ruin": {
+      "number": "61",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Balin, Loremaster": {
+      "number": "87",
+      "cost": ["3", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bard the Bowman": {
+      "number": "145",
+      "cost": ["1", "w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bard's Company": {
+      "number": "146",
+      "cost": ["2", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bard, King of Dale": {
+      "number": "144",
+      "cost": ["4", "w", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bejeweled Warg": {
+      "number": "117",
+      "cost": ["1", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Belladonna Took": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Beorn the Fierce": {
+      "number": "119",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Beorn's Hospitality": {
+      "number": "120",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Beorn, Reluctant Host (Beorn, Reluctant Host // Till and Tend)": {
+      "number": "118",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Bifur, Melodic Rider": {
+      "number": "147",
+      "cost": ["4", "rw", "rw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bilbo Baggins, Burglar (Bilbo Baggins, Burglar // Take a Glance)": {
+      "number": "34",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Bilbo's Deadly Slice": {
+      "number": "62",
+      "cost": ["1", "b", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Bilbo's Gambit": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Bilbo, Luckwearer (Bilbo, Luckwearer // Burglar's Plot)": {
+      "number": "32",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Bilbo, Thief in the Night": {
+      "number": "33",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Bofur, Reliable Guardian (Bofur, Reliable Guardian // Concerted Care)": {
+      "number": "6",
+      "cost": ["w"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Bolg of the North": {
+      "number": "148",
+      "cost": ["3", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bolg's Company": {
+      "number": "149",
+      "cost": ["b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Bombur, Gentle Dreamer": {
+      "number": "88",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Bothersome Noisemaker": {
+      "number": "89",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Boughside Wanderers": {
+      "number": "121",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Burglar's Plot (Bilbo, Luckwearer // Burglar's Plot)": {
+      "number": "32",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Burn, Burn, Tree and Fern": {
+      "number": "90",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cantankerous Keepers": {
+      "number": "122",
+      "cost": ["5", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Celebrate the Mountain-king": {
+      "number": "7",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Chief Warg's Company": {
+      "number": "151",
+      "cost": ["1", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Clap! Snap! (Great Ugly-Looking Goblin // Clap! Snap!)": {
+      "number": "74",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Concerted Care (Bofur, Reliable Guardian // Concerted Care)": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Confusticate and Bebother": {
+      "number": "35",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Crude Bent Blade": {
+      "number": "63",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Dancing from Dark to Dawn": {
+      "number": "123",
+      "cost": ["3", "g", "g"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Desert Were-Worm": {
+      "number": "92",
+      "cost": ["4", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Desolation of Smaug": {
+      "number": "93",
+      "cost": ["2", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Desolation Prowler": {
+      "number": "64",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dori, Bearer of Friends": {
+      "number": "94",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Down in the Valley": {
+      "number": "124",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Down, Down to Goblin-town": {
+      "number": "65",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dreaded Bat-Cloud": {
+      "number": "66",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Duskwatch Hunter": {
+      "number": "153",
+      "cost": ["2", "bg"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dwalin, Weaponmaster": {
+      "number": "154",
+      "cost": ["1", "rw"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Dwarven Mattock": {
+      "number": "172",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Dwarven Mauler": {
+      "number": "95",
+      "cost": ["r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dwarven Provisioner": {
+      "number": "9",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dwarven Shortsword": {
+      "number": "10",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "D\u00e1in Ironfoot": {
+      "number": "91",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "D\u00e1in's Company": {
+      "number": "152",
+      "cost": ["r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "D\u00e1in, Lord of the Iron Hills": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Eagle of the Great Shelf": {
+      "number": "11",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Eagle's Rescue": {
+      "number": "155",
+      "cost": ["2", "wu", "wu"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Easy Pickings (Gl\u00f3in the Mighty // Easy Pickings)": {
+      "number": "99",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Elrond, Moon-Reader": {
+      "number": "36",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Elven Passage": {
+      "number": "181",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Elven Raft-Steerer": {
+      "number": "37",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Elvenking's Halls": {
+      "number": "182",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Elvenking's Harper": {
+      "number": "38",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Enchanted River's Grasp": {
+      "number": "39",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Esgaroth Garrison": {
+      "number": "13",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Fateful Discovery": {
+      "number": "40",
+      "cost": ["3", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Fearsome Goblin Pair": {
+      "number": "156",
+      "cost": ["2", "br"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Flameshape (Gandalf, Goblins' Bane // Flameshape)": {
+      "number": "96",
+      "cost": ["1", "r"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Front Porch Sentries": {
+      "number": "67",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "F\u00edli the Pathfinder": {
+      "number": "14",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Galion, Elvenking's Butler": {
+      "number": "125",
+      "cost": ["2", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gandalf, Goblins' Bane (Gandalf, Goblins' Bane // Flameshape)": {
+      "number": "96",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Gandalf, Spark Starter": {
+      "number": "97",
+      "cost": ["4", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gandalf, Wandering Wizard": {
+      "number": "41",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gathering of Darkness": {
+      "number": "68",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Gaze in Wonder (Velvetwing Butterflies // Gaze in Wonder)": {
+      "number": "30",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Getaway Barrel": {
+      "number": "98",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Giant's Boulder": {
+      "number": "173",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gigantic Big Bear": {
+      "number": "126",
+      "cost": ["5", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Glamdring, Foe-hammer (Glamdring, Foe-hammer // Gleam of Death)": {
+      "number": "174",
+      "cost": ["2"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Gleam of Death (Glamdring, Foe-hammer // Gleam of Death)": {
+      "number": "174",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Gleaming Splendor": {
+      "number": "15",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Gl\u00f3in the Mighty (Gl\u00f3in the Mighty // Easy Pickings)": {
+      "number": "99",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Gnashing of Teeth": {
+      "number": "69",
+      "cost": ["1", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Goblin Plate Mail": {
+      "number": "157",
+      "cost": ["1", "br"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Goblin-town": {
+      "number": "183",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Goblin-town Flunkies": {
+      "number": "100",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gollum the Abandoned": {
+      "number": "72",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gollum, Riddle Master": {
+      "number": "70",
+      "cost": ["1", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Gollum, Silent Slinker (Gollum, Silent Slinker // Meager Meal)": {
+      "number": "71",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Gone Fishing (Lake-town Mariners // Gone Fishing)": {
+      "number": "44",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Great Fierce Bee": {
+      "number": "73",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Great Gilded Boat": {
+      "number": "42",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Great Ugly-Looking Goblin (Great Ugly-Looking Goblin // Clap! Snap!)": {
+      "number": "74",
+      "cost": ["5", "b"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Guardian of the Halls": {
+      "number": "127",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gundabad Opportunist": {
+      "number": "101",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Head of the Hunt": {
+      "number": "75",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hobbit Hole": {
+      "number": "184",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Inside Information": {
+      "number": "76",
+      "cost": ["x", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Iron Hills": {
+      "number": "185",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Iron Hills Blacksmith": {
+      "number": "16",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Iron Hills Stalwart": {
+      "number": "102",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Key to the Side-Door": {
+      "number": "175",
+      "cost": ["1"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "K\u00edli the Resourceful": {
+      "number": "17",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Lake-town": {
+      "number": "186",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Lake-town Lookout": {
+      "number": "18",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Lake-town Mariners (Lake-town Mariners // Gone Fishing)": {
+      "number": "44",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Lake-town Toymaker": {
+      "number": "19",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lakeshore Apothecary": {
+      "number": "43",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Large Bear": {
+      "number": "159",
+      "cost": ["3", "bg", "bg"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Last Light of Durin's Day": {
+      "number": "103",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Little Bear": {
+      "number": "128",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Long Lake Nuisance": {
+      "number": "45",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Long-Bodied Grey Dog": {
+      "number": "1",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Magnificent End": {
+      "number": "20",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Master's Councillors": {
+      "number": "47",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Meager Meal (Gollum, Silent Slinker // Meager Meal)": {
+      "number": "71",
+      "cost": ["b"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Mirkwood": {
+      "number": "188",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Mirkwood Meditator": {
+      "number": "48",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mirkwood Nurturer": {
+      "number": "160",
+      "cost": ["2", "gu"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mirkwood Pathmaker": {
+      "number": "129",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Misty Mountains Raider": {
+      "number": "105",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Moment of Glory": {
+      "number": "21",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Most Decrepit Old Bird (Most Decrepit Old Bird // Speak Secrets)": {
+      "number": "49",
+      "cost": ["u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "My Precious (My Precious // Allure of Power)": {
+      "number": "176",
+      "cost": ["3"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Nasty Little Rabbit": {
+      "number": "130",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nighthowl Pursuer": {
+      "number": "78",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Nori, Teller of Tales": {
+      "number": "161",
+      "cost": ["1", "rw"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Old Fat Spider": {
+      "number": "132",
+      "cost": ["4", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Old Fat Spider Can't See Me": {
+      "number": "50",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Old Thrush": {
+      "number": "2",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Orcrist, Goblin-cleaver": {
+      "number": "177",
+      "cost": ["3"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Ordinary Bear": {
+      "number": "133",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ori, Keeper of Songs": {
+      "number": "23",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Part in Friendship": {
+      "number": "134",
+      "cost": ["4", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Patient Instructor": {
+      "number": "162",
+      "cost": ["2", "wu"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Pinecone Strike": {
+      "number": "107",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Plunder the Trollshaws": {
+      "number": "51",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Quarrel": {
+      "number": "135",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Radagast of Rhosgobel": {
+      "number": "136",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Rage into the Valley": {
+      "number": "79",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ragged Short Spear": {
+      "number": "108",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Ravenhill Flock": {
+      "number": "52",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Ravening Warg": {
+      "number": "80",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Reverent Howl": {
+      "number": "81",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rhovanion Rampager": {
+      "number": "82",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Riddles in the Dark": {
+      "number": "53",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Roads Go Ever, Ever On": {
+      "number": "25",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Roll-Roll-Roll-Roll": {
+      "number": "54",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Seek the Heart (The Arkenstone // Seek the Heart)": {
+      "number": "170",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Settle the Wreckage": {
+      "number": "26",
+      "cost": ["2", "w", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Silvan Rally (Thranduil, Sindarin Liege // Silvan Rally)": {
+      "number": "166",
+      "cost": ["1", "gu", "gu"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Silvan Reveler": {
+      "number": "163",
+      "cost": ["2", "g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Smaug the Magnificent": {
+      "number": "110",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Smaug's Fury": {
+      "number": "111",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Smaug, the Great Calamity (Smaug, the Great Calamity // Spew Flame)": {
+      "number": "109",
+      "cost": ["5", "r", "r"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Smaug, Wicked Worm": {
+      "number": "164",
+      "cost": ["3", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Snowslope Hunter": {
+      "number": "112",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sound the Trumpets": {
+      "number": "55",
+      "cost": ["1", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Speak Secrets (Most Decrepit Old Bird // Speak Secrets)": {
+      "number": "49",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Spew Flame (Smaug, the Great Calamity // Spew Flame)": {
+      "number": "109",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Sting, Bilbo's Sword": {
+      "number": "178",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Stir Up Trouble": {
+      "number": "84",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Stone by Sunlight": {
+      "number": "27",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Stone-Giant of High Pass": {
+      "number": "113",
+      "cost": ["5", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Stony-Voiced Goblins": {
+      "number": "85",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Supper for Spiders": {
+      "number": "86",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Take a Glance (Bilbo Baggins, Burglar // Take a Glance)": {
+      "number": "34",
+      "cost": ["u"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "The Arkenstone (The Arkenstone // Seek the Heart)": {
+      "number": "170",
+      "cost": ["5"],
+      "rarity": "m",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "The Black Arrow": {
+      "number": "171",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Chief Warg": {
+      "number": "150",
+      "cost": ["2", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Eagles Are Coming!": {
+      "number": "12",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Great Goblin": {
+      "number": "158",
+      "cost": ["1", "br", "br"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Lonely Mountain": {
+      "number": "187",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "The Lord of the Eagles": {
+      "number": "46",
+      "cost": ["7", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Master of Lake-town": {
+      "number": "77",
+      "cost": ["1", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Misty Mountains Cold": {
+      "number": "104",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Mountain-king's Return": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Notary Hobbits": {
+      "number": "131",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Queen of Dale": {
+      "number": "24",
+      "cost": ["1", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "The Sackville-Bagginses": {
+      "number": "83",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thorin Oakenshield": {
+      "number": "165",
+      "cost": ["r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Thorin's Last Stand": {
+      "number": "28",
+      "cost": ["2", "w", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Thorin, Mountain-king": {
+      "number": "114",
+      "cost": ["3", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Thranduil's Company": {
+      "number": "168",
+      "cost": ["2", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Thranduil's Decree": {
+      "number": "56",
+      "cost": ["4", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Thranduil, Sindarin Liege (Thranduil, Sindarin Liege // Silvan Rally)": {
+      "number": "166",
+      "cost": ["2", "gu", "gu"],
+      "rarity": "u",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Thranduil, the Elvenking": {
+      "number": "167",
+      "cost": ["2", "b", "g", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Through the Forest Gate": {
+      "number": "137",
+      "cost": ["6", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Thr\u00f3r's Map": {
+      "number": "179",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tidings of War": {
+      "number": "115",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Till and Tend (Beorn, Reluctant Host // Till and Tend)": {
+      "number": "118",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["spell"]
+    },
+    "Tom, Bert, and William": {
+      "number": "169",
+      "cost": ["3", "b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Troll Negotiations": {
+      "number": "138",
+      "cost": ["2", "g", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Troop of Ponies": {
+      "number": "3",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Uncover the Moon-Letters": {
+      "number": "57",
+      "cost": ["3", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Uneasy Partings": {
+      "number": "58",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Velvetwing Butterflies (Velvetwing Butterflies // Gaze in Wonder)": {
+      "number": "30",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "layout": "adventure",
+      "categories": ["creature"]
+    },
+    "Vow to Erebor": {
+      "number": "31",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Warg Tactics": {
+      "number": "139",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wargling": {
+      "number": "140",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Well-Worn Spatula": {
+      "number": "180",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Wilderland Scrounger": {
+      "number": "141",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Wizard's Staff": {
+      "number": "59",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Wood Elves": {
+      "number": "142",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Woodland Weavemaster": {
+      "number": "143",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "\u00d3in the Brave": {
+      "number": "106",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    }
+  }
+}
