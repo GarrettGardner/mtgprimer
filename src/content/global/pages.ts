@@ -25,6 +25,27 @@ export const PAGES_CONFIG: TPageConfig = {
       backgroundCaption: "Jeff Miracola",
     },
     {
+      slug: "the-hobbit",
+      template: "info",
+      preset: "info",
+      formatCode: "hob",
+      releaseDate: "August 14, 2026",
+      pages: [
+        {
+          slug: "instants",
+          template: "guide",
+          preset: "guide-instants",
+          guide: "instants",
+        },
+        {
+          slug: "gallery",
+          template: "guide",
+          preset: "guide-gallery",
+          guide: "gallery",
+        },
+      ],
+    },
+    {
       slug: "marvel-super-heroes",
       template: "info",
       preset: "info",

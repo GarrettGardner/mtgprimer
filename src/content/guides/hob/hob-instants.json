@@ -1,0 +1,86 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Allure of Power (My Precious // Allure of Power)": {
+      "categories": ["other"]
+    },
+    "Bilbo's Deadly Slice": {
+      "categories": ["board"]
+    },
+    "Bilbo's Gambit": {
+      "categories": ["other"]
+    },
+    "Concerted Care (Bofur, Reliable Guardian // Concerted Care)": {
+      "categories": ["board"]
+    },
+    "Confusticate and Bebother": {
+      "categories": ["counterspell", "other"]
+    },
+    "Gaze in Wonder (Velvetwing Butterflies // Gaze in Wonder)": {
+      "categories": ["board"]
+    },
+    "Gone Fishing (Lake-town Mariners // Gone Fishing)": {
+      "categories": ["board"]
+    },
+    "Magnificent End": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
+    "Pinecone Strike": {
+      "categories": ["board"]
+    },
+    "Plunder the Trollshaws": {
+      "categories": ["other"]
+    },
+    "Quarrel": {
+      "categories": ["board"]
+    },
+    "Reverent Howl": {
+      "categories": ["board", "other"]
+    },
+    "Riddles in the Dark": {
+      "categories": ["other"]
+    },
+    "Settle the Wreckage": {
+      "categories": ["board"]
+    },
+    "Smaug's Fury": {
+      "categories": ["board"]
+    },
+    "Sound the Trumpets": {
+      "categories": ["counterspell"]
+    },
+    "Stone by Sunlight": {
+      "categories": ["board"]
+    },
+    "Supper for Spiders": {
+      "categories": ["board"]
+    },
+    "The Eagles Are Coming!": {
+      "categories": ["board"]
+    },
+    "Thorin's Last Stand": {
+      "categories": ["board"]
+    },
+    "Thranduil's Decree": {
+      "categories": ["counterspell"]
+    },
+    "Uneasy Partings": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "Vow to Erebor": {
+      "categories": ["board"]
+    },
+    "Warg Tactics": {
+      "categories": ["board"]
+    }
+  }
+}
