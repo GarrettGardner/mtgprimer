@@ -42,7 +42,7 @@ export const generatePages = async (pageConfig: TPageConfig) => {
     const type = pageConfig.template;
     const backgroundImage =
       (pageConfig.backgroundImage &&
-        `https://s3-us-west-2.amazonaws.com/mtgprimer/splash/${pageConfig.backgroundImage}.jpg`) ??
+        `https://s3-us-west-2.amazonaws.com/mtgprimer/splash/${pageConfig.backgroundImage.includes(".") ? pageConfig.backgroundImage : `${pageConfig.backgroundImage}.jpg`}`) ??
       parentTemplate?.backgroundImage ??
       "";
     const backgroundCaption =

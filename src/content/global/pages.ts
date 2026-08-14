@@ -3,8 +3,8 @@ import { TPageConfig } from "@/models";
 export const PAGES_CONFIG: TPageConfig = {
   slug: "",
   template: "home",
-  backgroundImage: "fdn-liliana-dreadhorde-general-dmitry-burmak",
-  backgroundCaption: "Dmitry Burmak",
+  backgroundImage: "hob-my-precious-valera-lutfullina.webp",
+  backgroundCaption: "Valera Lutfullina",
   description:
     "Reference strategy guides and tools for limited Magic: The Gathering.",
   pages: [
@@ -30,6 +30,8 @@ export const PAGES_CONFIG: TPageConfig = {
       preset: "info",
       formatCode: "hob",
       releaseDate: "August 14, 2026",
+      backgroundImage: "hob-my-precious-valera-lutfullina.webp",
+      backgroundCaption: "Valera Lutfullina",
       pages: [
         {
           slug: "instants",

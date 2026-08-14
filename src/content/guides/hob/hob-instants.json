@@ -24,7 +24,7 @@
       "categories": ["board"]
     },
     "Confusticate and Bebother": {
-      "categories": ["counterspell", "other"]
+      "categories": ["counterspell"]
     },
     "Gaze in Wonder (Velvetwing Butterflies // Gaze in Wonder)": {
       "categories": ["board"]
@@ -55,7 +55,7 @@
       "categories": ["board"]
     },
     "Reverent Howl": {
-      "categories": ["board", "other"]
+      "categories": ["board"]
     },
     "Riddles in the Dark": {
       "categories": ["other"]
@@ -85,7 +85,8 @@
       "categories": ["board"]
     },
     "The Lord of the Eagles": {
-      "categories": ["board"]
+      "categories": ["board"],
+      "cost": ["u", "u"]
     },
     "Thorin's Last Stand": {
       "categories": ["board"]
