@@ -62,6 +62,10 @@
     "Germinate Recruits": {
       "categories": ["board"]
     },
+    "Gideon's Memorial": {
+      "categories": ["board"],
+      "cost": ["1", "w"]
+    },
     "Icy Reception": {
       "categories": ["board", "counterspell"]
     },
@@ -89,6 +93,10 @@
     "Precise Redaction": {
       "categories": ["counterspell"]
     },
+    "Proft, Sinister Mastermind": {
+      "categories": ["board"],
+      "cost": ["b"]
+    },
     "Prophesied End": {
       "categories": ["board"]
     },
@@ -109,6 +117,10 @@
     },
     "Stingerquill Charm": {
       "categories": ["board"]
+    },
+    "Sureshot Sower": {
+      "categories": ["board"],
+      "cost": ["3", "g"]
     },
     "Terminal Criticism": {
       "categories": ["board"]
