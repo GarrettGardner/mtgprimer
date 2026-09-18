@@ -1,0 +1,44 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Koth, the Geomancer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ruric Thar, Magecrusher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sureshot Sower": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tether Technician": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tethermage's Advantage": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Titanbones, Towering Heart": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Vinelasher Adept": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

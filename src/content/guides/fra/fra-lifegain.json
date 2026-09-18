@@ -1,0 +1,179 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Ajani Resolute": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Apex Witchstalker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Archive Arbiter": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Blessed Ghoul": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloombrute": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Break Under Pressure": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Edgar, Ancient Bloodlord": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Enlightened Confidant": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Extended Absence": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Eye of Jace": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Greenhouse Propagator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Koth of the Homestead": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kwia Vigorbloom": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Liliana the Faultless": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Lyra, Archangel of Dawn": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Massacre Girl, Most Wanted": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Medic's Kitesail": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Restore with Empathy": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sanctum Lurker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Screeching Soulbreaker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Seed Suture (Blossom-Blessed Angel // Seed Suture)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Seed Suture (Emergency Phytomedic // Seed Suture)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Seed Suture (Vigorbloom Vanguard // Seed Suture)": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Solarium Sentry": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Something Worth Saving": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Surgical Precision": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Terminal Criticism": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Thalia, the Survivor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Titanbones, Towering Heart": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Unflinching Hortimancer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Vigorbloom Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Warrior's Blades": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Way of the Mentor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Way of the Paradox": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

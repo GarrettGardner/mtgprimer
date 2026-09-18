@@ -1,0 +1,14 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Ajani Unrelenting": {},
+    "Fulminous Forte": {},
+    "Kindred Judgment": {},
+    "Overwrite the Multiverse": {},
+    "The Echoverse Fulcrum": {}
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Ajani Unrelenting": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Chandra's Emberling": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Craterclaw Colossus": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Face Yourself": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Frostbite Pyromental": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gallia, the Merrymaker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hungering Puppetbeast": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ingris Stingerquill": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Saheeli, Jewel of Avishkar": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Samut, Hazoret's Champion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Stingcaster Mage": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Stingerquill Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Whiplash Wordsmith (Whiplash Wordsmith // Vicious Verse)": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "Academic Ascent": {
+      "categories": ["board"]
+    },
+    "Ancestral Craving (Bloodline Recollector // Ancestral Craving)": {
+      "categories": ["other"]
+    },
+    "Blazing Crescendo": {
+      "categories": ["board"]
+    },
+    "Break Under Pressure": {
+      "categories": ["board"]
+    },
+    "Charge the Sanctum": {
+      "categories": ["board"]
+    },
+    "Clash of Elements": {
+      "categories": ["board"]
+    },
+    "Compel Brutality": {
+      "categories": ["board"]
+    },
+    "Countersculpt": {
+      "categories": ["counterspell"]
+    },
+    "Denzilore Fatehold": {
+      "categories": ["board"]
+    },
+    "Divining Duelist": {
+      "categories": ["board"]
+    },
+    "Edgar, Moonlit Sovereign": {
+      "categories": ["board"]
+    },
+    "Essence Burn": {
+      "categories": ["board"]
+    },
+    "Extended Absence": {
+      "categories": ["board"]
+    },
+    "Fatehold Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Ferocity of the Hunt": {
+      "categories": ["board"]
+    },
+    "Flourishing Grapple": {
+      "categories": ["board"]
+    },
+    "Fulminous Forte": {
+      "categories": ["board"]
+    },
+    "Germinate Recruits": {
+      "categories": ["board"]
+    },
+    "Icy Reception": {
+      "categories": ["board", "counterspell"]
+    },
+    "Jace's Machinations": {
+      "categories": ["other"]
+    },
+    "Konstrari Charm": {
+      "categories": ["board"]
+    },
+    "Last Gasp": {
+      "categories": ["board"]
+    },
+    "Loyal Tutor": {
+      "categories": ["other"]
+    },
+    "Molten Tide (Pyre Rhymer // Molten Tide)": {
+      "categories": ["other"]
+    },
+    "Multiply by Zero": {
+      "categories": ["board"]
+    },
+    "Perfected Theory": {
+      "categories": ["board"]
+    },
+    "Precise Redaction": {
+      "categories": ["counterspell"]
+    },
+    "Prophesied End": {
+      "categories": ["board"]
+    },
+    "Restore with Empathy": {
+      "categories": ["other"]
+    },
+    "Rise of the Deathbringer": {
+      "categories": ["board"]
+    },
+    "Something Worth Saving": {
+      "categories": ["other"]
+    },
+    "Sphinx of False Conclusions": {
+      "categories": ["board"]
+    },
+    "Sphinx's Approach": {
+      "categories": ["other"]
+    },
+    "Stingerquill Charm": {
+      "categories": ["board"]
+    },
+    "Terminal Criticism": {
+      "categories": ["board"]
+    },
+    "Tethermage's Advantage": {
+      "categories": ["board"]
+    },
+    "Teyo, Diamondblade Mage": {
+      "categories": ["board"]
+    },
+    "Teyo, Lightshield Expert": {
+      "categories": ["board"]
+    },
+    "Theorist's Proxy": {
+      "categories": ["board"]
+    },
+    "Theorix Charm": {
+      "categories": ["board", "counterspell"]
+    },
+    "Twinned Vision": {
+      "categories": ["other"]
+    },
+    "Unsummon": {
+      "categories": ["board"]
+    },
+    "Vigorbloom Charm": {
+      "categories": ["board"]
+    },
+    "Vindictive Triumph": {
+      "categories": ["board"]
+    },
+    "Violent Echoes": {
+      "categories": ["board"]
+    },
+    "Wrath of the Bloodmane": {
+      "categories": ["board"],
+      "cost": ["1", "r"]
+    },
+    "Your Fate Ends Here": {
+      "categories": ["board"]
+    },
+    "Yuriko, Hope from the Shadows": {
+      "categories": ["board"]
+    }
+  }
+}

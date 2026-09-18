@@ -1,0 +1,309 @@
+{
+  "name": "Echoed Pairs",
+  "defaultGrouping": "category",
+  "categories": {
+    "ajani": "Ajani",
+    "arni": "Arni",
+    "chandra": "Chandra",
+    "danitha": "Danitha",
+    "edgar": "Edgar",
+    "fblthp": "Fblthp",
+    "gallia": "Gallia",
+    "garruk": "Garruk",
+    "ghalta": "Ghalta",
+    "gideon": "Gideon",
+    "hapatra": "Hapatra",
+    "jace-tam": "Jace / Tam",
+    "jiang": "Jiang Yanggu",
+    "karn": "Karn",
+    "kiora": "Kiora",
+    "koth": "Koth",
+    "liliana": "Liliana",
+    "loot": "Loot",
+    "lyra": "Lyra",
+    "mabel": "Mabel",
+    "marwyn": "Marwyn",
+    "massacre-girl": "Massacre Girl / Rescue Girl",
+    "pia": "Pia",
+    "proft": "Proft",
+    "ruric-thar": "Ruric Thar",
+    "saheeli": "Saheeli",
+    "samut": "Samut",
+    "tetsuko": "Tetsuko Umezawa",
+    "teyo": "Teyo",
+    "thalia": "Thalia",
+    "tinybones": "Tinybones / Titanbones",
+    "tomik": "Tomik",
+    "traxos": "Traxos",
+    "vraska": "Vraska",
+    "way-mentor": "Way of the Mentor",
+    "way-mind-sculptor": "Way of the Mind Sculptor",
+    "way-necromancer": "Way of the Necromancer",
+    "way-pyromancer": "Way of the Pyromancer",
+    "way-wildspeaker": "Way of the Wildspeaker",
+    "winter": "Winter",
+    "yargle": "Yargle",
+    "yoshimaru": "Yoshimaru",
+    "yuriko": "Yuriko"
+  },
+  "cards": {
+    "Ajani Resolute": {
+      "categories": ["ajani"]
+    },
+    "Ajani Unrelenting": {
+      "categories": ["ajani"]
+    },
+    "Arni, Humble Scribe": {
+      "categories": ["arni"]
+    },
+    "Arni, Renowned Champion": {
+      "categories": ["arni"]
+    },
+    "Chandra, Chill of Compliance": {
+      "categories": ["chandra"]
+    },
+    "Chandra, Torch of Defiance": {
+      "categories": ["chandra"]
+    },
+    "Danitha, Spear of Agony": {
+      "categories": ["danitha"]
+    },
+    "Danitha, Sword of Hope": {
+      "categories": ["danitha"]
+    },
+    "Edgar, Ancient Bloodlord": {
+      "categories": ["edgar"]
+    },
+    "Edgar, Moonlit Sovereign": {
+      "categories": ["edgar"]
+    },
+    "Fblthp, Impossibly Lost": {
+      "categories": ["fblthp"]
+    },
+    "Fblthp, Knows the Way": {
+      "categories": ["fblthp"]
+    },
+    "Gallia, Tragic Host": {
+      "categories": ["gallia"]
+    },
+    "Gallia, the Merrymaker": {
+      "categories": ["gallia"]
+    },
+    "Garruk, Curse Breaker": {
+      "categories": ["garruk"]
+    },
+    "Garruk, Veiled Butcher": {
+      "categories": ["garruk"]
+    },
+    "Geist of Saint Thalia": {
+      "categories": ["thalia"]
+    },
+    "Ghalta the Immovable": {
+      "categories": ["ghalta"]
+    },
+    "Ghalta the Unstoppable": {
+      "categories": ["ghalta"]
+    },
+    "Gideon the Oathless": {
+      "categories": ["gideon"]
+    },
+    "Gideon's Memorial": {
+      "categories": ["gideon"]
+    },
+    "Hapatra, the Desert Fang": {
+      "categories": ["hapatra"]
+    },
+    "Hapatra, the Desert Frost": {
+      "categories": ["hapatra"]
+    },
+    "Jace, Reality Sculptor": {
+      "categories": ["jace-tam"]
+    },
+    "Jiang Yanggu, Alone": {
+      "categories": ["jiang"]
+    },
+    "Jiang Yanggu, Never Alone": {
+      "categories": ["jiang"]
+    },
+    "Karn, Argent Defender": {
+      "categories": ["karn"]
+    },
+    "Karn, Gilded Guardian": {
+      "categories": ["karn"]
+    },
+    "Kiora of Fire and Ashes": {
+      "categories": ["kiora"]
+    },
+    "Kiora of Salt and Sand": {
+      "categories": ["kiora"]
+    },
+    "Koth of the Homestead": {
+      "categories": ["koth"]
+    },
+    "Koth, the Geomancer": {
+      "categories": ["koth"]
+    },
+    "Liliana the Faultless": {
+      "categories": ["liliana"]
+    },
+    "Liliana the Repentant": {
+      "categories": ["liliana"]
+    },
+    "Loot, the Anomaly": {
+      "categories": ["loot"]
+    },
+    "Loot, the Nexus": {
+      "categories": ["loot"]
+    },
+    "Lyra, Archangel of Dawn": {
+      "categories": ["lyra"]
+    },
+    "Lyra, Tolarian Archangel": {
+      "categories": ["lyra"]
+    },
+    "Mabel, Bitter Recluse": {
+      "categories": ["mabel"]
+    },
+    "Mabel, Valley Hero": {
+      "categories": ["mabel"]
+    },
+    "Marwyn, the Clearcutter": {
+      "categories": ["marwyn"]
+    },
+    "Marwyn, the Preserver": {
+      "categories": ["marwyn"]
+    },
+    "Massacre Girl, Most Wanted": {
+      "categories": ["massacre-girl"]
+    },
+    "Pia, Aether Ascetic": {
+      "categories": ["pia"]
+    },
+    "Pia, Determined Rebuilder": {
+      "categories": ["pia"]
+    },
+    "Proft, Consulting Detective": {
+      "categories": ["proft"]
+    },
+    "Proft, Sinister Mastermind": {
+      "categories": ["proft"]
+    },
+    "Rescue Girl, First Responder": {
+      "categories": ["massacre-girl"]
+    },
+    "Ruric Thar, Biomagus": {
+      "categories": ["ruric-thar"]
+    },
+    "Ruric Thar, Magecrusher": {
+      "categories": ["ruric-thar"]
+    },
+    "Saheeli, Consul of Oversight": {
+      "categories": ["saheeli"]
+    },
+    "Saheeli, Jewel of Avishkar": {
+      "categories": ["saheeli"]
+    },
+    "Samut, Hazoret's Champion": {
+      "categories": ["samut"]
+    },
+    "Samut, Tyrant of Naktamun": {
+      "categories": ["samut"]
+    },
+    "Tam, the Possibility": {
+      "categories": ["jace-tam"]
+    },
+    "Tetsuko Umezawa, Fugitive": {
+      "categories": ["tetsuko"]
+    },
+    "Tetsuko Umezawa, Pursuer": {
+      "categories": ["tetsuko"]
+    },
+    "Teyo, Diamondblade Mage": {
+      "categories": ["teyo"]
+    },
+    "Teyo, Lightshield Expert": {
+      "categories": ["teyo"]
+    },
+    "Thalia, the Survivor": {
+      "categories": ["thalia"]
+    },
+    "Tinybones, Pocket Nuisance": {
+      "categories": ["tinybones"]
+    },
+    "Titanbones, Towering Heart": {
+      "categories": ["tinybones"]
+    },
+    "Tomik, Izzet Sparkmage": {
+      "categories": ["tomik"]
+    },
+    "Tomik, Orzhov Lawmage": {
+      "categories": ["tomik"]
+    },
+    "Traxos, Academy Guardian": {
+      "categories": ["traxos"]
+    },
+    "Traxos, Scourge Eternal": {
+      "categories": ["traxos"]
+    },
+    "Vraska, Soul of Stone": {
+      "categories": ["vraska"]
+    },
+    "Vraska, the Cutting Glare": {
+      "categories": ["vraska"]
+    },
+    "Way of the Cryomancer": {
+      "categories": ["way-mind-sculptor"]
+    },
+    "Way of the Deathbringer": {
+      "categories": ["way-necromancer"]
+    },
+    "Way of the Healer": {
+      "categories": ["way-mentor"]
+    },
+    "Way of the Mentor": {
+      "categories": ["way-mentor"]
+    },
+    "Way of the Mind Sculptor": {
+      "categories": ["way-mind-sculptor"]
+    },
+    "Way of the Necromancer": {
+      "categories": ["way-necromancer"]
+    },
+    "Way of the Paradox": {
+      "categories": ["way-wildspeaker"]
+    },
+    "Way of the Pyromancer": {
+      "categories": ["way-pyromancer"]
+    },
+    "Way of the Warlord": {
+      "categories": ["way-pyromancer"]
+    },
+    "Way of the Wildspeaker": {
+      "categories": ["way-wildspeaker"]
+    },
+    "Winter, Team Player": {
+      "categories": ["winter"]
+    },
+    "Winter, Tormented Loner": {
+      "categories": ["winter"]
+    },
+    "Yargle, Glutton of Urborg": {
+      "categories": ["yargle"]
+    },
+    "Yargle, Goliath of Otaria": {
+      "categories": ["yargle"]
+    },
+    "Yoshimaru, Beloved Companion": {
+      "categories": ["yoshimaru"]
+    },
+    "Yoshimaru, Scrappy Stray": {
+      "categories": ["yoshimaru"]
+    },
+    "Yuriko, Blade of the Mighty": {
+      "categories": ["yuriko"]
+    },
+    "Yuriko, Hope from the Shadows": {
+      "categories": ["yuriko"]
+    }
+  }
+}

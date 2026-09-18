@@ -1,0 +1,184 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Academic Ascent": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Aerid Konstrari": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Afterthought Sentry": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Archive Arbiter": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Blossom-Blessed Angel (Blossom-Blessed Angel // Seed Suture)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Curse-Marred Demon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Denzilore Fatehold": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Desperate Futurescribe": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Draconic Visitor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Fatehold Chronologist (Fatehold Chronologist // Peer Review)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Geist of Saint Thalia": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ingris Stingerquill": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kiora of Fire and Ashes": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Konstrari Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Kwia Vigorbloom": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lyra, Archangel of Dawn": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Lyra, Tolarian Archangel": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Medic's Kitesail": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Mind Meanderer": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pia, Determined Rebuilder": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Rescue Girl, First Responder": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ruric Thar, Biomagus": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Saheeli, Consul of Oversight": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Saheeli, Jewel of Avishkar": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Screeching Soulbreaker": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Shatterwing Pegasus": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sphinx of False Conclusions": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Sureshot Sower": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Surveillance Phantasm": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Theorix Metamage (Theorix Metamage // Omit Variables)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Traxos, Academy Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Uldaros Theorix": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Undulating Witness": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Variable Chaser (Variable Chaser // Arc of Fortune)": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Whiplash Wordsmith (Whiplash Wordsmith // Vicious Verse)": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

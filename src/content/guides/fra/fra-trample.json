@@ -1,0 +1,114 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Ajani's Anguish": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Arni, Renowned Champion": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Bestial Incursion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bloombrute": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Craftwork Crusher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Craterclaw Colossus": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Curse-Marred Demon": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Frostbite Pyromental": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Garruk, Curse Breaker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Garruk, Veiled Butcher": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ghalta the Unstoppable": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Heartstring Puller": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hungering Puppetbeast": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hunter's Axe": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Karn, Gilded Guardian": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Konstrari Charm": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ruric Thar, Magecrusher": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Traxos, Scourge Eternal": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Way of the Deathbringer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Way of the Wildspeaker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Wrecking Gecko": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}
