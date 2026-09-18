@@ -5,6 +5,7 @@
     "conditional": "Conditional"
   },
   "cards": {
+    "Austere Command": { "categories": ["conditional"] },
     "Damnation": {}
   }
 }

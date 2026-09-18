@@ -36,11 +36,11 @@
     "tomik": "Tomik",
     "traxos": "Traxos",
     "vraska": "Vraska",
-    "way-mentor": "Way of the Mentor",
-    "way-mind-sculptor": "Way of the Mind Sculptor",
-    "way-necromancer": "Way of the Necromancer",
-    "way-pyromancer": "Way of the Pyromancer",
-    "way-wildspeaker": "Way of the Wildspeaker",
+    "way-ajani": "Ajani: Way of",
+    "way-chandra": "Chandra: Way of",
+    "way-garruk": "Garruk: Way of",
+    "way-jace": "Jace / Tam: Way of",
+    "way-liliana": "Liliana: Way of",
     "winter": "Winter",
     "yargle": "Yargle",
     "yoshimaru": "Yoshimaru",
@@ -252,34 +252,34 @@
       "categories": ["vraska"]
     },
     "Way of the Cryomancer": {
-      "categories": ["way-mind-sculptor"]
+      "categories": ["way-chandra"]
     },
     "Way of the Deathbringer": {
-      "categories": ["way-necromancer"]
+      "categories": ["way-garruk"]
     },
     "Way of the Healer": {
-      "categories": ["way-mentor"]
+      "categories": ["way-liliana"]
     },
     "Way of the Mentor": {
-      "categories": ["way-mentor"]
+      "categories": ["way-ajani"]
     },
     "Way of the Mind Sculptor": {
-      "categories": ["way-mind-sculptor"]
+      "categories": ["way-jace"]
     },
     "Way of the Necromancer": {
-      "categories": ["way-necromancer"]
+      "categories": ["way-liliana"]
     },
     "Way of the Paradox": {
-      "categories": ["way-wildspeaker"]
+      "categories": ["way-jace"]
     },
     "Way of the Pyromancer": {
-      "categories": ["way-pyromancer"]
+      "categories": ["way-chandra"]
     },
     "Way of the Warlord": {
-      "categories": ["way-pyromancer"]
+      "categories": ["way-ajani"]
     },
     "Way of the Wildspeaker": {
-      "categories": ["way-wildspeaker"]
+      "categories": ["way-garruk"]
     },
     "Winter, Team Player": {
       "categories": ["winter"]

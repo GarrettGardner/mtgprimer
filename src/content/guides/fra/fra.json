@@ -2,6 +2,7 @@
   "code": "fra",
   "formatName": "Reality Fracture",
   "name": "Full Card Gallery",
+  "includeFormats": [{ "code": "spg", "min": 159, "max": 168 }],
   "defaultGrouping": "none",
   "defaultOrdering": "number",
   "categories": {

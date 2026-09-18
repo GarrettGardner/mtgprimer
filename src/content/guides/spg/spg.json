@@ -853,6 +853,66 @@
       "cost": [],
       "rarity": "m",
       "categories": ["land"]
+    },
+    "Eye of Ugin": {
+      "number": "159",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Austere Command": {
+      "number": "160",
+      "cost": ["4", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Flesh Duplicate": {
+      "number": "161",
+      "cost": ["u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Consign to Memory": {
+      "number": "162",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Sublime Epiphany": {
+      "number": "163",
+      "cost": ["4", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Consider": {
+      "number": "164",
+      "cost": ["u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Necrodominance": {
+      "number": "165",
+      "cost": ["b", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Mind Twist": {
+      "number": "166",
+      "cost": ["x", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Splinter Twin": {
+      "number": "167",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Root Maze": {
+      "number": "168",
+      "cost": ["g"],
+      "rarity": "m",
+      "categories": ["spell"]
     }
   }
 }

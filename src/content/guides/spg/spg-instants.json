@@ -17,6 +17,9 @@
     "Condemn": {
       "categories": ["board"]
     },
+    "Consider": {
+      "categories": ["other"]
+    },
     "Darkness": {
       "categories": ["board"]
     },
@@ -72,6 +75,9 @@
     },
     "Solitude": {
       "categories": ["board"]
+    },
+    "Sublime Epiphany": {
+      "categories": ["board", "counterspell"]
     },
     "Subtlety": {
       "categories": ["board"]
