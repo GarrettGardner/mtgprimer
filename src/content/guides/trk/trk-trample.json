@@ -1,0 +1,59 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Captain Michael Burnham": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Dathon and Picard at El-Adrel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dominion Supervisor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gowron, Eager for Battle": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Horta": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Khan, Despot by Design": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Kira Nerys, Firebrand": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Munitions Enthusiast": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Phlox, Unorthodox Doctor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Syndicate Liquidators": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

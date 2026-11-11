@@ -1,0 +1,24 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Kenrith, the Returned King": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sheoldred, the Apocalypse": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tatyova, Benthic Druid": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

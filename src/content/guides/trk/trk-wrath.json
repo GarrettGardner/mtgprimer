@@ -1,0 +1,11 @@
+{
+  "name": "Wrath",
+  "categories": {
+    "default": "",
+    "conditional": "Conditional"
+  },
+  "cards": {
+    "Crystalline Entity": {},
+    "Encounter the Unknown": {}
+  }
+}

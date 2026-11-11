@@ -1,0 +1,1851 @@
+{
+  "code": "trk",
+  "formatName": "Star Trek",
+  "name": "Full Card Gallery",
+  "includeFormats": [{ "code": "sds" }],
+  "defaultGrouping": "none",
+  "defaultOrdering": "number",
+  "categories": {
+    "creature": "Creature",
+    "spell": "Spell",
+    "land": "Land"
+  },
+  "cards": {
+    "70,000 Light-Years from Home": {
+      "number": "1",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Andromedan Automatons": {
+      "number": "2",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Antagonist Incorporator": {
+      "number": "3",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Assembly Specialist": {
+      "number": "4",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Brad Boimler, Eager Ensign": {
+      "number": "5",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Captain Benjamin Sisko": {
+      "number": "6",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Captain Jean-Luc Picard": {
+      "number": "7",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Command Decision": {
+      "number": "8",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Command Subadjunct": {
+      "number": "9",
+      "cost": ["w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Conquest Mission": {
+      "number": "10",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Deanna Troi, Psychic Counsel": {
+      "number": "11",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "DOT-7 Repair Squad": {
+      "number": "12",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dr. Beverly Crusher": {
+      "number": "13",
+      "cost": ["2", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dr. McCoy, Surly Surgeon": {
+      "number": "14",
+      "cost": ["2", "w", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Emergency Medical Hologram": {
+      "number": "15",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Excalbian Gamemaster": {
+      "number": "16",
+      "cost": ["5", "w"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Federation Field Medic": {
+      "number": "17",
+      "cost": ["3", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Federation Resupply": {
+      "number": "18",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Free Borg Revolutionaries": {
+      "number": "19",
+      "cost": ["3", "w", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Ghost of Illyria": {
+      "number": "20",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hologram Janeway": {
+      "number": "21",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Malfunctioning Holodeck": {
+      "number": "22",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "The Measure of a Man": {
+      "number": "23",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Miles O'Brien, Transporter Ops": {
+      "number": "24",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Needs of the Many": {
+      "number": "25",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Oberth-Class Starship": {
+      "number": "26",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Peace in Our Time": {
+      "number": "27",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Pet Sehlat": {
+      "number": "28",
+      "cost": ["2", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Picard, Leading by Example": {
+      "number": "29",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Primary Unimatrix Adjunct": {
+      "number": "30",
+      "cost": ["3", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pure Energy": {
+      "number": "31",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Rutherford, Upgraded Ensign": {
+      "number": "32",
+      "cost": ["2", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Saavik, Stoic Student": {
+      "number": "33",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Set Phasers to . . .": {
+      "number": "34",
+      "cost": ["w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shields Up!": {
+      "number": "35",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Shuttle Ace": {
+      "number": "36",
+      "cost": ["4", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Sulu, Space Swashbuckler": {
+      "number": "37",
+      "cost": ["1", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Tactical Officer": {
+      "number": "38",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Test of Conviction": {
+      "number": "39",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "There's Coffee in that Nebula": {
+      "number": "40",
+      "cost": ["1", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Troubling Tribbles": {
+      "number": "41",
+      "cost": ["2", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Una Chin-Riley, Number One": {
+      "number": "42",
+      "cost": ["4", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "U.S.S. Enterprise-A, Free Spirit": {
+      "number": "43",
+      "cost": ["3", "w", "w"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "U.S.S. Excelsior, Cutting Edge": {
+      "number": "44",
+      "cost": ["3", "w"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Vexing Drone": {
+      "number": "45",
+      "cost": ["1", "w"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Anthropological Mission": {
+      "number": "46",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "The Caretaker": {
+      "number": "47",
+      "cost": ["5", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cetacean Ops": {
+      "number": "48",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Cloak and Phaser": {
+      "number": "49",
+      "cost": ["8", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Cloistered Telepath": {
+      "number": "50",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Consider the Prime Directive": {
+      "number": "51",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Data, New Life": {
+      "number": "52",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Deep Space Scan": {
+      "number": "53",
+      "cost": ["4", "u", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dominion Saboteur": {
+      "number": "54",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Emergency Holographic Crew": {
+      "number": "55",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Energize": {
+      "number": "56",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Ensign Pavel Chekov": {
+      "number": "57",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Enterprise NX-01": {
+      "number": "58",
+      "cost": ["3", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Federation Probe": {
+      "number": "59",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Guidance Failure": {
+      "number": "60",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Gwyndala, the Progeny": {
+      "number": "61",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Highly Illogical": {
+      "number": "62",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "H.M.S. Bounty, Unlikely Timeship": {
+      "number": "63",
+      "cost": ["4", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Hoshi Sato, Exolinguist": {
+      "number": "64",
+      "cost": ["4", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Humpback Whales": {
+      "number": "65",
+      "cost": ["4", "u", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Interstellar Effigy": {
+      "number": "66",
+      "cost": ["4", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Jett Reno, Problem Solver": {
+      "number": "67",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Kobayashi Maru Scenario": {
+      "number": "68",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Lieutenant Commander Data": {
+      "number": "69",
+      "cost": ["2", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Lt. Cmdr. Geordi La Forge": {
+      "number": "70",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Make It So": {
+      "number": "71",
+      "cost": ["3", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Marooned": {
+      "number": "72",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Melkotian Adjudicator": {
+      "number": "73",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mr. Spock, Science Officer": {
+      "number": "74",
+      "cost": ["2", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Nyota Uhura, Communications": {
+      "number": "75",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Open Communications": {
+      "number": "76",
+      "cost": ["u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Romulan Bird-of-Prey": {
+      "number": "77",
+      "cost": ["1", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Rules of Acquisition": {
+      "number": "78",
+      "cost": ["3", "u", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Scotty, Miracle Worker": {
+      "number": "79",
+      "cost": ["1", "u", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Seven of Nine, Unassimilated": {
+      "number": "80",
+      "cost": ["1", "u"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Starfleet Spanner Jockey": {
+      "number": "81",
+      "cost": ["1", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Subcommander T'Pol": {
+      "number": "82",
+      "cost": ["2", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Suurok-Class Science Vessel": {
+      "number": "83",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Suus Mahna Practitioner": {
+      "number": "84",
+      "cost": ["2", "u"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Test of Priorities": {
+      "number": "85",
+      "cost": ["1", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Those Old Scientists": {
+      "number": "86",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "V'Ger, the Intruder": {
+      "number": "87",
+      "cost": ["6", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vulcan Mind-Meld": {
+      "number": "88",
+      "cost": ["u"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Wesley Crusher, Starfleet Cadet": {
+      "number": "89",
+      "cost": ["2", "u", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Zefram Cochrane, Warp Pioneer": {
+      "number": "90",
+      "cost": ["2", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Armus, Skin of Evil": {
+      "number": "91",
+      "cost": ["5", "b", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Assault Drone": {
+      "number": "92",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Automated Warfare System": {
+      "number": "93",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Bat'leth": {
+      "number": "94",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Battle-Scarred Survivalist": {
+      "number": "95",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Blastoneuron": {
+      "number": "96",
+      "cost": ["3", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Cha'DIch Investigator": {
+      "number": "97",
+      "cost": ["4", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Collation Trimatrix": {
+      "number": "98",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Collective Drone": {
+      "number": "99",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Commander Raffi Musiker": {
+      "number": "100",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "D'Ghor Bloodletter": {
+      "number": "101",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Death Is Irrelevant": {
+      "number": "102",
+      "cost": ["6", "b", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "The Destruction of Praxis": {
+      "number": "103",
+      "cost": ["3", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "De-evolve": {
+      "number": "104",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Eject the Warp Core": {
+      "number": "105",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Elim Garak, Simple Tailor": {
+      "number": "106",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Fugitive Listener": {
+      "number": "107",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Gabriel Lorca, Mirror Menace": {
+      "number": "108",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "General Chang, Cold Warrior": {
+      "number": "109",
+      "cost": ["b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Georgiou, Terran Emperor": {
+      "number": "110",
+      "cost": ["4", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "A Good Day to Die": {
+      "number": "111",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Grand Nagus Zek": {
+      "number": "112",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gul Dukat, Colonial Prefect": {
+      "number": "113",
+      "cost": ["4", "b", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "He's Dead, Jim": {
+      "number": "114",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Hive Mind Coprocessor": {
+      "number": "115",
+      "cost": ["4", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Impossible Choice": {
+      "number": "116",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "In the Pale Moonlight": {
+      "number": "117",
+      "cost": ["3", "b", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Kai Winn, Faithless Leader": {
+      "number": "118",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Khan, Vengeful Heart": {
+      "number": "119",
+      "cost": ["2", "b", "b"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Obsidian Order Operative": {
+      "number": "120",
+      "cost": ["3", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Organic Avulsion Unit": {
+      "number": "121",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Overflow Submatrix": {
+      "number": "122",
+      "cost": ["2", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Pattern Buffer Preservation": {
+      "number": "123",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Relentless Drednok": {
+      "number": "124",
+      "cost": ["b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Resistance Is Futile": {
+      "number": "125",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Rogue Artificial Intelligence": {
+      "number": "126",
+      "cost": ["4", "b", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Salt Vampire": {
+      "number": "127",
+      "cost": ["1", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Sela, Tal Shiar Paradox": {
+      "number": "128",
+      "cost": ["3", "b"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Storied Veteran": {
+      "number": "129",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stray from History": {
+      "number": "130",
+      "cost": ["2", "b"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tal Shiar Operative": {
+      "number": "131",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tell Me What You See": {
+      "number": "132",
+      "cost": ["1", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tenacious Drone": {
+      "number": "133",
+      "cost": ["1", "b"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Test of Loyalty": {
+      "number": "134",
+      "cost": ["b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "U.S.S. Reliant, From Hell's Heart": {
+      "number": "135",
+      "cost": ["2", "b", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Vengeance Mission": {
+      "number": "136",
+      "cost": ["2", "b"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Academy Instructor": {
+      "number": "137",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Beckett Mariner, Impetuous Ensign": {
+      "number": "138",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Boarding Action": {
+      "number": "139",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Brazen Bluff": {
+      "number": "140",
+      "cost": ["r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cantankerous Captain": {
+      "number": "141",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Captain James T. Kirk": {
+      "number": "142",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Captain Michael Burnham": {
+      "number": "143",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Captain's Tutelage": {
+      "number": "144",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "D-7 Battle Cruiser": {
+      "number": "145",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Dahar Master": {
+      "number": "146",
+      "cost": ["3", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dominion Infiltration": {
+      "number": "147",
+      "cost": ["x", "r", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Encounter the Unknown": {
+      "number": "148",
+      "cost": ["1", "r", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Erica Ortegas, Plucky Pilot": {
+      "number": "149",
+      "cost": ["3", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Exploratory Mission": {
+      "number": "150",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Genesis Effect": {
+      "number": "151",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Horta": {
+      "number": "152",
+      "cost": ["4", "r", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Infinite Diversity": {
+      "number": "153",
+      "cost": ["7", "r", "r"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Khaaaaaaaaaaaannn!": {
+      "number": "154",
+      "cost": ["x", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Khan, Despot by Design": {
+      "number": "155",
+      "cost": ["4", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "La'An Noonien-Singh, Security": {
+      "number": "156",
+      "cost": ["2", "r", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lwaxana Troi, Charming Guest": {
+      "number": "157",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Munitions Enthusiast": {
+      "number": "158",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Naked Time": {
+      "number": "159",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Pah-Wraith": {
+      "number": "160",
+      "cost": ["5", "r", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Perils of the Past": {
+      "number": "161",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Planetary Bombardment": {
+      "number": "162",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Planetary Patrol": {
+      "number": "163",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Plasma Cascade": {
+      "number": "164",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Q, Stacking the Deck": {
+      "number": "165",
+      "cost": ["2", "r", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Quark, Humble Proprietor": {
+      "number": "166",
+      "cost": ["2", "r"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Ravenous Cosmozoan": {
+      "number": "167",
+      "cost": ["5", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Reckless Impulse": {
+      "number": "168",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Red Alert!": {
+      "number": "169",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sarcophagus, Ship of the Dead": {
+      "number": "170",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Savvy Profiteer": {
+      "number": "171",
+      "cost": ["1", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Silicate Surveyor": {
+      "number": "172",
+      "cost": ["4", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Starfleet Security": {
+      "number": "173",
+      "cost": ["r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Tal Shiar Analyst": {
+      "number": "174",
+      "cost": ["2", "r"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Targ Wrangler": {
+      "number": "175",
+      "cost": ["2", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Tasha Yar, Out of Time": {
+      "number": "176",
+      "cost": ["1", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Test of Identity": {
+      "number": "177",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Transporter Malfunction": {
+      "number": "178",
+      "cost": ["1", "r"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Will Riker, First in the Field": {
+      "number": "179",
+      "cost": ["3", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Worf, Intelligence Contractor": {
+      "number": "180",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Wrath of Khan": {
+      "number": "181",
+      "cost": ["2", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Adversary by Algorithm": {
+      "number": "182",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Amok Time": {
+      "number": "183",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Astute Terraformer": {
+      "number": "184",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Branching Timeline": {
+      "number": "185",
+      "cost": ["6", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Captain Jonathan Archer": {
+      "number": "186",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Captain Kathryn Janeway": {
+      "number": "187",
+      "cost": ["3", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Captain Pike, Fullness of Time": {
+      "number": "188",
+      "cost": ["1", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Cold-Blooded Crew": {
+      "number": "189",
+      "cost": ["4", "g", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Common Goal": {
+      "number": "190",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Culber and Stamets, Star-Crossed": {
+      "number": "191",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dathon and Picard at El-Adrel": {
+      "number": "192",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "David and Carol Marcus, Creators": {
+      "number": "193",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dominion Assault Force": {
+      "number": "194",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dominion Supervisor": {
+      "number": "195",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Dr. Joseph M'Benga": {
+      "number": "196",
+      "cost": ["2", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Dr. Leonard \"Bones\" McCoy": {
+      "number": "197",
+      "cost": ["1", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Final Frontier": {
+      "number": "198",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "First Contact": {
+      "number": "199",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Genesis Device": {
+      "number": "200",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Holo-Engineer": {
+      "number": "201",
+      "cost": ["2", "g", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Hologram Stalker": {
+      "number": "202",
+      "cost": ["4", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "I'm a Doctor, Not a . . .": {
+      "number": "203",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Jadzia Dax, Living Legacy": {
+      "number": "204",
+      "cost": ["1", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Jake Sisko, War Correspondent": {
+      "number": "205",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "MACO Strike Team": {
+      "number": "206",
+      "cost": ["g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Moopsy": {
+      "number": "207",
+      "cost": ["g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Mugato": {
+      "number": "208",
+      "cost": ["3", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Neelix, Moral Support": {
+      "number": "209",
+      "cost": ["1", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Photosynthetic Physician": {
+      "number": "210",
+      "cost": ["4", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Rok-Tahk, Budding Scientist": {
+      "number": "211",
+      "cost": ["4", "g", "g"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Saru, Unthreatened": {
+      "number": "212",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Saurian Explorer": {
+      "number": "213",
+      "cost": ["3", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Species 8472": {
+      "number": "214",
+      "cost": ["4", "g", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Stable Wormhole": {
+      "number": "215",
+      "cost": ["2", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Support Mission": {
+      "number": "216",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Sylvia Tilly, Joy of Discovery": {
+      "number": "217",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Syndicate Liquidators": {
+      "number": "218",
+      "cost": ["4", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Temporal Conqueror": {
+      "number": "219",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Test of Courage": {
+      "number": "220",
+      "cost": ["g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "U.S.S. Discovery, at Black Alert": {
+      "number": "221",
+      "cost": ["3", "g", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "U.S.S. Voyager, Lone Wanderer": {
+      "number": "222",
+      "cost": ["3", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Warp Speed": {
+      "number": "223",
+      "cost": ["2", "g"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Xenobotanist": {
+      "number": "224",
+      "cost": ["1", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Xindi Surveyors": {
+      "number": "225",
+      "cost": ["2", "g"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "All Good Things...": {
+      "number": "226",
+      "cost": ["3", "g", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Borg Cube": {
+      "number": "227",
+      "cost": ["5", "w", "b"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "The City on the Edge of Forever": {
+      "number": "228",
+      "cost": ["3", "w", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Cleveland Booker, Empath": {
+      "number": "229",
+      "cost": ["2", "rg", "rg"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Constable Odo": {
+      "number": "230",
+      "cost": ["3", "wu", "wu"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dal R'El, Augment Orphan": {
+      "number": "231",
+      "cost": ["1", "r", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Daniels, Temporal Agent": {
+      "number": "232",
+      "cost": ["2", "bg", "bg"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Dathon, His Heart Open": {
+      "number": "233",
+      "cost": ["g", "u", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "The Doctor, EMH": {
+      "number": "234",
+      "cost": ["3", "gw", "gw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Duras Sisters": {
+      "number": "235",
+      "cost": ["br", "br"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "D'Vana Tendi, Optimistic Ensign": {
+      "number": "236",
+      "cost": ["1", "gu", "gu"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Gowron, Eager for Battle": {
+      "number": "237",
+      "cost": ["2", "b", "r"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Gray and Adira, Forever Joined": {
+      "number": "238",
+      "cost": ["2", "ur", "ur"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hemmer, Fixing What Is Broken": {
+      "number": "239",
+      "cost": ["w", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Hit It!": {
+      "number": "240",
+      "cost": ["1", "r", "g"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Inner Light": {
+      "number": "241",
+      "cost": ["3", "g", "w"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Kira Nerys, Firebrand": {
+      "number": "242",
+      "cost": ["1", "r", "w"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Kirk, Commanding Officer": {
+      "number": "243",
+      "cost": ["1", "r", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Live Long and Prosper": {
+      "number": "244",
+      "cost": ["5", "w", "u"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Locutus, the One Who Speaks": {
+      "number": "245",
+      "cost": ["w", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Lore, Positronic Provocateur": {
+      "number": "246",
+      "cost": ["1", "ub", "ub"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "L'Rell, Fierce Visionary": {
+      "number": "247",
+      "cost": ["1", "b", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Mirror Universe Intrusion": {
+      "number": "248",
+      "cost": ["1", "u", "b"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Nog, Ambitious Cadet": {
+      "number": "249",
+      "cost": ["b", "g"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Phlox, Unorthodox Doctor": {
+      "number": "250",
+      "cost": ["2", "g", "w"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Sarek, Federation Ambassador": {
+      "number": "251",
+      "cost": ["1", "g", "w", "u"],
+      "rarity": "r",
+      "categories": ["creature"]
+    },
+    "Seven of Nine": {
+      "number": "252",
+      "cost": ["2", "u", "b"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Spock, Always Your Friend": {
+      "number": "253",
+      "cost": ["u", "r"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "The Traveler": {
+      "number": "254",
+      "cost": ["g", "u"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Vash, Freelance Archaeologist": {
+      "number": "255",
+      "cost": ["1", "b", "g"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Worf, Honor-Bound Warrior": {
+      "number": "256",
+      "cost": ["rw", "rw"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Year of Hell": {
+      "number": "257",
+      "cost": ["1", "u", "r"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Zero, Incorporeal Sensate": {
+      "number": "258",
+      "cost": ["1", "wb", "wb"],
+      "rarity": "u",
+      "categories": ["creature"]
+    },
+    "Class-F Shuttlecraft": {
+      "number": "259",
+      "cost": ["3"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Combadge": {
+      "number": "260",
+      "cost": ["3"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Crystalline Entity": {
+      "number": "261",
+      "cost": ["8"],
+      "rarity": "m",
+      "categories": ["creature"]
+    },
+    "Cybernetic Specialist": {
+      "number": "262",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["creature"]
+    },
+    "Deep Space 9": {
+      "number": "263",
+      "cost": ["9"],
+      "rarity": "m",
+      "categories": ["spell"]
+    },
+    "Engineered Explosives": {
+      "number": "264",
+      "cost": ["x"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "The Holodeck": {
+      "number": "265",
+      "cost": ["7"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Isolinear Processor": {
+      "number": "266",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Replicator": {
+      "number": "267",
+      "cost": ["2"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Sickbay": {
+      "number": "268",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "Tea, Earl Grey, Hot": {
+      "number": "269",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Tricorder": {
+      "number": "270",
+      "cost": ["1"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Type-2 Phaser": {
+      "number": "271",
+      "cost": ["2"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "U.S.S. Cerritos, Following Up": {
+      "number": "272",
+      "cost": ["5"],
+      "rarity": "u",
+      "categories": ["spell"]
+    },
+    "U.S.S. Enterprise-D, Galaxy-Class": {
+      "number": "273",
+      "cost": ["3"],
+      "rarity": "r",
+      "categories": ["spell"]
+    },
+    "Warp Core": {
+      "number": "274",
+      "cost": ["2"],
+      "rarity": "c",
+      "categories": ["spell"]
+    },
+    "Andoria": {
+      "number": "275",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Artificial Anomaly": {
+      "number": "276",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Bajor": {
+      "number": "277",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Blood Crypt": {
+      "number": "278",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Breeding Pool": {
+      "number": "279",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Cardassia Prime": {
+      "number": "280",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Earth, Sector 001": {
+      "number": "281",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Federation Outpost": {
+      "number": "282",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Ferenginar": {
+      "number": "283",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Gaseous Anomaly": {
+      "number": "284",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Godless Shrine": {
+      "number": "285",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Hallowed Fountain": {
+      "number": "286",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Ni'Var Science Academy": {
+      "number": "287",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Orion": {
+      "number": "288",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Overgrown Tomb": {
+      "number": "289",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Q Continuum": {
+      "number": "290",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Qo'noS": {
+      "number": "291",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Quark's Bar": {
+      "number": "292",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Risa": {
+      "number": "293",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Romulus": {
+      "number": "294",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Sacred Foundry": {
+      "number": "295",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Spatial Anomaly": {
+      "number": "296",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Starfleet Academy": {
+      "number": "297",
+      "cost": [],
+      "rarity": "m",
+      "categories": ["land"]
+    },
+    "Steam Vents": {
+      "number": "298",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Stomping Ground": {
+      "number": "299",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Subspace Anomaly": {
+      "number": "300",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Temple Garden": {
+      "number": "301",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Temporal Anomaly": {
+      "number": "302",
+      "cost": [],
+      "rarity": "u",
+      "categories": ["land"]
+    },
+    "Unexplored Territory": {
+      "number": "303",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "The Unicomplex": {
+      "number": "304",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    },
+    "Vulcan": {
+      "number": "305",
+      "cost": [],
+      "rarity": "c",
+      "categories": ["land"]
+    },
+    "Watery Grave": {
+      "number": "306",
+      "cost": [],
+      "rarity": "r",
+      "categories": ["land"]
+    }
+  }
+}

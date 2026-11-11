@@ -25,6 +25,29 @@ export const PAGES_CONFIG: TPageConfig = {
       backgroundCaption: "Jeff Miracola",
     },
     {
+      slug: "star-trek",
+      template: "info",
+      preset: "info",
+      formatCode: "trk",
+      releaseDate: "November 13, 2026",
+      backgroundImage: "trc-kirk-enterprising-captain-nathaniel-himawan.webp",
+      backgroundCaption: "Nathaniel Himawan",
+      pages: [
+        {
+          slug: "instants",
+          template: "guide",
+          preset: "guide-instants",
+          guide: "instants",
+        },
+        {
+          slug: "gallery",
+          template: "guide",
+          preset: "guide-gallery",
+          guide: "gallery",
+        },
+      ],
+    },
+    {
       slug: "reality-fracture",
       template: "info",
       preset: "info",

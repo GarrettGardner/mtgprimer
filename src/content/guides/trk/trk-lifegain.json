@@ -1,0 +1,219 @@
+{
+  "name": "Lifegain",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "All Good Things...": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Amok Time": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Andoria": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Artificial Anomaly": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Bajor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Blastoneuron": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Brad Boimler, Eager Ensign": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cardassia Prime": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Commander Raffi Musiker": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Daniels, Temporal Agent": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dr. Beverly Crusher": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Earth, Sector 001": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Elim Garak, Simple Tailor": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Emergency Medical Hologram": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Federation Outpost": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ferenginar": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "First Contact": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Gowron, Eager for Battle": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Gul Dukat, Colonial Prefect": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Jake Sisko, War Correspondent": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Locutus, the One Who Speaks": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Neelix, Moral Support": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Obsidian Order Operative": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Orion": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Qo'noS": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Relentless Drednok": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Replicator": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Risa": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Rogue Artificial Intelligence": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Romulus": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Salt Vampire": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shuttle Ace": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sickbay": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Species 8472": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Tea, Earl Grey, Hot": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Test of Courage": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The City on the Edge of Forever": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Inner Light": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Measure of a Man": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Enterprise-A, Free Spirit": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Vulcan": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Zero, Incorporeal Sensate": {
+      "categories": [
+        "granted"
+      ]
+    }
+  }
+}

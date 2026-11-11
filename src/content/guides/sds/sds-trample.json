@@ -1,0 +1,19 @@
+{
+  "name": "Trample",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Kenrith, the Returned King": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Riku of Many Paths": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

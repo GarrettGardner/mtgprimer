@@ -1,0 +1,14 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Kenrith, the Returned King": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

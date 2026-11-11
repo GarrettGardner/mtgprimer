@@ -1,0 +1,99 @@
+{
+  "name": "Haste",
+  "cards": {
+    "Blastoneuron": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Boarding Action": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Cha'DIch Investigator": {
+      "categories": [
+        "default"
+      ]
+    },
+    "D-7 Battle Cruiser": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Dominion Infiltration": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Erica Ortegas, Plucky Pilot": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Gray and Adira, Forever Joined": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Hit It!": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "L'Rell, Fierce Visionary": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Pah-Wraith": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ravenous Cosmozoan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Starfleet Security": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Tasha Yar, Out of Time": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Destruction of Praxis": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Duras Sisters": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Naked Time": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "The Wrath of Khan": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Worf, Intelligence Contractor": {
+      "categories": [
+        "default"
+      ]
+    }
+  },
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  }
+}

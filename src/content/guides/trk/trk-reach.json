@@ -1,0 +1,34 @@
+{
+  "name": "Reach",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Moopsy": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Mugato": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Photosynthetic Physician": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Silicate Surveyor": {
+      "categories": [
+        "default"
+      ]
+    },
+    "The Traveler": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

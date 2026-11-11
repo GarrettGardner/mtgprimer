@@ -1,0 +1,144 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Automated Warfare System": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Blastoneuron": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Borg Cube": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Class-F Shuttlecraft": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Crystalline Entity": {
+      "categories": [
+        "default"
+      ]
+    },
+    "D-7 Battle Cruiser": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "DOT-7 Repair Squad": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Enterprise NX-01": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Federation Probe": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ghost of Illyria": {
+      "categories": [
+        "default"
+      ]
+    },
+    "H.M.S. Bounty, Unlikely Timeship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Melkotian Adjudicator": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Ni'Var Science Academy": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Oberth-Class Starship": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Ravenous Cosmozoan": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Romulan Bird-of-Prey": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Sarcophagus, Ship of the Dead": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "Shuttle Ace": {
+      "categories": [
+        "default"
+      ]
+    },
+    "Suurok-Class Science Vessel": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Cerritos, Following Up": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Discovery, at Black Alert": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Enterprise-A, Free Spirit": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Enterprise-D, Galaxy-Class": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Excelsior, Cutting Edge": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Reliant, From Hell's Heart": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "U.S.S. Voyager, Lone Wanderer": {
+      "categories": [
+        "granted"
+      ]
+    },
+    "V'Ger, the Intruder": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

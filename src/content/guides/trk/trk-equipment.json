@@ -1,0 +1,28 @@
+{
+  "name": "Equipment",
+  "categories": {
+    "default": "",
+    "synergy": "Synergy"
+  },
+  "cards": {
+    "Bat'leth": {},
+    "Combadge": {},
+    "Federation Resupply": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Gwyndala, the Progeny": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Sulu, Space Swashbuckler": {
+      "categories": [
+        "synergy"
+      ]
+    },
+    "Tricorder": {},
+    "Type-2 Phaser": {}
+  }
+}

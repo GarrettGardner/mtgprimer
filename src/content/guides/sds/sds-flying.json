@@ -1,0 +1,14 @@
+{
+  "name": "Flying",
+  "categories": {
+    "default": "",
+    "granted": "Granted"
+  },
+  "cards": {
+    "Riku of Many Paths": {
+      "categories": [
+        "default"
+      ]
+    }
+  }
+}

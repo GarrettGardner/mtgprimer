@@ -1,0 +1,104 @@
+{
+  "name": "Instants",
+  "defaultGrouping": "mv",
+  "defaultOrdering": "rarity",
+  "categories": {
+    "board": "Board",
+    "counterspell": "Counterspell",
+    "other": "Other"
+  },
+  "cards": {
+    "A Good Day to Die": {
+      "categories": ["board"]
+    },
+    "Brazen Bluff": {
+      "categories": ["counterspell"]
+    },
+    "Captain's Tutelage": {
+      "categories": ["board"]
+    },
+    "Cloistered Telepath": {
+      "categories": ["board"]
+    },
+    "Consider the Prime Directive": {
+      "categories": ["board", "counterspell"]
+    },
+    "Dathon and Picard at El-Adrel": {
+      "categories": ["board"]
+    },
+    "Dr. Leonard \"Bones\" McCoy": {
+      "categories": ["board"]
+    },
+    "Eject the Warp Core": {
+      "categories": ["board"]
+    },
+    "Encounter the Unknown": {
+      "categories": ["board"]
+    },
+    "First Contact": {
+      "categories": ["other"]
+    },
+    "Genesis Effect": {
+      "categories": ["board"]
+    },
+    "Guidance Failure": {
+      "categories": ["board"],
+      "cost": ["2", "u"]
+    },
+    "He's Dead, Jim": {
+      "categories": ["board"]
+    },
+    "Highly Illogical": {
+      "categories": ["counterspell"]
+    },
+    "I'm a Doctor, Not a . . .": {
+      "categories": ["board"]
+    },
+    "Impossible Choice": {
+      "categories": ["board"]
+    },
+    "Khaaaaaaaaaaaannn!": {
+      "categories": ["board"]
+    },
+    "Perils of the Past": {
+      "categories": ["board"]
+    },
+    "Plasma Cascade": {
+      "categories": ["board"]
+    },
+    "Red Alert!": {
+      "categories": ["board"],
+      "cost": ["r"]
+    },
+    "Saavik, Stoic Student": {
+      "categories": ["board"]
+    },
+    "Saru, Unthreatened": {
+      "categories": ["board"]
+    },
+    "Set Phasers to . . .": {
+      "categories": ["board"]
+    },
+    "Shields Up!": {
+      "categories": ["board"]
+    },
+    "Subcommander T'Pol": {
+      "categories": ["counterspell", "board"]
+    },
+    "Test of Courage": {
+      "categories": ["board"]
+    },
+    "Test of Identity": {
+      "categories": ["board"]
+    },
+    "Test of Priorities": {
+      "categories": ["board"]
+    },
+    "The Needs of the Many": {
+      "categories": ["board"]
+    },
+    "Wesley Crusher, Starfleet Cadet": {
+      "categories": ["counterspell", "board"]
+    }
+  }
+}
